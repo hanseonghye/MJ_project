@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 182.0, 
+      "color-blue": 186.0, 
+      "pixel": 0.11550387740135193, 
+      "color-red": 223.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 152.0, 
+      "pixel": 0.08147286623716354, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 144.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.05286821722984314, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.04209302365779877, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.039922479540109634, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.046046510338783264, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 179.0, 
+      "color-blue": 169.0, 
+      "pixel": 0.02240310050547123, 
+      "color-red": 224.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.24806201457977295, 
+      "color-red": 202.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.02356589213013649, 
+      "color-red": 206.0
+    }, 
+    {
+      "color-green": 135.0, 
+      "color-blue": 138.0, 
+      "pixel": 0.010465116240084171, 
+      "color-red": 221.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "moonlight drawn by clouds flowers"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7020000219345093, 
+      "description": "Flower"
+    }, 
+    {
+      "score": 0.6933844685554504, 
+      "description": "\uad6c\ub9ac\ud55c\uac15\uacf5\uc6d0"
+    }, 
+    {
+      "score": 0.5936999917030334, 
+      "description": "2018 Flower Festival"
+    }, 
+    {
+      "score": 0.5314000248908997, 
+      "description": "Poinsettia"
+    }, 
+    {
+      "score": 0.5108000040054321, 
+      "description": "Autumn"
+    }, 
+    {
+      "score": 0.48350000381469727, 
+      "description": "Drawing"
+    }, 
+    {
+      "score": 0.459199994802475, 
+      "description": "Cosmos"
+    }, 
+    {
+      "score": 0.4578000009059906, 
+      "description": "Image"
+    }, 
+    {
+      "score": 0.41370001435279846, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3698999881744385, 
+      "description": "Floral emblem"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9879485964775085, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9602062106132507, 
+      "description": "pink"
+    }, 
+    {
+      "score": 0.9264182448387146, 
+      "description": "flowering plant"
+    }, 
+    {
+      "score": 0.9198369979858398, 
+      "description": "wildflower"
+    }, 
+    {
+      "score": 0.9179269075393677, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9014524817466736, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.8611850142478943, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.85878586769104, 
+      "description": "garden cosmos"
+    }, 
+    {
+      "score": 0.789702296257019, 
+      "description": "blossom"
+    }, 
+    {
+      "score": 0.7550790905952454, 
+      "description": "flora"
+    }
+  ]
+}

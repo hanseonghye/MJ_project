@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 49.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.11355555802583694, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.03133333474397659, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 17.0, 
+      "color-blue": 13.0, 
+      "pixel": 0.05277777835726738, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.09111110866069794, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.05977777764201164, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.041555557399988174, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.027222221717238426, 
+      "color-red": 172.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.01988888904452324, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.058444444090127945, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 29.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.03177777677774429, 
+      "color-red": 36.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Yu Garden"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5628966093063354, 
+      "description": "Yu Garden"
+    }, 
+    {
+      "score": 0.7064999938011169, 
+      "description": "Garden"
+    }, 
+    {
+      "score": 0.6600000262260437, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.6340000033378601, 
+      "description": ""
+    }, 
+    {
+      "score": 0.618255078792572, 
+      "description": "Yuyang District"
+    }, 
+    {
+      "score": 0.5928000211715698, 
+      "description": "Desktop Wallpaper"
+    }, 
+    {
+      "score": 0.5805850028991699, 
+      "description": "Botanical garden"
+    }, 
+    {
+      "score": 0.49219998717308044, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.4172849655151367, 
+      "description": "Historic site"
+    }, 
+    {
+      "score": 0.3804999887943268, 
+      "description": "Chinese garden"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9888840317726135, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.8833598494529724, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.8489731550216675, 
+      "description": "pagoda"
+    }, 
+    {
+      "score": 0.8204020261764526, 
+      "description": "pond"
+    }, 
+    {
+      "score": 0.8164365291595459, 
+      "description": "garden"
+    }, 
+    {
+      "score": 0.7178548574447632, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6820909380912781, 
+      "description": "outdoor structure"
+    }, 
+    {
+      "score": 0.6669703125953674, 
+      "description": "shinto shrine"
+    }, 
+    {
+      "score": 0.6630253791809082, 
+      "description": "botanical garden"
+    }, 
+    {
+      "score": 0.6477515697479248, 
+      "description": "watercourse"
+    }
+  ]
+}

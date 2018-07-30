@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 43.62304, 
+      "description": "Portland Head Light", 
+      "Longitude": -70.208516
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 197.0, 
+      "color-blue": 229.0, 
+      "pixel": 0.08213333040475845, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.04293333366513252, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.07333333045244217, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 175.0, 
+      "pixel": 0.09239999949932098, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.029333332553505898, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.024800000712275505, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 77.0, 
+      "pixel": 0.0018666667165234685, 
+      "color-red": 131.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.0006666666595265269, 
+      "color-red": 0.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 231.0, 
+      "pixel": 0.041999999433755875, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.030266666784882545, 
+      "color-red": 141.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "portland head light"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2830235958099365, 
+      "description": "Portland Head Lighthouse"
+    }, 
+    {
+      "score": 1.1629612445831299, 
+      "description": "Portland"
+    }, 
+    {
+      "score": 0.7031000256538391, 
+      "description": "Cruise ship"
+    }, 
+    {
+      "score": 0.6671000123023987, 
+      "description": "Lighthouse"
+    }, 
+    {
+      "score": 0.5952000021934509, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.5806000232696533, 
+      "description": "Ship"
+    }, 
+    {
+      "score": 0.5297999978065491, 
+      "description": "Cruising"
+    }, 
+    {
+      "score": 0.5112000107765198, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.49779999256134033, 
+      "description": "American Cruise Lines"
+    }, 
+    {
+      "score": 0.430400013923645, 
+      "description": "River cruise"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9263577461242676, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8837069272994995, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8679730892181396, 
+      "description": "lighthouse"
+    }, 
+    {
+      "score": 0.8562363982200623, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8558434247970581, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.851803183555603, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.824423611164093, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.8043400049209595, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.7625400424003601, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.6222772002220154, 
+      "description": "ocean"
+    }
+  ]
+}

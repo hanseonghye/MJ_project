@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 133.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.0830419585108757, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.036810413002967834, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 167.0, 
+      "color-blue": 229.0, 
+      "pixel": 0.09537684172391891, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.026903651654720306, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 229.0, 
+      "pixel": 0.04827117174863815, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 170.0, 
+      "pixel": 0.0554584302008152, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 168.0, 
+      "pixel": 0.022533021867275238, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.05050504952669144, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.04846542328596115, 
+      "color-red": 61.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.022921523079276085, 
+      "color-red": 59.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "waikiki beach banner"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2500087022781372, 
+      "description": "Waikiki Beach"
+    }, 
+    {
+      "score": 0.7832635641098022, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.595300018787384, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.5653499960899353, 
+      "description": "Flight"
+    }, 
+    {
+      "score": 0.5419681668281555, 
+      "description": "Resort"
+    }, 
+    {
+      "score": 0.5404091477394104, 
+      "description": "Vacation"
+    }, 
+    {
+      "score": 0.5098751783370972, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.4830999970436096, 
+      "description": "Vacation rental"
+    }, 
+    {
+      "score": 0.46464625000953674, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.4461512565612793, 
+      "description": "Rainbow Tower"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.946081817150116, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9458548426628113, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9352592825889587, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9261165261268616, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9258312582969666, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.912651538848877, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8624253869056702, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8373719453811646, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8371984362602234, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.8060376048088074, 
+      "description": "shore"
+    }
+  ]
+}

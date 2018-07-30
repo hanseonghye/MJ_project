@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": -33.856446, 
+      "description": "Sydney Harbour Bridge", 
+      "Longitude": 151.211185
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 119.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.06622222065925598, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 221.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.020977778360247612, 
+      "color-red": 243.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.09733333438634872, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.03404444456100464, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.09759999811649323, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 110.0, 
+      "pixel": 0.058577775955200195, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.031377777457237244, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.026844443753361702, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.008177777752280235, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.03511111065745354, 
+      "color-red": 36.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sydney harbour bridge"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.9374438524246216, 
+      "description": "Sydney Harbour Bridge"
+    }, 
+    {
+      "score": 1.08160400390625, 
+      "description": "Sydney Opera House"
+    }, 
+    {
+      "score": 0.9840930700302124, 
+      "description": "Sydney Harbour"
+    }, 
+    {
+      "score": 0.7069000005722046, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.7063999772071838, 
+      "description": "BridgeClimb Sydney"
+    }, 
+    {
+      "score": 0.5996999740600586, 
+      "description": "Steel"
+    }, 
+    {
+      "score": 0.5716000199317932, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5513970255851746, 
+      "description": "Sydney Harbour Bridge"
+    }, 
+    {
+      "score": 0.4690000116825104, 
+      "description": "Construction"
+    }, 
+    {
+      "score": 0.45579999685287476, 
+      "description": "Arch bridge"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9759582877159119, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.8881485462188721, 
+      "description": "arch bridge"
+    }, 
+    {
+      "score": 0.7930074334144592, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7522575259208679, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.733005940914154, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.7257915735244751, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.5599288940429688, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.5506820678710938, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.5348629355430603, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.5238850712776184, 
+      "description": "cantilever bridge"
+    }
+  ]
+}

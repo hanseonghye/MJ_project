@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.023332, 
+      "description": "Cape St. Vincent", 
+      "Longitude": -8.995355
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 115.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.03481860086321831, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 172.0, 
+      "pixel": 0.05125395581126213, 
+      "color-red": 7.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.005113221239298582, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 202.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.034149013459682465, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 236.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.0170440711081028, 
+      "color-red": 239.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.030801070854067802, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.032870709896087646, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.025809593498706818, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.01673971302807331, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.028792304918169975, 
+      "color-red": 144.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "cabo sao vicente portugal"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5726631879806519, 
+      "description": "Cape St. Vincent"
+    }, 
+    {
+      "score": 1.5480663776397705, 
+      "description": "Lighthouse of Cabo de S\u00e3o Vicente"
+    }, 
+    {
+      "score": 1.3006479740142822, 
+      "description": "Lagos"
+    }, 
+    {
+      "score": 0.9116019606590271, 
+      "description": "Salema"
+    }, 
+    {
+      "score": 0.8225580453872681, 
+      "description": "S\u00e3o Vicente"
+    }, 
+    {
+      "score": 0.7024999856948853, 
+      "description": ""
+    }, 
+    {
+      "score": 0.6111999750137329, 
+      "description": "Lighthouse"
+    }, 
+    {
+      "score": 0.5594000220298767, 
+      "description": "Cape"
+    }, 
+    {
+      "score": 0.49149999022483826, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.47850000858306885, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.944953441619873, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9238943457603455, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8520697951316833, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8361491560935974, 
+      "description": "cliff"
+    }, 
+    {
+      "score": 0.8294714689254761, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.812889575958252, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.785047709941864, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7611714005470276, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.7226426601409912, 
+      "description": "klippe"
+    }, 
+    {
+      "score": 0.7088841795921326, 
+      "description": "tower"
+    }
+  ]
+}

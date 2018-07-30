@@ -436,7 +436,7 @@ def detect_web_uri(uri):
 
     if annotations.best_guess_labels:
         for label in annotations.best_guess_labels:
-            print('\nBest guess label: {}'.format(label.label))
+            print('\nBest guess label: {}'.format((label.label).encode('utf-8')))
 
     if annotations.pages_with_matching_images:
         print('\n{} Pages with matching images found:'.format(
@@ -498,7 +498,7 @@ def web_entities_include_geo_results(path):
     for entity in response.web_detection.web_entities:
         print('\n\tScore      : {}'.format(entity.score))
         print(u'\tDescription: {}'.format(entity.description))
-		
+        
 # [END vision_web_entities_include_geo_results]
 
 def MY_api(path):

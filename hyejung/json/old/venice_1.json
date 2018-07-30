@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 45.437937999999995, 
+      "description": "Grand Canal", 
+      "Longitude": 12.335651
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 207.0, 
+      "color-blue": 218.0, 
+      "pixel": 0.04413260146975517, 
+      "color-red": 148.0
+    }, 
+    {
+      "color-green": 244.0, 
+      "color-blue": 245.0, 
+      "pixel": 0.1256863921880722, 
+      "color-red": 236.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.0403362475335598, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 108.0, 
+      "pixel": 0.006169073283672333, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 65.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.0006779201212339103, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 207.0, 
+      "color-blue": 204.0, 
+      "pixel": 0.04603077843785286, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.047589994966983795, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.033557046204805374, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.015388786792755127, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 141.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.022710325196385384, 
+      "color-red": 186.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "grand canal"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5671727657318115, 
+      "description": "Grand Canal"
+    }, 
+    {
+      "score": 1.0820432901382446, 
+      "description": "Burano"
+    }, 
+    {
+      "score": 0.9384150505065918, 
+      "description": "Saint Mark's Basilica"
+    }, 
+    {
+      "score": 0.8580359220504761, 
+      "description": "Piazza San Marco"
+    }, 
+    {
+      "score": 0.5874000191688538, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5170000195503235, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.47040000557899475, 
+      "description": "Canal"
+    }, 
+    {
+      "score": 0.4674000144004822, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.4180000126361847, 
+      "description": ""
+    }, 
+    {
+      "score": 0.38609999418258667, 
+      "description": "Vaporetto"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9769466519355774, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.9513289332389832, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9212461113929749, 
+      "description": "canal"
+    }, 
+    {
+      "score": 0.9058502912521362, 
+      "description": "gondola"
+    }, 
+    {
+      "score": 0.8767350316047668, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8505266904830933, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8409125208854675, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7840357422828674, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.7252055406570435, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.63426673412323, 
+      "description": "channel"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 92.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.0796326994895935, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.029429474845528603, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.027999397367239, 
+      "color-red": 222.0
+    }, 
+    {
+      "color-green": 16.0, 
+      "color-blue": 1.0, 
+      "pixel": 0.020773746073246002, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.002935420721769333, 
+      "color-red": 255.0
+    }, 
+    {
+      "color-green": 63.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.03703146055340767, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 104.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.011816950514912605, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.03153695538640022, 
+      "color-red": 200.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.013021225109696388, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 137.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.028752069920301437, 
+      "color-red": 210.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "trees during the fall"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7440963983535767, 
+      "description": "Maple leaf"
+    }, 
+    {
+      "score": 0.7085000276565552, 
+      "description": "Autumn"
+    }, 
+    {
+      "score": 0.7037000060081482, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.6525999903678894, 
+      "description": "Maple"
+    }, 
+    {
+      "score": 0.6205000281333923, 
+      "description": "Leaf"
+    }, 
+    {
+      "score": 0.5350208282470703, 
+      "description": "Temperate broadleaf and mixed forest"
+    }, 
+    {
+      "score": 0.5288000106811523, 
+      "description": "Tree planting"
+    }, 
+    {
+      "score": 0.5078999996185303, 
+      "description": "Autumn leaf color"
+    }, 
+    {
+      "score": 0.4916999936103821, 
+      "description": "Root"
+    }, 
+    {
+      "score": 0.4740000069141388, 
+      "description": "Plants"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9605545401573181, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9545502066612244, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.9395265579223633, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.9321879148483276, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9300179481506348, 
+      "description": "woodland"
+    }, 
+    {
+      "score": 0.9271906614303589, 
+      "description": "ecosystem"
+    }, 
+    {
+      "score": 0.9199615716934204, 
+      "description": "temperate broadleaf and mixed forest"
+    }, 
+    {
+      "score": 0.9066786170005798, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8986732959747314, 
+      "description": "grove"
+    }, 
+    {
+      "score": 0.8921518325805664, 
+      "description": "deciduous"
+    }
+  ]
+}

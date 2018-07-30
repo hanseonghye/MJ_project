@@ -1,0 +1,165 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.775, 
+      "description": "Golden Gate Bridge", 
+      "Longitude": -122.419209
+    }, 
+    {
+      "Latitude": 37.811013, 
+      "description": "Golden Gate Bridge", 
+      "Longitude": -122.477801
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 236.0, 
+      "color-blue": 211.0, 
+      "pixel": 0.03746821731328964, 
+      "color-red": 236.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.08651144057512283, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.008162719197571278, 
+      "color-red": 137.0
+    }, 
+    {
+      "color-green": 40.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.015254917554557323, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 243.0, 
+      "color-blue": 237.0, 
+      "pixel": 0.09888933598995209, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 229.0, 
+      "color-blue": 248.0, 
+      "pixel": 0.1037735864520073, 
+      "color-red": 198.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 176.0, 
+      "pixel": 0.01639234647154808, 
+      "color-red": 211.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.1494714319705963, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 97.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.006757660768926144, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 33.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.006690753158181906, 
+      "color-red": 98.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "golden gate bridge"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.413591146469116, 
+      "description": "Golden Gate Bridge"
+    }, 
+    {
+      "score": 0.8942323923110962, 
+      "description": "Golden Gate Park"
+    }, 
+    {
+      "score": 0.869203507900238, 
+      "description": "Marin Headlands"
+    }, 
+    {
+      "score": 0.7063000202178955, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.5917999744415283, 
+      "description": "Golden Gate Bridge"
+    }, 
+    {
+      "score": 0.5831999778747559, 
+      "description": "Suspension bridge"
+    }, 
+    {
+      "score": 0.510699987411499, 
+      "description": "Landmark"
+    }, 
+    {
+      "score": 0.47609999775886536, 
+      "description": ""
+    }, 
+    {
+      "score": 0.45210000872612, 
+      "description": ""
+    }, 
+    {
+      "score": 0.45210000872612, 
+      "description": "Golden Gate Transit"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9816825985908508, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.8971774578094482, 
+      "description": "suspension bridge"
+    }, 
+    {
+      "score": 0.8803455233573914, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8780249953269958, 
+      "description": "cable stayed bridge"
+    }, 
+    {
+      "score": 0.8522927165031433, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.8016929626464844, 
+      "description": "extradosed bridge"
+    }, 
+    {
+      "score": 0.6650150418281555, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.5898638963699341, 
+      "description": "beam bridge"
+    }, 
+    {
+      "score": 0.5838156938552856, 
+      "description": "river"
+    }, 
+    {
+      "score": 0.5812646150588989, 
+      "description": "sea"
+    }
+  ]
+}

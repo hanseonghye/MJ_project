@@ -1,0 +1,122 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 152.0, 
+      "color-blue": 212.0, 
+      "pixel": 0.10342222452163696, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 222.0, 
+      "pixel": 0.20391111075878143, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 133.0, 
+      "color-blue": 209.0, 
+      "pixel": 0.04471110925078392, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.06573333591222763, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.048222221434116364, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 65.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.01648888923227787, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.0012888888595625758, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 63.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.006755555514246225, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 205.0, 
+      "pixel": 0.08946666866540909, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 136.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.0548444427549839, 
+      "color-red": 75.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "windmill"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.4961000084877014, 
+      "description": "WATERWAY GAS & WASH COMPANY"
+    }, 
+    {
+      "score": 0.453000009059906, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9748393297195435, 
+      "description": "windmill"
+    }, 
+    {
+      "score": 0.9509676098823547, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.8658985495567322, 
+      "description": "mill"
+    }, 
+    {
+      "score": 0.8544501662254333, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7679464817047119, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.7649854421615601, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.6923699378967285, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.5812426209449768, 
+      "description": "river"
+    }, 
+    {
+      "score": 0.5424355268478394, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.520758867263794, 
+      "description": "wind"
+    }
+  ]
+}

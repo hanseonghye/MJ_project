@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 82.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.04085801914334297, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.03614363074302673, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 73.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.03645792230963707, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.03386501222848892, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.02640056610107422, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.015950342640280724, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.02325764112174511, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.018307534977793694, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 8.0, 
+      "pixel": 0.014693171717226505, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 179.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.012493125163018703, 
+      "color-red": 234.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "greece streets"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6144425868988037, 
+      "description": "Spello"
+    }, 
+    {
+      "score": 0.9050999879837036, 
+      "description": "Greece"
+    }, 
+    {
+      "score": 0.6829000115394592, 
+      "description": ""
+    }, 
+    {
+      "score": 0.6699000000953674, 
+      "description": "Street"
+    }, 
+    {
+      "score": 0.6688275337219238, 
+      "description": "Spoleto"
+    }, 
+    {
+      "score": 0.6033999919891357, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5410000085830688, 
+      "description": "Cobblestone"
+    }, 
+    {
+      "score": 0.5130000114440918, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.45910000801086426, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.40610000491142273, 
+      "description": "Image"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9868976473808289, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9344191551208496, 
+      "description": "floristry"
+    }, 
+    {
+      "score": 0.9120033979415894, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8774543404579163, 
+      "description": "flowering plant"
+    }, 
+    {
+      "score": 0.8677791357040405, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8197908401489258, 
+      "description": "flora"
+    }, 
+    {
+      "score": 0.8139955401420593, 
+      "description": "flower arranging"
+    }, 
+    {
+      "score": 0.7952824831008911, 
+      "description": "alley"
+    }, 
+    {
+      "score": 0.7322182655334473, 
+      "description": "window"
+    }, 
+    {
+      "score": 0.7304791212081909, 
+      "description": "courtyard"
+    }
+  ]
+}

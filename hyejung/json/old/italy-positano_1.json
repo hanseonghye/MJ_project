@@ -1,0 +1,165 @@
+{
+  "landmark": [
+    {
+      "Latitude": 40.628456, 
+      "description": "Amalfi Coast", 
+      "Longitude": 14.486246109008789
+    }, 
+    {
+      "Latitude": 40.627764, 
+      "description": "Positano", 
+      "Longitude": 14.486418
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 93.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.07555555552244186, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 207.0, 
+      "pixel": 0.08995169401168823, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.0012560386676341295, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 177.0, 
+      "pixel": 0.06309178471565247, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.025990338996052742, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.017391303554177284, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.0669565200805664, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.08028985559940338, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.04956521838903427, 
+      "color-red": 122.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.030338164418935776, 
+      "color-red": 132.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "amalfi coast"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3819774389266968, 
+      "description": "Positano"
+    }, 
+    {
+      "score": 1.116225004196167, 
+      "description": "Capri"
+    }, 
+    {
+      "score": 1.0942816734313965, 
+      "description": "Ravello"
+    }, 
+    {
+      "score": 0.8900759816169739, 
+      "description": "Sorrento"
+    }, 
+    {
+      "score": 0.6553360223770142, 
+      "description": "Tours of Amalfi Coast"
+    }, 
+    {
+      "score": 0.6119999885559082, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.597100019454956, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5494610071182251, 
+      "description": "The Amalfi Coast Wedding Planner"
+    }, 
+    {
+      "score": 0.5327000021934509, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.477400004863739, 
+      "description": "Coast"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9559450149536133, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.935743510723114, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8672603368759155, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8365077376365662, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8244915008544922, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.8202632665634155, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.8144181966781616, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8132455348968506, 
+      "description": "mountain village"
+    }, 
+    {
+      "score": 0.7765290141105652, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.7412200570106506, 
+      "description": "tourist attraction"
+    }
+  ]
+}

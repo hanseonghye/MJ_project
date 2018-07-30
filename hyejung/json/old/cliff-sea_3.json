@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.095917, 
+      "description": "Lagoa", 
+      "Longitude": -8.471473
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 175.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.12262304127216339, 
+      "color-red": 37.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 143.0, 
+      "pixel": 0.021252796053886414, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.008529082871973515, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 174.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.01782718114554882, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 179.0, 
+      "pixel": 0.040338367223739624, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 181.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.021532438695430756, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 177.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.014331655576825142, 
+      "color-red": 39.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.02635626308619976, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.02922259457409382, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.03425615280866623, 
+      "color-red": 18.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "lagoa"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7035999894142151, 
+      "description": ""
+    }, 
+    {
+      "score": 0.6698257923126221, 
+      "description": "Nazar\u00e9 Municipality"
+    }, 
+    {
+      "score": 0.47450000047683716, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.43755000829696655, 
+      "description": "Spain"
+    }, 
+    {
+      "score": 0.42980000376701355, 
+      "description": "Business"
+    }, 
+    {
+      "score": 0.42329999804496765, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4032999873161316, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.32120001316070557, 
+      "description": "Express Entry"
+    }, 
+    {
+      "score": 0.295199990272522, 
+      "description": "Plan"
+    }, 
+    {
+      "score": 0.2865000069141388, 
+      "description": "Sea"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9600384831428528, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9583114385604858, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9343042373657227, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9264985918998718, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8518964052200317, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8211662769317627, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.8197784423828125, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.8026390671730042, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.799457311630249, 
+      "description": "bay"
+    }, 
+    {
+      "score": 0.7858737111091614, 
+      "description": "cape"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 206.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.24435776472091675, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 206.0, 
+      "pixel": 0.20395652949810028, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.1491362452507019, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 183.0, 
+      "pixel": 0.03970465436577797, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.0032738924492150545, 
+      "color-red": 148.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 43.0, 
+      "pixel": 0.08755920827388763, 
+      "color-red": 224.0
+    }, 
+    {
+      "color-green": 217.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.02235998958349228, 
+      "color-red": 248.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.00877681840211153, 
+      "color-red": 223.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.02765394188463688, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 203.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.0016021175542846322, 
+      "color-red": 227.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "rapeseed fields china"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0078201293945312, 
+      "description": "Luoping County"
+    }, 
+    {
+      "score": 0.8226000070571899, 
+      "description": "Rapeseed"
+    }, 
+    {
+      "score": 0.7024999856948853, 
+      "description": "Canola oil"
+    }, 
+    {
+      "score": 0.7024000287055969, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5887500047683716, 
+      "description": "The Flower Fields"
+    }, 
+    {
+      "score": 0.5213000178337097, 
+      "description": "Oil"
+    }, 
+    {
+      "score": 0.5162000060081482, 
+      "description": "Flower"
+    }, 
+    {
+      "score": 0.47929999232292175, 
+      "description": "Crop"
+    }, 
+    {
+      "score": 0.4772999882698059, 
+      "description": "Genetically modified organism"
+    }, 
+    {
+      "score": 0.4681999981403351, 
+      "description": "Genetically modified canola"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9518789649009705, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9439719319343567, 
+      "description": "rapeseed"
+    }, 
+    {
+      "score": 0.9417170286178589, 
+      "description": "canola"
+    }, 
+    {
+      "score": 0.9206979274749756, 
+      "description": "mustard plant"
+    }, 
+    {
+      "score": 0.9150022864341736, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8907201886177063, 
+      "description": "mustard and cabbage family"
+    }, 
+    {
+      "score": 0.8772274851799011, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.7957280278205872, 
+      "description": "plain"
+    }, 
+    {
+      "score": 0.7911325693130493, 
+      "description": "prairie"
+    }, 
+    {
+      "score": 0.7824004292488098, 
+      "description": "flower"
+    }
+  ]
+}

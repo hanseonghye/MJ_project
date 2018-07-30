@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 49.453965, 
+      "description": "Frauenkirche (N\u00fcrnberg)", 
+      "Longitude": 11.077416
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 204.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.08023391664028168, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.10140351206064224, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 207.0, 
+      "color-blue": 231.0, 
+      "pixel": 0.06929824501276016, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 106.0, 
+      "pixel": 0.07614035159349442, 
+      "color-red": 122.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.07333333045244217, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 80.0, 
+      "pixel": 0.12321637570858002, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.040760233998298645, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 70.0, 
+      "pixel": 0.013801169581711292, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 237.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.23099415004253387, 
+      "color-red": 221.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.015614035539329052, 
+      "color-red": 139.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "frauenkirche (n\u00fcrnberg)"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7385523319244385, 
+      "description": "Frauenkirche, Nuremberg"
+    }, 
+    {
+      "score": 1.087729573249817, 
+      "description": "Dresden Frauenkirche"
+    }, 
+    {
+      "score": 0.9490634799003601, 
+      "description": "St. Sebaldus Church, Nuremberg"
+    }, 
+    {
+      "score": 0.7034000158309937, 
+      "description": "Church"
+    }, 
+    {
+      "score": 0.5928999781608582, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5611000061035156, 
+      "description": "Cathedral"
+    }, 
+    {
+      "score": 0.4884999990463257, 
+      "description": "Gothic architecture"
+    }, 
+    {
+      "score": 0.47380000352859497, 
+      "description": "Catholicism"
+    }, 
+    {
+      "score": 0.46549999713897705, 
+      "description": ""
+    }, 
+    {
+      "score": 0.44519999623298645, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9147035479545593, 
+      "description": "medieval architecture"
+    }, 
+    {
+      "score": 0.9083796739578247, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8991453051567078, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.879093587398529, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.8410766124725342, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8163996934890747, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.7694215774536133, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.7624114155769348, 
+      "description": "cathedral"
+    }, 
+    {
+      "score": 0.7522741556167603, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.7282742857933044, 
+      "description": "facade"
+    }
+  ]
+}

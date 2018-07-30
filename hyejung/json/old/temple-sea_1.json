@@ -1,0 +1,165 @@
+{
+  "landmark": [
+    {
+      "Latitude": -8.620880999999999, 
+      "description": "Tanah Lot", 
+      "Longitude": 115.08683
+    }, 
+    {
+      "Latitude": -8.54391, 
+      "description": "Tanah Lot", 
+      "Longitude": 115.01338
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 65.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.024050632491707802, 
+      "color-red": 37.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.08025316148996353, 
+      "color-red": 55.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 232.0, 
+      "pixel": 0.07924050837755203, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 209.0, 
+      "pixel": 0.019156118854880333, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.0517299585044384, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.01578059047460556, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.006497890222817659, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.014008439145982265, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 69.0, 
+      "color-blue": 5.0, 
+      "pixel": 0.006497890222817659, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 77.0, 
+      "pixel": 0.05746835470199585, 
+      "color-red": 83.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "tanah lot"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3388100862503052, 
+      "description": "Tanah Lot"
+    }, 
+    {
+      "score": 1.2983241081237793, 
+      "description": "Jimbaran"
+    }, 
+    {
+      "score": 1.1511820554733276, 
+      "description": "Ubud"
+    }, 
+    {
+      "score": 1.0565478801727295, 
+      "description": "Denpasar"
+    }, 
+    {
+      "score": 1.0401766300201416, 
+      "description": "Bedugul"
+    }, 
+    {
+      "score": 0.8790000677108765, 
+      "description": "Temple"
+    }, 
+    {
+      "score": 0.8146499991416931, 
+      "description": "Tanah Lot Temple"
+    }, 
+    {
+      "score": 0.616599977016449, 
+      "description": "Hindu Temple"
+    }, 
+    {
+      "score": 0.5909000039100647, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5794000029563904, 
+      "description": "Hinduism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8896786570549011, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.835064709186554, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8342556357383728, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8261028528213501, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8061700463294983, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8058494925498962, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.7687274217605591, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6844909191131592, 
+      "description": "islet"
+    }, 
+    {
+      "score": 0.6611416935920715, 
+      "description": "tropics"
+    }, 
+    {
+      "score": 0.6268969774246216, 
+      "description": "tourism"
+    }
+  ]
+}

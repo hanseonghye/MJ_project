@@ -1,99 +1,71 @@
 import os
+import glob
 import json
-import pymysql
 from flask import Flask, render_template, request
-
+from pprint import pprint
 import detect
+import funcs
 
-conn=pymysql.connect(
-        host='localhost',
-        user='root',
-        password='alde2871',
-        db='MJ',
-        charset='utf8'
-)
+app = Flask(__name__)
+APP_ROOT = os.path.dirname(os.path.abspath(__file__))
+target = os.path.join(APP_ROOT, 'images/')
+url_target = os.path.join(APP_ROOT, 'URL/')
 
-curs=conn.cursor()
+target_list = []
+fileDirList = os.path.join(APP_ROOT, 'JSONdata2/')
+fileDirList = glob.glob(fileDirList + "*.json")
 
-app=Flask(__name__)
-APP_ROOT=os.path.dirname(os.path.abspath(__file__))
+# load json from fileDirList
+def load_json():
+    global target_list
+    for fileDir in fileDirList:
+        with open(fileDir) as f:
+            temp_json = json.load(f)
+            temp_dict = dict(fileName=str(os.path.basename(f.name)), jsonDict=temp_json)
+            target_list.append(temp_dict)
+            temp_dict = {}
+
 
 @app.route("/")
 def index():
-    return render_template("home.html")
+    return ;
 
-@app.route("/upload", methods=['POST'])
+@app.route('/upload', methods=['POST'])
 def upload():
-
-    target=os.path.join(APP_ROOT, 'images/')
-    if not os.path.isdir(target):
-        os.mkdir(target)
-
-    if 'file' not in request.files:
-        return render_template("home.html")
-
-    file=request.files['file']
-    filename=file.filename
-    des="/".join([target,filename])
+    load_json()  # Load target json file
+    file = request.files['uploaded_file']
+    des = "/".join([target, "photo.jpg"])
     file.save(des)
 
-    RE_json=dict()
-    RE_json["label"]=detect.MY_detect_labels(des)
-    RE_json["landmark"]=detect.MY_detect_landmarks(des)
-    RE_json["color"]=detect.MY_detect_properties(des)
-    (RE_json["top-label"], RE_json["result-web"])=detect.MY_detect_web(des)
-    # RE_json["result-geo"]=detect.MY_web_entities_include_geo_results(des)
+    RE_json = dict()
+    RE_json["label"] = detect.MY_detect_labels(des)
+    RE_json["landmark"] = detect.MY_detect_landmarks(des)
+    RE_json["color"] = detect.MY_detect_properties(des)
+    (RE_json["top-label"], RE_json["result-web"]) = detect.MY_detect_web(des)
 
-    # with open('jsonfile.json','w') as make_file:
-    #     json.dump(RE_json, make_file, indent=2)
+    with open('jsonfile.json','w') as make_file:
+        json.dump(RE_json, make_file, indent=2)
 
-    topL=RE_json['top-label']
-    if not topL:
-        real_topL="nnnn"
-    else :
-        real_topL=(topL[0]["top label"]).lower()
+    global target_list
 
-    reWeb=RE_json['result-web']
-    if not reWeb:
-        real_reWeb="nnnn"
-    else :
-        real_reWeb=(reWeb[0]["description"]).lower()
+    best=[]
+    best=funcs.get_score(RE_json, target_list)
+
+    print (best[0]+"  "+best[1]+ "   "+best[2])
+
+    print ("#######print re ......")
+    return_url=""
     
-    reLM=RE_json["landmark"]
-    if not reLM:
-        real_reLM="nnnn"
-    else :
-        real_reLM=(reLM[0]["description"]).lower()
+    for i in range (0,3):
+        url_txtfile=os.path.join(url_target,best[i])
+        f=open(url_txtfile,'r')
+        url=f.readline()
+        print (url)
+        return_url+=(str(url)+"\n")
+        f.close()
 
 
-    mapping_re=""
-    
-    sql="SELECT * FROM MappingInfo WHERE p1='{}'".format(real_reWeb)
-    curs.execute(sql)
-    find_p1=curs.fetchall()
-
-    if not  find_p1:
-            sql="SELECT * FROM MappingInfo WHERE p1='{}'".format(real_topL)
-            curs.execute(sql)
-            find_p1=curs.fetchall()
-
-            if not find_p1:
-                    sql="SELECT * FROM MappingInfo WHERE p1='{}'".format(real_reWeb)
-                    curs.execute(sql)
-                    find_p1=curs.fetchall()
-
-                    if not find_p1:
-                        mapping_re="not matching"
-                    else :
-                        mapping_re=find_p1[0][2]
-            else :
-                mapping_re=find_p1[0][2]
-    else :
-        mapping_re=find_p1[0][2]
-
-
-
-    return render_template("pass.html",reMapping=mapping_re ,reLB=real_topL, reLM=real_reLM, reWeb=real_reWeb);
+    return return_url
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0',port=3000,debug=True)
+    app.run(host='0.0.0.0', port=3003, debug=True)

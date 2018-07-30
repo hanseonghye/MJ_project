@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 232.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.20920634269714355, 
+      "color-red": 230.0
+    }, 
+    {
+      "color-green": 169.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.059285715222358704, 
+      "color-red": 131.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.017619047313928604, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.1934920698404312, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 216.0, 
+      "pixel": 0.046269841492176056, 
+      "color-red": 165.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 204.0, 
+      "pixel": 0.02579365111887455, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.009841269813477993, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.09317460656166077, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.006428571417927742, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.003412698395550251, 
+      "color-red": 151.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "mykonos streets"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8163000345230103, 
+      "description": "Mykonos windmills"
+    }, 
+    {
+      "score": 0.7989993691444397, 
+      "description": "Ano Mera"
+    }, 
+    {
+      "score": 0.7032999992370605, 
+      "description": ""
+    }, 
+    {
+      "score": 0.7002270221710205, 
+      "description": "Santorini"
+    }, 
+    {
+      "score": 0.6862000226974487, 
+      "description": "Villa"
+    }, 
+    {
+      "score": 0.6265380382537842, 
+      "description": "Crete"
+    }, 
+    {
+      "score": 0.5866079926490784, 
+      "description": "Athens"
+    }, 
+    {
+      "score": 0.579200029373169, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.5723000168800354, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.5301470160484314, 
+      "description": "Vacation"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9438165426254272, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8421386480331421, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.7817912101745605, 
+      "description": "street"
+    }, 
+    {
+      "score": 0.6944324970245361, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6761789321899414, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.5910894274711609, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.5714510679244995, 
+      "description": "vacation"
+    }, 
+    {
+      "score": 0.5680630207061768, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.5607280731201172, 
+      "description": "road"
+    }, 
+    {
+      "score": 0.5052391290664673, 
+      "description": "alley"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 21.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.30000001192092896, 
+      "color-red": 27.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.014365079812705517, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 15.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.13174603879451752, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 144.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.009682539850473404, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 38.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.056190475821495056, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 241.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.0004761904710903764, 
+      "color-red": 255.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.017142856493592262, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.011428571306169033, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 37.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.0036507935728877783, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.0032539681997150183, 
+      "color-red": 34.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\u30af\u30ea\u30b9\u30de\u30b9 \u30cb\u30e5\u30fc\u30e8\u30fc\u30af \u591c"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7682895064353943, 
+      "description": "New York Bay"
+    }, 
+    {
+      "score": 0.7024000287055969, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.7002000212669373, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5941628217697144, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.58160001039505, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.5540000200271606, 
+      "description": "City"
+    }, 
+    {
+      "score": 0.5370000004768372, 
+      "description": "Christmas Day"
+    }, 
+    {
+      "score": 0.477400004863739, 
+      "description": "Wallpaper"
+    }, 
+    {
+      "score": 0.451200008392334, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.42160001397132874, 
+      "description": "Christmas lights"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9807887077331543, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9783042669296265, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.966591477394104, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9652932286262512, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9563639760017395, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.9530316591262817, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9528689384460449, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9373329281806946, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.9359315037727356, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9302304983139038, 
+      "description": "metropolis"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "landmark": [
+    {
+      "Latitude": 36.424045, 
+      "description": "Th\u00edra", 
+      "Longitude": 25.427427
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 219.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.03099999949336052, 
+      "color-red": 253.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 133.0, 
+      "pixel": 0.009666666388511658, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 220.0, 
+      "pixel": 0.046666666865348816, 
+      "color-red": 179.0
+    }, 
+    {
+      "color-green": 78.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.025599999353289604, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 133.0, 
+      "pixel": 0.0069333333522081375, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.0009333333582617342, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.0012666666880249977, 
+      "color-red": 16.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.18326666951179504, 
+      "color-red": 253.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 141.0, 
+      "pixel": 0.005799999926239252, 
+      "color-red": 239.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.005333333276212215, 
+      "color-red": 251.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "th\u00edra"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.155174970626831, 
+      "description": "Oia"
+    }, 
+    {
+      "score": 1.0479811429977417, 
+      "description": "Naxos"
+    }, 
+    {
+      "score": 0.7392495274543762, 
+      "description": "Mykonos"
+    }, 
+    {
+      "score": 0.6624000072479248, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.6468999981880188, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.6299999952316284, 
+      "description": ""
+    }, 
+    {
+      "score": 0.48730000853538513, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4731000065803528, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.37070000171661377, 
+      "description": "Island"
+    }, 
+    {
+      "score": 0.3443000018596649, 
+      "description": "Guidebook"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.871293842792511, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8704924583435059, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.8126971125602722, 
+      "description": "vacation"
+    }, 
+    {
+      "score": 0.7002275586128235, 
+      "description": "fun"
+    }, 
+    {
+      "score": 0.6391992568969727, 
+      "description": "travel"
+    }, 
+    {
+      "score": 0.6162051558494568, 
+      "description": "girl"
+    }, 
+    {
+      "score": 0.5741961598396301, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.5727777481079102, 
+      "description": "city"
+    }
+  ]
+}

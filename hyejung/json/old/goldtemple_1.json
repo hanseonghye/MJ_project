@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 31.620004, 
+      "description": "Golden Temple", 
+      "Longitude": 74.876386
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 156.0, 
+      "color-blue": 218.0, 
+      "pixel": 0.229805126786232, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.019406484439969063, 
+      "color-red": 165.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.014878305606544018, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 185.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.000646882806904614, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 139.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.010592706501483917, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 106.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.007681733462959528, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.005417643580585718, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 171.0, 
+      "pixel": 0.07228915393352509, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.007843454368412495, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 152.0, 
+      "pixel": 0.03282930329442024, 
+      "color-red": 102.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "golden temple"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.8902266025543213, 
+      "description": "Golden Temple"
+    }, 
+    {
+      "score": 0.9021000266075134, 
+      "description": "Temple"
+    }, 
+    {
+      "score": 0.7382999658584595, 
+      "description": "Jallianwala Bagh massacre"
+    }, 
+    {
+      "score": 0.7049000263214111, 
+      "description": "Shiromani Gurdwara Parbandhak Committee"
+    }, 
+    {
+      "score": 0.7035999894142151, 
+      "description": "Sikhism"
+    }, 
+    {
+      "score": 0.6377999782562256, 
+      "description": "Gurdwara"
+    }, 
+    {
+      "score": 0.6330999732017517, 
+      "description": "Sikh"
+    }, 
+    {
+      "score": 0.590499997138977, 
+      "description": "Gurbani"
+    }, 
+    {
+      "score": 0.5458999872207642, 
+      "description": "Panj Takht"
+    }, 
+    {
+      "score": 0.5228999853134155, 
+      "description": "Place of worship"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9316228628158569, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9223220348358154, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.8923355937004089, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.8854303956031799, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.8798062205314636, 
+      "description": "hindu temple"
+    }, 
+    {
+      "score": 0.8479524850845337, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.8385641574859619, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8171083927154541, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.815802812576294, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.7236778736114502, 
+      "description": "evening"
+    }
+  ]
+}

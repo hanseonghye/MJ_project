@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 159.0, 
+      "color-blue": 138.0, 
+      "pixel": 0.07062018662691116, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 109.0, 
+      "pixel": 0.24219103157520294, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 80.0, 
+      "pixel": 0.12584879994392395, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.1256224513053894, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.05356873571872711, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 103.0, 
+      "pixel": 0.07258186489343643, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.13384638726711273, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 186.0, 
+      "pixel": 0.018107740208506584, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 68.0, 
+      "color-blue": 70.0, 
+      "pixel": 0.09710276126861572, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 72.0, 
+      "pixel": 0.02323826774954796, 
+      "color-red": 93.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\u0e15\u0e36\u0e01 \u0e40\u0e1a\u0e34 \u0e23\u0e4c \u0e08 \u0e04\u0e32 \u0e25\u0e34 \u0e1f\u0e32"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5795944929122925, 
+      "description": "Dubai"
+    }, 
+    {
+      "score": 0.7358010411262512, 
+      "description": "Abu Dhabi"
+    }, 
+    {
+      "score": 0.5235000252723694, 
+      "description": "World"
+    }, 
+    {
+      "score": 0.3285999894142151, 
+      "description": "Organization"
+    }, 
+    {
+      "score": 0.3082999885082245, 
+      "description": ""
+    }, 
+    {
+      "score": 0.30630001425743103, 
+      "description": "Innovation"
+    }, 
+    {
+      "score": 0.30570000410079956, 
+      "description": ""
+    }, 
+    {
+      "score": 0.28940001130104065, 
+      "description": "Unsplash"
+    }, 
+    {
+      "score": 0.26339998841285706, 
+      "description": ""
+    }, 
+    {
+      "score": 0.25839999318122864, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9345400333404541, 
+      "description": "aerial photography"
+    }, 
+    {
+      "score": 0.8995252251625061, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8969882726669312, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.879797101020813, 
+      "description": "bird's eye view"
+    }, 
+    {
+      "score": 0.8583462238311768, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.7903868556022644, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.7153688073158264, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.6284410357475281, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6179238557815552, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.5840654373168945, 
+      "description": "metropolis"
+    }
+  ]
+}

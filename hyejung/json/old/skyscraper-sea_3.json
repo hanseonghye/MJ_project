@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 144.0, 
+      "color-blue": 137.0, 
+      "pixel": 0.11659420281648636, 
+      "color-red": 11.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 211.0, 
+      "pixel": 0.06355072557926178, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.07159420102834702, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.0007971014711074531, 
+      "color-red": 10.0
+    }, 
+    {
+      "color-green": 140.0, 
+      "color-blue": 143.0, 
+      "pixel": 0.054927535355091095, 
+      "color-red": 9.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 138.0, 
+      "pixel": 0.040942028164863586, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.11275362223386765, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 96.0, 
+      "color-blue": 112.0, 
+      "pixel": 0.025942029431462288, 
+      "color-red": 23.0
+    }, 
+    {
+      "color-green": 167.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.03760869428515434, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.028043478727340698, 
+      "color-red": 111.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "dubai beach"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.418513298034668, 
+      "description": "Jumeirah Beach"
+    }, 
+    {
+      "score": 1.3699984550476074, 
+      "description": "Jumeirah Beach Residence"
+    }, 
+    {
+      "score": 0.992659866809845, 
+      "description": "Jumeirah Beach Hotel"
+    }, 
+    {
+      "score": 0.8858470916748047, 
+      "description": "Burj Al Arab Jumeirah"
+    }, 
+    {
+      "score": 0.7831724882125854, 
+      "description": "D 94 road"
+    }, 
+    {
+      "score": 0.7031000256538391, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.6862000226974487, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5228999853134155, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.5019999742507935, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.4754999876022339, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9352278709411621, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9316489100456238, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9300134778022766, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8759623765945435, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8633084297180176, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.845705509185791, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8118281364440918, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.7826141715049744, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.7798521518707275, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.7676434516906738, 
+      "description": "metropolitan area"
+    }
+  ]
+}
