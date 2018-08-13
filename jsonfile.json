@@ -1,0 +1,156 @@
+{
+  "landmark": [
+    {
+      "Latitude": 27.819054, 
+      "description": "Mog\u00e1n Beach", 
+      "Longitude": -15.76633
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 117.0, 
+      "color-blue": 141.0, 
+      "pixel": 0.08700510859489441, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 71.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.03128990903496742, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 220.0, 
+      "pixel": 0.1509418934583664, 
+      "color-red": 180.0
+    }, 
+    {
+      "color-green": 17.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.05906768888235092, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 232.0, 
+      "color-blue": 204.0, 
+      "pixel": 0.03496168553829193, 
+      "color-red": 249.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.0021551724057644606, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.06457535177469254, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 99.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.013409961946308613, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 97.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.020035121589899063, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.036318644881248474, 
+      "color-red": 163.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "mog\u00e1n beach"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4191123247146606, 
+      "description": "Puerto de Mog\u00e1n"
+    }, 
+    {
+      "score": 0.6753000020980835, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.6315000057220459, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.6278793811798096, 
+      "description": "Maspalomas"
+    }, 
+    {
+      "score": 0.4839000105857849, 
+      "description": "Circuit Festival Asia"
+    }, 
+    {
+      "score": 0.4790000021457672, 
+      "description": ""
+    }, 
+    {
+      "score": 0.45339998602867126, 
+      "description": "Villa"
+    }, 
+    {
+      "score": 0.44769999384880066, 
+      "description": "Resort"
+    }, 
+    {
+      "score": 0.41269999742507935, 
+      "description": "Seaside resort"
+    }, 
+    {
+      "score": 0.3077000081539154, 
+      "description": "Apartment"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8856728672981262, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8517578840255737, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.7628392577171326, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.6260720491409302, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6186420917510986, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.6066527366638184, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.5962287783622742, 
+      "description": "bay"
+    }, 
+    {
+      "score": 0.5379106402397156, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.5003179907798767, 
+      "description": "promontory"
+    }
+  ]
+}

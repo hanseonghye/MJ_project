@@ -18,6 +18,7 @@ fileDirList = glob.glob(fileDirList + "*.json")
 # load json from fileDirList
 def load_json():
     global target_list
+    target_list=[]
     for fileDir in fileDirList:
         with open(fileDir) as f:
             temp_json = json.load(f)
@@ -28,11 +29,18 @@ def load_json():
 
 @app.route("/")
 def index():
+    load_json()
     return ;
 
 @app.route('/upload', methods=['POST'])
 def upload():
-    load_json()  # Load target json file
+
+    if not target_list:
+        load_json()
+
+    lat=request.form['latitude']
+    lon=request.form['longitude']
+
     file = request.files['uploaded_file']
     des = "/".join([target, "photo.jpg"])
     file.save(des)
@@ -43,8 +51,8 @@ def upload():
     RE_json["color"] = detect.MY_detect_properties(des)
     (RE_json["top-label"], RE_json["result-web"]) = detect.MY_detect_web(des)
 
-    with open('jsonfile.json','w') as make_file:
-        json.dump(RE_json, make_file, indent=2)
+    # with open('jsonfile.json','w') as make_file:
+    #     json.dump(RE_json, make_file, indent=2)
 
     global target_list
 
@@ -63,7 +71,6 @@ def upload():
         print (url)
         return_url+=(str(url)+"\n")
         f.close()
-
 
     return return_url
 
