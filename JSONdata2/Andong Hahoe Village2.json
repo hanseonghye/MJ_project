@@ -1,0 +1,134 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 243.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.30071112513542175, 
+      "color-red": 240.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.03551110997796059, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.019422221928834915, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.0016888888785615563, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 184.0, 
+      "pixel": 0.18244443833827972, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.06022222340106964, 
+      "color-red": 219.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.04479999840259552, 
+      "color-red": 172.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.026266666129231453, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 152.0, 
+      "pixel": 0.06146666780114174, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.03928888961672783, 
+      "color-red": 70.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "village"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.5545325875282288, 
+      "description": "Cottage"
+    }, 
+    {
+      "score": 0.527868390083313, 
+      "description": "Thatching"
+    }, 
+    {
+      "score": 0.5117881894111633, 
+      "description": "Property"
+    }, 
+    {
+      "score": 0.42760780453681946, 
+      "description": "Village"
+    }, 
+    {
+      "score": 0.335099995136261, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9113777279853821, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8185920715332031, 
+      "description": "village"
+    }, 
+    {
+      "score": 0.7677391171455383, 
+      "description": "road"
+    }, 
+    {
+      "score": 0.739349365234375, 
+      "description": "thatching"
+    }, 
+    {
+      "score": 0.7026237845420837, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6977267861366272, 
+      "description": "cottage"
+    }, 
+    {
+      "score": 0.6915947794914246, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.6820074915885925, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.6815388202667236, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.6723206043243408, 
+      "description": "tree"
+    }
+  ]
+}

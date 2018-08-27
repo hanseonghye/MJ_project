@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 230.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.24486476182937622, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.09680699557065964, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 216.0, 
+      "pixel": 0.1481255441904068, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.013626194559037685, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 140.0, 
+      "pixel": 0.0034573927987366915, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.021151108667254448, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 207.0, 
+      "color-blue": 216.0, 
+      "pixel": 0.044810522347688675, 
+      "color-red": 191.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.007253745570778847, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 64.0, 
+      "color-blue": 12.0, 
+      "pixel": 0.009762049652636051, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.020744355395436287, 
+      "color-red": 89.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7690987586975098, 
+      "description": "Buseoksa"
+    }, 
+    {
+      "score": 0.44435715675354004, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.4221999943256378, 
+      "description": "Huayan"
+    }, 
+    {
+      "score": 0.3055218756198883, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.2502000033855438, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.23086640238761902, 
+      "description": "Hill station"
+    }, 
+    {
+      "score": 0.22669999301433563, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.21996796131134033, 
+      "description": "National park"
+    }, 
+    {
+      "score": 0.19537751376628876, 
+      "description": "Yeongju"
+    }, 
+    {
+      "score": 0.19120000302791595, 
+      "description": "\ud638\uad6d \ubd88\uad50 \uc0ac\uc0c1"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9723447561264038, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9551249742507935, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9430669546127319, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.9317573308944702, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.9159868955612183, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.8702932596206665, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7981342673301697, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.7969869375228882, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.7536184787750244, 
+      "description": "mountain range"
+    }, 
+    {
+      "score": 0.7383905649185181, 
+      "description": "plant"
+    }
+  ]
+}

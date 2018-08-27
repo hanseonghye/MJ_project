@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.835193, 
+      "description": "Anapji", 
+      "Longitude": 129.22638416290283
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 247.0, 
+      "color-blue": 140.0, 
+      "pixel": 0.008066666312515736, 
+      "color-red": 252.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.009666666388511658, 
+      "color-red": 232.0
+    }, 
+    {
+      "color-green": 251.0, 
+      "color-blue": 217.0, 
+      "pixel": 0.007266666740179062, 
+      "color-red": 252.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.02566666714847088, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.003666666569188237, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 22.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.6553999781608582, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 253.0, 
+      "color-blue": 178.0, 
+      "pixel": 0.006866666488349438, 
+      "color-red": 254.0
+    }, 
+    {
+      "color-green": 238.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.006266666576266289, 
+      "color-red": 250.0
+    }, 
+    {
+      "color-green": 223.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.004866666626185179, 
+      "color-red": 252.0
+    }, 
+    {
+      "color-green": 233.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.003533333307132125, 
+      "color-red": 253.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "anapji"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4678400754928589, 
+      "description": "Donggung Palace and Wolji Pond in Gyeongju"
+    }, 
+    {
+      "score": 0.9060150384902954, 
+      "description": "Daegu Art Museum"
+    }, 
+    {
+      "score": 0.7799651026725769, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.6776999831199646, 
+      "description": "Silla"
+    }, 
+    {
+      "score": 0.48429998755455017, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.43846002221107483, 
+      "description": "Misulgwan-ro"
+    }, 
+    {
+      "score": 0.40716877579689026, 
+      "description": "Landmark"
+    }, 
+    {
+      "score": 0.335999995470047, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.33070001006126404, 
+      "description": ""
+    }, 
+    {
+      "score": 0.2883000075817108, 
+      "description": "Nightscape"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9672881364822388, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9512051343917847, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.9424298405647278, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.8857783079147339, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8856215476989746, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8314830660820007, 
+      "description": "light"
+    }, 
+    {
+      "score": 0.8044151067733765, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7857357859611511, 
+      "description": "lighting"
+    }, 
+    {
+      "score": 0.7250843048095703, 
+      "description": "darkness"
+    }, 
+    {
+      "score": 0.6426027417182922, 
+      "description": "sky"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 33.394667, 
+      "description": "Korea", 
+      "Longitude": 126.239357
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 189.0, 
+      "color-blue": 241.0, 
+      "pixel": 0.12900808453559875, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 173.0, 
+      "color-blue": 252.0, 
+      "pixel": 0.30394065380096436, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.014833683148026466, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 170.0, 
+      "pixel": 0.015283188782632351, 
+      "color-red": 40.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.027120167389512062, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 99.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.01078813336789608, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 138.0, 
+      "pixel": 0.014084506779909134, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 177.0, 
+      "pixel": 0.006517830304801464, 
+      "color-red": 16.0
+    }, 
+    {
+      "color-green": 175.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.06308060884475708, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 232.0, 
+      "pixel": 0.03333832696080208, 
+      "color-red": 149.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "korea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8241750597953796, 
+      "description": "Biyangdo"
+    }, 
+    {
+      "score": 0.7693950533866882, 
+      "description": "\u906e\u5e30\u5cf6"
+    }, 
+    {
+      "score": 0.6324000358581543, 
+      "description": "\ud615\uc81c\uc12c"
+    }, 
+    {
+      "score": 0.44849997758865356, 
+      "description": "\uc0b0\ubc29\uc0b0"
+    }, 
+    {
+      "score": 0.44694602489471436, 
+      "description": "Islet"
+    }, 
+    {
+      "score": 0.44017934799194336, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.43510502576828003, 
+      "description": "\uc218\uc6d4\ubd09"
+    }, 
+    {
+      "score": 0.3985205292701721, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.3109999895095825, 
+      "description": "Island"
+    }, 
+    {
+      "score": 0.28690001368522644, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9646943211555481, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9539990425109863, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9500312805175781, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.9170458912849426, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8819687366485596, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.8701291084289551, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8674857020378113, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8668193817138672, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8516203165054321, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8162350654602051, 
+      "description": "horizon"
+    }
+  ]
+}

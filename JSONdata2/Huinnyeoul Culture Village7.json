@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 85.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.053155556321144104, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 202.0, 
+      "pixel": 0.1132444441318512, 
+      "color-red": 190.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 215.0, 
+      "pixel": 0.06013333424925804, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.018755555152893066, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.024800000712275505, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.018400000408291817, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 167.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.06804444640874863, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 198.0, 
+      "pixel": 0.1363999992609024, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 168.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.029955554753541946, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.029644444584846497, 
+      "color-red": 61.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "coast"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8655194044113159, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.8109069466590881, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.7391999959945679, 
+      "description": "Cape May"
+    }, 
+    {
+      "score": 0.7209298610687256, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.6524341106414795, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.6486116051673889, 
+      "description": "Headland"
+    }, 
+    {
+      "score": 0.6451005339622498, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.560091495513916, 
+      "description": "Cove"
+    }, 
+    {
+      "score": 0.5441258549690247, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.5422504544258118, 
+      "description": "Ocean"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9699293971061707, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9546484351158142, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9067635536193848, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8924224972724915, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8529039025306702, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8518531918525696, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.761040210723877, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.7546059489250183, 
+      "description": "bay"
+    }, 
+    {
+      "score": 0.7514107823371887, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.7375460863113403, 
+      "description": "cape"
+    }
+  ]
+}

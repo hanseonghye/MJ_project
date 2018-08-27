@@ -1,0 +1,142 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 120.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.19073332846164703, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 62.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.06346666812896729, 
+      "color-red": 29.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.09233333170413971, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.00573333352804184, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 108.0, 
+      "pixel": 0.0689999982714653, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 62.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.1377333402633667, 
+      "color-red": 39.0
+    }, 
+    {
+      "color-green": 62.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.055266667157411575, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.03006666712462902, 
+      "color-red": 55.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.045666664838790894, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 177.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.0032666667830199003, 
+      "color-red": 231.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7621862888336182, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.4226018488407135, 
+      "description": "Leaf"
+    }, 
+    {
+      "score": 0.4138369560241699, 
+      "description": "Grassland"
+    }, 
+    {
+      "score": 0.39181867241859436, 
+      "description": "Hill station"
+    }, 
+    {
+      "score": 0.39027729630470276, 
+      "description": "Farm"
+    }, 
+    {
+      "score": 0.3160000145435333, 
+      "description": "Sky plc"
+    }, 
+    {
+      "score": 0.29980000853538513, 
+      "description": "Mountain"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9546310901641846, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9475857615470886, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.8890587687492371, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.854393482208252, 
+      "description": "hill"
+    }, 
+    {
+      "score": 0.820285975933075, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.8181495070457458, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.8123317360877991, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.7787023186683655, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.7744050025939941, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.769701361656189, 
+      "description": "dawn"
+    }
+  ]
+}

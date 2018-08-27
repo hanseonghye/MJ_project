@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 33.239666, 
+      "description": "Oedolgae Rock", 
+      "Longitude": 126.54546299999998
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 127.0, 
+      "color-blue": 179.0, 
+      "pixel": 0.0872444435954094, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.09862222522497177, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.14853332936763763, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 243.0, 
+      "color-blue": 245.0, 
+      "pixel": 0.047600001096725464, 
+      "color-red": 232.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 193.0, 
+      "pixel": 0.02675555646419525, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 183.0, 
+      "pixel": 0.05568888783454895, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 218.0, 
+      "pixel": 0.020266667008399963, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.02755555510520935, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 152.0, 
+      "pixel": 0.03488888964056969, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.036444444209337234, 
+      "color-red": 157.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "oedolgae rock"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.28311648964881897, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.24883712828159332, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.23187807202339172, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.22620807588100433, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.21329998970031738, 
+      "description": "\uc678\ub3cc\uac1c Oedolgae \u7368\u7acb\u5ca9"
+    }, 
+    {
+      "score": 0.20207974314689636, 
+      "description": "Headland"
+    }, 
+    {
+      "score": 0.20138154923915863, 
+      "description": "Cove"
+    }, 
+    {
+      "score": 0.18952880799770355, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.1663694530725479, 
+      "description": "Islet"
+    }, 
+    {
+      "score": 0.1529516577720642, 
+      "description": "Tropics"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9559347033500671, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9224304556846619, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8790762424468994, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8520439863204956, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8437588214874268, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8397390246391296, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8321972489356995, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8016580939292908, 
+      "description": "rock"
+    }, 
+    {
+      "score": 0.7850870490074158, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7814695239067078, 
+      "description": "ocean"
+    }
+  ]
+}

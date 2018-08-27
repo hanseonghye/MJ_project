@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 79.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.24595238268375397, 
+      "color-red": 13.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.024444444105029106, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 64.0, 
+      "color-blue": 107.0, 
+      "pixel": 0.1862698346376419, 
+      "color-red": 4.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 106.0, 
+      "pixel": 0.045079365372657776, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.10420634597539902, 
+      "color-red": 27.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.01746031828224659, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.010873015969991684, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.0067460318095982075, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.02539682574570179, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 72.0, 
+      "pixel": 0.0053174602799117565, 
+      "color-red": 145.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Seoul"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.1485817432403564, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 0.8907577395439148, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.6744999885559082, 
+      "description": "Stock footage"
+    }, 
+    {
+      "score": 0.6410999894142151, 
+      "description": "Time-lapse photography"
+    }, 
+    {
+      "score": 0.5935999751091003, 
+      "description": "Video"
+    }, 
+    {
+      "score": 0.5199000239372253, 
+      "description": ""
+    }, 
+    {
+      "score": 0.517799973487854, 
+      "description": "Korean palace"
+    }, 
+    {
+      "score": 0.508899986743927, 
+      "description": "Shutterstock"
+    }, 
+    {
+      "score": 0.48649999499320984, 
+      "description": "Footage"
+    }, 
+    {
+      "score": 0.4293999969959259, 
+      "description": "Royalty-free"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9855683445930481, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9384800791740417, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9152483940124512, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8216485977172852, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.778662919998169, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.721496045589447, 
+      "description": "dusk"
+    }, 
+    {
+      "score": 0.7131463289260864, 
+      "description": "palace"
+    }, 
+    {
+      "score": 0.6744115948677063, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6717797517776489, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.6573483347892761, 
+      "description": "city"
+    }
+  ]
+}

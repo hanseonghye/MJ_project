@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 85.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.0533333346247673, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.0825333297252655, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.0674000009894371, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.06973333656787872, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.024000000208616257, 
+      "color-red": 61.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.023133333772420883, 
+      "color-red": 76.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.048133332282304764, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.014666666276752949, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.033266667276620865, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.024266665801405907, 
+      "color-red": 148.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "reflection"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7106353044509888, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.7034243941307068, 
+      "description": "Chinese architecture"
+    }, 
+    {
+      "score": 0.7013999819755554, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.6802600026130676, 
+      "description": "Pond"
+    }, 
+    {
+      "score": 0.6584733724594116, 
+      "description": "Pagoda"
+    }, 
+    {
+      "score": 0.652766764163971, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5959718227386475, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.5681999921798706, 
+      "description": "Bank"
+    }, 
+    {
+      "score": 0.5644999742507935, 
+      "description": "Bank M"
+    }, 
+    {
+      "score": 0.5282999873161316, 
+      "description": "Architecture"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9574602842330933, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9508440494537354, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9285678267478943, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9203475713729858, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9118448495864868, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9058133363723755, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8560371398925781, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7860105037689209, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.7735414505004883, 
+      "description": "pagoda"
+    }, 
+    {
+      "score": 0.7538014054298401, 
+      "description": "pond"
+    }
+  ]
+}

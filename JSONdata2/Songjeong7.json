@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 130.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.06996633112430573, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.01239057257771492, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.046666666865348816, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.12538720667362213, 
+      "color-red": 19.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.035151515156030655, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.011515151709318161, 
+      "color-red": 40.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.06134680286049843, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 170.0, 
+      "pixel": 0.017239056527614594, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.10848484933376312, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.031717170029878616, 
+      "color-red": 52.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ubd80\uc0b0 \ud574\ubcc0"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9669049978256226, 
+      "description": "\u0421\u043e\u043d\u0447\u0436\u043e\u043d"
+    }, 
+    {
+      "score": 0.9363585710525513, 
+      "description": "Haeundae Beach"
+    }, 
+    {
+      "score": 0.7835960984230042, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.7485561370849609, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.6275825500488281, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.6174630522727966, 
+      "description": "\uc784\ub791\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 0.6102317571640015, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.6001999974250793, 
+      "description": "Seaside resort"
+    }, 
+    {
+      "score": 0.4885999858379364, 
+      "description": "Carsharing"
+    }, 
+    {
+      "score": 0.4758000075817108, 
+      "description": "\uc3d8\uce74"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9553599953651428, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9543558955192566, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9387043714523315, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9353839159011841, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.8677685260772705, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8561578392982483, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8460618257522583, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8297942280769348, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.7902525067329407, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.7857102155685425, 
+      "description": "metropolitan area"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 14.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.11106666922569275, 
+      "color-red": 27.0
+    }, 
+    {
+      "color-green": 22.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.035955555737018585, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.029511110857129097, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 222.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.11693333089351654, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.026533333584666252, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 41.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.0271555557847023, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.07626666873693466, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.06293333321809769, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.05093333497643471, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 149.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.015644444152712822, 
+      "color-red": 177.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "chinese architecture"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.442947268486023, 
+      "description": "Shinto shrine"
+    }, 
+    {
+      "score": 0.5539975762367249, 
+      "description": "Historic site"
+    }, 
+    {
+      "score": 0.5249001979827881, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.513700008392334, 
+      "description": "Shinto"
+    }, 
+    {
+      "score": 0.468647837638855, 
+      "description": "House"
+    }, 
+    {
+      "score": 0.4647008776664734, 
+      "description": "Chinese architecture"
+    }, 
+    {
+      "score": 0.4196000099182129, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.40529999136924744, 
+      "description": "Shrine"
+    }, 
+    {
+      "score": 0.35148677229881287, 
+      "description": "Hacienda"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9897201061248779, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9528021216392517, 
+      "description": "japanese architecture"
+    }, 
+    {
+      "score": 0.9426661133766174, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.892716109752655, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.7799392342567444, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7389438152313232, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7269940376281738, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.683298647403717, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.6709297895431519, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6441287398338318, 
+      "description": "estate"
+    }
+  ]
+}

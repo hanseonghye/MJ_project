@@ -1,0 +1,142 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 157.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.09234947711229324, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.07137467712163925, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 220.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.03123585321009159, 
+      "color-red": 244.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 187.0, 
+      "pixel": 0.1118907481431961, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 179.0, 
+      "pixel": 0.05937829986214638, 
+      "color-red": 142.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.04760826751589775, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 181.0, 
+      "color-blue": 179.0, 
+      "pixel": 0.012147276662290096, 
+      "color-red": 213.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 182.0, 
+      "pixel": 0.013731704093515873, 
+      "color-red": 231.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.018635883927345276, 
+      "color-red": 122.0
+    }, 
+    {
+      "color-green": 227.0, 
+      "color-blue": 221.0, 
+      "pixel": 0.1395050585269928, 
+      "color-red": 235.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0157824754714966, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.907687783241272, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.7166633009910583, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.6431466937065125, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.6423302888870239, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.5556108355522156, 
+      "description": "Sunset"
+    }, 
+    {
+      "score": 0.40639999508857727, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9614563584327698, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9352896809577942, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.8906893730163574, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.847085177898407, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8412464261054993, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8341386914253235, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.7943757772445679, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.763145387172699, 
+      "description": "sunset"
+    }, 
+    {
+      "score": 0.7587403059005737, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.7545127272605896, 
+      "description": "morning"
+    }
+  ]
+}

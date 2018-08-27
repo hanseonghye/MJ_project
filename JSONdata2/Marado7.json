@@ -1,0 +1,122 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 167.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.06281634420156479, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.03292663395404816, 
+      "color-red": 212.0
+    }, 
+    {
+      "color-green": 227.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.3665086030960083, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 65.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.002397570526227355, 
+      "color-red": 131.0
+    }, 
+    {
+      "color-green": 170.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.015131333842873573, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 104.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.0010123074753209949, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 42.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.0035164367873221636, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.01358623243868351, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 204.0, 
+      "color-blue": 234.0, 
+      "pixel": 0.07453779876232147, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 169.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.027545420452952385, 
+      "color-red": 159.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.5055134892463684, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.44764989614486694, 
+      "description": "Tower"
+    }, 
+    {
+      "score": 0.44117388129234314, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.29649999737739563, 
+      "description": "Sky plc"
+    }, 
+    {
+      "score": 0.28619998693466187, 
+      "description": "The Promontory"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8759666681289673, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8358306288719177, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.7917400002479553, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.7668262124061584, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.6360908150672913, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.55612713098526, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.5087142586708069, 
+      "description": "tower"
+    }
+  ]
+}

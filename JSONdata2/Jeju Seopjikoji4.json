@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 91.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.099247507750988, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.06819876283407211, 
+      "color-red": 46.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.012744898907840252, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.030370822176337242, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 234.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.2255440354347229, 
+      "color-red": 230.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.02487966977059841, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.02203240431845188, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 64.0, 
+      "color-blue": 8.0, 
+      "pixel": 0.03450613468885422, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 206.0, 
+      "color-blue": 209.0, 
+      "pixel": 0.07728289812803268, 
+      "color-red": 194.0
+    }, 
+    {
+      "color-green": 101.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.008474001660943031, 
+      "color-red": 89.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Jeju Province"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.448370099067688, 
+      "description": "Seopjikoji"
+    }, 
+    {
+      "score": 0.4458334743976593, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.4448348879814148, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.3904670178890228, 
+      "description": "\uc5b8\ub355\uc704\uc5d0"
+    }, 
+    {
+      "score": 0.3210769593715668, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.31594568490982056, 
+      "description": "Cliff"
+    }, 
+    {
+      "score": 0.2968499958515167, 
+      "description": "Seacoast (Souvenir of Les Cabanes)"
+    }, 
+    {
+      "score": 0.25793203711509705, 
+      "description": "Cape"
+    }, 
+    {
+      "score": 0.25380000472068787, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.23951256275177002, 
+      "description": "Promontory"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9655686020851135, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9063656330108643, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8863630890846252, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8655362725257874, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8520165681838989, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8091414570808411, 
+      "description": "hill"
+    }, 
+    {
+      "score": 0.7692371606826782, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.7682675719261169, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.7675589323043823, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7279763221740723, 
+      "description": "highland"
+    }
+  ]
+}

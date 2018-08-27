@@ -1,0 +1,165 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.570092, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.977
+    }, 
+    {
+      "Latitude": 37.578256, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.977019
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 22.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.05595238134264946, 
+      "color-red": 32.0
+    }, 
+    {
+      "color-green": 45.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.01944444514811039, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.018333332613110542, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.017142856493592262, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 203.0, 
+      "color-blue": 208.0, 
+      "pixel": 0.09373015910387039, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 41.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.012142857536673546, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 23.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.008888889104127884, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 45.0, 
+      "color-blue": 43.0, 
+      "pixel": 0.14023809134960175, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 109.0, 
+      "pixel": 0.043492063879966736, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.028015872463583946, 
+      "color-red": 153.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "gyeongbokgung"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.4123833179473877, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 1.362974762916565, 
+      "description": "Gwanghwamun"
+    }, 
+    {
+      "score": 1.0837123394012451, 
+      "description": "N Seoul Tower"
+    }, 
+    {
+      "score": 0.7014999985694885, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.6698129773139954, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5764999985694885, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5181070566177368, 
+      "description": "Landmark"
+    }, 
+    {
+      "score": 0.4611999988555908, 
+      "description": "Korean palace"
+    }, 
+    {
+      "score": 0.4180999994277954, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.3522999882698059, 
+      "description": "Depositphotos"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9899252653121948, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9586691856384277, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.951540470123291, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9349544644355774, 
+      "description": "japanese architecture"
+    }, 
+    {
+      "score": 0.8392459154129028, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7921708226203918, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7716087102890015, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7230849266052246, 
+      "description": "palace"
+    }, 
+    {
+      "score": 0.7100537419319153, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.6565483212471008, 
+      "description": "building"
+    }
+  ]
+}

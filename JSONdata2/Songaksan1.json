@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 156.0, 
+      "color-blue": 207.0, 
+      "pixel": 0.04426666721701622, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 71.0, 
+      "pixel": 0.028066666796803474, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.03526666760444641, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 251.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.19846667349338531, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 134.0, 
+      "color-blue": 178.0, 
+      "pixel": 0.008200000040233135, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.05246666818857193, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 168.0, 
+      "color-blue": 211.0, 
+      "pixel": 0.0026666666381061077, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.014333332888782024, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.020266667008399963, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 30.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.010133333504199982, 
+      "color-red": 11.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "coast"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9147361516952515, 
+      "description": "Cove"
+    }, 
+    {
+      "score": 0.5891640782356262, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.58229660987854, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.5570129156112671, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.5514281988143921, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.5454362630844116, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.5167018175125122, 
+      "description": "Headland"
+    }, 
+    {
+      "score": 0.39340001344680786, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.33980000019073486, 
+      "description": "Sky plc"
+    }, 
+    {
+      "score": 0.3338547945022583, 
+      "description": "Loch"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9759845733642578, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9399375319480896, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9364026188850403, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.9347661733627319, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.8989889025688171, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.896555483341217, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8707842230796814, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8519284725189209, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8383228182792664, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.7948657274246216, 
+      "description": "bay"
+    }
+  ]
+}

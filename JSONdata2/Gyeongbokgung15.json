@@ -1,0 +1,175 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.578256, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.977019
+    }, 
+    {
+      "Latitude": 37.532871, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.986846
+    }, 
+    {
+      "Latitude": 37.557121, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.980667
+    }, 
+    {
+      "Latitude": 37.579379, 
+      "description": "Korea Palace", 
+      "Longitude": 126.995293
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 22.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.17892976105213165, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 172.0, 
+      "pixel": 0.011357301846146584, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 20.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.001741917454637587, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 42.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.0005574136157520115, 
+      "color-red": 218.0
+    }, 
+    {
+      "color-green": 33.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.0007664437289349735, 
+      "color-red": 165.0
+    }, 
+    {
+      "color-green": 21.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.0002090300986310467, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.11315496265888214, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.0002090300986310467, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.06180323287844658, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.043826643377542496, 
+      "color-red": 122.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "gyeongbokgung"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.0543668270111084, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 1.4598469734191895, 
+      "description": "Changgyeonggung"
+    }, 
+    {
+      "score": 1.4009243249893188, 
+      "description": "Changdeokgung"
+    }, 
+    {
+      "score": 1.3438901901245117, 
+      "description": "Gyeonghuigung"
+    }, 
+    {
+      "score": 1.2013601064682007, 
+      "description": "Deoksugung"
+    }, 
+    {
+      "score": 1.1690415143966675, 
+      "description": "Joseon"
+    }, 
+    {
+      "score": 0.8991478681564331, 
+      "description": "Gwanghwamun"
+    }, 
+    {
+      "score": 0.7347185611724854, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.7087575197219849, 
+      "description": "Gwanghwamun Plaza"
+    }, 
+    {
+      "score": 0.45100000500679016, 
+      "description": "History"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9892929196357727, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.7946366667747498, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.7911068201065063, 
+      "description": "shinto shrine"
+    }, 
+    {
+      "score": 0.7841869592666626, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.7707521319389343, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.738142728805542, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.6746265292167664, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.6661993861198425, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6612131595611572, 
+      "description": "palace"
+    }, 
+    {
+      "score": 0.6570793390274048, 
+      "description": "shrine"
+    }
+  ]
+}

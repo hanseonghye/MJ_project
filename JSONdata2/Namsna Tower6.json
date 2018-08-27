@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 45.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.18492767214775085, 
+      "color-red": 39.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.07727962732315063, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 97.0, 
+      "color-blue": 108.0, 
+      "pixel": 0.017901383340358734, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 102.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.0003995844454038888, 
+      "color-red": 191.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.0001598337694304064, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 22.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.0001598337694304064, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 77.0, 
+      "pixel": 7.99168847152032e-05, 
+      "color-red": 216.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.0003196675388608128, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 142.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.0002397506614215672, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.04307520017027855, 
+      "color-red": 122.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "n seoul tower"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.4123833179473877, 
+      "description": "N Seoul Tower"
+    }, 
+    {
+      "score": 1.6973166465759277, 
+      "description": "Namsan"
+    }, 
+    {
+      "score": 0.7024000287055969, 
+      "description": "Tower"
+    }, 
+    {
+      "score": 0.5595999956130981, 
+      "description": "Korean drama"
+    }, 
+    {
+      "score": 0.51419997215271, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.44940000772476196, 
+      "description": "Location"
+    }, 
+    {
+      "score": 0.44519999623298645, 
+      "description": "Observation tower"
+    }, 
+    {
+      "score": 0.436599999666214, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4230000078678131, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.41830000281333923, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9593991041183472, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9574006795883179, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.9479317665100098, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8273372650146484, 
+      "description": "atmosphere"
+    }, 
+    {
+      "score": 0.7946669459342957, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7584109306335449, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.7546431422233582, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.7382625341415405, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.7349290251731873, 
+      "description": "dawn"
+    }, 
+    {
+      "score": 0.6678737998008728, 
+      "description": "dusk"
+    }
+  ]
+}

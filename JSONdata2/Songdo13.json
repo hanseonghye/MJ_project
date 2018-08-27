@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 192.0, 
+      "color-blue": 226.0, 
+      "pixel": 0.3156565725803375, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.057575758546590805, 
+      "color-red": 76.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 234.0, 
+      "pixel": 0.22767676413059235, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 138.0, 
+      "pixel": 0.03656565770506859, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 186.0, 
+      "pixel": 0.028282828629016876, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.055252525955438614, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.03585858643054962, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 229.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.008080808445811272, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.028888888657093048, 
+      "color-red": 107.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.02929292991757393, 
+      "color-red": 82.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "metropolitan area"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9597927927970886, 
+      "description": "Skyscraper"
+    }, 
+    {
+      "score": 0.7195072174072266, 
+      "description": "Metropolitan area"
+    }, 
+    {
+      "score": 0.6598015427589417, 
+      "description": "Tower"
+    }, 
+    {
+      "score": 0.6298061609268188, 
+      "description": "Skyline"
+    }, 
+    {
+      "score": 0.6296961307525635, 
+      "description": "Samsung Galaxy S4"
+    }, 
+    {
+      "score": 0.5793300867080688, 
+      "description": "Cityscape"
+    }, 
+    {
+      "score": 0.5754368901252747, 
+      "description": "High-rise building"
+    }, 
+    {
+      "score": 0.531530499458313, 
+      "description": "Urban area"
+    }, 
+    {
+      "score": 0.5287227630615234, 
+      "description": "Corporate headquarters"
+    }, 
+    {
+      "score": 0.4714583158493042, 
+      "description": "Tree"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9832946062088013, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9739733338356018, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.9419234991073608, 
+      "description": "tower block"
+    }, 
+    {
+      "score": 0.9407402873039246, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9339718818664551, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9339121580123901, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.9217603206634521, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9141606092453003, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8980360627174377, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8883181810379028, 
+      "description": "metropolis"
+    }
+  ]
+}

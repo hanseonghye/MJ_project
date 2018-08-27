@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 195.0, 
+      "color-blue": 251.0, 
+      "pixel": 0.1171983852982521, 
+      "color-red": 142.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.06835350394248962, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.06644664704799652, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.04231756553053856, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.04341767355799675, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 210.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.036083608865737915, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 148.0, 
+      "pixel": 0.02794279344379902, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 109.0, 
+      "pixel": 0.02456912398338318, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.029556289315223694, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.022002199664711952, 
+      "color-red": 143.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Yu Garden"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6485151052474976, 
+      "description": "Yu Garden"
+    }, 
+    {
+      "score": 0.8419950008392334, 
+      "description": "City God Temple of Shanghai"
+    }, 
+    {
+      "score": 0.7253513932228088, 
+      "description": "Botanical garden"
+    }, 
+    {
+      "score": 0.7027000188827515, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.7024999856948853, 
+      "description": "Garden"
+    }, 
+    {
+      "score": 0.6571999788284302, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.646729052066803, 
+      "description": "Resort"
+    }, 
+    {
+      "score": 0.59170001745224, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.5235201716423035, 
+      "description": "Resort town"
+    }, 
+    {
+      "score": 0.49516308307647705, 
+      "description": "Majorelle Blue"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9560412168502808, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9423691034317017, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.8967640399932861, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8695216178894043, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8616763949394226, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8480206727981567, 
+      "description": "botanical garden"
+    }, 
+    {
+      "score": 0.8464686274528503, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.834443986415863, 
+      "description": "estate"
+    }, 
+    {
+      "score": 0.8223654627799988, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8175722360610962, 
+      "description": "garden"
+    }
+  ]
+}

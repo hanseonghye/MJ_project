@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 75.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.011687242425978184, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 144.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.008148147724568844, 
+      "color-red": 179.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 240.0, 
+      "pixel": 0.0005761316861025989, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.0002469135797582567, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 110.0, 
+      "pixel": 0.05711933970451355, 
+      "color-red": 40.0
+    }, 
+    {
+      "color-green": 61.0, 
+      "color-blue": 107.0, 
+      "pixel": 0.13135802745819092, 
+      "color-red": 33.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.014814814552664757, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.04024691507220268, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.19588477909564972, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.016296295449137688, 
+      "color-red": 86.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ub0a8\ud574 \uc57c\uacbd"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.278123140335083, 
+      "description": "Namhae Bridge"
+    }, 
+    {
+      "score": 1.0579800605773926, 
+      "description": "Changseon-Samcheonpo Bridge"
+    }, 
+    {
+      "score": 0.7453500032424927, 
+      "description": "\uc5f0\ub959\uad50"
+    }, 
+    {
+      "score": 0.6820770502090454, 
+      "description": "\ub0a8\ud574 \ucda9\ub82c\uc0ac"
+    }, 
+    {
+      "score": 0.6270825266838074, 
+      "description": "Darangee Village"
+    }, 
+    {
+      "score": 0.5000930428504944, 
+      "description": "Sandeulhae"
+    }, 
+    {
+      "score": 0.44794201850891113, 
+      "description": "\uac00\uc871\ud39c\uc158"
+    }, 
+    {
+      "score": 0.4389880299568176, 
+      "description": "\uac00\uc871\ud39c\uc158"
+    }, 
+    {
+      "score": 0.4083000123500824, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.40147802233695984, 
+      "description": "\ub0b4\uace0\ud5a5\uc0ac\uc9c4\uad00"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9466360211372375, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9110488891601562, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.8978859186172485, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8740634918212891, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8487160205841064, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.8007541298866272, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7641721367835999, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7640090584754944, 
+      "description": "river"
+    }, 
+    {
+      "score": 0.6816253662109375, 
+      "description": "lake"
+    }, 
+    {
+      "score": 0.6587945818901062, 
+      "description": "evening"
+    }
+  ]
+}

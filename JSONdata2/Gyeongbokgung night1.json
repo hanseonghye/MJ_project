@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 149.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.022063491865992546, 
+      "color-red": 178.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.07214285433292389, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.035952381789684296, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 71.0, 
+      "pixel": 0.017301587387919426, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.019682539626955986, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.015476190485060215, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.0069047617726027966, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.06753968447446823, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 182.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.006984126754105091, 
+      "color-red": 212.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.0032539681997150183, 
+      "color-red": 118.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Gyeongbokgung"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.1249070167541504, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 0.9894654154777527, 
+      "description": "National Folk Museum of Korea"
+    }, 
+    {
+      "score": 0.7306991815567017, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.5665500164031982, 
+      "description": "National Treasure"
+    }, 
+    {
+      "score": 0.5497499704360962, 
+      "description": "Geunjeongjeon"
+    }, 
+    {
+      "score": 0.45260000228881836, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.4472000002861023, 
+      "description": "Image"
+    }, 
+    {
+      "score": 0.4399000108242035, 
+      "description": "Illustration"
+    }, 
+    {
+      "score": 0.4321431815624237, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.4311999976634979, 
+      "description": "Korean palace"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9893390536308289, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9532256126403809, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8595559597015381, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.8230786919593811, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8188759088516235, 
+      "description": "light"
+    }, 
+    {
+      "score": 0.8057923913002014, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7392899394035339, 
+      "description": "lighting"
+    }, 
+    {
+      "score": 0.6475264430046082, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.6110379695892334, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6020150780677795, 
+      "description": "tourism"
+    }
+  ]
+}

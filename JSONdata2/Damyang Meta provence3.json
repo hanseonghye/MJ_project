@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 19.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.09127714484930038, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 222.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.05403017997741699, 
+      "color-red": 198.0
+    }, 
+    {
+      "color-green": 224.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.033345602452754974, 
+      "color-red": 240.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.10680898278951645, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 213.0, 
+      "color-blue": 245.0, 
+      "pixel": 0.13220463693141937, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 4.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.001913875574246049, 
+      "color-red": 64.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.30077290534973145, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.027015089988708496, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 187.0, 
+      "pixel": 0.02613176219165325, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.051159366965293884, 
+      "color-red": 51.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Damyang County"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6477900743484497, 
+      "description": "\ud504\ub85c\ubc29\uc2a4\ubca0\uc774\ucee4\ub9ac"
+    }, 
+    {
+      "score": 0.5759599804878235, 
+      "description": "\ub2f4\uc591\uba54\ud0c0\ud39c\uc158"
+    }, 
+    {
+      "score": 0.5490000247955322, 
+      "description": ""
+    }, 
+    {
+      "score": 0.44600000977516174, 
+      "description": "Naver Blog"
+    }, 
+    {
+      "score": 0.4163999855518341, 
+      "description": "Villa"
+    }, 
+    {
+      "score": 0.3677999973297119, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.3587000072002411, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.3509458005428314, 
+      "description": "Apartment"
+    }, 
+    {
+      "score": 0.31290000677108765, 
+      "description": "Holiday Home"
+    }, 
+    {
+      "score": 0.3080146908760071, 
+      "description": "Facade"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9207355380058289, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.9197936654090881, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8935599327087402, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.8601852059364319, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.7896713018417358, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.7588310241699219, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.7509024143218994, 
+      "description": "snow"
+    }, 
+    {
+      "score": 0.7174792885780334, 
+      "description": "winter"
+    }, 
+    {
+      "score": 0.6891105771064758, 
+      "description": "roof"
+    }, 
+    {
+      "score": 0.6663488149642944, 
+      "description": "house"
+    }
+  ]
+}

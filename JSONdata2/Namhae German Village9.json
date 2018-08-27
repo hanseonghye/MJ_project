@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 25.0, 
+      "color-blue": 8.0, 
+      "pixel": 0.014758964069187641, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 183.0, 
+      "color-blue": 232.0, 
+      "pixel": 0.0944894552230835, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 12.0, 
+      "color-blue": 3.0, 
+      "pixel": 0.012111975811421871, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 16.0, 
+      "color-blue": 9.0, 
+      "pixel": 0.11005053669214249, 
+      "color-red": 14.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 38.0, 
+      "pixel": 0.003529317444190383, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 244.0, 
+      "color-blue": 237.0, 
+      "pixel": 0.021256115287542343, 
+      "color-red": 248.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.017646586522459984, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.017726799473166466, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 22.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.00826181098818779, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 175.0, 
+      "color-blue": 234.0, 
+      "pixel": 0.2482553869485855, 
+      "color-red": 127.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2026312351226807, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.6799142360687256, 
+      "description": "Suburb"
+    }, 
+    {
+      "score": 0.6681119203567505, 
+      "description": "Property"
+    }, 
+    {
+      "score": 0.6413999795913696, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.6160808205604553, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.5896944403648376, 
+      "description": "Roof"
+    }, 
+    {
+      "score": 0.5095940232276917, 
+      "description": "Resort"
+    }, 
+    {
+      "score": 0.4390000104904175, 
+      "description": "Village"
+    }, 
+    {
+      "score": 0.4187999963760376, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9476696848869324, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.909666121006012, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.905807614326477, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.8975609540939331, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.871667206287384, 
+      "description": "cottage"
+    }, 
+    {
+      "score": 0.8593556880950928, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8158894181251526, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.7587683796882629, 
+      "description": "roof"
+    }, 
+    {
+      "score": 0.724349856376648, 
+      "description": "suburb"
+    }, 
+    {
+      "score": 0.7166240215301514, 
+      "description": "tree"
+    }
+  ]
+}

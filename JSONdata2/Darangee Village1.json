@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 169.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.08595555275678635, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 171.0, 
+      "color-blue": 215.0, 
+      "pixel": 0.07568889111280441, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 96.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.030933333560824394, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 252.0, 
+      "pixel": 0.1951555609703064, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 139.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.06808888912200928, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 171.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.01137777790427208, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 232.0, 
+      "pixel": 0.03751111030578613, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 173.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.02288888953626156, 
+      "color-red": 87.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.011022222228348255, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 172.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.005511111114174128, 
+      "color-red": 89.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "vegetation"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1468697786331177, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.9240524768829346, 
+      "description": "Fjord"
+    }, 
+    {
+      "score": 0.675492525100708, 
+      "description": "Green"
+    }, 
+    {
+      "score": 0.6085532307624817, 
+      "description": "Hill station"
+    }, 
+    {
+      "score": 0.5972442626953125, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.5886005759239197, 
+      "description": "Water resources"
+    }, 
+    {
+      "score": 0.5456842184066772, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.5252000093460083, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.5205000042915344, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.4307999908924103, 
+      "description": "Mountain"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.955368161201477, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.9467781782150269, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9446912407875061, 
+      "description": "green"
+    }, 
+    {
+      "score": 0.9222599864006042, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.8818347454071045, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.8789024353027344, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8758119344711304, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.8520287275314331, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8143207430839539, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.7957810163497925, 
+      "description": "sea"
+    }
+  ]
+}

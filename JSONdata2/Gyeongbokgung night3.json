@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 153.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.004222126677632332, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.00536711048334837, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.00536711048334837, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 34.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.003935880959033966, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 141.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.015171031467616558, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 143.0, 
+      "pixel": 0.005009302869439125, 
+      "color-red": 131.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 8.0, 
+      "pixel": 0.0005009302985854447, 
+      "color-red": 172.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.018319737166166306, 
+      "color-red": 22.0
+    }, 
+    {
+      "color-green": 185.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.011163589544594288, 
+      "color-red": 212.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 221.0, 
+      "pixel": 0.2259911298751831, 
+      "color-red": 113.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "chinese architecture"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6115385293960571, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 0.835090696811676, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.7689163088798523, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.5655999779701233, 
+      "description": "Night"
+    }, 
+    {
+      "score": 0.4492499828338623, 
+      "description": "Central Circus"
+    }, 
+    {
+      "score": 0.40710002183914185, 
+      "description": "Everland"
+    }, 
+    {
+      "score": 0.345124751329422, 
+      "description": "Morning"
+    }, 
+    {
+      "score": 0.3158000111579895, 
+      "description": "Daytime"
+    }, 
+    {
+      "score": 0.30730000138282776, 
+      "description": "Evening"
+    }, 
+    {
+      "score": 0.30709999799728394, 
+      "description": "Day"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9489043951034546, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9411042332649231, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8221294283866882, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7908025979995728, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7758052349090576, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7641802430152893, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.6707229614257812, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.6283422112464905, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.624866783618927, 
+      "description": "dusk"
+    }, 
+    {
+      "score": 0.6243115067481995, 
+      "description": "palace"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 78.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.24309523403644562, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 66.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.0987301617860794, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 234.0, 
+      "pixel": 0.00039682540227659047, 
+      "color-red": 216.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.026746030896902084, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.4235714375972748, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.02063492126762867, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.0059523810632526875, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.04095238074660301, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.12515872716903687, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 34.0, 
+      "color-blue": 41.0, 
+      "pixel": 0.010476190596818924, 
+      "color-red": 15.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Busan"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6149870157241821, 
+      "description": "Gwangandaegyo"
+    }, 
+    {
+      "score": 0.7756342887878418, 
+      "description": "Cable-stayed bridge"
+    }, 
+    {
+      "score": 0.7510470151901245, 
+      "description": "Gwangalli Beach"
+    }, 
+    {
+      "score": 0.7002999782562256, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.5384801030158997, 
+      "description": "Suspension bridge"
+    }, 
+    {
+      "score": 0.47913631796836853, 
+      "description": "Cantilever bridge"
+    }, 
+    {
+      "score": 0.44670000672340393, 
+      "description": "Stock footage"
+    }, 
+    {
+      "score": 0.3984610140323639, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.39657944440841675, 
+      "description": "Extradosed bridge"
+    }, 
+    {
+      "score": 0.2766999900341034, 
+      "description": "Cantilever"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9726536870002747, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.9224831461906433, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.8848909735679626, 
+      "description": "cable stayed bridge"
+    }, 
+    {
+      "score": 0.8651936054229736, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.860962986946106, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.840449869632721, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8370623588562012, 
+      "description": "river"
+    }, 
+    {
+      "score": 0.7859749794006348, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.7538741827011108, 
+      "description": "suspension bridge"
+    }, 
+    {
+      "score": 0.7367274165153503, 
+      "description": "dusk"
+    }
+  ]
+}

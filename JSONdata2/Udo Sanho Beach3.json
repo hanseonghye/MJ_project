@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 85.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.12017777562141418, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 231.0, 
+      "pixel": 0.15173333883285522, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 202.0, 
+      "color-blue": 193.0, 
+      "pixel": 0.14008888602256775, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.04039999842643738, 
+      "color-red": 21.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.0282222218811512, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.019866665825247765, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.020444445312023163, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 166.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.03342222049832344, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 108.0, 
+      "pixel": 0.008977777324616909, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.01653333380818367, 
+      "color-red": 84.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8262264132499695, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.7890000343322754, 
+      "description": "Cape May"
+    }, 
+    {
+      "score": 0.7659987211227417, 
+      "description": "Islet"
+    }, 
+    {
+      "score": 0.679242730140686, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.6542999744415283, 
+      "description": "Lagoon Amusement Park"
+    }, 
+    {
+      "score": 0.6473246812820435, 
+      "description": "Water resources"
+    }, 
+    {
+      "score": 0.6017155051231384, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.5587270855903625, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.5181026458740234, 
+      "description": "Cape"
+    }, 
+    {
+      "score": 0.4986000061035156, 
+      "description": "Water"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9733933806419373, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9017978310585022, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8960157036781311, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8321095705032349, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8020537495613098, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.7830230593681335, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.75485759973526, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.7434189915657043, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.6906300783157349, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.6258336305618286, 
+      "description": "water resources"
+    }
+  ]
+}

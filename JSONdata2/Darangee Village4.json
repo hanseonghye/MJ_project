@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 89.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.08579999953508377, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 222.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.11240000277757645, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 61.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.07953333109617233, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 211.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.10386666655540466, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.02266666665673256, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.03480000048875809, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 224.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.03006666712462902, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 224.0, 
+      "pixel": 0.10366666316986084, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.06553333252668381, 
+      "color-red": 36.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.009666666388511658, 
+      "color-red": 90.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1035232543945312, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 1.0761197805404663, 
+      "description": "Fjord"
+    }, 
+    {
+      "score": 0.7891499996185303, 
+      "description": "Cape May"
+    }, 
+    {
+      "score": 0.7666347026824951, 
+      "description": "Loch"
+    }, 
+    {
+      "score": 0.5925147533416748, 
+      "description": "Hill station"
+    }, 
+    {
+      "score": 0.5653353929519653, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.5279590487480164, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.5027999877929688, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.41110000014305115, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.40619999170303345, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9326344132423401, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9322578310966492, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.9171338081359863, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8969107270240784, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8758424520492554, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.8430545926094055, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8420575261116028, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.82896488904953, 
+      "description": "hill"
+    }, 
+    {
+      "score": 0.8261672854423523, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.8135552406311035, 
+      "description": "sea"
+    }
+  ]
+}

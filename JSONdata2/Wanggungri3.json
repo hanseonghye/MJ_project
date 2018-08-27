@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 235.0, 
+      "color-blue": 211.0, 
+      "pixel": 0.21841950714588165, 
+      "color-red": 248.0
+    }, 
+    {
+      "color-green": 45.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.02974441833794117, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 177.0, 
+      "pixel": 0.23633959889411926, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 186.0, 
+      "pixel": 0.10685957968235016, 
+      "color-red": 202.0
+    }, 
+    {
+      "color-green": 229.0, 
+      "color-blue": 217.0, 
+      "pixel": 0.012779083102941513, 
+      "color-red": 239.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.09400705248117447, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.05728554725646973, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 142.0, 
+      "pixel": 0.06462984532117844, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.026659812778234482, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.035179201513528824, 
+      "color-red": 59.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc775\uc0b0 \ubc31\uc81c"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5128026008605957, 
+      "description": "Arch\u00e4ologische St\u00e4tte von Wanggung-ri"
+    }, 
+    {
+      "score": 1.2731682062149048, 
+      "description": "Mireuksa"
+    }, 
+    {
+      "score": 1.072950005531311, 
+      "description": "Baekje Historic Areas"
+    }, 
+    {
+      "score": 1.0675500631332397, 
+      "description": "Baekje"
+    }, 
+    {
+      "score": 0.7084499597549438, 
+      "description": "Gyeongju Historic Areas"
+    }, 
+    {
+      "score": 0.695805013179779, 
+      "description": "\u0410\u0440\u0445\u0435\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0432 \u041a\u0432\u0430\u043d\u0431\u0443\u043d\u043d\u0438, \u041f\u0443\u0451"
+    }, 
+    {
+      "score": 0.598800003528595, 
+      "description": ""
+    }, 
+    {
+      "score": 0.531499981880188, 
+      "description": "History"
+    }, 
+    {
+      "score": 0.4733999967575073, 
+      "description": "World Heritage site"
+    }, 
+    {
+      "score": 0.45820000767707825, 
+      "description": "UNESCO"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9797962307929993, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.947699248790741, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.8210304379463196, 
+      "description": "dawn"
+    }, 
+    {
+      "score": 0.7783830761909485, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.752612829208374, 
+      "description": "atmosphere"
+    }, 
+    {
+      "score": 0.7198472023010254, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.7157321572303772, 
+      "description": "monument"
+    }, 
+    {
+      "score": 0.710878849029541, 
+      "description": "sunlight"
+    }, 
+    {
+      "score": 0.681172251701355, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.678368330001831, 
+      "description": "afterglow"
+    }
+  ]
+}

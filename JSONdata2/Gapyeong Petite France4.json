@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.714814, 
+      "description": "France", 
+      "Longitude": 127.49056669999999
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 140.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.024796748533844948, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.06520324945449829, 
+      "color-red": 247.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.055365853011608124, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.0003252032620366663, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.025040650740265846, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.0939837396144867, 
+      "color-red": 216.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.06617885828018188, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 137.0, 
+      "pixel": 0.010325203649699688, 
+      "color-red": 222.0
+    }, 
+    {
+      "color-green": 147.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.016422763466835022, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.010162601247429848, 
+      "color-red": 138.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "france"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2788490056991577, 
+      "description": "Petite France, Gapyeong"
+    }, 
+    {
+      "score": 1.2779415845870972, 
+      "description": "Namiseom"
+    }, 
+    {
+      "score": 0.7818295359611511, 
+      "description": "N Seoul Tower"
+    }, 
+    {
+      "score": 0.5785999894142151, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.546500027179718, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.48080000281333923, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.47769999504089355, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.4577000141143799, 
+      "description": "Airline"
+    }, 
+    {
+      "score": 0.4429999887943268, 
+      "description": "Travel Agent"
+    }, 
+    {
+      "score": 0.388700008392334, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8995271325111389, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8947052955627441, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.821732223033905, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8132120966911316, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.8117071390151978, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.7326489686965942, 
+      "description": "estate"
+    }, 
+    {
+      "score": 0.7145171761512756, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.7072466611862183, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.6135099530220032, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6005038022994995, 
+      "description": "city"
+    }
+  ]
+}

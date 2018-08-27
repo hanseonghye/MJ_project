@@ -1,0 +1,142 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 192.0, 
+      "color-blue": 187.0, 
+      "pixel": 0.2991112768650055, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 78.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.0014930679462850094, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 110.0, 
+      "pixel": 0.0019907571841031313, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 104.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.0008531816420145333, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.017774617299437523, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.0010664770379662514, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 238.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.09875577688217163, 
+      "color-red": 244.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.001350870938040316, 
+      "color-red": 179.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 152.0, 
+      "pixel": 0.11325986683368683, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 73.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.013508709147572517, 
+      "color-red": 115.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "alley"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8530500531196594, 
+      "description": "Metasequoia-lined Road"
+    }, 
+    {
+      "score": 0.732710063457489, 
+      "description": "\ud504\ub85c\ubc29\uc2a4\ubca0\uc774\ucee4\ub9ac"
+    }, 
+    {
+      "score": 0.6444900035858154, 
+      "description": "\ub2f4\uc591\uba54\ud0c0\ud39c\uc158"
+    }, 
+    {
+      "score": 0.26475000381469727, 
+      "description": "Provence"
+    }, 
+    {
+      "score": 0.24748077988624573, 
+      "description": "Town"
+    }, 
+    {
+      "score": 0.21451304852962494, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.1776999980211258, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.14640000462532043, 
+      "description": "Dumpling"
+    }, 
+    {
+      "score": 0.007728000171482563, 
+      "description": "Damyang"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9156182408332825, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8558818697929382, 
+      "description": "alley"
+    }, 
+    {
+      "score": 0.8116756677627563, 
+      "description": "street"
+    }, 
+    {
+      "score": 0.7863906025886536, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.6994317770004272, 
+      "description": "road"
+    }, 
+    {
+      "score": 0.6713878512382507, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6079162359237671, 
+      "description": "window"
+    }, 
+    {
+      "score": 0.559354841709137, 
+      "description": "facade"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 192.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.1786625236272812, 
+      "color-red": 219.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.11700122058391571, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.10968171060085297, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 147.0, 
+      "pixel": 0.10236220806837082, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 217.0, 
+      "color-blue": 182.0, 
+      "pixel": 0.028058111667633057, 
+      "color-red": 243.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.0560053214430809, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 179.0, 
+      "color-blue": 134.0, 
+      "pixel": 0.04036819189786911, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 112.0, 
+      "pixel": 0.03582122549414635, 
+      "color-red": 200.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.028612621128559113, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.028723523020744324, 
+      "color-red": 192.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "grass family"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4310450553894043, 
+      "description": "Suncheon Bay reeds"
+    }, 
+    {
+      "score": 1.054800033569336, 
+      "description": "Suncheon Bay"
+    }, 
+    {
+      "score": 0.8895000219345093, 
+      "description": "\u0424\u0435\u0441\u0442\u0438\u0432\u0430\u043b\u044c \u0442\u0440\u043e\u0441\u0442\u043d\u0438\u043a\u0430 \u0432 \u0437\u0430\u043b\u0438\u0432\u0435 \u0421\u0443\u043d\u0447\u0445\u043e\u043d\u043c\u0430\u043d"
+    }, 
+    {
+      "score": 0.5925700068473816, 
+      "description": "\uc21c\ucc9c\ub9cc\uac08\ub300\uc232"
+    }, 
+    {
+      "score": 0.551773726940155, 
+      "description": "Grasses"
+    }, 
+    {
+      "score": 0.4260999858379364, 
+      "description": "Common reed"
+    }, 
+    {
+      "score": 0.42020002007484436, 
+      "description": "\uc7a5\ucc99\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.4172300100326538, 
+      "description": "Suncheon Bay S Hotel"
+    }, 
+    {
+      "score": 0.27149999141693115, 
+      "description": "Bible"
+    }, 
+    {
+      "score": 0.2401999980211258, 
+      "description": "Daum"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8215752840042114, 
+      "description": "grass family"
+    }, 
+    {
+      "score": 0.7641887068748474, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.723177969455719, 
+      "description": "prairie"
+    }, 
+    {
+      "score": 0.6986380815505981, 
+      "description": "ecoregion"
+    }, 
+    {
+      "score": 0.6511027216911316, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.6150948405265808, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.5784664750099182, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.5766863226890564, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.557819664478302, 
+      "description": "wetland"
+    }, 
+    {
+      "score": 0.5358119606971741, 
+      "description": "straw"
+    }
+  ]
+}

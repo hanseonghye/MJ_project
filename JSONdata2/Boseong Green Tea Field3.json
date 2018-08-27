@@ -1,0 +1,165 @@
+{
+  "landmark": [
+    {
+      "Latitude": 34.716333299999995, 
+      "description": "Boseong County", 
+      "Longitude": 127.0783333
+    }, 
+    {
+      "Latitude": 34.721015, 
+      "description": "", 
+      "Longitude": 127.079894
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 161.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.1284920573234558, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.016507936641573906, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.11166666448116302, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.12039682269096375, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.023174602538347244, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.07777778059244156, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 170.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.009365078993141651, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 249.0, 
+      "color-blue": 241.0, 
+      "pixel": 0.08015873283147812, 
+      "color-red": 249.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.07603174448013306, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.014047618955373764, 
+      "color-red": 184.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "boseong county"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0503000020980835, 
+      "description": "Green tea"
+    }, 
+    {
+      "score": 1.004699945449829, 
+      "description": "Tea"
+    }, 
+    {
+      "score": 0.8341500163078308, 
+      "description": "Assam tea"
+    }, 
+    {
+      "score": 0.7764900326728821, 
+      "description": "Boseong Green Tea Field-up treat Ltd. Bo pluralism"
+    }, 
+    {
+      "score": 0.7308850884437561, 
+      "description": "Plantation"
+    }, 
+    {
+      "score": 0.6028000116348267, 
+      "description": "Image"
+    }, 
+    {
+      "score": 0.5846999883651733, 
+      "description": "Stock footage"
+    }, 
+    {
+      "score": 0.573870062828064, 
+      "description": "Tea Plantation"
+    }, 
+    {
+      "score": 0.569100022315979, 
+      "description": "Tea plant"
+    }, 
+    {
+      "score": 0.5503000020980835, 
+      "description": "Farm"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9451144933700562, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8978174924850464, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8531396389007568, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.8272162675857544, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.8238927721977234, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.805361270904541, 
+      "description": "plantation"
+    }, 
+    {
+      "score": 0.7611311674118042, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.6961454749107361, 
+      "description": "terrace"
+    }, 
+    {
+      "score": 0.694796085357666, 
+      "description": "landscape"
+    }, 
+    {
+      "score": 0.6938310861587524, 
+      "description": "rural area"
+    }
+  ]
+}

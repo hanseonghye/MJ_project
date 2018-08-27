@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 170.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.03479452058672905, 
+      "color-red": 122.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.054999999701976776, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.04020547866821289, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.08089040964841843, 
+      "color-red": 40.0
+    }, 
+    {
+      "color-green": 243.0, 
+      "color-blue": 250.0, 
+      "pixel": 0.17205479741096497, 
+      "color-red": 234.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.011917808093130589, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 137.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.05883561819791794, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.0356164388358593, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.0626712292432785, 
+      "color-red": 61.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.0023972601629793644, 
+      "color-red": 150.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ubcf4\uc131 \ub179\ucc28 \ubc2d"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2144711017608643, 
+      "description": "\ubcf4\uc131\ub2e4\uc6d0\ub18d\uc6d0"
+    }, 
+    {
+      "score": 0.9316500425338745, 
+      "description": "Tea"
+    }, 
+    {
+      "score": 0.9052500128746033, 
+      "description": "Green tea"
+    }, 
+    {
+      "score": 0.8295076489448547, 
+      "description": "Darjeeling white tea"
+    }, 
+    {
+      "score": 0.3958394229412079, 
+      "description": "Dahyang"
+    }, 
+    {
+      "score": 0.38670000433921814, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3764200210571289, 
+      "description": "\uc140\ud30c\ub9ac\ubb34\uc9c4\ud22c\uc5b4"
+    }, 
+    {
+      "score": 0.336899995803833, 
+      "description": "Tea garden"
+    }, 
+    {
+      "score": 0.2866774797439575, 
+      "description": "Plantation"
+    }, 
+    {
+      "score": 0.2613438665866852, 
+      "description": "Field"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9367327094078064, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.9255229830741882, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.9115010499954224, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.8861368298530579, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8503137826919556, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.8173654675483704, 
+      "description": "plantation"
+    }, 
+    {
+      "score": 0.7677441239356995, 
+      "description": "hill"
+    }, 
+    {
+      "score": 0.7538782358169556, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.7495805025100708, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.7227956056594849, 
+      "description": "tea plant"
+    }
+  ]
+}

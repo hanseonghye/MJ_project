@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 165.0, 
+      "color-blue": 12.0, 
+      "pixel": 0.10017792135477066, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 138.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.1540960818529129, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.07542353123426437, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.10025528073310852, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.036822155117988586, 
+      "color-red": 213.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.0518295057117939, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.05886903405189514, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.03310899809002876, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 103.0, 
+      "color-blue": 4.0, 
+      "pixel": 0.018720507621765137, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 106.0, 
+      "color-blue": 0.0, 
+      "pixel": 0.007890461944043636, 
+      "color-red": 70.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Green"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4132251739501953, 
+      "description": "Metasequoia-lined Road"
+    }, 
+    {
+      "score": 0.7037000060081482, 
+      "description": "Metasequoia glyptostroboides"
+    }, 
+    {
+      "score": 0.5467418432235718, 
+      "description": "Temperate broadleaf and mixed forest"
+    }, 
+    {
+      "score": 0.4689300060272217, 
+      "description": "Metasequoia-lined Road"
+    }, 
+    {
+      "score": 0.4400590658187866, 
+      "description": "Woodland"
+    }, 
+    {
+      "score": 0.41332709789276123, 
+      "description": "Deciduous"
+    }, 
+    {
+      "score": 0.3892292380332947, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.35740000009536743, 
+      "description": "Arbre d'alignement"
+    }, 
+    {
+      "score": 0.3377000093460083, 
+      "description": "Forest"
+    }, 
+    {
+      "score": 0.3287999927997589, 
+      "description": "Temperate coniferous forest"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9605728983879089, 
+      "description": "green"
+    }, 
+    {
+      "score": 0.956680953502655, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9533559083938599, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9477425217628479, 
+      "description": "woodland"
+    }, 
+    {
+      "score": 0.9431836009025574, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.9288294911384583, 
+      "description": "ecosystem"
+    }, 
+    {
+      "score": 0.9243753552436829, 
+      "description": "path"
+    }, 
+    {
+      "score": 0.9194961190223694, 
+      "description": "grove"
+    }, 
+    {
+      "score": 0.9080528616905212, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.8948072195053101, 
+      "description": "forest"
+    }
+  ]
+}

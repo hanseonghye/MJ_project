@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 177.0, 
+      "color-blue": 4.0, 
+      "pixel": 0.006845785770565271, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 212.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.04409274831414223, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 242.0, 
+      "color-blue": 248.0, 
+      "pixel": 0.05859403684735298, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 100.0, 
+      "color-blue": 8.0, 
+      "pixel": 0.006330511532723904, 
+      "color-red": 244.0
+    }, 
+    {
+      "color-green": 106.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.004563857335597277, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 80.0, 
+      "pixel": 0.0022819286677986383, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 240.0, 
+      "pixel": 0.01612072065472603, 
+      "color-red": 35.0
+    }, 
+    {
+      "color-green": 31.0, 
+      "color-blue": 8.0, 
+      "pixel": 0.005373573862016201, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.008097166195511818, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 145.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.0020610967185348272, 
+      "color-red": 200.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "metropolitan area"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5935701131820679, 
+      "description": "\uc81c\uc8fc\uc870\ucc9c\uc2a4\uc704\uc2a4\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.4724999964237213, 
+      "description": ""
+    }, 
+    {
+      "score": 0.436599999666214, 
+      "description": ""
+    }, 
+    {
+      "score": 0.34220001101493835, 
+      "description": "Location"
+    }, 
+    {
+      "score": 0.33919408917427063, 
+      "description": "Shopping Centre"
+    }, 
+    {
+      "score": 0.33640000224113464, 
+      "description": "Naver Blog"
+    }, 
+    {
+      "score": 0.3345000147819519, 
+      "description": "Switzerland"
+    }, 
+    {
+      "score": 0.33273258805274963, 
+      "description": "Metropolitan area"
+    }, 
+    {
+      "score": 0.26535287499427795, 
+      "description": "Mixed-use"
+    }, 
+    {
+      "score": 0.22112371027469635, 
+      "description": "Facade"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9441596865653992, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.943023145198822, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9181302189826965, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8876680135726929, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.863939106464386, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8610635995864868, 
+      "description": "mixed use"
+    }, 
+    {
+      "score": 0.8470187783241272, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8242437839508057, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7978954315185547, 
+      "description": "street"
+    }, 
+    {
+      "score": 0.6400675773620605, 
+      "description": "downtown"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 192.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.15057839453220367, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.12319456040859222, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 22.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.06398274749517441, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 241.0, 
+      "pixel": 0.08692242205142975, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 149.0, 
+      "color-blue": 143.0, 
+      "pixel": 0.10005881637334824, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.08731455355882645, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.06038821116089821, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 173.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.08777204155921936, 
+      "color-red": 137.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.04875498265028, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 187.0, 
+      "pixel": 0.023723939433693886, 
+      "color-red": 147.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ud55c\uad6d \ub3c5\ub9bd\ubb38"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7750883102416992, 
+      "description": "Independence Gate"
+    }, 
+    {
+      "score": 1.1056979894638062, 
+      "description": "Joseon"
+    }, 
+    {
+      "score": 0.851099967956543, 
+      "description": "Yeongeunmun"
+    }, 
+    {
+      "score": 0.5684443116188049, 
+      "description": "Triumphal arch"
+    }, 
+    {
+      "score": 0.489300012588501, 
+      "description": "History"
+    }, 
+    {
+      "score": 0.38429999351501465, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3801000118255615, 
+      "description": ""
+    }, 
+    {
+      "score": 0.37310001254081726, 
+      "description": "Independence Club"
+    }, 
+    {
+      "score": 0.36082202196121216, 
+      "description": "\ud589\ubcf5\ud55c\uc138\uc0c1"
+    }, 
+    {
+      "score": 0.3474999964237213, 
+      "description": "\ub300\ud55c\ubbfc\uad6d\uc758 \uc0ac\uc801"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9175178408622742, 
+      "description": "arch"
+    }, 
+    {
+      "score": 0.914900004863739, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.851766049861908, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.8090701699256897, 
+      "description": "monument"
+    }, 
+    {
+      "score": 0.7765423059463501, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7562743425369263, 
+      "description": "memorial"
+    }, 
+    {
+      "score": 0.7538708448410034, 
+      "description": "triumphal arch"
+    }, 
+    {
+      "score": 0.7455366253852844, 
+      "description": "stately home"
+    }, 
+    {
+      "score": 0.706847608089447, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6392799615859985, 
+      "description": "aqueduct"
+    }
+  ]
+}

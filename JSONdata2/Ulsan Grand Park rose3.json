@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 105.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.03426666557788849, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.06459999829530716, 
+      "color-red": 228.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 240.0, 
+      "pixel": 0.027266666293144226, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.010999999940395355, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 217.0, 
+      "color-blue": 227.0, 
+      "pixel": 0.05153333395719528, 
+      "color-red": 252.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.02553333342075348, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 147.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.041333332657814026, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.032733332365751266, 
+      "color-red": 148.0
+    }, 
+    {
+      "color-green": 232.0, 
+      "color-blue": 232.0, 
+      "pixel": 0.030533334240317345, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.04613333195447922, 
+      "color-red": 93.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc6b8\uc0b0 \ub300\uacf5\uc6d0 \uc7a5\ubbf8 \ucd95\uc81c"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.399945855140686, 
+      "description": "Ulsan Grand Park"
+    }, 
+    {
+      "score": 1.2032557725906372, 
+      "description": "Garden roses"
+    }, 
+    {
+      "score": 0.7498998045921326, 
+      "description": "Rose"
+    }, 
+    {
+      "score": 0.6348999738693237, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.6008134484291077, 
+      "description": "Daegong-Won"
+    }, 
+    {
+      "score": 0.5756575465202332, 
+      "description": "Seoul Grand Park"
+    }, 
+    {
+      "score": 0.4683000147342682, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4307185411453247, 
+      "description": "Pink"
+    }, 
+    {
+      "score": 0.4129904806613922, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.3562999963760376, 
+      "description": "Garden"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9799640774726868, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9754329323768616, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9459285736083984, 
+      "description": "flowering plant"
+    }, 
+    {
+      "score": 0.9327309727668762, 
+      "description": "pink"
+    }, 
+    {
+      "score": 0.8949525356292725, 
+      "description": "botanical garden"
+    }, 
+    {
+      "score": 0.8943705558776855, 
+      "description": "flora"
+    }, 
+    {
+      "score": 0.8634687662124634, 
+      "description": "garden"
+    }, 
+    {
+      "score": 0.7850483655929565, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.707827627658844, 
+      "description": "rose family"
+    }, 
+    {
+      "score": 0.6617834568023682, 
+      "description": "shrub"
+    }
+  ]
+}

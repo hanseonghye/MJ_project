@@ -1,0 +1,142 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 78.0, 
+      "color-blue": 41.0, 
+      "pixel": 0.10475555807352066, 
+      "color-red": 133.0
+    }, 
+    {
+      "color-green": 183.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.00568888895213604, 
+      "color-red": 247.0
+    }, 
+    {
+      "color-green": 4.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.1128000020980835, 
+      "color-red": 7.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.00426666671410203, 
+      "color-red": 251.0
+    }, 
+    {
+      "color-green": 67.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.09244444221258163, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.053066667169332504, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 75.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.17737777531147003, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 41.0, 
+      "pixel": 0.02800000086426735, 
+      "color-red": 191.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.009022221900522709, 
+      "color-red": 224.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 38.0, 
+      "pixel": 0.020222222432494164, 
+      "color-red": 212.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7471267580986023, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.7271476984024048, 
+      "description": "Red sky at morning"
+    }, 
+    {
+      "score": 0.4612901508808136, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.4117530584335327, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.3409000039100647, 
+      "description": "Progress M-06M"
+    }, 
+    {
+      "score": 0.337799996137619, 
+      "description": "Morning"
+    }, 
+    {
+      "score": 0.3262999951839447, 
+      "description": "Sky"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9668604731559753, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.94729083776474, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.9345681667327881, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.930419385433197, 
+      "description": "sunset"
+    }, 
+    {
+      "score": 0.9112776517868042, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9106593132019043, 
+      "description": "sun"
+    }, 
+    {
+      "score": 0.9024317264556885, 
+      "description": "calm"
+    }, 
+    {
+      "score": 0.9017153978347778, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8912004828453064, 
+      "description": "sunrise"
+    }, 
+    {
+      "score": 0.8627761602401733, 
+      "description": "water"
+    }
+  ]
+}

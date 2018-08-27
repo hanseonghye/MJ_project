@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 107.0, 
+      "color-blue": 70.0, 
+      "pixel": 0.02521008439362049, 
+      "color-red": 165.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.032804232090711594, 
+      "color-red": 133.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 171.0, 
+      "pixel": 0.0016806722851470113, 
+      "color-red": 239.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 148.0, 
+      "pixel": 0.000684718310367316, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 138.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.010893246158957481, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.017989417538046837, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 98.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.009150327183306217, 
+      "color-red": 179.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.024214129894971848, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.013507625088095665, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 133.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.003921568859368563, 
+      "color-red": 225.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "fireworks"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4454371929168701, 
+      "description": "Fireworks"
+    }, 
+    {
+      "score": 0.7908481359481812, 
+      "description": "World"
+    }, 
+    {
+      "score": 0.7010999917984009, 
+      "description": "Independence Day"
+    }, 
+    {
+      "score": 0.6677731871604919, 
+      "description": "New Year's Eve"
+    }, 
+    {
+      "score": 0.586068332195282, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5845566987991333, 
+      "description": "Independence Day"
+    }, 
+    {
+      "score": 0.5132043957710266, 
+      "description": "City"
+    }, 
+    {
+      "score": 0.5, 
+      "description": "New Year"
+    }, 
+    {
+      "score": 0.47859999537467957, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.4117000102996826, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9916391968727112, 
+      "description": "fireworks"
+    }, 
+    {
+      "score": 0.8544021248817444, 
+      "description": "event"
+    }, 
+    {
+      "score": 0.825240433216095, 
+      "description": "festival"
+    }, 
+    {
+      "score": 0.7894450426101685, 
+      "description": "entertainment"
+    }, 
+    {
+      "score": 0.7445889115333557, 
+      "description": "f\u00eate"
+    }, 
+    {
+      "score": 0.7223287224769592, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7020378112792969, 
+      "description": "new year's eve"
+    }, 
+    {
+      "score": 0.6444493532180786, 
+      "description": "public event"
+    }, 
+    {
+      "score": 0.6421554088592529, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.6381338238716125, 
+      "description": "sky"
+    }
+  ]
+}

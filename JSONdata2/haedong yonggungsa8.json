@@ -1,0 +1,165 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.188944, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }, 
+    {
+      "Latitude": 35.1889, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 156.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.1375921368598938, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 188.0, 
+      "pixel": 0.11063335835933685, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 112.0, 
+      "pixel": 0.12421512603759766, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.09165984392166138, 
+      "color-red": 87.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.04088179022073746, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.032282281666994095, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.05569205433130264, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.027027027681469917, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 232.0, 
+      "color-blue": 229.0, 
+      "pixel": 0.15124215185642242, 
+      "color-red": 230.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.022522522136569023, 
+      "color-red": 53.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "haedong yonggungsa"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.9372241497039795, 
+      "description": "Haedong Yonggungsa"
+    }, 
+    {
+      "score": 0.7902510166168213, 
+      "description": "Tongdosa"
+    }, 
+    {
+      "score": 0.723068118095398, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5473499894142151, 
+      "description": "Japanese invasions of Korea"
+    }, 
+    {
+      "score": 0.5468000173568726, 
+      "description": "Buddhist temple"
+    }, 
+    {
+      "score": 0.5309000015258789, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5192999839782715, 
+      "description": "Pagoda"
+    }, 
+    {
+      "score": 0.3067936301231384, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.2752000093460083, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.23836617171764374, 
+      "description": "Chinese architecture"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.94474858045578, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.8207550644874573, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.7816036939620972, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.7624039649963379, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7515122294425964, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7024155259132385, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.6675900816917419, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6569646000862122, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.6389680504798889, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.5797131061553955, 
+      "description": "sky"
+    }
+  ]
+}

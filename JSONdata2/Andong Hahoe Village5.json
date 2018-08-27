@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 206.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.03328859061002731, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 165.0, 
+      "pixel": 0.029932886362075806, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.038120806217193604, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.017114093527197838, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.03127516806125641, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.030536912381649017, 
+      "color-red": 160.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.03684563934803009, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.04140939563512802, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 232.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.005369127728044987, 
+      "color-red": 227.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 183.0, 
+      "pixel": 0.01758389174938202, 
+      "color-red": 196.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "andong korea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.8645315170288086, 
+      "description": "Hahoe Folk Village"
+    }, 
+    {
+      "score": 1.087753176689148, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.7767783999443054, 
+      "description": "Gyeongju"
+    }, 
+    {
+      "score": 0.7227330207824707, 
+      "description": "Jeonju"
+    }, 
+    {
+      "score": 0.3781999945640564, 
+      "description": "Village"
+    }, 
+    {
+      "score": 0.3477252721786499, 
+      "description": "Andong"
+    }, 
+    {
+      "score": 0.3312000036239624, 
+      "description": "Jeonju Hanok Village"
+    }, 
+    {
+      "score": 0.27880001068115234, 
+      "description": "City"
+    }, 
+    {
+      "score": 0.2689000070095062, 
+      "description": "Culture"
+    }, 
+    {
+      "score": 0.258899986743927, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8787319660186768, 
+      "description": "suburb"
+    }, 
+    {
+      "score": 0.8671297430992126, 
+      "description": "village"
+    }, 
+    {
+      "score": 0.8272334933280945, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8188634514808655, 
+      "description": "bird's eye view"
+    }, 
+    {
+      "score": 0.8143696784973145, 
+      "description": "mountain village"
+    }, 
+    {
+      "score": 0.8047963976860046, 
+      "description": "rural area"
+    }, 
+    {
+      "score": 0.768372118473053, 
+      "description": "aerial photography"
+    }, 
+    {
+      "score": 0.7140503525733948, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6398091912269592, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.635058581829071, 
+      "description": "estate"
+    }
+  ]
+}

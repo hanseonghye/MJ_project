@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 191.0, 
+      "color-blue": 193.0, 
+      "pixel": 0.17833594977855682, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 240.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.19089481234550476, 
+      "color-red": 231.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.12653061747550964, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.10565149039030075, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.0744113028049469, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 227.0, 
+      "pixel": 0.12480376660823822, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.030298274010419846, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 23.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.012323390692472458, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 229.0, 
+      "color-blue": 245.0, 
+      "pixel": 0.06985871493816376, 
+      "color-red": 211.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.00431711133569479, 
+      "color-red": 122.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Asan Mediterranean town"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4054701328277588, 
+      "description": "Asan Mediterranean town"
+    }, 
+    {
+      "score": 0.5351499915122986, 
+      "description": "Gruber Wohnbau- und Vertriebs-GmbH"
+    }, 
+    {
+      "score": 0.5307000279426575, 
+      "description": ""
+    }, 
+    {
+      "score": 0.47905001044273376, 
+      "description": "Andreasstra\u00dfe"
+    }, 
+    {
+      "score": 0.4246000051498413, 
+      "description": "Naver Blog"
+    }, 
+    {
+      "score": 0.42170000076293945, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.34870901703834534, 
+      "description": "Apartment"
+    }, 
+    {
+      "score": 0.33855000138282776, 
+      "description": "Cheonan"
+    }, 
+    {
+      "score": 0.3192000091075897, 
+      "description": "Gruber Wohnbau und Vertriebs GmbH"
+    }, 
+    {
+      "score": 0.2940260171890259, 
+      "description": "Property"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9171209931373596, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.9150454998016357, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8572195172309875, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.7970189452171326, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.7454670667648315, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7138531804084778, 
+      "description": "apartment"
+    }, 
+    {
+      "score": 0.6914162635803223, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.6671690940856934, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.6566952466964722, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6522529721260071, 
+      "description": "facade"
+    }
+  ]
+}

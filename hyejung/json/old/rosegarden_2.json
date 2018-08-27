@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 14.0, 
+      "color-blue": 3.0, 
+      "pixel": 0.10619047284126282, 
+      "color-red": 7.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.06208333373069763, 
+      "color-red": 30.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.06732142716646194, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 136.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.05434523895382881, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 29.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.015476190485060215, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 107.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.011964285746216774, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.007083333563059568, 
+      "color-red": 179.0
+    }, 
+    {
+      "color-green": 33.0, 
+      "color-blue": 4.0, 
+      "pixel": 0.060773808509111404, 
+      "color-red": 14.0
+    }, 
+    {
+      "color-green": 63.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.04267857223749161, 
+      "color-red": 39.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.05874999985098839, 
+      "color-red": 47.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "rose garden"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7505999803543091, 
+      "description": "Mottisfont"
+    }, 
+    {
+      "score": 0.7135000228881836, 
+      "description": "Garden"
+    }, 
+    {
+      "score": 0.707099974155426, 
+      "description": "Rose garden"
+    }, 
+    {
+      "score": 0.7021999955177307, 
+      "description": "Garden roses"
+    }, 
+    {
+      "score": 0.7021999955177307, 
+      "description": "Rose"
+    }, 
+    {
+      "score": 0.6008999943733215, 
+      "description": "Successful Rose Gardening"
+    }, 
+    {
+      "score": 0.5665000081062317, 
+      "description": "Flower garden"
+    }, 
+    {
+      "score": 0.5174999833106995, 
+      "description": "Back garden"
+    }, 
+    {
+      "score": 0.49079999327659607, 
+      "description": "Desktop Wallpaper"
+    }, 
+    {
+      "score": 0.4429999887943268, 
+      "description": "Flower"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9834682941436768, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9645252227783203, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9489591717720032, 
+      "description": "garden"
+    }, 
+    {
+      "score": 0.9318380355834961, 
+      "description": "flowering plant"
+    }, 
+    {
+      "score": 0.9240579605102539, 
+      "description": "pink"
+    }, 
+    {
+      "score": 0.9156964421272278, 
+      "description": "garden roses"
+    }, 
+    {
+      "score": 0.9148654341697693, 
+      "description": "botanical garden"
+    }, 
+    {
+      "score": 0.9020801186561584, 
+      "description": "flora"
+    }, 
+    {
+      "score": 0.8909266591072083, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8723094463348389, 
+      "description": "rose family"
+    }
+  ]
+}

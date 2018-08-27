@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 155.0, 
+      "color-blue": 214.0, 
+      "pixel": 0.12964271008968353, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.04766276106238365, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 217.0, 
+      "pixel": 0.3032057583332062, 
+      "color-red": 236.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.01744103990495205, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.0486513189971447, 
+      "color-red": 133.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 142.0, 
+      "pixel": 0.05076966434717178, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 61.0, 
+      "color-blue": 106.0, 
+      "pixel": 0.003530574729666114, 
+      "color-red": 33.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.005790142808109522, 
+      "color-red": 33.0
+    }, 
+    {
+      "color-green": 145.0, 
+      "color-blue": 222.0, 
+      "pixel": 0.038624487817287445, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 202.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.10874170064926147, 
+      "color-red": 210.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc81c\uc8fc \uc6b0\ub3c4 \uc11c\ube48 \ubc31\uc0ac"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.28011953830719, 
+      "description": "Udo"
+    }, 
+    {
+      "score": 1.076295018196106, 
+      "description": "Hongjodangoe (Coralsand beach)"
+    }, 
+    {
+      "score": 1.0459221601486206, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.840149998664856, 
+      "description": "Jeju Olle Trail"
+    }, 
+    {
+      "score": 0.7149285078048706, 
+      "description": "\uc11c\ube48\ubc31\uc0ac\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 0.4997999966144562, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.49149999022483826, 
+      "description": "\uc81c\uc8fc\uc62c\ub808"
+    }, 
+    {
+      "score": 0.4782438278198242, 
+      "description": "Island"
+    }, 
+    {
+      "score": 0.4731000065803528, 
+      "description": "Asan"
+    }, 
+    {
+      "score": 0.4253999888896942, 
+      "description": "\uc62c\ub808"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.98110032081604, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9803625345230103, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.9470296502113342, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9449335932731628, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.9388652443885803, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.9352318048477173, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9313979744911194, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9219347834587097, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.7985693216323853, 
+      "description": "vacation"
+    }, 
+    {
+      "score": 0.7962999939918518, 
+      "description": "promontory"
+    }
+  ]
+}

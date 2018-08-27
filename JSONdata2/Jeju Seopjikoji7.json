@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 19.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.25923076272010803, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.04710059240460396, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 218.0, 
+      "pixel": 0.048639051616191864, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.010355029255151749, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 28.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.03562130033969879, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 206.0, 
+      "color-blue": 211.0, 
+      "pixel": 0.0636686384677887, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.038165681064128876, 
+      "color-red": 51.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.009585798718035221, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 104.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.00615384615957737, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 223.0, 
+      "pixel": 0.30443787574768066, 
+      "color-red": 225.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Jeju City"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.4210955500602722, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.3794560134410858, 
+      "description": "\uc81c\uc8fc\uc544\uc774\ub80c\ud2b8\uce74(\uc8fc)"
+    }, 
+    {
+      "score": 0.32116690278053284, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.2919730246067047, 
+      "description": "\uc81c\uc8fc\uc2a4\ud0c0\ub80c\ud2b8\uce74"
+    }, 
+    {
+      "score": 0.28764235973358154, 
+      "description": "Cliff"
+    }, 
+    {
+      "score": 0.28279998898506165, 
+      "description": "Wind wave"
+    }, 
+    {
+      "score": 0.26510000228881836, 
+      "description": "Jeju language"
+    }, 
+    {
+      "score": 0.24799999594688416, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.22831574082374573, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.20326288044452667, 
+      "description": "Ocean"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9728254079818726, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9034519791603088, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8520659804344177, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8470463752746582, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.833614706993103, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.7923119068145752, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7852970957756042, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.7482300996780396, 
+      "description": "loch"
+    }, 
+    {
+      "score": 0.7009279131889343, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.6620250940322876, 
+      "description": "cliff"
+    }
+  ]
+}

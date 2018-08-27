@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 119.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.03636884316802025, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.030426690354943275, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.01567869447171688, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.04223940521478653, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.04331328719854355, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.027634592726826668, 
+      "color-red": 107.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.02076174132525921, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.07961054146289825, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.08855956792831421, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.01009450200945139, 
+      "color-red": 179.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "nature"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4279100894927979, 
+      "description": "Naewonsa"
+    }, 
+    {
+      "score": 1.1645700931549072, 
+      "description": "Cheonseongsan"
+    }, 
+    {
+      "score": 1.0423049926757812, 
+      "description": "\ub0b4\uc6d0\uc0ac\uacc4\uace1"
+    }, 
+    {
+      "score": 0.5292783975601196, 
+      "description": "Waterfall"
+    }, 
+    {
+      "score": 0.5068323612213135, 
+      "description": "Stream"
+    }, 
+    {
+      "score": 0.45500001311302185, 
+      "description": "Buddhist temple"
+    }, 
+    {
+      "score": 0.4090999960899353, 
+      "description": "Autumn leaf color"
+    }, 
+    {
+      "score": 0.3825644850730896, 
+      "description": "Leaf"
+    }, 
+    {
+      "score": 0.3817000091075897, 
+      "description": "Bhikkhuni"
+    }, 
+    {
+      "score": 0.3702000081539154, 
+      "description": "Autumn"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9724240303039551, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9604147672653198, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9569599032402039, 
+      "description": "waterfall"
+    }, 
+    {
+      "score": 0.9547936320304871, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.9354475140571594, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.909505307674408, 
+      "description": "stream"
+    }, 
+    {
+      "score": 0.8649495244026184, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8631895184516907, 
+      "description": "watercourse"
+    }, 
+    {
+      "score": 0.8529510498046875, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.845148503780365, 
+      "description": "nature reserve"
+    }
+  ]
+}

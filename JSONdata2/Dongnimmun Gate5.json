@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 159.0, 
+      "color-blue": 139.0, 
+      "pixel": 0.0450541153550148, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 173.0, 
+      "color-blue": 205.0, 
+      "pixel": 0.14548200368881226, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.03339206427335739, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 169.0, 
+      "pixel": 0.05327628180384636, 
+      "color-red": 194.0
+    }, 
+    {
+      "color-green": 168.0, 
+      "color-blue": 214.0, 
+      "pixel": 0.23567412793636322, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 183.0, 
+      "pixel": 0.08624884486198425, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 154.0, 
+      "pixel": 0.05705176666378975, 
+      "color-red": 160.0
+    }, 
+    {
+      "color-green": 183.0, 
+      "color-blue": 211.0, 
+      "pixel": 0.09413541108369827, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.03507005795836449, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.03507005795836449, 
+      "color-red": 120.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ub3c5\ub9bd\ubb38"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.149064779281616, 
+      "description": "Independence Gate"
+    }, 
+    {
+      "score": 0.8624999523162842, 
+      "description": "Yeongeunmun"
+    }, 
+    {
+      "score": 0.7505911588668823, 
+      "description": "Triumphal arch"
+    }, 
+    {
+      "score": 0.6919000148773193, 
+      "description": "History"
+    }, 
+    {
+      "score": 0.6268500089645386, 
+      "description": "Historic Sites of South Korea"
+    }, 
+    {
+      "score": 0.6127499938011169, 
+      "description": "Gabo Reform"
+    }, 
+    {
+      "score": 0.5912235379219055, 
+      "description": "Historic site"
+    }, 
+    {
+      "score": 0.36110031604766846, 
+      "description": "\uc6b0\ub9ac\ub4e4\uc758 \uacf5\uac04"
+    }, 
+    {
+      "score": 0.3199999928474426, 
+      "description": "Culture"
+    }, 
+    {
+      "score": 0.24950000643730164, 
+      "description": "Bridge"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9585996270179749, 
+      "description": "arch"
+    }, 
+    {
+      "score": 0.9461824297904968, 
+      "description": "triumphal arch"
+    }, 
+    {
+      "score": 0.9321268200874329, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.9291144013404846, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8670138716697693, 
+      "description": "national historic landmark"
+    }, 
+    {
+      "score": 0.8056620955467224, 
+      "description": "monument"
+    }, 
+    {
+      "score": 0.7588914632797241, 
+      "description": "aqueduct"
+    }, 
+    {
+      "score": 0.7046240568161011, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.6827913522720337, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6302933096885681, 
+      "description": "viaduct"
+    }
+  ]
+}

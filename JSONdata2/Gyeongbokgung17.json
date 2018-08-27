@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.578256, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.977019
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 48.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.09913333505392075, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.0692666694521904, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 182.0, 
+      "pixel": 0.07426666468381882, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 210.0, 
+      "pixel": 0.30660000443458557, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.03866666555404663, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 200.0, 
+      "pixel": 0.08266666531562805, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 30.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.07453333586454391, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.03519999980926514, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 140.0, 
+      "pixel": 0.026733333244919777, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.004066666588187218, 
+      "color-red": 46.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "gyeongbokgung"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.9528168439865112, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 0.9223213791847229, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.9094499945640564, 
+      "description": "Joseon"
+    }, 
+    {
+      "score": 0.6526716947555542, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.4878000020980835, 
+      "description": "Winter"
+    }, 
+    {
+      "score": 0.3430232107639313, 
+      "description": "Snow"
+    }, 
+    {
+      "score": 0.2978000044822693, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.2888999879360199, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.227400004863739, 
+      "description": "Season"
+    }, 
+    {
+      "score": 0.2273000031709671, 
+      "description": "Night"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9023864269256592, 
+      "description": "snow"
+    }, 
+    {
+      "score": 0.8988761901855469, 
+      "description": "winter"
+    }, 
+    {
+      "score": 0.7532867789268494, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.708601176738739, 
+      "description": "freezing"
+    }, 
+    {
+      "score": 0.6580777168273926, 
+      "description": "town square"
+    }, 
+    {
+      "score": 0.6579052805900574, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.6453984379768372, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.6438241600990295, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6030256152153015, 
+      "description": "ice"
+    }, 
+    {
+      "score": 0.5974757671356201, 
+      "description": "tree"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 85.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.1491333395242691, 
+      "color-red": 87.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.11153333634138107, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.11953333020210266, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.011933333240449429, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.01126666646450758, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.06586666405200958, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.025599999353289604, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.009666666388511658, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.003000000026077032, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.24793332815170288, 
+      "color-red": 108.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "metropolitan area"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.5999400019645691, 
+      "description": "Inwangsan"
+    }, 
+    {
+      "score": 0.5323395133018494, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 0.5177000164985657, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.4407150447368622, 
+      "description": "\uc548\uc0b0"
+    }, 
+    {
+      "score": 0.4169315993785858, 
+      "description": "Aerial photography"
+    }, 
+    {
+      "score": 0.3260999917984009, 
+      "description": "Night"
+    }, 
+    {
+      "score": 0.31520000100135803, 
+      "description": "Copyright"
+    }, 
+    {
+      "score": 0.30489999055862427, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.29299938678741455, 
+      "description": "Bird's-eye view"
+    }, 
+    {
+      "score": 0.2881464660167694, 
+      "description": "Cityscape"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9899494051933289, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9868910312652588, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9852427244186401, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9844512343406677, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9691479802131653, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9568931460380554, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.9196773767471313, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9029249548912048, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.8818243145942688, 
+      "description": "tower block"
+    }, 
+    {
+      "score": 0.881778359413147, 
+      "description": "sky"
+    }
+  ]
+}

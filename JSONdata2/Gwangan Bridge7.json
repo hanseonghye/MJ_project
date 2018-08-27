@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 79.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.43047618865966797, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 215.0, 
+      "pixel": 0.0023809524718672037, 
+      "color-red": 190.0
+    }, 
+    {
+      "color-green": 78.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.08325396478176117, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 77.0, 
+      "pixel": 0.3692857027053833, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.008571428246796131, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 183.0, 
+      "pixel": 0.0017460316885262728, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 107.0, 
+      "pixel": 0.009285714477300644, 
+      "color-red": 87.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.0049206349067389965, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.013015872798860073, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.0024603174533694983, 
+      "color-red": 157.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Busan"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6142610311508179, 
+      "description": "Gwangandaegyo"
+    }, 
+    {
+      "score": 0.6868499517440796, 
+      "description": "Manhattan Bridge"
+    }, 
+    {
+      "score": 0.5899999737739563, 
+      "description": "Stock footage"
+    }, 
+    {
+      "score": 0.5884000062942505, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.5432000160217285, 
+      "description": "Video"
+    }, 
+    {
+      "score": 0.5051047205924988, 
+      "description": "Suspension bridge"
+    }, 
+    {
+      "score": 0.4999000132083893, 
+      "description": "Music video"
+    }, 
+    {
+      "score": 0.4838842749595642, 
+      "description": "Cable-stayed bridge"
+    }, 
+    {
+      "score": 0.478300005197525, 
+      "description": "Time-lapse photography"
+    }, 
+    {
+      "score": 0.47528478503227234, 
+      "description": "Bridge\u2013tunnel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9704589247703552, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.9384467005729675, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9280946850776672, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9036132097244263, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8987008333206177, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.868283748626709, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.8675568699836731, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.8632391691207886, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8501871824264526, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.8488276600837708, 
+      "description": "dusk"
+    }
+  ]
+}

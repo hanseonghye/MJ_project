@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 208.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.20079320669174194, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.07185021042823792, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 207.0, 
+      "color-blue": 213.0, 
+      "pixel": 0.054786939173936844, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.023611878976225853, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 70.0, 
+      "pixel": 0.06170448288321495, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.027024533599615097, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.01411178708076477, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 154.0, 
+      "pixel": 0.10237963497638702, 
+      "color-red": 142.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.03366537392139435, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.0845784917473793, 
+      "color-red": 117.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "reflection"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2752190828323364, 
+      "description": "Gungnamji"
+    }, 
+    {
+      "score": 0.8488150238990784, 
+      "description": "\ubd80\uc5ec \uad81\ub0a8\uc9c0"
+    }, 
+    {
+      "score": 0.7543140053749084, 
+      "description": "Gongju"
+    }, 
+    {
+      "score": 0.4886052906513214, 
+      "description": "Fish pond"
+    }, 
+    {
+      "score": 0.41449999809265137, 
+      "description": ""
+    }, 
+    {
+      "score": 0.2506702244281769, 
+      "description": "Reservoir"
+    }, 
+    {
+      "score": 0.2190030962228775, 
+      "description": "Water resources"
+    }, 
+    {
+      "score": 0.2174161672592163, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.17520000040531158, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.1690872311592102, 
+      "description": "Waterway"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9670535922050476, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.956994354724884, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9519283175468445, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9346180558204651, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9193428754806519, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.9106360673904419, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8795041441917419, 
+      "description": "lake"
+    }, 
+    {
+      "score": 0.8712106347084045, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8590299487113953, 
+      "description": "pond"
+    }, 
+    {
+      "score": 0.852189838886261, 
+      "description": "reservoir"
+    }
+  ]
+}

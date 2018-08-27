@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 102.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.07343707233667374, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 78.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.15950040519237518, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.05985530838370323, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.10544635355472565, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.034671034663915634, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.09814359992742538, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.007371007464826107, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 109.0, 
+      "pixel": 0.026958776637911797, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 142.0, 
+      "pixel": 0.009486759081482887, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 176.0, 
+      "pixel": 0.0070297569036483765, 
+      "color-red": 142.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1578049659729004, 
+      "description": "\uc544\uc0b0 \uacf5\uc138\ub9ac\uc131\ub2f9"
+    }, 
+    {
+      "score": 0.5615968108177185, 
+      "description": "Basilica"
+    }, 
+    {
+      "score": 0.5340500473976135, 
+      "description": "\uc544\uc0b0\ub9cc\ubc29\uc870\uc81c"
+    }, 
+    {
+      "score": 0.44983047246932983, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.3700000047683716, 
+      "description": "Nightscape"
+    }, 
+    {
+      "score": 0.28277501463890076, 
+      "description": "Evening"
+    }, 
+    {
+      "score": 0.2683817446231842, 
+      "description": "Cathedral"
+    }, 
+    {
+      "score": 0.23648890852928162, 
+      "description": "Purple"
+    }, 
+    {
+      "score": 0.22582894563674927, 
+      "description": "Steeple"
+    }, 
+    {
+      "score": 0.21536952257156372, 
+      "description": "Chapel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9702502489089966, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.955991268157959, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9557541608810425, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9277294278144836, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.914775550365448, 
+      "description": "spire"
+    }, 
+    {
+      "score": 0.906775712966919, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8876408338546753, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8822745680809021, 
+      "description": "purple"
+    }, 
+    {
+      "score": 0.8515207171440125, 
+      "description": "winter"
+    }, 
+    {
+      "score": 0.8339790105819702, 
+      "description": "steeple"
+    }
+  ]
+}

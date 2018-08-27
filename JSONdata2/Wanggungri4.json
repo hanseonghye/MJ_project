@@ -1,0 +1,146 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 195.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.07631055265665054, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 233.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.06531424820423126, 
+      "color-red": 243.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 222.0, 
+      "pixel": 0.05972130224108696, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 212.0, 
+      "pixel": 0.12465636432170868, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 180.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.01905393786728382, 
+      "color-red": 249.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.005498151294887066, 
+      "color-red": 250.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.020665466785430908, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 15.0, 
+      "color-blue": 12.0, 
+      "pixel": 0.02180301398038864, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.00018959143199026585, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 237.0, 
+      "color-blue": 206.0, 
+      "pixel": 0.025500047951936722, 
+      "color-red": 252.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.5105510950088501, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.4929392337799072, 
+      "description": "Energy"
+    }, 
+    {
+      "score": 0.483563631772995, 
+      "description": "Tower"
+    }, 
+    {
+      "score": 0.45154428482055664, 
+      "description": "Desktop Wallpaper"
+    }, 
+    {
+      "score": 0.44566234946250916, 
+      "description": "Grassland"
+    }, 
+    {
+      "score": 0.4036000072956085, 
+      "description": "Computer"
+    }, 
+    {
+      "score": 0.3522999882698059, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.35109999775886536, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9748996496200562, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9163132905960083, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8776041269302368, 
+      "description": "afterglow"
+    }, 
+    {
+      "score": 0.8432045578956604, 
+      "description": "dawn"
+    }, 
+    {
+      "score": 0.8349044322967529, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.8096379637718201, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.7999905347824097, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.7715827822685242, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.7450002431869507, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7129026651382446, 
+      "description": "sunlight"
+    }
+  ]
+}

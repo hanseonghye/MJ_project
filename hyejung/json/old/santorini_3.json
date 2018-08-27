@@ -1,0 +1,144 @@
+{
+  "landmark": [
+    {
+      "Latitude": 36.424045, 
+      "description": "Th\u00edra", 
+      "Longitude": 25.427427
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 189.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.06780000030994415, 
+      "color-red": 219.0
+    }, 
+    {
+      "color-green": 73.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.01679999940097332, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 147.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.05793333426117897, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 200.0, 
+      "pixel": 0.026333333924412727, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 168.0, 
+      "pixel": 0.0692666694521904, 
+      "color-red": 227.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.028599999845027924, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.03959999978542328, 
+      "color-red": 216.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.03306666761636734, 
+      "color-red": 148.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.018333332613110542, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.06539999693632126, 
+      "color-red": 184.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "th\u00edra"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6133534908294678, 
+      "description": "Santorini"
+    }, 
+    {
+      "score": 1.0879110097885132, 
+      "description": "Naxos"
+    }, 
+    {
+      "score": 0.9575940370559692, 
+      "description": "Mykonos"
+    }, 
+    {
+      "score": 0.8976989984512329, 
+      "description": "Paros"
+    }, 
+    {
+      "score": 0.6693000197410583, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.6601999998092651, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.6266000270843506, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5461999773979187, 
+      "description": "Cruise ship"
+    }, 
+    {
+      "score": 0.541100025177002, 
+      "description": "Island"
+    }, 
+    {
+      "score": 0.5085999965667725, 
+      "description": "Accommodation"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8542128205299377, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.8295063376426697, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.6960249543190002, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6230126023292542, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.5311899185180664, 
+      "description": "vacation"
+    }, 
+    {
+      "score": 0.5302174091339111, 
+      "description": "coast"
+    }
+  ]
+}

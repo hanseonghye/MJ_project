@@ -1,0 +1,138 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 72.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.021694215014576912, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 35.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.005337465554475784, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.11578856408596039, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 71.0, 
+      "color-blue": 74.0, 
+      "pixel": 0.023932507261633873, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 40.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.01764807105064392, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.029958678409457207, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 29.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.008178374730050564, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 28.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.005251377355307341, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.005595730151981115, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.004907025024294853, 
+      "color-red": 140.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.740851104259491, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.6685813069343567, 
+      "description": "River"
+    }, 
+    {
+      "score": 0.6657000184059143, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.5656843185424805, 
+      "description": "Extradosed bridge"
+    }, 
+    {
+      "score": 0.5226225256919861, 
+      "description": "City"
+    }, 
+    {
+      "score": 0.4316999912261963, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.969550609588623, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.8977113962173462, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8099285364151001, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.8048510551452637, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.772469699382782, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.7443321347236633, 
+      "description": "river"
+    }, 
+    {
+      "score": 0.7364460825920105, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.6987742185592651, 
+      "description": "dusk"
+    }, 
+    {
+      "score": 0.6763745546340942, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.6577144265174866, 
+      "description": "water"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 61.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.0443345308303833, 
+      "color-red": 29.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.017985612154006958, 
+      "color-red": 22.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.06780575215816498, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 251.0, 
+      "pixel": 0.012410071678459644, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.028057554736733437, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.29694244265556335, 
+      "color-red": 13.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.017805755138397217, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.07428057491779327, 
+      "color-red": 32.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.027967626228928566, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.0486510805785656, 
+      "color-red": 102.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Boseong County"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8168710470199585, 
+      "description": "Dahyang"
+    }, 
+    {
+      "score": 0.6699000000953674, 
+      "description": "Tea"
+    }, 
+    {
+      "score": 0.6505500078201294, 
+      "description": "Green tea"
+    }, 
+    {
+      "score": 0.5755000114440918, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.48460501432418823, 
+      "description": "\uc601\ub18d\uc870\ud569\ubc95\uc778\ubcf4\uc131\ucc28\ubc2d"
+    }, 
+    {
+      "score": 0.4278559982776642, 
+      "description": "Boseong Green Tea Field-up treat Ltd. Bo pluralism"
+    }, 
+    {
+      "score": 0.38429999351501465, 
+      "description": "Evenement"
+    }, 
+    {
+      "score": 0.3796980082988739, 
+      "description": "\ubcf4\uc131\ub2e4\uc6d0\ub18d\uc6d0"
+    }, 
+    {
+      "score": 0.34880998730659485, 
+      "description": "2018 \ud0dc\uc548 \uc138\uacc4\ud2a4\ub9bd\ucd95\uc81c"
+    }, 
+    {
+      "score": 0.3321000039577484, 
+      "description": "May"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9518604278564453, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9429907202720642, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.9224634170532227, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.906324565410614, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.8997358679771423, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8365343809127808, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.8189703226089478, 
+      "description": "plantation"
+    }, 
+    {
+      "score": 0.8188958764076233, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.7415905594825745, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.7034241557121277, 
+      "description": "rural area"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 168.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.065476194024086, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 169.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.0875396803021431, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 168.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.03960317373275757, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.05198412761092186, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.05198412761092186, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 140.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.04198412597179413, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.05206349119544029, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.012301587499678135, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 107.0, 
+      "pixel": 0.013412698172032833, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.041428569704294205, 
+      "color-red": 69.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Dawn redwood"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7132999897003174, 
+      "description": "Stock footage"
+    }, 
+    {
+      "score": 0.7009000182151794, 
+      "description": "Footage"
+    }, 
+    {
+      "score": 0.5974000096321106, 
+      "description": "Royalty-free"
+    }, 
+    {
+      "score": 0.5314000248908997, 
+      "description": "Video clip"
+    }, 
+    {
+      "score": 0.4609000086784363, 
+      "description": "Metasequoia glyptostroboides"
+    }, 
+    {
+      "score": 0.4499000012874603, 
+      "description": "Video"
+    }, 
+    {
+      "score": 0.4187000095844269, 
+      "description": "Giant sequoia"
+    }, 
+    {
+      "score": 0.3483999967575073, 
+      "description": "Special Effects"
+    }, 
+    {
+      "score": 0.3465999960899353, 
+      "description": "Redwoods"
+    }, 
+    {
+      "score": 0.3202761709690094, 
+      "description": "Flora"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9674242734909058, 
+      "description": "green"
+    }, 
+    {
+      "score": 0.9576851725578308, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9354410171508789, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9349135160446167, 
+      "description": "woodland"
+    }, 
+    {
+      "score": 0.9293107986450195, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.9202623963356018, 
+      "description": "forest"
+    }, 
+    {
+      "score": 0.9170176386833191, 
+      "description": "ecosystem"
+    }, 
+    {
+      "score": 0.8829125761985779, 
+      "description": "grove"
+    }, 
+    {
+      "score": 0.8648137450218201, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.8353073000907898, 
+      "description": "nature reserve"
+    }
+  ]
+}

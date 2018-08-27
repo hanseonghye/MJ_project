@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 201.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.2137593924999237, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.016616541892290115, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.06616540998220444, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 37.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.0007518797065131366, 
+      "color-red": 10.0
+    }, 
+    {
+      "color-green": 36.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.0005263157654553652, 
+      "color-red": 4.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 221.0, 
+      "pixel": 0.10428571701049805, 
+      "color-red": 222.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.10601503401994705, 
+      "color-red": 149.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.012857142835855484, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.012556390836834908, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.013383458368480206, 
+      "color-red": 158.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "luxury vehicle"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8815760612487793, 
+      "description": "Luxury vehicle"
+    }, 
+    {
+      "score": 0.7878934144973755, 
+      "description": "Mixed-use"
+    }, 
+    {
+      "score": 0.7617518901824951, 
+      "description": "Property"
+    }, 
+    {
+      "score": 0.6760956645011902, 
+      "description": "House"
+    }, 
+    {
+      "score": 0.66214919090271, 
+      "description": "Commercial building"
+    }, 
+    {
+      "score": 0.6341999769210815, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.6238999962806702, 
+      "description": "Real Estate"
+    }, 
+    {
+      "score": 0.6169738173484802, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.6128581166267395, 
+      "description": "Apartment"
+    }, 
+    {
+      "score": 0.6112592220306396, 
+      "description": "Hotel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8932786583900452, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.84547358751297, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.6772214770317078, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.6740407347679138, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.6657833456993103, 
+      "description": "luxury vehicle"
+    }, 
+    {
+      "score": 0.6386426687240601, 
+      "description": "mixed use"
+    }, 
+    {
+      "score": 0.6374290585517883, 
+      "description": "apartment"
+    }, 
+    {
+      "score": 0.61130690574646, 
+      "description": "hotel"
+    }, 
+    {
+      "score": 0.6056338548660278, 
+      "description": "facade"
+    }, 
+    {
+      "score": 0.5931181311607361, 
+      "description": "house"
+    }
+  ]
+}

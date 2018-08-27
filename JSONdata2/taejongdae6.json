@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 196.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.3297235071659088, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 133.0, 
+      "pixel": 0.05092165991663933, 
+      "color-red": 107.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.0854070633649826, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.02142857201397419, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.018433179706335068, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.028187403455376625, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.0476190485060215, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.014439323917031288, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.021658986806869507, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.06658986210823059, 
+      "color-red": 98.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Taejongdae"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4678400754928589, 
+      "description": "Taejongdae"
+    }, 
+    {
+      "score": 0.7031000256538391, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.6858000159263611, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5033342242240906, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.4950999915599823, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.48505306243896484, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.44076791405677795, 
+      "description": "Cliff"
+    }, 
+    {
+      "score": 0.41570916771888733, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.3100999891757965, 
+      "description": "Ticket"
+    }, 
+    {
+      "score": 0.29181525111198425, 
+      "description": "Promontory"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9701791405677795, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9621677398681641, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.908745527267456, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9004145860671997, 
+      "description": "rock"
+    }, 
+    {
+      "score": 0.8818846940994263, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8783895969390869, 
+      "description": "cliff"
+    }, 
+    {
+      "score": 0.872559666633606, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.851966381072998, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8354622721672058, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.7647493481636047, 
+      "description": "terrain"
+    }
+  ]
+}

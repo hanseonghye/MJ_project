@@ -1,0 +1,142 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 115.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.036369387060403824, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.021426312625408173, 
+      "color-red": 206.0
+    }, 
+    {
+      "color-green": 209.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.0989089161157608, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.03945287689566612, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.04846616089344025, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 204.0, 
+      "color-blue": 206.0, 
+      "pixel": 0.06554395705461502, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.030755851417779922, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.059772297739982605, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.017947502434253693, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.013598987832665443, 
+      "color-red": 111.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "spire"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7718111872673035, 
+      "description": "Spire"
+    }, 
+    {
+      "score": 0.7052587866783142, 
+      "description": "Steeple"
+    }, 
+    {
+      "score": 0.5940620303153992, 
+      "description": "Chapel"
+    }, 
+    {
+      "score": 0.5580177307128906, 
+      "description": "Autumn"
+    }, 
+    {
+      "score": 0.5458146333694458, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.5303000211715698, 
+      "description": "Regal Belltower Stadium 20"
+    }, 
+    {
+      "score": 0.4101000130176544, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9263274669647217, 
+      "description": "spire"
+    }, 
+    {
+      "score": 0.9117097854614258, 
+      "description": "steeple"
+    }, 
+    {
+      "score": 0.8933204412460327, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.864581286907196, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8564876317977905, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.821664035320282, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.8191760778427124, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.7745070457458496, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.7463545799255371, 
+      "description": "chapel"
+    }, 
+    {
+      "score": 0.697108268737793, 
+      "description": "tower"
+    }
+  ]
+}

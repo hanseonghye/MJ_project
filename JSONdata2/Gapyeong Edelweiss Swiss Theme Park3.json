@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 178.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.02248888835310936, 
+      "color-red": 222.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 220.0, 
+      "pixel": 0.2445777803659439, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.03431111201643944, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.16537778079509735, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 80.0, 
+      "pixel": 0.02217777818441391, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 143.0, 
+      "pixel": 0.004844444338232279, 
+      "color-red": 198.0
+    }, 
+    {
+      "color-green": 179.0, 
+      "color-blue": 179.0, 
+      "pixel": 0.006311111152172089, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 218.0, 
+      "color-blue": 216.0, 
+      "pixel": 0.014311111532151699, 
+      "color-red": 228.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.2515110969543457, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 64.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.011955555528402328, 
+      "color-red": 48.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "house"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0219372510910034, 
+      "description": "House"
+    }, 
+    {
+      "score": 0.8012394309043884, 
+      "description": "Property"
+    }, 
+    {
+      "score": 0.6643893718719482, 
+      "description": "Villa"
+    }, 
+    {
+      "score": 0.6447621583938599, 
+      "description": "Suburb"
+    }, 
+    {
+      "score": 0.5929701924324036, 
+      "description": "Roof"
+    }, 
+    {
+      "score": 0.569423258304596, 
+      "description": "Cottage"
+    }, 
+    {
+      "score": 0.5570165514945984, 
+      "description": "Apartment"
+    }, 
+    {
+      "score": 0.4952000081539154, 
+      "description": "Estate"
+    }, 
+    {
+      "score": 0.3903999924659729, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.933613657951355, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.9335636496543884, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8806756138801575, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.8519526124000549, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.8457834720611572, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.8369928598403931, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.7894875407218933, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.775955855846405, 
+      "description": "estate"
+    }, 
+    {
+      "score": 0.6681162714958191, 
+      "description": "suburb"
+    }, 
+    {
+      "score": 0.6612285375595093, 
+      "description": "cottage"
+    }
+  ]
+}

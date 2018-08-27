@@ -1,0 +1,138 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 226.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.0646870881319046, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.03429194912314415, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.013950588181614876, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.0444236621260643, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 16.0, 
+      "color-blue": 9.0, 
+      "pixel": 0.14161016047000885, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 211.0, 
+      "color-blue": 249.0, 
+      "pixel": 0.07403943687677383, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 240.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.04956745356321335, 
+      "color-red": 234.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.01730184629559517, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.03281116113066673, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.04629413038492203, 
+      "color-red": 71.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "tree"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7532566785812378, 
+      "description": "Spire"
+    }, 
+    {
+      "score": 0.6743879318237305, 
+      "description": "Steeple"
+    }, 
+    {
+      "score": 0.6057148575782776, 
+      "description": "Chapel"
+    }, 
+    {
+      "score": 0.5491746068000793, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.516415536403656, 
+      "description": "Cathedral"
+    }, 
+    {
+      "score": 0.4203999936580658, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8396555781364441, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7526407241821289, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.7154022455215454, 
+      "description": "spire"
+    }, 
+    {
+      "score": 0.6984221339225769, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6947793960571289, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.6636545062065125, 
+      "description": "steeple"
+    }, 
+    {
+      "score": 0.6460872292518616, 
+      "description": "parish"
+    }, 
+    {
+      "score": 0.5966124534606934, 
+      "description": "chapel"
+    }, 
+    {
+      "score": 0.5850600600242615, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.5471497774124146, 
+      "description": "cathedral"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 115.0, 
+      "color-blue": 138.0, 
+      "pixel": 0.13238094747066498, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 223.0, 
+      "pixel": 0.31039682030677795, 
+      "color-red": 180.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.0493650808930397, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 175.0, 
+      "pixel": 0.1153174638748169, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.048650793731212616, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.0910317450761795, 
+      "color-red": 178.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.04833333194255829, 
+      "color-red": 148.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.05349206179380417, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.025555554777383804, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 229.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.03761904686689377, 
+      "color-red": 213.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Haeundae District"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0078133344650269, 
+      "description": "Suyeong District"
+    }, 
+    {
+      "score": 0.9390738606452942, 
+      "description": "Haeundae Beach"
+    }, 
+    {
+      "score": 0.6518999934196472, 
+      "description": "Marine City, Busan"
+    }, 
+    {
+      "score": 0.6121269464492798, 
+      "description": "South Gyeongsang Province"
+    }, 
+    {
+      "score": 0.5017471313476562, 
+      "description": "Gyeongsang"
+    }, 
+    {
+      "score": 0.47110000252723694, 
+      "description": "Stock photography"
+    }, 
+    {
+      "score": 0.4115999937057495, 
+      "description": "Alamy"
+    }, 
+    {
+      "score": 0.38609999418258667, 
+      "description": "Image"
+    }, 
+    {
+      "score": 0.36160001158714294, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.34150001406669617, 
+      "description": "City"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9562397599220276, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9541097283363342, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9524014592170715, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9426729083061218, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.9363505244255066, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9096036553382874, 
+      "description": "tower block"
+    }, 
+    {
+      "score": 0.8940247893333435, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.8671178817749023, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8616340756416321, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.8578085899353027, 
+      "description": "daytime"
+    }
+  ]
+}

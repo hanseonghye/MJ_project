@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 188.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.026312684640288353, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 208.0, 
+      "pixel": 0.1622418910264969, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 168.0, 
+      "pixel": 0.034749262034893036, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.10601770132780075, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.04330383613705635, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 173.0, 
+      "color-blue": 178.0, 
+      "pixel": 0.03622419014573097, 
+      "color-red": 142.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.04100295156240463, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 223.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.011445427313446999, 
+      "color-red": 236.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.03209439665079117, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 174.0, 
+      "color-blue": 186.0, 
+      "pixel": 0.0339822992682457, 
+      "color-red": 143.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ubd80\uc0b0 \ud0dc\uc885\ub300"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6148055791854858, 
+      "description": "Taejongdae"
+    }, 
+    {
+      "score": 0.7464423775672913, 
+      "description": "Cliff"
+    }, 
+    {
+      "score": 0.4948495924472809, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.4732113778591156, 
+      "description": "Nature reserve"
+    }, 
+    {
+      "score": 0.45660001039505005, 
+      "description": "D\u00e9l-Korea fest\u0151i helyei"
+    }, 
+    {
+      "score": 0.4336639940738678, 
+      "description": "Jeonmang-ro"
+    }, 
+    {
+      "score": 0.38850000500679016, 
+      "description": ""
+    }, 
+    {
+      "score": 0.36090999841690063, 
+      "description": "\ud56d\uad6c\ub3c4\uc2dc"
+    }, 
+    {
+      "score": 0.35177701711654663, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.34816014766693115, 
+      "description": "Headland"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9459604620933533, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9414941072463989, 
+      "description": "cliff"
+    }, 
+    {
+      "score": 0.9042988419532776, 
+      "description": "rock"
+    }, 
+    {
+      "score": 0.8808053135871887, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.8520596027374268, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.829315721988678, 
+      "description": "klippe"
+    }, 
+    {
+      "score": 0.8150331377983093, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8053058981895447, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8036791086196899, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.8008878827095032, 
+      "description": "coastal and oceanic landforms"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 33.426659, 
+      "description": "Jeju Province", 
+      "Longitude": 126.930541
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 127.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.08609053492546082, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 220.0, 
+      "pixel": 0.11012345552444458, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 220.0, 
+      "pixel": 0.09045267850160599, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 207.0, 
+      "pixel": 0.012510288506746292, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.057860083878040314, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 19.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.021975308656692505, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 71.0, 
+      "pixel": 0.007901234552264214, 
+      "color-red": 133.0
+    }, 
+    {
+      "color-green": 98.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.0564609058201313, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 139.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.0037860083393752575, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 202.0, 
+      "color-blue": 209.0, 
+      "pixel": 0.09341564029455185, 
+      "color-red": 195.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "jeju province"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4810400009155273, 
+      "description": "Seopjikoji"
+    }, 
+    {
+      "score": 0.6639028787612915, 
+      "description": "Jeju Day Tour"
+    }, 
+    {
+      "score": 0.5906010270118713, 
+      "description": "Teddy Bear Museum"
+    }, 
+    {
+      "score": 0.565808117389679, 
+      "description": "Jeju namyang taxi tour"
+    }, 
+    {
+      "score": 0.5093044638633728, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.4224594533443451, 
+      "description": "Jeju Tour Guide"
+    }, 
+    {
+      "score": 0.40700000524520874, 
+      "description": "Museum"
+    }, 
+    {
+      "score": 0.38499999046325684, 
+      "description": "\ud14c\ub514\ubca0\uc5b4\ubc15\ubb3c\uad00"
+    }, 
+    {
+      "score": 0.3671000003814697, 
+      "description": ""
+    }, 
+    {
+      "score": 0.34083572030067444, 
+      "description": "Cape"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9704545736312866, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.887912392616272, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8798002004623413, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8543816804885864, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.8520715832710266, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.7998450994491577, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7827553749084473, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.7683591246604919, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.752579927444458, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.7093376517295837, 
+      "description": "bay"
+    }
+  ]
+}

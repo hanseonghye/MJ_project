@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 51.0, 
+      "color-blue": 107.0, 
+      "pixel": 0.11180000007152557, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.039533331990242004, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.028066666796803474, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 78.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.03526666760444641, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.007466666866093874, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 42.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.05726666748523712, 
+      "color-red": 13.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.028733333572745323, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 32.0, 
+      "color-blue": 71.0, 
+      "pixel": 0.03133333474397659, 
+      "color-red": 6.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.21060000360012054, 
+      "color-red": 5.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.013066667132079601, 
+      "color-red": 52.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "milky way"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6056265234947205, 
+      "description": "Nature"
+    }, 
+    {
+      "score": 0.5976730585098267, 
+      "description": "Astronomy"
+    }, 
+    {
+      "score": 0.584318995475769, 
+      "description": "Galaxy"
+    }, 
+    {
+      "score": 0.569839596748352, 
+      "description": "Outer space"
+    }, 
+    {
+      "score": 0.5522770881652832, 
+      "description": "Space"
+    }, 
+    {
+      "score": 0.48524925112724304, 
+      "description": "Universe"
+    }, 
+    {
+      "score": 0.4494650363922119, 
+      "description": "Desktop Wallpaper"
+    }, 
+    {
+      "score": 0.4303130805492401, 
+      "description": "Star"
+    }, 
+    {
+      "score": 0.4106000065803528, 
+      "description": "Milky Way"
+    }, 
+    {
+      "score": 0.4009000062942505, 
+      "description": "Computer"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9536146521568298, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9404811859130859, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9312936663627625, 
+      "description": "atmosphere"
+    }, 
+    {
+      "score": 0.8300061225891113, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.7523679137229919, 
+      "description": "astronomical object"
+    }, 
+    {
+      "score": 0.6889111995697021, 
+      "description": "galaxy"
+    }, 
+    {
+      "score": 0.6749007701873779, 
+      "description": "outer space"
+    }, 
+    {
+      "score": 0.671185314655304, 
+      "description": "astronomy"
+    }, 
+    {
+      "score": 0.6594022512435913, 
+      "description": "universe"
+    }, 
+    {
+      "score": 0.6292368769645691, 
+      "description": "space"
+    }
+  ]
+}

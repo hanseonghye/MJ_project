@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 196.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.05173268914222717, 
+      "color-red": 231.0
+    }, 
+    {
+      "color-green": 141.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.03429948166012764, 
+      "color-red": 212.0
+    }, 
+    {
+      "color-green": 235.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.21366310119628906, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.18758414685726166, 
+      "color-red": 172.0
+    }, 
+    {
+      "color-green": 72.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.0009921337477862835, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 44.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.000566933595109731, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 138.0, 
+      "pixel": 0.024165544658899307, 
+      "color-red": 236.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.0672524943947792, 
+      "color-red": 218.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.021260010078549385, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.018283609300851822, 
+      "color-red": 162.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Happiness"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2709341049194336, 
+      "description": "Bern"
+    }, 
+    {
+      "score": 0.8281844854354858, 
+      "description": "Petite France, Gapyeong"
+    }, 
+    {
+      "score": 0.7002000212669373, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3774999976158142, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.2944999933242798, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.2574000060558319, 
+      "description": "Village"
+    }, 
+    {
+      "score": 0.23456913232803345, 
+      "description": "Town"
+    }, 
+    {
+      "score": 0.23385894298553467, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.21432539820671082, 
+      "description": "Property"
+    }, 
+    {
+      "score": 0.18004801869392395, 
+      "description": "Gyeonggi Province"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9467332363128662, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8961129188537598, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8850160241127014, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.7514292597770691, 
+      "description": "street"
+    }, 
+    {
+      "score": 0.6621901988983154, 
+      "description": "facade"
+    }, 
+    {
+      "score": 0.643699586391449, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.6054956316947937, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.5896177291870117, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.585496187210083, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.5556631684303284, 
+      "description": "alley"
+    }
+  ]
+}

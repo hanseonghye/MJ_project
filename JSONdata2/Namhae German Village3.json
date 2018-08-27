@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 81.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.10231605917215347, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.08529868721961975, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.09539613127708435, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.043214235454797745, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.026338087394833565, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 45.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.020265499129891396, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 103.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.030362943187355995, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.04307301342487335, 
+      "color-red": 64.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.039754271507263184, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 27.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.0422256737947464, 
+      "color-red": 38.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ub0a8\ud574 \ub3c5\uc77c \ub9c8\uc744"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0622999668121338, 
+      "description": "Dogil Maeul"
+    }, 
+    {
+      "score": 0.6819450259208679, 
+      "description": "Asan Mediterranean town"
+    }, 
+    {
+      "score": 0.6081460118293762, 
+      "description": "\ub0a8\ud574 \ub3c5\uc77c\ub9c8\uc744 \ub178\uc774\ud558\uc6b0\uc2a4 \ud39c\uc158"
+    }, 
+    {
+      "score": 0.4749855101108551, 
+      "description": "\uc804\ub3c4\uac2f\ubc8c\uccb4\ud5d8\uc7a5"
+    }, 
+    {
+      "score": 0.42192700505256653, 
+      "description": "\ub3c5\uc77c\uc778\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.3430500030517578, 
+      "description": "Suncheon"
+    }, 
+    {
+      "score": 0.31439998745918274, 
+      "description": "Town"
+    }, 
+    {
+      "score": 0.30730000138282776, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3057999908924103, 
+      "description": ""
+    }, 
+    {
+      "score": 0.2563000023365021, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9179012775421143, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8819018602371216, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8723523020744324, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.8647885918617249, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8475326895713806, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.779451847076416, 
+      "description": "roof"
+    }, 
+    {
+      "score": 0.7791041135787964, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.7676262855529785, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.7636926174163818, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.763251006603241, 
+      "description": "suburb"
+    }
+  ]
+}

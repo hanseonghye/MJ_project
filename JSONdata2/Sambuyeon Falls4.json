@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 197.0, 
+      "color-blue": 223.0, 
+      "pixel": 0.01658175140619278, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 237.0, 
+      "color-blue": 245.0, 
+      "pixel": 0.017600741237401962, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.04353867471218109, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.14293654263019562, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.06493747234344482, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 223.0, 
+      "color-blue": 245.0, 
+      "pixel": 0.007225567474961281, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.010375173762440681, 
+      "color-red": 148.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 205.0, 
+      "pixel": 0.008893006481230259, 
+      "color-red": 179.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.011672070249915123, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.26382583379745483, 
+      "color-red": 58.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Waterfall"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9214981198310852, 
+      "description": "Waterfall"
+    }, 
+    {
+      "score": 0.5084999799728394, 
+      "description": "Stream"
+    }, 
+    {
+      "score": 0.4243500232696533, 
+      "description": "South Korea"
+    }, 
+    {
+      "score": 0.3869386613368988, 
+      "description": "Rainforest"
+    }, 
+    {
+      "score": 0.36090001463890076, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.32581472396850586, 
+      "description": "Valdivian temperate rain forest"
+    }, 
+    {
+      "score": 0.2887365520000458, 
+      "description": "Water resources"
+    }, 
+    {
+      "score": 0.24879999458789825, 
+      "description": "Rain"
+    }, 
+    {
+      "score": 0.24719999730587006, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.24714601039886475, 
+      "description": "Nature reserve"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9776175618171692, 
+      "description": "waterfall"
+    }, 
+    {
+      "score": 0.946522057056427, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.9449459910392761, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9438145160675049, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.9354223012924194, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.933734655380249, 
+      "description": "watercourse"
+    }, 
+    {
+      "score": 0.8997142314910889, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.866286039352417, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8653804063796997, 
+      "description": "stream"
+    }, 
+    {
+      "score": 0.7829715609550476, 
+      "description": "chute"
+    }
+  ]
+}

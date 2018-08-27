@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 198.0, 
+      "color-blue": 217.0, 
+      "pixel": 0.14928269386291504, 
+      "color-red": 180.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.05316455662250519, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.003544303821399808, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 97.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.0007594936760142446, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.1296202540397644, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 232.0, 
+      "pixel": 0.1487763673067093, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 165.0, 
+      "pixel": 0.0464978888630867, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.04253164678812027, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.07172995805740356, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.0412658229470253, 
+      "color-red": 92.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ud770 \uc5ec\uc6b8 \ubb38\ud654 \ub9c8\uc744"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.546309471130371, 
+      "description": "Huinnyeoul Munhwa Maul \u2502 White Ford Cultural Village"
+    }, 
+    {
+      "score": 0.8110500574111938, 
+      "description": "Huinnyeoul Culture Village"
+    }, 
+    {
+      "score": 0.78329998254776, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 0.7752410173416138, 
+      "description": "\ud770\uc5ec\uc6b8\ub9c8\uc744\ud68c\uad00"
+    }, 
+    {
+      "score": 0.743895947933197, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 0.5622000098228455, 
+      "description": "Nampo-dong"
+    }, 
+    {
+      "score": 0.401962012052536, 
+      "description": "\uc774\uc1a1\ub3c4\uc0bc\uac70\ub9ac"
+    }, 
+    {
+      "score": 0.3720000088214874, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.3124000132083893, 
+      "description": "\u91dc\u5c71\u30b7\u30c6\u30a3\u30c4\u30a2\u30fc\u30d0\u30b9"
+    }, 
+    {
+      "score": 0.2924078404903412, 
+      "description": "Cliff"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9215705990791321, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9151853322982788, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9060983657836914, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8315247297286987, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8197073340415955, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7371726632118225, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.7227713465690613, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6931548118591309, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.6831601858139038, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.6049720644950867, 
+      "description": "bay"
+    }
+  ]
+}

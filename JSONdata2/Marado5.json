@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 199.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.1371365487575531, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 206.0, 
+      "pixel": 0.06175929307937622, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 177.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.1129186600446701, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 166.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.025984542444348335, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 144.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.012661023065447807, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.0070666177198290825, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.003974972292780876, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 72.0, 
+      "pixel": 0.0017666544299572706, 
+      "color-red": 37.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.00029444240499287844, 
+      "color-red": 61.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.23084284365177155, 
+      "color-red": 102.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ub9c8\ub77c\ub3c4"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.774688959121704, 
+      "description": "Marado"
+    }, 
+    {
+      "score": 0.9928499460220337, 
+      "description": "Gapado"
+    }, 
+    {
+      "score": 0.9804630279541016, 
+      "description": "\ubaa8\uc2ac\ud3ec\ud56d"
+    }, 
+    {
+      "score": 0.48420000076293945, 
+      "description": "\ud615\uc81c\uc12c"
+    }, 
+    {
+      "score": 0.30129000544548035, 
+      "description": "\uc0b0\ubc29\uc0b0"
+    }, 
+    {
+      "score": 0.2512877881526947, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.25110000371932983, 
+      "description": "Passenger ship"
+    }, 
+    {
+      "score": 0.19449999928474426, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.19201229512691498, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.14239999651908875, 
+      "description": "Sound"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9483165144920349, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.947352945804596, 
+      "description": "green"
+    }, 
+    {
+      "score": 0.9240812063217163, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8992993831634521, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.887070894241333, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.851295530796051, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8335599303245544, 
+      "description": "pasture"
+    }, 
+    {
+      "score": 0.8248578310012817, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.802327573299408, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.7986004948616028, 
+      "description": "headland"
+    }
+  ]
+}

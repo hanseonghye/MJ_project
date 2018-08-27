@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 140.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.04039999842643738, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 75.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.019999999552965164, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 237.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.0032666667830199003, 
+      "color-red": 255.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.02253333292901516, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.06859999895095825, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 107.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.05286666750907898, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 176.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.01653333380818367, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 142.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.012466666288673878, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.01600000075995922, 
+      "color-red": 227.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.026000000536441803, 
+      "color-red": 224.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "naejangsan temple"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.639605164527893, 
+      "description": "Naejangsan National Park"
+    }, 
+    {
+      "score": 1.2881054878234863, 
+      "description": "Naejangsan"
+    }, 
+    {
+      "score": 0.9921000003814697, 
+      "description": "Temple"
+    }, 
+    {
+      "score": 0.8653920292854309, 
+      "description": "Jeongeup"
+    }, 
+    {
+      "score": 0.7757310271263123, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.7042999863624573, 
+      "description": "National park"
+    }, 
+    {
+      "score": 0.6786450743675232, 
+      "description": "Baegyangsa"
+    }, 
+    {
+      "score": 0.6272000074386597, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.5055000185966492, 
+      "description": ""
+    }, 
+    {
+      "score": 0.49480000138282776, 
+      "description": "Autumn leaf color"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9803440570831299, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9631457328796387, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9394761323928833, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.9361789226531982, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.8621151447296143, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8427568078041077, 
+      "description": "pagoda"
+    }, 
+    {
+      "score": 0.7986007928848267, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.782158374786377, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.7789757251739502, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.761030375957489, 
+      "description": "maple leaf"
+    }
+  ]
+}

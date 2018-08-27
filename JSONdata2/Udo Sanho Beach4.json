@@ -1,0 +1,146 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 124.0, 
+      "color-blue": 147.0, 
+      "pixel": 0.09717831760644913, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.10074932873249054, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.09454396367073059, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 179.0, 
+      "pixel": 0.0453108549118042, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.39134761691093445, 
+      "color-red": 32.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 210.0, 
+      "pixel": 0.1731647402048111, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 100.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.040217772126197815, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.011708230711519718, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 212.0, 
+      "pixel": 0.007903056219220161, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.014810912311077118, 
+      "color-red": 30.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1124224662780762, 
+      "description": "Fjord"
+    }, 
+    {
+      "score": 0.7882243394851685, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.7280833721160889, 
+      "description": "Water resources"
+    }, 
+    {
+      "score": 0.6052055358886719, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.5740421414375305, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.5210999846458435, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.44679999351501465, 
+      "description": "Microsoft Azure"
+    }, 
+    {
+      "score": 0.4129999876022339, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8961561918258667, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.876118540763855, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.7949701547622681, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.7761337757110596, 
+      "description": "cliff"
+    }, 
+    {
+      "score": 0.7383708357810974, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.714047372341156, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.7119135856628418, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.6533786058425903, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6350917220115662, 
+      "description": "formation"
+    }, 
+    {
+      "score": 0.598569929599762, 
+      "description": "coast"
+    }
+  ]
+}

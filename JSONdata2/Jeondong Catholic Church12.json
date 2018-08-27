@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.813947, 
+      "description": "", 
+      "Longitude": 127.149271
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 114.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.18433333933353424, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 247.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.29706665873527527, 
+      "color-red": 248.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.14180000126361847, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.0284000001847744, 
+      "color-red": 142.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.04619999974966049, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 107.0, 
+      "pixel": 0.03706666827201843, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 145.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.015466666780412197, 
+      "color-red": 160.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.047866664826869965, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 77.0, 
+      "pixel": 0.061000000685453415, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.01119999960064888, 
+      "color-red": 158.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Jeonju Hanok Village"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0602900981903076, 
+      "description": "Jeondong Cathedral"
+    }, 
+    {
+      "score": 0.9631499648094177, 
+      "description": "Jeonju Hanok Village"
+    }, 
+    {
+      "score": 0.6729000210762024, 
+      "description": "Hanok"
+    }, 
+    {
+      "score": 0.41450220346450806, 
+      "description": "Basilica"
+    }, 
+    {
+      "score": 0.38235002756118774, 
+      "description": "Bukchon Hanok Village"
+    }, 
+    {
+      "score": 0.3019270598888397, 
+      "description": "History"
+    }, 
+    {
+      "score": 0.2634499967098236, 
+      "description": "Arlington Memorial Bridge"
+    }, 
+    {
+      "score": 0.22939999401569366, 
+      "description": "Museum"
+    }, 
+    {
+      "score": 0.22456634044647217, 
+      "description": "Steeple"
+    }, 
+    {
+      "score": 0.22390969097614288, 
+      "description": "Historic site"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9466724991798401, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.9210469722747803, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9170767664909363, 
+      "description": "medieval architecture"
+    }, 
+    {
+      "score": 0.881769061088562, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.8286187648773193, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.7906919717788696, 
+      "description": "steeple"
+    }, 
+    {
+      "score": 0.789631724357605, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.7703123092651367, 
+      "description": "basilica"
+    }, 
+    {
+      "score": 0.7661280632019043, 
+      "description": "spire"
+    }, 
+    {
+      "score": 0.7421140670776367, 
+      "description": "arch"
+    }
+  ]
+}

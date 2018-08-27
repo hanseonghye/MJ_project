@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 36.5428314, 
+      "description": "Hahoe Folk Village", 
+      "Longitude": 128.516922
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 90.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.031812865287065506, 
+      "color-red": 30.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.022923976182937622, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.02163742668926716, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.005964912474155426, 
+      "color-red": 12.0
+    }, 
+    {
+      "color-green": 251.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.06923976540565491, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.009707602672278881, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 238.0, 
+      "color-blue": 202.0, 
+      "pixel": 0.04023391753435135, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 19.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.013216374441981316, 
+      "color-red": 9.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 172.0, 
+      "pixel": 0.02175438590347767, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 45.0, 
+      "color-blue": 106.0, 
+      "pixel": 0.005847953259944916, 
+      "color-red": 11.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "hahoe folk village"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.730566382408142, 
+      "description": "Hahoe Folk Village"
+    }, 
+    {
+      "score": 0.4875090420246124, 
+      "description": "\uc548\ub3d9\ud558\ud68c\ub9c8\uc744\ubcf4\uc874\ud68c"
+    }, 
+    {
+      "score": 0.3967878222465515, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.38589999079704285, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3634999990463257, 
+      "description": ""
+    }, 
+    {
+      "score": 0.34769999980926514, 
+      "description": "\ud558\ud68c\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.2969000041484833, 
+      "description": ""
+    }, 
+    {
+      "score": 0.2897000014781952, 
+      "description": ""
+    }, 
+    {
+      "score": 0.2782000005245209, 
+      "description": ""
+    }, 
+    {
+      "score": 0.23240000009536743, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9419522285461426, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.8980765342712402, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8962748646736145, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.8892765641212463, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8838360905647278, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.8727654814720154, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.8610474467277527, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.848601222038269, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.7322933673858643, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.7225517630577087, 
+      "description": "reservoir"
+    }
+  ]
+}

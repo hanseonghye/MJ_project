@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 120.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.11905097961425781, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.17638751864433289, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.053876571357250214, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.07032904773950577, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 147.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.04250812157988548, 
+      "color-red": 165.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.058607541024684906, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.07202372699975967, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 80.0, 
+      "pixel": 0.08925293385982513, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.01228640042245388, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.0020477334037423134, 
+      "color-red": 133.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Gwangju"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1922900676727295, 
+      "description": "Songaksan"
+    }, 
+    {
+      "score": 1.0997999906539917, 
+      "description": "Jeju Olle Trail"
+    }, 
+    {
+      "score": 0.7059999704360962, 
+      "description": "\uc62c\ub808"
+    }, 
+    {
+      "score": 0.6075300574302673, 
+      "description": "Marado"
+    }, 
+    {
+      "score": 0.49059998989105225, 
+      "description": "\uc81c\uc8fc\uc62c\ub808"
+    }, 
+    {
+      "score": 0.48330000042915344, 
+      "description": "\ub458\ub808\uae38"
+    }, 
+    {
+      "score": 0.44040000438690186, 
+      "description": "Gwangju"
+    }, 
+    {
+      "score": 0.3628000020980835, 
+      "description": "Parasitic cone"
+    }, 
+    {
+      "score": 0.33629998564720154, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.33000001311302185, 
+      "description": "Tourist attraction"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9699644446372986, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9003075957298279, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.851967453956604, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.837226927280426, 
+      "description": "cliff"
+    }, 
+    {
+      "score": 0.830173671245575, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.7706975936889648, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.754265546798706, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.7137383222579956, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.690863847732544, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.6832695007324219, 
+      "description": "highland"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.578256, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.977019
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 52.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.10652123391628265, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.0870271548628807, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 28.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.04834841936826706, 
+      "color-red": 28.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.05902374908328056, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.04254660755395889, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 187.0, 
+      "pixel": 0.06374255567789078, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 234.0, 
+      "color-blue": 228.0, 
+      "pixel": 0.5138856768608093, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.0010056471219286323, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.0006188597762957215, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 105.0, 
+      "pixel": 0.03775044530630112, 
+      "color-red": 77.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "gyeongbokgung"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.149306297302246, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 0.854743242263794, 
+      "description": "Landmark"
+    }, 
+    {
+      "score": 0.7419425845146179, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.7027999758720398, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.6913999915122986, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.6358568668365479, 
+      "description": "Historic site"
+    }, 
+    {
+      "score": 0.621749997138977, 
+      "description": "Horim Museum"
+    }, 
+    {
+      "score": 0.5605000257492065, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5365999937057495, 
+      "description": "Monument"
+    }, 
+    {
+      "score": 0.41040000319480896, 
+      "description": "Museum"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9899276494979858, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9499009847640991, 
+      "description": "japanese architecture"
+    }, 
+    {
+      "score": 0.9066875576972961, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8486782312393188, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.7806116342544556, 
+      "description": "palace"
+    }, 
+    {
+      "score": 0.7403541207313538, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.6499000191688538, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.5849180221557617, 
+      "description": "shinto shrine"
+    }, 
+    {
+      "score": 0.5330989360809326, 
+      "description": "tourism"
+    }
+  ]
+}

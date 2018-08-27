@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 224.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.033370137214660645, 
+      "color-red": 243.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.15047232806682587, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 213.0, 
+      "pixel": 0.09900625795125961, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 221.0, 
+      "pixel": 0.08189179003238678, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 144.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.04060851410031319, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 169.0, 
+      "pixel": 0.030609741806983948, 
+      "color-red": 224.0
+    }, 
+    {
+      "color-green": 211.0, 
+      "color-blue": 217.0, 
+      "pixel": 0.0731198638677597, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 215.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.0033738191705197096, 
+      "color-red": 254.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.0014108698815107346, 
+      "color-red": 243.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.0030671083368360996, 
+      "color-red": 231.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Photography"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.333050012588501, 
+      "description": "Agoy"
+    }, 
+    {
+      "score": 0.7172999978065491, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.618149995803833, 
+      "description": "Nebug"
+    }, 
+    {
+      "score": 0.5903000235557556, 
+      "description": "Villa"
+    }, 
+    {
+      "score": 0.4659999907016754, 
+      "description": "Room"
+    }, 
+    {
+      "score": 0.39410001039505005, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3555000126361847, 
+      "description": ""
+    }, 
+    {
+      "score": 0.34610000252723694, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3312999904155731, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3165999948978424, 
+      "description": "Bar"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9766563773155212, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9693991541862488, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9655340909957886, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.8943079710006714, 
+      "description": "calm"
+    }, 
+    {
+      "score": 0.8637843728065491, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8551043272018433, 
+      "description": "sunset"
+    }, 
+    {
+      "score": 0.848142147064209, 
+      "description": "sunrise"
+    }, 
+    {
+      "score": 0.7839019894599915, 
+      "description": "dawn"
+    }, 
+    {
+      "score": 0.7770097851753235, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.7257658243179321, 
+      "description": "atmosphere"
+    }
+  ]
+}

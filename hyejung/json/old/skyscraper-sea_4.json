@@ -1,0 +1,170 @@
+{
+  "landmark": [
+    {
+      "Latitude": 40.748433, 
+      "description": "New York City", 
+      "Longitude": -73.985753
+    }, 
+    {
+      "Latitude": 40.701919, 
+      "description": "Brooklyn", 
+      "Longitude": -73.995022
+    }, 
+    {
+      "Latitude": 40.69999, 
+      "description": "Manhattan", 
+      "Longitude": -74.00425
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 83.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.08479674905538559, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 169.0, 
+      "color-blue": 251.0, 
+      "pixel": 0.14373983442783356, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.04878048598766327, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.0674796774983406, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.10512194782495499, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.09552845358848572, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 72.0, 
+      "pixel": 0.0446341447532177, 
+      "color-red": 37.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.038130082190036774, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 31.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.0003252032620366663, 
+      "color-red": 0.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 181.0, 
+      "pixel": 0.0219512190669775, 
+      "color-red": 187.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "cd various - la musique de manhattana midnight"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7005000114440918, 
+      "description": "Adobe Photoshop"
+    }, 
+    {
+      "score": 0.6527000069618225, 
+      "description": "Tutorial"
+    }, 
+    {
+      "score": 0.6527000069618225, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.5989999771118164, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.5878000259399414, 
+      "description": "Image"
+    }, 
+    {
+      "score": 0.5612000226974487, 
+      "description": "Reflection"
+    }, 
+    {
+      "score": 0.5432000160217285, 
+      "description": "Drawing"
+    }, 
+    {
+      "score": 0.5062000155448914, 
+      "description": "Painting"
+    }, 
+    {
+      "score": 0.4562999904155731, 
+      "description": "Landscape painting"
+    }, 
+    {
+      "score": 0.45170000195503235, 
+      "description": "Art"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9781584739685059, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9629019498825073, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9571304321289062, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9545221328735352, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9468034505844116, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.9438011646270752, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9195899367332458, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.9079793691635132, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9017562866210938, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8971685171127319, 
+      "description": "daytime"
+    }
+  ]
+}

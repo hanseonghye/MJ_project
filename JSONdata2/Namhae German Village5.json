@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 77.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.019331034272909164, 
+      "color-red": 202.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.04523943364620209, 
+      "color-red": 39.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.03344830498099327, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 204.0, 
+      "color-blue": 226.0, 
+      "pixel": 0.03417021036148071, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.019411245360970497, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.03232533857226372, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 68.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.03938397392630577, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.006898211315274239, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.04676345735788345, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.00545439962297678, 
+      "color-red": 174.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ub0a8\ud574 \ub3c5\uc77c \ub9c8\uc744"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0519499778747559, 
+      "description": "Dogil Maeul"
+    }, 
+    {
+      "score": 0.8155950307846069, 
+      "description": "\ubcf4\ub9ac\uc554"
+    }, 
+    {
+      "score": 0.604949951171875, 
+      "description": "Geoje"
+    }, 
+    {
+      "score": 0.5498999953269958, 
+      "description": "Petite France, Gapyeong"
+    }, 
+    {
+      "score": 0.5441700220108032, 
+      "description": "Darangee Village"
+    }, 
+    {
+      "score": 0.48642003536224365, 
+      "description": "\uae08\uc0b0"
+    }, 
+    {
+      "score": 0.42855000495910645, 
+      "description": "Yeosu"
+    }, 
+    {
+      "score": 0.39590001106262207, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.38477998971939087, 
+      "description": "\ube44\uc564\ube44\ubbf8\uc6a9\uc2e4"
+    }, 
+    {
+      "score": 0.3336299955844879, 
+      "description": "Southern German town Neuhaus"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9079345464706421, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8940798044204712, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.8820600509643555, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.8539900779724121, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8456682562828064, 
+      "description": "mountain village"
+    }, 
+    {
+      "score": 0.7737633585929871, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.7674396634101868, 
+      "description": "cottage"
+    }, 
+    {
+      "score": 0.732663631439209, 
+      "description": "village"
+    }, 
+    {
+      "score": 0.7311745285987854, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7014356851577759, 
+      "description": "real estate"
+    }
+  ]
+}

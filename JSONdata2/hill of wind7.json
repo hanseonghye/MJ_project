@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 211.0, 
+      "color-blue": 237.0, 
+      "pixel": 0.07604753971099854, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.03787268325686455, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 243.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.2023569643497467, 
+      "color-red": 227.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 215.0, 
+      "pixel": 0.01077759824693203, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 106.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.01883561722934246, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.011583400890231133, 
+      "color-red": 236.0
+    }, 
+    {
+      "color-green": 206.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.029411764815449715, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 231.0, 
+      "pixel": 0.03132554516196251, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.012792102992534637, 
+      "color-red": 191.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.011180499568581581, 
+      "color-red": 162.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Geoje"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1383349895477295, 
+      "description": "Windy Hill"
+    }, 
+    {
+      "score": 0.8269800543785095, 
+      "description": "Sinseondae"
+    }, 
+    {
+      "score": 0.8256435394287109, 
+      "description": "Geojedo"
+    }, 
+    {
+      "score": 0.7404000163078308, 
+      "description": "\uac70\uc81c \ud574\uae08\uac15"
+    }, 
+    {
+      "score": 0.7194000482559204, 
+      "description": "Haegeumgang"
+    }, 
+    {
+      "score": 0.7091999650001526, 
+      "description": "Jeju Province"
+    }, 
+    {
+      "score": 0.6864978075027466, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.6771200895309448, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.5665500164031982, 
+      "description": "Ganjeolgot"
+    }, 
+    {
+      "score": 0.45190000534057617, 
+      "description": "Cape"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9566313624382019, 
+      "description": "windmill"
+    }, 
+    {
+      "score": 0.8718317747116089, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8480146527290344, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.7631469368934631, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.712626039981842, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.6385462284088135, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6327022910118103, 
+      "description": "mill"
+    }, 
+    {
+      "score": 0.5665774345397949, 
+      "description": "wind"
+    }, 
+    {
+      "score": 0.5284665822982788, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.5230833888053894, 
+      "description": "grass"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 244.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.19820895791053772, 
+      "color-red": 240.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.01711442694067955, 
+      "color-red": 172.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.0092537309974432, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 77.0, 
+      "pixel": 0.1424875557422638, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.008059701882302761, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 183.0, 
+      "color-blue": 205.0, 
+      "pixel": 0.000199004978640005, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 61.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.02278606966137886, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.01313432864844799, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.03671641647815704, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 38.0, 
+      "pixel": 0.05970149114727974, 
+      "color-red": 168.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "residential area"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5549105405807495, 
+      "description": "\uc81c\uc8fc\uc870\ucc9c\uc2a4\uc704\uc2a4\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.5486140251159668, 
+      "description": "Sonmaschon"
+    }, 
+    {
+      "score": 0.48847702145576477, 
+      "description": "\ud478\ub978\ud558\ub298\uc911\uae30"
+    }, 
+    {
+      "score": 0.2305999994277954, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.20112210512161255, 
+      "description": "Neighbourhood"
+    }, 
+    {
+      "score": 0.19349999725818634, 
+      "description": "Largehead hairtail"
+    }, 
+    {
+      "score": 0.18553245067596436, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.18299999833106995, 
+      "description": "Real Estate"
+    }, 
+    {
+      "score": 0.18289999663829803, 
+      "description": "Gui"
+    }, 
+    {
+      "score": 0.1573999971151352, 
+      "description": "Weather"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9390190839767456, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.9333681464195251, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.932824432849884, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.8563916683197021, 
+      "description": "street"
+    }, 
+    {
+      "score": 0.8496129512786865, 
+      "description": "road"
+    }, 
+    {
+      "score": 0.807973325252533, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.7923866510391235, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.7880972623825073, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7708208560943604, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.663281261920929, 
+      "description": "lane"
+    }
+  ]
+}

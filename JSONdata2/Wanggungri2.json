@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 160.0, 
+      "color-blue": 213.0, 
+      "pixel": 0.24093282222747803, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 215.0, 
+      "pixel": 0.10880618542432785, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.038777031004428864, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 215.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.01884618028998375, 
+      "color-red": 244.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.00745712174102664, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 19.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.013965154998004436, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.011253474280238152, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 169.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.10704358667135239, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 134.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.15965019166469574, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.05708087608218193, 
+      "color-red": 235.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5928441286087036, 
+      "description": "Arch\u00e4ologische St\u00e4tte von Wanggung-ri"
+    }, 
+    {
+      "score": 0.7999500036239624, 
+      "description": "Baekje"
+    }, 
+    {
+      "score": 0.7573994994163513, 
+      "description": "Iksan Wanggungri Ocheungseoktap"
+    }, 
+    {
+      "score": 0.6999000310897827, 
+      "description": "Baekje Historic Areas"
+    }, 
+    {
+      "score": 0.5454999804496765, 
+      "description": "Archaeological site"
+    }, 
+    {
+      "score": 0.42879998683929443, 
+      "description": ""
+    }, 
+    {
+      "score": 0.37310001254081726, 
+      "description": "History"
+    }, 
+    {
+      "score": 0.34654393792152405, 
+      "description": "Historic site"
+    }, 
+    {
+      "score": 0.2818000018596649, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.22990000247955322, 
+      "description": "World Heritage site"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9732176065444946, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9473246932029724, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.9090218544006348, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.7399551272392273, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.689686119556427, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6422960758209229, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.5499550104141235, 
+      "description": "landscape"
+    }, 
+    {
+      "score": 0.539585292339325, 
+      "description": "monument"
+    }, 
+    {
+      "score": 0.5289545655250549, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.5269103646278381, 
+      "description": "field"
+    }
+  ]
+}

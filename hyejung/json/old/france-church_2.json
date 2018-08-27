@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 45.923772, 
+      "description": "L'Eglise de Chamonix", 
+      "Longitude": 6.868651
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 63.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.06702716648578644, 
+      "color-red": 28.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.05111921578645706, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.0652037188410759, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 16.0, 
+      "color-blue": 8.0, 
+      "pixel": 0.07457243651151657, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.05690392479300499, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.04043008014559746, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.048667002469301224, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.038418009877204895, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.02678571455180645, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 36.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.019303319975733757, 
+      "color-red": 9.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "l'eglise de chamonix"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2189950942993164, 
+      "description": "Mer de Glace"
+    }, 
+    {
+      "score": 1.0018837451934814, 
+      "description": "\u00c9glise Saint-Michel de Chamonix-Mont-Blanc"
+    }, 
+    {
+      "score": 0.9276538491249084, 
+      "description": "Annecy"
+    }, 
+    {
+      "score": 0.8321775197982788, 
+      "description": "Mont Blanc"
+    }, 
+    {
+      "score": 0.7044000029563904, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4816665053367615, 
+      "description": "Church"
+    }, 
+    {
+      "score": 0.4496999979019165, 
+      "description": "Covadonga"
+    }, 
+    {
+      "score": 0.37299999594688416, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.35589998960494995, 
+      "description": "Town"
+    }, 
+    {
+      "score": 0.24386049807071686, 
+      "description": "French Alps"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9586899280548096, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.9483585953712463, 
+      "description": "mountain range"
+    }, 
+    {
+      "score": 0.9463666081428528, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9453525543212891, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9436362981796265, 
+      "description": "mountain village"
+    }, 
+    {
+      "score": 0.9210360050201416, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.8552325963973999, 
+      "description": "alps"
+    }, 
+    {
+      "score": 0.8183608651161194, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.7707013487815857, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.719260036945343, 
+      "description": "tourism"
+    }
+  ]
+}

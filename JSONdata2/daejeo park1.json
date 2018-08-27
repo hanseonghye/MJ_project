@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 188.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.15306666493415833, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 3.0, 
+      "pixel": 0.15433333814144135, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.03033333271741867, 
+      "color-red": 172.0
+    }, 
+    {
+      "color-green": 169.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.29386666417121887, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.03799999877810478, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.009733333252370358, 
+      "color-red": 190.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 8.0, 
+      "pixel": 0.0015333333285525441, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.020133333280682564, 
+      "color-red": 179.0
+    }, 
+    {
+      "color-green": 183.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.004666666500270367, 
+      "color-red": 204.0
+    }, 
+    {
+      "color-green": 140.0, 
+      "color-blue": 0.0, 
+      "pixel": 0.01119999960064888, 
+      "color-red": 137.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Rapeseed"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.268399953842163, 
+      "description": "Daejeo Ecological Park"
+    }, 
+    {
+      "score": 0.8893520832061768, 
+      "description": "Canola oil"
+    }, 
+    {
+      "score": 0.7405200004577637, 
+      "description": "Rapeseed"
+    }, 
+    {
+      "score": 0.6481499671936035, 
+      "description": "Daejeo station"
+    }, 
+    {
+      "score": 0.5745625495910645, 
+      "description": "Field"
+    }, 
+    {
+      "score": 0.5004701614379883, 
+      "description": "Field mustard"
+    }, 
+    {
+      "score": 0.48285001516342163, 
+      "description": "Yeojwacheon"
+    }, 
+    {
+      "score": 0.45225000381469727, 
+      "description": "Light"
+    }, 
+    {
+      "score": 0.42809998989105225, 
+      "description": "Gangseo-gu Office station"
+    }, 
+    {
+      "score": 0.37630000710487366, 
+      "description": "Park"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.946921169757843, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9427396655082703, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.9294793009757996, 
+      "description": "paddy field"
+    }, 
+    {
+      "score": 0.9240957498550415, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.9180086851119995, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.8926292657852173, 
+      "description": "canola"
+    }, 
+    {
+      "score": 0.8854933977127075, 
+      "description": "rapeseed"
+    }, 
+    {
+      "score": 0.8831192851066589, 
+      "description": "mustard plant"
+    }, 
+    {
+      "score": 0.8656113743782043, 
+      "description": "plain"
+    }, 
+    {
+      "score": 0.8524842262268066, 
+      "description": "grassland"
+    }
+  ]
+}

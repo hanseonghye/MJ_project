@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 119.0, 
+      "color-blue": 143.0, 
+      "pixel": 0.018507996574044228, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 245.0, 
+      "color-blue": 248.0, 
+      "pixel": 0.03368780016899109, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.023622047156095505, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.019319750368595123, 
+      "color-red": 73.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 174.0, 
+      "pixel": 0.01193278655409813, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.03937007859349251, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.02029385417699814, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.015260978601872921, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.06794382631778717, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 210.0, 
+      "pixel": 0.0038964201230555773, 
+      "color-red": 183.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ub0b4\uc6d0\uc0ac \uacc4\uace1"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.391280174255371, 
+      "description": "Naewonsa"
+    }, 
+    {
+      "score": 1.1574751138687134, 
+      "description": "\ub0b4\uc6d0\uc0ac\uacc4\uace1"
+    }, 
+    {
+      "score": 0.8880301117897034, 
+      "description": "Cheonseongsan"
+    }, 
+    {
+      "score": 0.6668000221252441, 
+      "description": "Stream"
+    }, 
+    {
+      "score": 0.556950032711029, 
+      "description": "Busan"
+    }, 
+    {
+      "score": 0.519203245639801, 
+      "description": "Ravine"
+    }, 
+    {
+      "score": 0.48499369621276855, 
+      "description": "Waterfall"
+    }, 
+    {
+      "score": 0.4205299913883209, 
+      "description": "Nojeon-Am"
+    }, 
+    {
+      "score": 0.41030001640319824, 
+      "description": "Nojeon-Am"
+    }, 
+    {
+      "score": 0.3979867994785309, 
+      "description": "Stream bed"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9711947441101074, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9612230062484741, 
+      "description": "stream"
+    }, 
+    {
+      "score": 0.9527709484100342, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9515577554702759, 
+      "description": "waterfall"
+    }, 
+    {
+      "score": 0.9354667067527771, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9337831139564514, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.9322776794433594, 
+      "description": "watercourse"
+    }, 
+    {
+      "score": 0.9243455529212952, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.9007498621940613, 
+      "description": "creek"
+    }, 
+    {
+      "score": 0.8998144268989563, 
+      "description": "river"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.533484, 
+      "description": "Seoul Central Mosque", 
+      "Longitude": 126.997725
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 104.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.15753591060638428, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.08016800880432129, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.03189676254987717, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 23.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.04035792499780655, 
+      "color-red": 28.0
+    }, 
+    {
+      "color-green": 166.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.0009739469387568533, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 176.0, 
+      "pixel": 0.1515096127986908, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.05557584762573242, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 232.0, 
+      "color-blue": 232.0, 
+      "pixel": 0.027635743841528893, 
+      "color-red": 230.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.0389578752219677, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.013757000677287579, 
+      "color-red": 97.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "seoul central mosque"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.4128663539886475, 
+      "description": "Seoul Central Mosque"
+    }, 
+    {
+      "score": 1.3297829627990723, 
+      "description": "Mosque"
+    }, 
+    {
+      "score": 0.9568626880645752, 
+      "description": "Cheonggyecheon"
+    }, 
+    {
+      "score": 0.9363585710525513, 
+      "description": "Itaewon-dong"
+    }, 
+    {
+      "score": 0.7377747297286987, 
+      "description": "N Seoul Tower"
+    }, 
+    {
+      "score": 0.7013999819755554, 
+      "description": "Islam"
+    }, 
+    {
+      "score": 0.6726208925247192, 
+      "description": "Namiseom"
+    }, 
+    {
+      "score": 0.6490318179130554, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5321999788284302, 
+      "description": "Religion"
+    }, 
+    {
+      "score": 0.5040000081062317, 
+      "description": "Islam in Korea"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9380618929862976, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.9261012077331543, 
+      "description": "mosque"
+    }, 
+    {
+      "score": 0.9239567518234253, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8951112627983093, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.7645114660263062, 
+      "description": "khanqah"
+    }, 
+    {
+      "score": 0.7366177439689636, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7031069397926331, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.605933427810669, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.5701824426651001, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.5175996422767639, 
+      "description": "facade"
+    }
+  ]
+}

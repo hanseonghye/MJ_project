@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 88.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.053595658391714096, 
+      "color-red": 178.0
+    }, 
+    {
+      "color-green": 70.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.006190637592226267, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 61.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.0918419286608696, 
+      "color-red": 146.0
+    }, 
+    {
+      "color-green": 73.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.11567164212465286, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.04969470947980881, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 102.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.05630936101078987, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 101.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.01568860188126564, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.009413161315023899, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 227.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.0014416553312912583, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 75.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.0037313431967049837, 
+      "color-red": 191.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "naejangsan mountain korea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4396761655807495, 
+      "description": "Naejangsan"
+    }, 
+    {
+      "score": 1.0169445276260376, 
+      "description": "Baegyangsa"
+    }, 
+    {
+      "score": 0.9281910061836243, 
+      "description": "Naejangsan National Park"
+    }, 
+    {
+      "score": 0.9084075689315796, 
+      "description": "Odaesan"
+    }, 
+    {
+      "score": 0.7020000219345093, 
+      "description": "Autumn leaf color"
+    }, 
+    {
+      "score": 0.7008000016212463, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.6481000185012817, 
+      "description": "Autumn"
+    }, 
+    {
+      "score": 0.5501999855041504, 
+      "description": "National park"
+    }, 
+    {
+      "score": 0.5412134528160095, 
+      "description": "Maple leaf"
+    }, 
+    {
+      "score": 0.47609999775886536, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.966037392616272, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9640502333641052, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9613018035888672, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.9541746973991394, 
+      "description": "red"
+    }, 
+    {
+      "score": 0.9452755451202393, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.9405649900436401, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8851131796836853, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8830899596214294, 
+      "description": "deciduous"
+    }, 
+    {
+      "score": 0.8719474077224731, 
+      "description": "maple tree"
+    }, 
+    {
+      "score": 0.8637403845787048, 
+      "description": "maple leaf"
+    }
+  ]
+}

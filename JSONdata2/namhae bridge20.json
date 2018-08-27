@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 226.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.21456113457679749, 
+      "color-red": 212.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.12783478200435638, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.0038559571839869022, 
+      "color-red": 28.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.0038559571839869022, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 227.0, 
+      "color-blue": 239.0, 
+      "pixel": 0.13842232525348663, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.1011045053601265, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 204.0, 
+      "color-blue": 221.0, 
+      "pixel": 0.06345990300178528, 
+      "color-red": 191.0
+    }, 
+    {
+      "color-green": 203.0, 
+      "color-blue": 213.0, 
+      "pixel": 0.06927651911973953, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 109.0, 
+      "pixel": 0.026207437738776207, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.04136984422802925, 
+      "color-red": 151.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "water transportation"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8453999757766724, 
+      "description": "\uace0\uad70\uc0b0\ub300\uad50"
+    }, 
+    {
+      "score": 0.7009000182151794, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.6395000219345093, 
+      "description": "Construction"
+    }, 
+    {
+      "score": 0.5888000130653381, 
+      "description": "Girder"
+    }, 
+    {
+      "score": 0.5633000135421753, 
+      "description": "Girder bridge"
+    }, 
+    {
+      "score": 0.5146999955177307, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5049696564674377, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.4925000071525574, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4650000035762787, 
+      "description": "Suspension bridge"
+    }, 
+    {
+      "score": 0.4429999887943268, 
+      "description": "Construction engineering"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9234718680381775, 
+      "description": "water transportation"
+    }, 
+    {
+      "score": 0.853835940361023, 
+      "description": "crane vessel floating"
+    }, 
+    {
+      "score": 0.7600537538528442, 
+      "description": "ship"
+    }, 
+    {
+      "score": 0.7262011766433716, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.7241806983947754, 
+      "description": "heavy lift ship"
+    }, 
+    {
+      "score": 0.6636924743652344, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.6352455019950867, 
+      "description": "crane"
+    }, 
+    {
+      "score": 0.5711728930473328, 
+      "description": "naval architecture"
+    }, 
+    {
+      "score": 0.5291440486907959, 
+      "description": "motor ship"
+    }
+  ]
+}

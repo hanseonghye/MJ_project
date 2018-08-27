@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 162.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.2900921702384949, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.006682027596980333, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.005145929288119078, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 44.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.014592934399843216, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 26.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.0005376344197429717, 
+      "color-red": 11.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.00030721965595148504, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.00030721965595148504, 
+      "color-red": 249.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 180.0, 
+      "pixel": 0.09854070842266083, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 104.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.006605222821235657, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.005299539305269718, 
+      "color-red": 179.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uba54\ud0c0 \ud504\ub85c\ubc29\uc2a4"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8917095065116882, 
+      "description": "Provence"
+    }, 
+    {
+      "score": 0.647570013999939, 
+      "description": "\ub2f4\uc591\uba54\ud0c0\ud39c\uc158"
+    }, 
+    {
+      "score": 0.6144999861717224, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.5194000005722046, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4726699888706207, 
+      "description": "\ud504\ub85c\ubc29\uc2a4\ubca0\uc774\ucee4\ub9ac"
+    }, 
+    {
+      "score": 0.4411499798297882, 
+      "description": "Provence"
+    }, 
+    {
+      "score": 0.4302099943161011, 
+      "description": "\uc0bc\uc0bc\uc624\uc624"
+    }, 
+    {
+      "score": 0.367880642414093, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.2540690302848816, 
+      "description": "Town"
+    }, 
+    {
+      "score": 0.2508000135421753, 
+      "description": "Nightscape"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9277174472808838, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8866840600967407, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8500002026557922, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.7491958737373352, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.7010591626167297, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.6864117980003357, 
+      "description": "street"
+    }, 
+    {
+      "score": 0.6483789682388306, 
+      "description": "facade"
+    }, 
+    {
+      "score": 0.6461960077285767, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6345592141151428, 
+      "description": "window"
+    }, 
+    {
+      "score": 0.5280580520629883, 
+      "description": "tourism"
+    }
+  ]
+}

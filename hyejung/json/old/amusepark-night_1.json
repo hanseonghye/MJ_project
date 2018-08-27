@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 81.0, 
+      "color-blue": 106.0, 
+      "pixel": 0.04554195702075958, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 141.0, 
+      "pixel": 0.011013985611498356, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 71.0, 
+      "color-blue": 165.0, 
+      "pixel": 0.0026223775930702686, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 96.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.0035839159972965717, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.05113636329770088, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.004283216781914234, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.0017482517287135124, 
+      "color-red": 227.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 80.0, 
+      "pixel": 0.10480768978595734, 
+      "color-red": 39.0
+    }, 
+    {
+      "color-green": 233.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.0006118881283327937, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.007692307699471712, 
+      "color-red": 107.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Fun City"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9230999946594238, 
+      "description": "Disneyland"
+    }, 
+    {
+      "score": 0.7949999570846558, 
+      "description": "Disney California Adventure"
+    }, 
+    {
+      "score": 0.7141000032424927, 
+      "description": "Amusement park"
+    }, 
+    {
+      "score": 0.6942099928855896, 
+      "description": "Fun City"
+    }, 
+    {
+      "score": 0.6452999711036682, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.5830332636833191, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.522599995136261, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5120000243186951, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5012000203132629, 
+      "description": "Roller coaster"
+    }, 
+    {
+      "score": 0.44369998574256897, 
+      "description": "The Walt Disney Company"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9816170930862427, 
+      "description": "amusement park"
+    }, 
+    {
+      "score": 0.9328641295433044, 
+      "description": "fair"
+    }, 
+    {
+      "score": 0.9234890937805176, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.9002938270568848, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8953268527984619, 
+      "description": "amusement ride"
+    }, 
+    {
+      "score": 0.8329501152038574, 
+      "description": "festival"
+    }, 
+    {
+      "score": 0.7894479632377625, 
+      "description": "park"
+    }, 
+    {
+      "score": 0.7724673748016357, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.7300746440887451, 
+      "description": "recreation"
+    }, 
+    {
+      "score": 0.7238655090332031, 
+      "description": "leisure"
+    }
+  ]
+}

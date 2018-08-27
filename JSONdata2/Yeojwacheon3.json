@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 156.0, 
+      "color-blue": 186.0, 
+      "pixel": 0.11558538675308228, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.01884618028998375, 
+      "color-red": 142.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.025896549224853516, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.0029150566551834345, 
+      "color-red": 180.0
+    }, 
+    {
+      "color-green": 107.0, 
+      "color-blue": 205.0, 
+      "pixel": 0.0004745440965052694, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 186.0, 
+      "pixel": 0.06955460458993912, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 216.0, 
+      "pixel": 0.08724832534790039, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 215.0, 
+      "pixel": 0.03294691815972328, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 154.0, 
+      "pixel": 0.04325130581855774, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.0515897236764431, 
+      "color-red": 122.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "jinhae cherry blossom festival 2018"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6262223720550537, 
+      "description": "Cherry blossom"
+    }, 
+    {
+      "score": 1.4049371480941772, 
+      "description": "Jinhae Gunhangje Festival"
+    }, 
+    {
+      "score": 1.0544999837875366, 
+      "description": "National Cherry Blossom Festival"
+    }, 
+    {
+      "score": 0.9830999374389648, 
+      "description": "Jinhae Gunhangje Festival"
+    }, 
+    {
+      "score": 0.9812797904014587, 
+      "description": "Yeojwacheon"
+    }, 
+    {
+      "score": 0.7791430950164795, 
+      "description": "Blossom"
+    }, 
+    {
+      "score": 0.6724212765693665, 
+      "description": "Gyeonghwayeog"
+    }, 
+    {
+      "score": 0.5608999729156494, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.4797999858856201, 
+      "description": "\ubd04\uaf43 (Spring Flower)"
+    }, 
+    {
+      "score": 0.40869998931884766, 
+      "description": "Cherry"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.975838303565979, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9570329785346985, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.9470931887626648, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9455844163894653, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.923382043838501, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9011455178260803, 
+      "description": "cherry blossom"
+    }, 
+    {
+      "score": 0.8924638032913208, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.8920849561691284, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8895150423049927, 
+      "description": "blossom"
+    }, 
+    {
+      "score": 0.826489269733429, 
+      "description": "water"
+    }
+  ]
+}

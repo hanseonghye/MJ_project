@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.533484, 
+      "description": "Seoul Central Mosque", 
+      "Longitude": 126.997725
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 232.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.10855930298566818, 
+      "color-red": 224.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.07793764770030975, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.0845784917473793, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 208.0, 
+      "color-blue": 216.0, 
+      "pixel": 0.12866629660129547, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 206.0, 
+      "color-blue": 220.0, 
+      "pixel": 0.2079874575138092, 
+      "color-red": 180.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.0879911482334137, 
+      "color-red": 76.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 137.0, 
+      "pixel": 0.025456557050347328, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 171.0, 
+      "pixel": 0.03218963369727135, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.014296255074441433, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.010791366919875145, 
+      "color-red": 39.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "seoul central mosque"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.582135558128357, 
+      "description": "Seoul Central Mosque"
+    }, 
+    {
+      "score": 1.2973182201385498, 
+      "description": "Mosque"
+    }, 
+    {
+      "score": 0.771899938583374, 
+      "description": "Temple"
+    }, 
+    {
+      "score": 0.7571850419044495, 
+      "description": "Itaewon-dong"
+    }, 
+    {
+      "score": 0.7541999816894531, 
+      "description": "Cheng Ho Mosque"
+    }, 
+    {
+      "score": 0.6435999870300293, 
+      "description": "Islam"
+    }, 
+    {
+      "score": 0.6262999773025513, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4749999940395355, 
+      "description": ""
+    }, 
+    {
+      "score": 0.46799999475479126, 
+      "description": "Muslim"
+    }, 
+    {
+      "score": 0.45590001344680786, 
+      "description": "Religion"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9272425770759583, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.9187163710594177, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8772029876708984, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.8765594959259033, 
+      "description": "mosque"
+    }, 
+    {
+      "score": 0.7707573175430298, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.7220768928527832, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7076255679130554, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6675764918327332, 
+      "description": "khanqah"
+    }, 
+    {
+      "score": 0.5696492195129395, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.5464712381362915, 
+      "description": "facade"
+    }
+  ]
+}

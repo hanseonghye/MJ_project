@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 66.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.026118068024516106, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.012611806392669678, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 170.0, 
+      "pixel": 0.0006261180969886482, 
+      "color-red": 255.0
+    }, 
+    {
+      "color-green": 96.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.01663685217499733, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 69.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.040250446647405624, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.012790697626769543, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 70.0, 
+      "color-blue": 103.0, 
+      "pixel": 0.039445437490940094, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 43.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.06457960605621338, 
+      "color-red": 73.0
+    }, 
+    {
+      "color-green": 41.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.057245079427957535, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 36.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.01592128723859787, 
+      "color-red": 93.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "2016 \ud3ec\ud56d \uad6d\uc81c \ubd88\ube5b \ucd95\uc81c"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9691499471664429, 
+      "description": "Pohang International Fireworks Festival"
+    }, 
+    {
+      "score": 0.6657999753952026, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.592361569404602, 
+      "description": "\uc601\uc77c\ub300\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 0.5797836780548096, 
+      "description": "\ud615\uc0b0\uac15 \uccb4\uc721\uacf5\uc6d0"
+    }, 
+    {
+      "score": 0.5128999948501587, 
+      "description": "Fireworks"
+    }, 
+    {
+      "score": 0.5008500218391418, 
+      "description": "Ulsan Whale Festival"
+    }, 
+    {
+      "score": 0.35019999742507935, 
+      "description": "F\u00eate"
+    }, 
+    {
+      "score": 0.3456999957561493, 
+      "description": "Seoul International Fireworks Festival"
+    }, 
+    {
+      "score": 0.31053000688552856, 
+      "description": "Muju Firefly Festival"
+    }, 
+    {
+      "score": 0.2849999964237213, 
+      "description": "Fire"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9919941425323486, 
+      "description": "fireworks"
+    }, 
+    {
+      "score": 0.8879097104072571, 
+      "description": "festival"
+    }, 
+    {
+      "score": 0.8747527003288269, 
+      "description": "event"
+    }, 
+    {
+      "score": 0.8019224405288696, 
+      "description": "entertainment"
+    }, 
+    {
+      "score": 0.7710310816764832, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7484235763549805, 
+      "description": "f\u00eate"
+    }, 
+    {
+      "score": 0.7421727180480957, 
+      "description": "new year's eve"
+    }, 
+    {
+      "score": 0.7302243113517761, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6618747711181641, 
+      "description": "new year"
+    }, 
+    {
+      "score": 0.6557610630989075, 
+      "description": "public event"
+    }
+  ]
+}

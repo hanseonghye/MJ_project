@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 154.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.09954509139060974, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 235.0, 
+      "color-blue": 241.0, 
+      "pixel": 0.3804522454738617, 
+      "color-red": 221.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.0145838912576437, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.007760235574096441, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.009700294584035873, 
+      "color-red": 46.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.08067969232797623, 
+      "color-red": 131.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 171.0, 
+      "pixel": 0.0025421460159122944, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.050374630838632584, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 182.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.04756489023566246, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.020470965653657913, 
+      "color-red": 157.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc2a4\uc704\uc2a4 \ub9c8\uc744 \uc5d0\ub378\ubc14\uc774\uc2a4"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.9385418891906738, 
+      "description": "Edelweiss Swiss Theme Park"
+    }, 
+    {
+      "score": 0.6915677785873413, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.6364499926567078, 
+      "description": "Switzerland"
+    }, 
+    {
+      "score": 0.6036999821662903, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5593433976173401, 
+      "description": "Town"
+    }, 
+    {
+      "score": 0.5267000198364258, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4657000005245209, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4269999861717224, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.41659998893737793, 
+      "description": "Amusement park"
+    }, 
+    {
+      "score": 0.40720000863075256, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9113505482673645, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8901931643486023, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8469712734222412, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.7919394969940186, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.6968875527381897, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.6043654680252075, 
+      "description": "steeple"
+    }, 
+    {
+      "score": 0.5765362977981567, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.5628688335418701, 
+      "description": "clock tower"
+    }, 
+    {
+      "score": 0.5447424054145813, 
+      "description": "facade"
+    }, 
+    {
+      "score": 0.5225429534912109, 
+      "description": "estate"
+    }
+  ]
+}

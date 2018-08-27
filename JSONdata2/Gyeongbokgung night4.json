@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 80.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.021111110225319862, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.011904762126505375, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 175.0, 
+      "pixel": 0.0014285714132711291, 
+      "color-red": 202.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.012380952015519142, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.0067460318095982075, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.015238095074892044, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 70.0, 
+      "pixel": 0.005476190708577633, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 138.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.004365079570561647, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.07261905074119568, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.006825396791100502, 
+      "color-red": 114.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Gyeongbokgung"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.9029642343521118, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 1.3800609111785889, 
+      "description": "Changgyeonggung"
+    }, 
+    {
+      "score": 1.0835806131362915, 
+      "description": "Deoksugung"
+    }, 
+    {
+      "score": 0.6395999789237976, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.6238499879837036, 
+      "description": "Joseon"
+    }, 
+    {
+      "score": 0.4764000177383423, 
+      "description": "Goryeo"
+    }, 
+    {
+      "score": 0.4449000060558319, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4122999906539917, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3853999972343445, 
+      "description": "Cultural Heritage Administration"
+    }, 
+    {
+      "score": 0.3755360543727875, 
+      "description": "Tourist attraction"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9754154086112976, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9360228180885315, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8176740407943726, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8078575134277344, 
+      "description": "structure"
+    }, 
+    {
+      "score": 0.7915084958076477, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7856183648109436, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6803187727928162, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.669718325138092, 
+      "description": "opera"
+    }, 
+    {
+      "score": 0.6569985747337341, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.6400099396705627, 
+      "description": "building"
+    }
+  ]
+}

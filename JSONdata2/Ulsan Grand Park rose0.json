@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 224.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.017818739637732506, 
+      "color-red": 250.0
+    }, 
+    {
+      "color-green": 32.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.008909369818866253, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 73.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.020199691876769066, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.012058371677994728, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 105.0, 
+      "pixel": 0.009370199404656887, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 20.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.17173579335212708, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.03264208883047104, 
+      "color-red": 31.0
+    }, 
+    {
+      "color-green": 36.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.0049923197366297245, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 28.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.007066052407026291, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 224.0, 
+      "pixel": 0.04354838654398918, 
+      "color-red": 172.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "2018 \uc6b8\uc0b0 \uc7a5\ubbf8 \ucd95\uc81c"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7951332330703735, 
+      "description": "Ulsan Grand Park"
+    }, 
+    {
+      "score": 0.7156787514686584, 
+      "description": "Chugje"
+    }, 
+    {
+      "score": 0.7003999948501587, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.5172266364097595, 
+      "description": "Seoul Grand Park"
+    }, 
+    {
+      "score": 0.5055000185966492, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.48919999599456787, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.4690999984741211, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.466839998960495, 
+      "description": "Beach rose"
+    }, 
+    {
+      "score": 0.41830000281333923, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.34209999442100525, 
+      "description": "\ubd04\uaf43 (Spring Flower)"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9833013415336609, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9794867634773254, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9535877108573914, 
+      "description": "flowering plant"
+    }, 
+    {
+      "score": 0.9431430101394653, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9016470909118652, 
+      "description": "flora"
+    }, 
+    {
+      "score": 0.8992379307746887, 
+      "description": "botanical garden"
+    }, 
+    {
+      "score": 0.8408821225166321, 
+      "description": "garden"
+    }, 
+    {
+      "score": 0.7906672358512878, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7567377686500549, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.7264361381530762, 
+      "description": "sky"
+    }
+  ]
+}

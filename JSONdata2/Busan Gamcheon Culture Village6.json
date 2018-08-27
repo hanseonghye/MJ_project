@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 81.0, 
+      "color-blue": 165.0, 
+      "pixel": 0.05935251712799072, 
+      "color-red": 21.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.03221770375967026, 
+      "color-red": 30.0
+    }, 
+    {
+      "color-green": 136.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.013919299468398094, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 96.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.010165780782699585, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 143.0, 
+      "pixel": 0.016187049448490143, 
+      "color-red": 22.0
+    }, 
+    {
+      "color-green": 104.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.01673443801701069, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.0040663122199475765, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.022286519408226013, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 68.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.0018767594592645764, 
+      "color-red": 10.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 44.0, 
+      "pixel": 0.0021895526442676783, 
+      "color-red": 243.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Gamcheon Culture Village"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2734041213989258, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 0.7722219824790955, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 0.6066544055938721, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.510200023651123, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.3441435992717743, 
+      "description": "Water park"
+    }, 
+    {
+      "score": 0.33676502108573914, 
+      "description": "Gwangandaegyo"
+    }, 
+    {
+      "score": 0.3343999981880188, 
+      "description": "Nightscape"
+    }, 
+    {
+      "score": 0.32948559522628784, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.32843339443206787, 
+      "description": "Evening"
+    }, 
+    {
+      "score": 0.2856999933719635, 
+      "description": "2-12-4"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8519715070724487, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.7983632683753967, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7821347713470459, 
+      "description": "amusement park"
+    }, 
+    {
+      "score": 0.7370079159736633, 
+      "description": "fun"
+    }, 
+    {
+      "score": 0.7246032357215881, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.710777223110199, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6995081305503845, 
+      "description": "fair"
+    }, 
+    {
+      "score": 0.6415584087371826, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.5950279831886292, 
+      "description": "recreation"
+    }, 
+    {
+      "score": 0.5886079668998718, 
+      "description": "vacation"
+    }
+  ]
+}

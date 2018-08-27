@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 159.0, 
+      "color-blue": 186.0, 
+      "pixel": 0.06608889251947403, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.04017777740955353, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.06577777862548828, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 147.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.006444444414228201, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.01351111102849245, 
+      "color-red": 222.0
+    }, 
+    {
+      "color-green": 220.0, 
+      "color-blue": 193.0, 
+      "pixel": 0.020977778360247612, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.09795555472373962, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.06982222199440002, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 168.0, 
+      "pixel": 0.0285777784883976, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.05613333359360695, 
+      "color-red": 116.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "North Pole"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9017800688743591, 
+      "description": "St Valery Boutique Bed + Breakfast"
+    }, 
+    {
+      "score": 0.7394999861717224, 
+      "description": "North Pole"
+    }, 
+    {
+      "score": 0.5284000039100647, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.5118048191070557, 
+      "description": "Sunrise"
+    }, 
+    {
+      "score": 0.4944831132888794, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.4372375011444092, 
+      "description": "Sunset"
+    }, 
+    {
+      "score": 0.4115167260169983, 
+      "description": "Wind wave"
+    }, 
+    {
+      "score": 0.3990326225757599, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.3865678608417511, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.361299991607666, 
+      "description": "Accommodation"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9758180975914001, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9662733674049377, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.9633061289787292, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8986945748329163, 
+      "description": "calm"
+    }, 
+    {
+      "score": 0.8753728270530701, 
+      "description": "dawn"
+    }, 
+    {
+      "score": 0.8714794516563416, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8550100922584534, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8542381525039673, 
+      "description": "sunrise"
+    }, 
+    {
+      "score": 0.8404523134231567, 
+      "description": "atmosphere"
+    }, 
+    {
+      "score": 0.832261860370636, 
+      "description": "dusk"
+    }
+  ]
+}

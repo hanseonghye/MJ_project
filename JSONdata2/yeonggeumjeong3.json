@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 163.0, 
+      "color-blue": 184.0, 
+      "pixel": 0.15191110968589783, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.07115555554628372, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 42.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.006577777676284313, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 28.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.001466666697524488, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 208.0, 
+      "pixel": 0.15773333609104156, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 147.0, 
+      "pixel": 0.05920000001788139, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.06017777696251869, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 207.0, 
+      "color-blue": 221.0, 
+      "pixel": 0.10475555807352066, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.04271111264824867, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 219.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.13928888738155365, 
+      "color-red": 208.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8776357769966125, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.7793999910354614, 
+      "description": "Cape May"
+    }, 
+    {
+      "score": 0.7253339886665344, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.6552601456642151, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.6182515025138855, 
+      "description": "Headland"
+    }, 
+    {
+      "score": 0.5691046118736267, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.5204527974128723, 
+      "description": "Vacation"
+    }, 
+    {
+      "score": 0.512499988079071, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5007120966911316, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.3937999904155731, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9797606468200684, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9025543928146362, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8895410895347595, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8621748089790344, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8515404462814331, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.839470624923706, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.7733086943626404, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.7080092430114746, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.694577157497406, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.660686194896698, 
+      "description": "cape"
+    }
+  ]
+}

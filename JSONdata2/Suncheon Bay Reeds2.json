@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 79.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.06791946291923523, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 18.0, 
+      "color-blue": 13.0, 
+      "pixel": 0.033489931374788284, 
+      "color-red": 27.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.038993287831544876, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 44.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.03731543570756912, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.05610738322138786, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.060872483998537064, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 20.0, 
+      "color-blue": 5.0, 
+      "pixel": 0.012281878851354122, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 41.0, 
+      "pixel": 0.016912750899791718, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 149.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.034228187054395676, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.012281878851354122, 
+      "color-red": 89.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc21c\ucc9c \uac08 \ub300\ubc2d"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1668800115585327, 
+      "description": "Suncheon Bay reeds"
+    }, 
+    {
+      "score": 1.0757999420166016, 
+      "description": "Suncheon Bay"
+    }, 
+    {
+      "score": 0.5946000218391418, 
+      "description": "Wetland"
+    }, 
+    {
+      "score": 0.5541799664497375, 
+      "description": "\uc21c\ucc9c\ub9cc\uac08\ub300\ud68c\uad00"
+    }, 
+    {
+      "score": 0.5441700220108032, 
+      "description": "\uc21c\ucc9c\ub9cc\uac08\ub300\ud68c\uad00"
+    }, 
+    {
+      "score": 0.5253600478172302, 
+      "description": "\uc21c\ucc9c\ub9cc\uac08\ub300\uc232"
+    }, 
+    {
+      "score": 0.48410001397132874, 
+      "description": "\uad70\ub77d"
+    }, 
+    {
+      "score": 0.47812744975090027, 
+      "description": "Grasses"
+    }, 
+    {
+      "score": 0.4309999942779541, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.39899998903274536, 
+      "description": "Common reed"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8849858045578003, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8387119174003601, 
+      "description": "grass family"
+    }, 
+    {
+      "score": 0.7297466397285461, 
+      "description": "harvest"
+    }, 
+    {
+      "score": 0.7249091267585754, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.6939226984977722, 
+      "description": "rural area"
+    }, 
+    {
+      "score": 0.6514778733253479, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.6483779549598694, 
+      "description": "prairie"
+    }, 
+    {
+      "score": 0.6462470293045044, 
+      "description": "hay"
+    }, 
+    {
+      "score": 0.6395475268363953, 
+      "description": "straw"
+    }, 
+    {
+      "score": 0.6343351006507874, 
+      "description": "soil"
+    }
+  ]
+}

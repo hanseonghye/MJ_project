@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 72.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.015533333644270897, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 106.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.008133333176374435, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.03766666725277901, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 17.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.1398666650056839, 
+      "color-red": 27.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.024666666984558105, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 148.0, 
+      "pixel": 0.016333334147930145, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.014600000344216824, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 5.0, 
+      "pixel": 0.016866667196154594, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 41.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.03720000013709068, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.03453333303332329, 
+      "color-red": 67.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "cityscape"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0709999799728394, 
+      "description": "Naksan"
+    }, 
+    {
+      "score": 0.5760149955749512, 
+      "description": "Naksan Park"
+    }, 
+    {
+      "score": 0.4869000017642975, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4805999994277954, 
+      "description": ""
+    }, 
+    {
+      "score": 0.46665000915527344, 
+      "description": "Fortress Wall of Seoul"
+    }, 
+    {
+      "score": 0.37220001220703125, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.36664408445358276, 
+      "description": "Cityscape"
+    }, 
+    {
+      "score": 0.35679998993873596, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.31039687991142273, 
+      "description": "Aerial photography"
+    }, 
+    {
+      "score": 0.3018999993801117, 
+      "description": "Nightscape"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9844427108764648, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9834737181663513, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.980638325214386, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.976692259311676, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9583489298820496, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9540665745735168, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9342271089553833, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9192965030670166, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.8823946714401245, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.876120388507843, 
+      "description": "horizon"
+    }
+  ]
+}

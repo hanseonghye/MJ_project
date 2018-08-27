@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 81.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.01666666753590107, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.026031745597720146, 
+      "color-red": 55.0
+    }, 
+    {
+      "color-green": 65.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.07007936388254166, 
+      "color-red": 122.0
+    }, 
+    {
+      "color-green": 174.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.008809523656964302, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.013412698172032833, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 78.0, 
+      "color-blue": 71.0, 
+      "pixel": 0.016746031120419502, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.0059523810632526875, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.005238095298409462, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.005238095298409462, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 35.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.0026984126307070255, 
+      "color-red": 74.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uac08 \ub300\ubc2d"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5071760416030884, 
+      "description": "Suncheon Bay reeds"
+    }, 
+    {
+      "score": 1.059149980545044, 
+      "description": "Suncheon Bay"
+    }, 
+    {
+      "score": 0.6102030277252197, 
+      "description": "\uc21c\ucc9c\ub9cc\uac08\ub300\uc232"
+    }, 
+    {
+      "score": 0.6072990298271179, 
+      "description": "\uc21c\ucc9c\ub9cc\uac08\ub300\ud68c\uad00"
+    }, 
+    {
+      "score": 0.5899960398674011, 
+      "description": "\uc21c\ucc9c\ub9cc\uac08\ub300\ud68c\uad00"
+    }, 
+    {
+      "score": 0.5874000191688538, 
+      "description": "Common reed"
+    }, 
+    {
+      "score": 0.3513000011444092, 
+      "description": "Autumn"
+    }, 
+    {
+      "score": 0.3361999988555908, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.30516842007637024, 
+      "description": "Harvest"
+    }, 
+    {
+      "score": 0.2630999982357025, 
+      "description": "Excursion"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9266189336776733, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.8987953066825867, 
+      "description": "ecosystem"
+    }, 
+    {
+      "score": 0.8812344670295715, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8761917352676392, 
+      "description": "grass family"
+    }, 
+    {
+      "score": 0.8602489829063416, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.8585920333862305, 
+      "description": "prairie"
+    }, 
+    {
+      "score": 0.7924941182136536, 
+      "description": "harvest"
+    }, 
+    {
+      "score": 0.7774126529693604, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.7598657011985779, 
+      "description": "hay"
+    }, 
+    {
+      "score": 0.755781352519989, 
+      "description": "straw"
+    }
+  ]
+}

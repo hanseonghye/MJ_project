@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.1889, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 198.0, 
+      "color-blue": 226.0, 
+      "pixel": 0.09738095104694366, 
+      "color-red": 183.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.08484126627445221, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.07015872746706009, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 217.0, 
+      "color-blue": 237.0, 
+      "pixel": 0.03539682552218437, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.03730158880352974, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 234.0, 
+      "pixel": 0.15293650329113007, 
+      "color-red": 221.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.030714286491274834, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 108.0, 
+      "pixel": 0.10174603015184402, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.06563492119312286, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 206.0, 
+      "pixel": 0.02936507947742939, 
+      "color-red": 198.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "haedong yonggungsa"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7577186822891235, 
+      "description": "Haedong Yonggungsa"
+    }, 
+    {
+      "score": 0.9667500257492065, 
+      "description": "Temple"
+    }, 
+    {
+      "score": 0.887244701385498, 
+      "description": "Haeundae Beach"
+    }, 
+    {
+      "score": 0.84112548828125, 
+      "description": "Gyeongju"
+    }, 
+    {
+      "score": 0.6891918778419495, 
+      "description": "Gwangalli Beach"
+    }, 
+    {
+      "score": 0.647599995136261, 
+      "description": "Buddhist temple"
+    }, 
+    {
+      "score": 0.602400004863739, 
+      "description": "Buddhism"
+    }, 
+    {
+      "score": 0.5534999966621399, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.41325318813323975, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.4041000008583069, 
+      "description": "Tourist attraction"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9726850390434265, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.934892475605011, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9261544346809387, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8988409638404846, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8512543439865112, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8008395433425903, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.7979193329811096, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.7224891185760498, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7165738344192505, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.7165079116821289, 
+      "description": "bay"
+    }
+  ]
+}

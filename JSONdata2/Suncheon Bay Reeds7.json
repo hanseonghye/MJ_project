@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 155.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.12491718679666519, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 183.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.05351490527391434, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.06013986095786095, 
+      "color-red": 183.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.10901729762554169, 
+      "color-red": 148.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.13117408752441406, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.0345233716070652, 
+      "color-red": 149.0
+    }, 
+    {
+      "color-green": 45.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.14795731008052826, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 178.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.0041221934370696545, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 43.0, 
+      "pixel": 0.007949944585561752, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 72.0, 
+      "pixel": 0.00758189195767045, 
+      "color-red": 150.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "crop"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.291200041770935, 
+      "description": "Suncheon Bay"
+    }, 
+    {
+      "score": 0.7382100224494934, 
+      "description": "Suncheon Bay reeds"
+    }, 
+    {
+      "score": 0.7106550335884094, 
+      "description": "\u9f8d\u5c71\u89c0\u666f\u53f0"
+    }, 
+    {
+      "score": 0.638700008392334, 
+      "description": "Masan"
+    }, 
+    {
+      "score": 0.5798999667167664, 
+      "description": "Myeong-dong"
+    }, 
+    {
+      "score": 0.4839000105857849, 
+      "description": "Wetland"
+    }, 
+    {
+      "score": 0.45572999119758606, 
+      "description": "\uc0dd\ud0dc\uccb4\ud5d8\uc120"
+    }, 
+    {
+      "score": 0.42300134897232056, 
+      "description": "Wheat"
+    }, 
+    {
+      "score": 0.42170000076293945, 
+      "description": "Hanok"
+    }, 
+    {
+      "score": 0.41188403964042664, 
+      "description": "\ub9c8\uc0b0\ub0b4\uc11c\uc6b0\uccb4\uad6d"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8576155304908752, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.8484284281730652, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8210814595222473, 
+      "description": "grass family"
+    }, 
+    {
+      "score": 0.8054351806640625, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7941555976867676, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.7672708630561829, 
+      "description": "phragmites"
+    }, 
+    {
+      "score": 0.7595278024673462, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.7455072999000549, 
+      "description": "sunlight"
+    }, 
+    {
+      "score": 0.7431859374046326, 
+      "description": "grain"
+    }, 
+    {
+      "score": 0.7391483187675476, 
+      "description": "wheat"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 200.0, 
+      "color-blue": 9.0, 
+      "pixel": 0.02957003563642502, 
+      "color-red": 250.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.011668176390230656, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 26.0, 
+      "color-blue": 4.0, 
+      "pixel": 0.017795300111174583, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 10.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.22894133627414703, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 3.0, 
+      "pixel": 0.006286962423473597, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 239.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.18296127021312714, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 182.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.026053598150610924, 
+      "color-red": 251.0
+    }, 
+    {
+      "color-green": 217.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.01054930966347456, 
+      "color-red": 253.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.026799509301781654, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 169.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.013373115099966526, 
+      "color-red": 244.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "chinese architecture"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7607596516609192, 
+      "description": "Chinese architecture"
+    }, 
+    {
+      "score": 0.7028429508209229, 
+      "description": "Pagoda"
+    }, 
+    {
+      "score": 0.5767999887466431, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.4390000104904175, 
+      "description": "Piercing Pagoda"
+    }, 
+    {
+      "score": 0.4390000104904175, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4345000088214874, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9898374676704407, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9779118895530701, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9032901525497437, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8067007064819336, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.806328296661377, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.771087110042572, 
+      "description": "pagoda"
+    }, 
+    {
+      "score": 0.6824845671653748, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.6807897686958313, 
+      "description": "dawn"
+    }, 
+    {
+      "score": 0.6286497116088867, 
+      "description": "japanese architecture"
+    }, 
+    {
+      "score": 0.6271654963493347, 
+      "description": "sunrise"
+    }
+  ]
+}

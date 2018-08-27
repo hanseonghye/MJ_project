@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 16.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.7916391491889954, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.04899156466126442, 
+      "color-red": 55.0
+    }, 
+    {
+      "color-green": 21.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.05405207350850105, 
+      "color-red": 19.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.032783277332782745, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.023835716769099236, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.00997433066368103, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.015914924442768097, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 20.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.0063806381076574326, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.0023469014558941126, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 19.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.003960396163165569, 
+      "color-red": 12.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "fireworks"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4352792501449585, 
+      "description": "Fireworks"
+    }, 
+    {
+      "score": 0.7150079607963562, 
+      "description": "Explosive material"
+    }, 
+    {
+      "score": 0.6588433980941772, 
+      "description": "New Year's Eve"
+    }, 
+    {
+      "score": 0.6227155923843384, 
+      "description": "Desktop Wallpaper"
+    }, 
+    {
+      "score": 0.5368000268936157, 
+      "description": "Computer"
+    }, 
+    {
+      "score": 0.4909000098705292, 
+      "description": "New Year"
+    }, 
+    {
+      "score": 0.4884999990463257, 
+      "description": "Material"
+    }, 
+    {
+      "score": 0.48030000925064087, 
+      "description": "Wallpaper"
+    }, 
+    {
+      "score": 0.47360000014305115, 
+      "description": "Explosion"
+    }, 
+    {
+      "score": 0.40619999170303345, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9932302236557007, 
+      "description": "fireworks"
+    }, 
+    {
+      "score": 0.8811576962471008, 
+      "description": "event"
+    }, 
+    {
+      "score": 0.792168140411377, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7739630937576294, 
+      "description": "new year's eve"
+    }, 
+    {
+      "score": 0.7505414485931396, 
+      "description": "f\u00eate"
+    }, 
+    {
+      "score": 0.6642908453941345, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.6543864011764526, 
+      "description": "public event"
+    }, 
+    {
+      "score": 0.615282416343689, 
+      "description": "new year"
+    }, 
+    {
+      "score": 0.615138828754425, 
+      "description": "darkness"
+    }, 
+    {
+      "score": 0.6052770614624023, 
+      "description": "festival"
+    }
+  ]
+}

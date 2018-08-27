@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 204.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.21517856419086456, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.0282738097012043, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 236.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.06428571790456772, 
+      "color-red": 230.0
+    }, 
+    {
+      "color-green": 61.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.14613094925880432, 
+      "color-red": 27.0
+    }, 
+    {
+      "color-green": 169.0, 
+      "color-blue": 220.0, 
+      "pixel": 0.14380952715873718, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.019464286044239998, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.027202380821108818, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.015595237724483013, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.010297618806362152, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 224.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.03232142701745033, 
+      "color-red": 204.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.3684784770011902, 
+      "description": "Cloud"
+    }, 
+    {
+      "score": 0.3355500102043152, 
+      "description": "Andong"
+    }, 
+    {
+      "score": 0.3022404909133911, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.28110000491142273, 
+      "description": ""
+    }, 
+    {
+      "score": 0.25929999351501465, 
+      "description": "Video"
+    }, 
+    {
+      "score": 0.24866212904453278, 
+      "description": "Sky"
+    }, 
+    {
+      "score": 0.216774120926857, 
+      "description": "Grassland"
+    }, 
+    {
+      "score": 0.20846274495124817, 
+      "description": "Shrubland"
+    }, 
+    {
+      "score": 0.20762091875076294, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.19359999895095825, 
+      "description": "\ud558\ud68c\ub9c8\uc744"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9730914235115051, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9593151807785034, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.9347320795059204, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.9240492582321167, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.9214717149734497, 
+      "description": "farm"
+    }, 
+    {
+      "score": 0.9101037383079529, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.8984774947166443, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8565441370010376, 
+      "description": "rural area"
+    }, 
+    {
+      "score": 0.8317463994026184, 
+      "description": "hill"
+    }, 
+    {
+      "score": 0.7890484929084778, 
+      "description": "agriculture"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 230.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.11895860731601715, 
+      "color-red": 228.0
+    }, 
+    {
+      "color-green": 206.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.15931715071201324, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 171.0, 
+      "color-blue": 209.0, 
+      "pixel": 0.05031304806470871, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.03166523948311806, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 105.0, 
+      "pixel": 0.0030178821180015802, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 216.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.08688797801733017, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 144.0, 
+      "color-blue": 0.0, 
+      "pixel": 0.008017657324671745, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 178.0, 
+      "color-blue": 12.0, 
+      "pixel": 0.07819467782974243, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 171.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.05517769604921341, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 218.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.01846763677895069, 
+      "color-red": 197.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "field"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.9564069509506226, 
+      "description": "Canola oil"
+    }, 
+    {
+      "score": 0.7969035506248474, 
+      "description": "Field mustard"
+    }, 
+    {
+      "score": 0.7796104550361633, 
+      "description": "Rapeseed"
+    }, 
+    {
+      "score": 0.4068000018596649, 
+      "description": "Mustard plant"
+    }, 
+    {
+      "score": 0.38591089844703674, 
+      "description": "Crop"
+    }, 
+    {
+      "score": 0.31251105666160583, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.2292364537715912, 
+      "description": "Grassland"
+    }, 
+    {
+      "score": 0.2235863208770752, 
+      "description": "Yellow"
+    }, 
+    {
+      "score": 0.2107512652873993, 
+      "description": "Farm"
+    }, 
+    {
+      "score": 0.18571379780769348, 
+      "description": "Ecoregion"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9451882839202881, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9449719786643982, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.9384946823120117, 
+      "description": "canola"
+    }, 
+    {
+      "score": 0.9337999224662781, 
+      "description": "rapeseed"
+    }, 
+    {
+      "score": 0.9251636266708374, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.9134951829910278, 
+      "description": "mustard plant"
+    }, 
+    {
+      "score": 0.9048247933387756, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8740418553352356, 
+      "description": "mustard and cabbage family"
+    }, 
+    {
+      "score": 0.8003215193748474, 
+      "description": "meadow"
+    }, 
+    {
+      "score": 0.7885922789573669, 
+      "description": "brassica rapa"
+    }
+  ]
+}

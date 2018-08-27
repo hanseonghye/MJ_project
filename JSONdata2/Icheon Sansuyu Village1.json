@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 195.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.09344293177127838, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.05366590991616249, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.1001511737704277, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.08219954371452332, 
+      "color-red": 183.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.03779289498925209, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.07133408635854721, 
+      "color-red": 178.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.02371504157781601, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.04941421002149582, 
+      "color-red": 214.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.02607709728181362, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.08966363966464996, 
+      "color-red": 138.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "spring"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.181821584701538, 
+      "description": "Sansuyu Village"
+    }, 
+    {
+      "score": 0.9632314443588257, 
+      "description": "\uc774\ucc9c \uc0b0\uc218\uc720\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.6882734298706055, 
+      "description": "\uc0b0\uc218\uc720\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.5849000215530396, 
+      "description": "Cornus officinalis"
+    }, 
+    {
+      "score": 0.4408999979496002, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.3189854025840759, 
+      "description": "Flower"
+    }, 
+    {
+      "score": 0.28711003065109253, 
+      "description": "Songmal-ri"
+    }, 
+    {
+      "score": 0.22888511419296265, 
+      "description": "Yellow"
+    }, 
+    {
+      "score": 0.1621088683605194, 
+      "description": "Spring"
+    }, 
+    {
+      "score": 0.14733059704303741, 
+      "description": "Maidenhair tree"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9555050134658813, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9471958875656128, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9019955396652222, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8801651000976562, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8300421237945557, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.8298815488815308, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.7762809991836548, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.7593123912811279, 
+      "description": "branch"
+    }, 
+    {
+      "score": 0.608224630355835, 
+      "description": "maidenhair tree"
+    }
+  ]
+}

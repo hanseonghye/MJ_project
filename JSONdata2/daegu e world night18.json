@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 130.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.009999999776482582, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 23.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.012795698828995228, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.007204301189631224, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 178.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.004139784723520279, 
+      "color-red": 254.0
+    }, 
+    {
+      "color-green": 133.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.006720430217683315, 
+      "color-red": 233.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.006451612804085016, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 135.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.005107526667416096, 
+      "color-red": 213.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.0063440860249102116, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.004784946329891682, 
+      "color-red": 180.0
+    }, 
+    {
+      "color-green": 22.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.017741935327649117, 
+      "color-red": 98.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Daegu"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4675101041793823, 
+      "description": "E \u00b7 WORLD 83Tower"
+    }, 
+    {
+      "score": 1.1610651016235352, 
+      "description": "Fireworks"
+    }, 
+    {
+      "score": 0.6098999977111816, 
+      "description": "Pittsfield"
+    }, 
+    {
+      "score": 0.5277000069618225, 
+      "description": "\u0420\u0430\u0437\u043d\u043e\u0446\u0432\u0435\u0442\u043d\u044b\u0439 \u0444\u0435\u0441\u0442\u0438\u0432\u0430\u043b\u044c \u0432 \u0422\u044d\u0433\u0443"
+    }, 
+    {
+      "score": 0.4943999946117401, 
+      "description": "Alcoholic drink"
+    }, 
+    {
+      "score": 0.43994998931884766, 
+      "description": "Liqueur"
+    }, 
+    {
+      "score": 0.43959999084472656, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.41519999504089355, 
+      "description": "E-World"
+    }, 
+    {
+      "score": 0.3522999882698059, 
+      "description": "Clip art"
+    }, 
+    {
+      "score": 0.34450000524520874, 
+      "description": "Steffen Drug"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9928802847862244, 
+      "description": "fireworks"
+    }, 
+    {
+      "score": 0.8784263730049133, 
+      "description": "event"
+    }, 
+    {
+      "score": 0.7728965282440186, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7619322538375854, 
+      "description": "new year's eve"
+    }, 
+    {
+      "score": 0.7467822432518005, 
+      "description": "f\u00eate"
+    }, 
+    {
+      "score": 0.6919460296630859, 
+      "description": "explosive material"
+    }, 
+    {
+      "score": 0.6348598003387451, 
+      "description": "public event"
+    }, 
+    {
+      "score": 0.6051803231239319, 
+      "description": "new year"
+    }, 
+    {
+      "score": 0.6031488180160522, 
+      "description": "festival"
+    }, 
+    {
+      "score": 0.5691297054290771, 
+      "description": "night"
+    }
+  ]
+}

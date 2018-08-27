@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 86.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.2648666799068451, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 210.0, 
+      "pixel": 0.16846667230129242, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 103.0, 
+      "pixel": 0.19893333315849304, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.19486667215824127, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 30.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.08826666325330734, 
+      "color-red": 36.0
+    }, 
+    {
+      "color-green": 149.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.0544000007212162, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 206.0, 
+      "pixel": 0.020466666668653488, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 74.0, 
+      "pixel": 0.002400000113993883, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.002199999988079071, 
+      "color-red": 221.0
+    }, 
+    {
+      "color-green": 41.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.0019333333475515246, 
+      "color-red": 47.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "snow"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.5975000262260437, 
+      "description": "Forest"
+    }, 
+    {
+      "score": 0.5929322242736816, 
+      "description": "Spruce-fir forests"
+    }, 
+    {
+      "score": 0.5800762176513672, 
+      "description": "Wood"
+    }, 
+    {
+      "score": 0.5630252957344055, 
+      "description": "Snow"
+    }, 
+    {
+      "score": 0.5580999851226807, 
+      "description": "/m/083vt"
+    }, 
+    {
+      "score": 0.5350000262260437, 
+      "description": "Spruce"
+    }, 
+    {
+      "score": 0.5001000165939331, 
+      "description": "Fir"
+    }, 
+    {
+      "score": 0.41839998960494995, 
+      "description": "Dagens Nyheter"
+    }, 
+    {
+      "score": 0.4172999858856201, 
+      "description": "Branching"
+    }, 
+    {
+      "score": 0.40630000829696655, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9798969030380249, 
+      "description": "snow"
+    }, 
+    {
+      "score": 0.9758736491203308, 
+      "description": "winter"
+    }, 
+    {
+      "score": 0.9478756785392761, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9042006134986877, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8945223689079285, 
+      "description": "freezing"
+    }, 
+    {
+      "score": 0.836656928062439, 
+      "description": "woodland"
+    }, 
+    {
+      "score": 0.7838049530982971, 
+      "description": "path"
+    }, 
+    {
+      "score": 0.7663711905479431, 
+      "description": "branch"
+    }, 
+    {
+      "score": 0.7610160112380981, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7526927590370178, 
+      "description": "frost"
+    }
+  ]
+}

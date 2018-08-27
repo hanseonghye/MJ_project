@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 89.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.12442396581172943, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.01973886415362358, 
+      "color-red": 190.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.16574500501155853, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 149.0, 
+      "color-blue": 179.0, 
+      "pixel": 0.28671273589134216, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.017281105741858482, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 141.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.004224270582199097, 
+      "color-red": 200.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.0157450083643198, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.019354838877916336, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.03417818620800972, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.002841781824827194, 
+      "color-red": 163.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2429120540618896, 
+      "description": "Huinnyeoul Munhwa Maul \u2502 White Ford Cultural Village"
+    }, 
+    {
+      "score": 1.1372790336608887, 
+      "description": "Nurimaru APEC House"
+    }, 
+    {
+      "score": 0.865755021572113, 
+      "description": "Dongbaekseom"
+    }, 
+    {
+      "score": 0.8653920292854309, 
+      "description": "\ubd09\ub798\uc0b0"
+    }, 
+    {
+      "score": 0.8206577897071838, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.7432500123977661, 
+      "description": "APEC house"
+    }, 
+    {
+      "score": 0.5842499732971191, 
+      "description": "Yeongseondong"
+    }, 
+    {
+      "score": 0.4808427095413208, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.4311000108718872, 
+      "description": "Nightscape"
+    }, 
+    {
+      "score": 0.40310001373291016, 
+      "description": "Golden hour"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.960756778717041, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9534347653388977, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9339194297790527, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.8983885645866394, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8959269523620605, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8312257528305054, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.7619283199310303, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.7551441788673401, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.7187929749488831, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.6849639415740967, 
+      "description": "tourism"
+    }
+  ]
+}

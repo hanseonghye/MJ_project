@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 80.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.00635186955332756, 
+      "color-red": 46.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.25461408495903015, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 2.0, 
+      "color-blue": 12.0, 
+      "pixel": 0.09989213943481445, 
+      "color-red": 2.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 216.0, 
+      "pixel": 0.0011385426623746753, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 169.0, 
+      "pixel": 0.00035953978658653796, 
+      "color-red": 142.0
+    }, 
+    {
+      "color-green": 141.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.00011984659795416519, 
+      "color-red": 228.0
+    }, 
+    {
+      "color-green": 61.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.018875839188694954, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 200.0, 
+      "pixel": 0.001917545567266643, 
+      "color-red": 73.0
+    }, 
+    {
+      "color-green": 7.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.0370325967669487, 
+      "color-red": 6.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 140.0, 
+      "pixel": 0.0029961648397147655, 
+      "color-red": 18.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ub0a8\uc0b0 \ud0c0\uc6cc"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.192636489868164, 
+      "description": "N Seoul Tower"
+    }, 
+    {
+      "score": 1.5570704936981201, 
+      "description": "Namsan"
+    }, 
+    {
+      "score": 1.076760172843933, 
+      "description": "Tower"
+    }, 
+    {
+      "score": 0.6161999702453613, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.6090067028999329, 
+      "description": "Landmark"
+    }, 
+    {
+      "score": 0.5920499563217163, 
+      "description": "Pugakszan"
+    }, 
+    {
+      "score": 0.5091000199317932, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.49470001459121704, 
+      "description": "Observation tower"
+    }, 
+    {
+      "score": 0.3792000114917755, 
+      "description": "Smoke signal"
+    }, 
+    {
+      "score": 0.371306449174881, 
+      "description": "Spire"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9455945491790771, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9422705769538879, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.9273275136947632, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8961519002914429, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8472608327865601, 
+      "description": "atmosphere"
+    }, 
+    {
+      "score": 0.7372477650642395, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.7230725884437561, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.6870208978652954, 
+      "description": "outer space"
+    }, 
+    {
+      "score": 0.6629647612571716, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.6525998115539551, 
+      "description": "cityscape"
+    }
+  ]
+}

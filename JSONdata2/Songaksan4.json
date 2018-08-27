@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 153.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.10996966063976288, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 211.0, 
+      "pixel": 0.1311362385749817, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 168.0, 
+      "pixel": 0.05529509112238884, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.046745724976062775, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.11562327295541763, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.026958080008625984, 
+      "color-red": 146.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.06894649565219879, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.035024821758270264, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.027509652078151703, 
+      "color-red": 122.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.031232763081789017, 
+      "color-red": 56.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "coast"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4137217998504639, 
+      "description": "Songaksan"
+    }, 
+    {
+      "score": 0.5042999982833862, 
+      "description": "Hallasan"
+    }, 
+    {
+      "score": 0.4721057415008545, 
+      "description": "\u677e\u5cb3\u5c71\u505c\u8eca\u5834"
+    }, 
+    {
+      "score": 0.3668999969959259, 
+      "description": "Volcano"
+    }, 
+    {
+      "score": 0.34055188298225403, 
+      "description": "Cliff"
+    }, 
+    {
+      "score": 0.31089919805526733, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.2955999970436096, 
+      "description": "Landform"
+    }, 
+    {
+      "score": 0.2846851050853729, 
+      "description": "Cape"
+    }, 
+    {
+      "score": 0.2647800147533417, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.22589761018753052, 
+      "description": "Promontory"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9702556729316711, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9001712799072266, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8520647287368774, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8115156888961792, 
+      "description": "cliff"
+    }, 
+    {
+      "score": 0.8001606464385986, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.7998587489128113, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.7886174321174622, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.7366693615913391, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.7095155715942383, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.6349836587905884, 
+      "description": "escarpment"
+    }
+  ]
+}

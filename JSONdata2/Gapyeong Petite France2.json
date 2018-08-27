@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 82.0, 
+      "color-blue": 170.0, 
+      "pixel": 0.28258177638053894, 
+      "color-red": 39.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.10822281241416931, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 21.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.05083996430039406, 
+      "color-red": 21.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.013439434580504894, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.0048629529774188995, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 73.0, 
+      "color-blue": 179.0, 
+      "pixel": 0.0007073386223055422, 
+      "color-red": 30.0
+    }, 
+    {
+      "color-green": 104.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.05694076046347618, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.030680812895298004, 
+      "color-red": 19.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.0534040667116642, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 112.0, 
+      "pixel": 0.009902740828692913, 
+      "color-red": 15.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "secret garden petite france"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4111262559890747, 
+      "description": "Petite France, Gapyeong"
+    }, 
+    {
+      "score": 1.3318653106689453, 
+      "description": "Petite France"
+    }, 
+    {
+      "score": 0.6646999716758728, 
+      "description": ""
+    }, 
+    {
+      "score": 0.6636766195297241, 
+      "description": "Myeong-dong"
+    }, 
+    {
+      "score": 0.41019999980926514, 
+      "description": "Filming location"
+    }, 
+    {
+      "score": 0.3809080123901367, 
+      "description": "Petite France : logement cosy et \u00e9quip\u00e9"
+    }, 
+    {
+      "score": 0.3516260087490082, 
+      "description": "\uc058\ub760\ud504\ub791\uc2a4"
+    }, 
+    {
+      "score": 0.29580000042915344, 
+      "description": "Korean drama"
+    }, 
+    {
+      "score": 0.2255007028579712, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.13200001418590546, 
+      "description": "Petite France, Strasbourg"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8997719287872314, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8990191221237183, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.897370457649231, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8954850435256958, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8811442852020264, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.8397170901298523, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.8231583833694458, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.7791581749916077, 
+      "description": "roof"
+    }, 
+    {
+      "score": 0.7722511291503906, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.7166722416877747, 
+      "description": "real estate"
+    }
+  ]
+}

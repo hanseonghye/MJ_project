@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 171.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.07168889045715332, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 203.0, 
+      "color-blue": 234.0, 
+      "pixel": 0.113955557346344, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 229.0, 
+      "pixel": 0.05991110950708389, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 231.0, 
+      "color-blue": 252.0, 
+      "pixel": 0.15537777543067932, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 205.0, 
+      "pixel": 0.020666666328907013, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.09395555406808853, 
+      "color-red": 122.0
+    }, 
+    {
+      "color-green": 134.0, 
+      "color-blue": 177.0, 
+      "pixel": 0.0269333329051733, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 172.0, 
+      "pixel": 0.058755554258823395, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 133.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.026355555281043053, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 255.0, 
+      "pixel": 0.015599999576807022, 
+      "color-red": 176.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "cable stayed bridge"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.5192093253135681, 
+      "description": "Cable-stayed bridge"
+    }, 
+    {
+      "score": 0.34310001134872437, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.3022421896457672, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.2906906306743622, 
+      "description": "Suspension bridge"
+    }, 
+    {
+      "score": 0.26861572265625, 
+      "description": "Bay"
+    }, 
+    {
+      "score": 0.2174282968044281, 
+      "description": "Aerial photography"
+    }, 
+    {
+      "score": 0.21054308116436005, 
+      "description": "Extradosed bridge"
+    }, 
+    {
+      "score": 0.20030564069747925, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.18991295993328094, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.17514514923095703, 
+      "description": "Bird's-eye view"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.937955379486084, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.927837610244751, 
+      "description": "cable stayed bridge"
+    }, 
+    {
+      "score": 0.904153048992157, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.882325291633606, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.8802269101142883, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.879989504814148, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.8537873029708862, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.8480632305145264, 
+      "description": "suspension bridge"
+    }, 
+    {
+      "score": 0.8193522691726685, 
+      "description": "extradosed bridge"
+    }, 
+    {
+      "score": 0.798137903213501, 
+      "description": "horizon"
+    }
+  ]
+}

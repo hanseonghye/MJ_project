@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 50.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.1086222231388092, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 147.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.0270222220569849, 
+      "color-red": 183.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 250.0, 
+      "pixel": 0.007600000128149986, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 105.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.00426666671410203, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 105.0, 
+      "pixel": 0.052355553954839706, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 141.0, 
+      "pixel": 0.029244445264339447, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 26.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.08497777581214905, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 177.0, 
+      "pixel": 0.014800000004470348, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 182.0, 
+      "color-blue": 187.0, 
+      "pixel": 0.026044445112347603, 
+      "color-red": 218.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 80.0, 
+      "pixel": 0.011911110952496529, 
+      "color-red": 53.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "nature"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.3974163234233856, 
+      "description": "Waterfall"
+    }, 
+    {
+      "score": 0.38690000772476196, 
+      "description": "Stream"
+    }, 
+    {
+      "score": 0.33654940128326416, 
+      "description": "Nature reserve"
+    }, 
+    {
+      "score": 0.28584447503089905, 
+      "description": "River"
+    }, 
+    {
+      "score": 0.27077218890190125, 
+      "description": "Water resources"
+    }, 
+    {
+      "score": 0.23638752102851868, 
+      "description": "National park"
+    }, 
+    {
+      "score": 0.23437845706939697, 
+      "description": "Wilderness"
+    }, 
+    {
+      "score": 0.2210637480020523, 
+      "description": "Watercourse"
+    }, 
+    {
+      "score": 0.2203664481639862, 
+      "description": "Ravine"
+    }, 
+    {
+      "score": 0.21600142121315002, 
+      "description": "Vegetation"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9576742053031921, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9514333009719849, 
+      "description": "waterfall"
+    }, 
+    {
+      "score": 0.9391812682151794, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9353117942810059, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9233520030975342, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.8810061812400818, 
+      "description": "watercourse"
+    }, 
+    {
+      "score": 0.8743019104003906, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.856113076210022, 
+      "description": "wilderness"
+    }, 
+    {
+      "score": 0.8206765055656433, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.8162714838981628, 
+      "description": "stream"
+    }
+  ]
+}

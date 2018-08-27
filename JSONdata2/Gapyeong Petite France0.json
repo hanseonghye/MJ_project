@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 140.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.024533333256840706, 
+      "color-red": 221.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.06586666405200958, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 182.0, 
+      "color-blue": 232.0, 
+      "pixel": 0.08773333579301834, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 147.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.029200000688433647, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 173.0, 
+      "color-blue": 154.0, 
+      "pixel": 0.025688888505101204, 
+      "color-red": 231.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.01688888855278492, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.06951110810041428, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.030799999833106995, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.015288888476788998, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.028977777808904648, 
+      "color-red": 167.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Petite France, Gapyeong"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4600850343704224, 
+      "description": "Petite France, Gapyeong"
+    }, 
+    {
+      "score": 0.8271450400352478, 
+      "description": "Petite France, Strasbourg"
+    }, 
+    {
+      "score": 0.6759999990463257, 
+      "description": ""
+    }, 
+    {
+      "score": 0.6748999953269958, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5054000020027161, 
+      "description": "TripAdvisor"
+    }, 
+    {
+      "score": 0.33739998936653137, 
+      "description": "TripAdvisor"
+    }, 
+    {
+      "score": 0.2521912455558777, 
+      "description": "Neighbourhood"
+    }, 
+    {
+      "score": 0.22030000388622284, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.2152000069618225, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.21000000834465027, 
+      "description": "Gapyeong"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9240554571151733, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.9175982475280762, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8720354437828064, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8537281155586243, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.8406488299369812, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.7833433151245117, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.7475756406784058, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7378458976745605, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.7062082886695862, 
+      "description": "mixed use"
+    }, 
+    {
+      "score": 0.6931230425834656, 
+      "description": "city"
+    }
+  ]
+}

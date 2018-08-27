@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 36.501667, 
+      "description": "Anmyeondo", 
+      "Longitude": 126.33444439999998
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 139.0, 
+      "color-blue": 41.0, 
+      "pixel": 0.11791128665208817, 
+      "color-red": 241.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.15809737145900726, 
+      "color-red": 242.0
+    }, 
+    {
+      "color-green": 12.0, 
+      "color-blue": 3.0, 
+      "pixel": 0.11815191805362701, 
+      "color-red": 21.0
+    }, 
+    {
+      "color-green": 14.0, 
+      "color-blue": 2.0, 
+      "pixel": 0.014438116922974586, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 71.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.05687013640999794, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.00048127054469659925, 
+      "color-red": 255.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.045079007744789124, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.08406192064285278, 
+      "color-red": 233.0
+    }, 
+    {
+      "color-green": 6.0, 
+      "color-blue": 3.0, 
+      "pixel": 0.01588192768394947, 
+      "color-red": 36.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.0162027757614851, 
+      "color-red": 239.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "anmyeondo"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.316964030265808, 
+      "description": "\uaf43\uc9c0\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 1.1254816055297852, 
+      "description": "Anmyeondo"
+    }, 
+    {
+      "score": 0.9401999711990356, 
+      "description": "\uaf43\uc9c0\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 0.6146920323371887, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.41780000925064087, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3582412302494049, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.30379998683929443, 
+      "description": "Sunset"
+    }, 
+    {
+      "score": 0.3032272756099701, 
+      "description": "Afterglow"
+    }, 
+    {
+      "score": 0.3000113070011139, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.2745802104473114, 
+      "description": "Cape"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9377447962760925, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9365968108177185, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9057575464248657, 
+      "description": "afterglow"
+    }, 
+    {
+      "score": 0.9044708609580994, 
+      "description": "sunset"
+    }, 
+    {
+      "score": 0.8864405155181885, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.8601883053779602, 
+      "description": "sunrise"
+    }, 
+    {
+      "score": 0.833146333694458, 
+      "description": "calm"
+    }, 
+    {
+      "score": 0.7981581091880798, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.7838481068611145, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.7669160962104797, 
+      "description": "shore"
+    }
+  ]
+}

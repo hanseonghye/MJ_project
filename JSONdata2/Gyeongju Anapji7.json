@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 118.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.10546471923589706, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 239.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.010384445078670979, 
+      "color-red": 251.0
+    }, 
+    {
+      "color-green": 177.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.014214170165359974, 
+      "color-red": 251.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.1145971417427063, 
+      "color-red": 33.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 171.0, 
+      "pixel": 0.013993224129080772, 
+      "color-red": 39.0
+    }, 
+    {
+      "color-green": 249.0, 
+      "color-blue": 212.0, 
+      "pixel": 0.008469583466649055, 
+      "color-red": 250.0
+    }, 
+    {
+      "color-green": 135.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.007512152194976807, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.004787155892699957, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 23.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.047871556133031845, 
+      "color-red": 16.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.0034614817705005407, 
+      "color-red": 143.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "User"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1729850769042969, 
+      "description": "Donggung Palace and Wolji Pond in Gyeongju"
+    }, 
+    {
+      "score": 0.8768100738525391, 
+      "description": "Cheomseongdae"
+    }, 
+    {
+      "score": 0.7541325092315674, 
+      "description": "Gyeongju Tower"
+    }, 
+    {
+      "score": 0.7318434119224548, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5705700516700745, 
+      "description": "Daereungwon Royal Tomb"
+    }, 
+    {
+      "score": 0.533115029335022, 
+      "description": "Blue One Water Park"
+    }, 
+    {
+      "score": 0.49149999022483826, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.46540001034736633, 
+      "description": "\ud14c\ub514\ubca0\uc5b4\ubc15\ubb3c\uad00"
+    }, 
+    {
+      "score": 0.4643694758415222, 
+      "description": "Lake"
+    }, 
+    {
+      "score": 0.42260000109672546, 
+      "description": "Museum"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9783868789672852, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9682205319404602, 
+      "description": "blue"
+    }, 
+    {
+      "score": 0.9526200890541077, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9422498941421509, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9370542764663696, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8941460847854614, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8752862215042114, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.8398628830909729, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.8222332000732422, 
+      "description": "light"
+    }, 
+    {
+      "score": 0.8159911632537842, 
+      "description": "architecture"
+    }
+  ]
+}

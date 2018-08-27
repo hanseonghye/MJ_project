@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 107.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.03748079761862755, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.013671275228261948, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.09777265787124634, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.007757296320050955, 
+      "color-red": 253.0
+    }, 
+    {
+      "color-green": 16.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.3030721843242645, 
+      "color-red": 23.0
+    }, 
+    {
+      "color-green": 137.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.015360983088612556, 
+      "color-red": 202.0
+    }, 
+    {
+      "color-green": 105.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.059293393045663834, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 173.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.00798771157860756, 
+      "color-red": 243.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.005683563649654388, 
+      "color-red": 233.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.007450076751410961, 
+      "color-red": 229.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uac00\ud3c9 \uc058\ub760 \ud504\ub791\uc2a4"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.711599588394165, 
+      "description": "Petite France, Gapyeong"
+    }, 
+    {
+      "score": 1.0170172452926636, 
+      "description": "Namiseom"
+    }, 
+    {
+      "score": 0.6325275301933289, 
+      "description": "Namhae County"
+    }, 
+    {
+      "score": 0.5611823797225952, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5181583166122437, 
+      "description": "\uac00\ud3c9\uc5ec\ud589"
+    }, 
+    {
+      "score": 0.5133000016212463, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.49980002641677856, 
+      "description": "France"
+    }, 
+    {
+      "score": 0.4150499701499939, 
+      "description": "The Little Prince"
+    }, 
+    {
+      "score": 0.4052000045776367, 
+      "description": ""
+    }, 
+    {
+      "score": 0.39978858828544617, 
+      "description": "Christmas lights"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9114843606948853, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.9013791680335999, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.9001216888427734, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.89212965965271, 
+      "description": "public space"
+    }, 
+    {
+      "score": 0.7706237435340881, 
+      "description": "lighting"
+    }, 
+    {
+      "score": 0.7547556161880493, 
+      "description": "christmas"
+    }, 
+    {
+      "score": 0.7369816303253174, 
+      "description": "market"
+    }, 
+    {
+      "score": 0.7095459699630737, 
+      "description": "marketplace"
+    }, 
+    {
+      "score": 0.707999050617218, 
+      "description": "christmas lights"
+    }, 
+    {
+      "score": 0.706588089466095, 
+      "description": "f\u00eate"
+    }
+  ]
+}

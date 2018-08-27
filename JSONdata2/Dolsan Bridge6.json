@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 120.0, 
+      "color-blue": 148.0, 
+      "pixel": 0.04409240931272507, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 136.0, 
+      "pixel": 0.0903630331158638, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 12.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.1960396021604538, 
+      "color-red": 19.0
+    }, 
+    {
+      "color-green": 41.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.0241584163159132, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 172.0, 
+      "color-blue": 221.0, 
+      "pixel": 0.001320132054388523, 
+      "color-red": 39.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.0005940594128333032, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 41.0, 
+      "color-blue": 43.0, 
+      "pixel": 0.0012541253818199039, 
+      "color-red": 236.0
+    }, 
+    {
+      "color-green": 238.0, 
+      "color-blue": 252.0, 
+      "pixel": 0.000462046213215217, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 234.0, 
+      "pixel": 0.00013201319961808622, 
+      "color-red": 9.0
+    }, 
+    {
+      "color-green": 180.0, 
+      "color-blue": 141.0, 
+      "pixel": 0.0007920791977085173, 
+      "color-red": 243.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "landmark"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.46586012840271, 
+      "description": "\ub3cc\uc0b0\ub300\uad50"
+    }, 
+    {
+      "score": 0.49277248978614807, 
+      "description": "Solseom"
+    }, 
+    {
+      "score": 0.4377000033855438, 
+      "description": "Landscape"
+    }, 
+    {
+      "score": 0.42514926195144653, 
+      "description": "Cable-stayed bridge"
+    }, 
+    {
+      "score": 0.4066999852657318, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.36745503544807434, 
+      "description": "Dolsan"
+    }, 
+    {
+      "score": 0.32429999113082886, 
+      "description": "JPEG"
+    }, 
+    {
+      "score": 0.29670000076293945, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.2868014872074127, 
+      "description": "Landmark"
+    }, 
+    {
+      "score": 0.27810001373291016, 
+      "description": "Portrait"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9543963670730591, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.9192919731140137, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9125964641571045, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8997710943222046, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.8961432576179504, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.8875250816345215, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.8816961646080017, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8656260371208191, 
+      "description": "cable stayed bridge"
+    }, 
+    {
+      "score": 0.8424724340438843, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.8233070969581604, 
+      "description": "city"
+    }
+  ]
+}

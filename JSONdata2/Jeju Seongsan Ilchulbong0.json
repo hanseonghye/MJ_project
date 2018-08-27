@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 152.0, 
+      "color-blue": 182.0, 
+      "pixel": 0.12978079915046692, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 136.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.0066515496000647545, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.0038548752199858427, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 18.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.026757368817925453, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.008767951279878616, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.08548752963542938, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.002796674147248268, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 168.0, 
+      "pixel": 0.13219954073429108, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 142.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.0018140589818358421, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 16.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.027210883796215057, 
+      "color-red": 19.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc81c\uc8fc\ub3c4 \uc131\uc0b0 \uc77c\ucd9c\ubd09"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4053363800048828, 
+      "description": "Seongsan Ilchulbong"
+    }, 
+    {
+      "score": 0.714100182056427, 
+      "description": "Jeju International Airport"
+    }, 
+    {
+      "score": 0.5666067600250244, 
+      "description": "Gwandeogjeong"
+    }, 
+    {
+      "score": 0.4316070079803467, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.3127000033855438, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.30649998784065247, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.28949999809265137, 
+      "description": "Volcano"
+    }, 
+    {
+      "score": 0.27059999108314514, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.24719999730587006, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.23589999973773956, 
+      "description": "\uc601\uc8fc\uc2ed\uacbd"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9494612216949463, 
+      "description": "aerial photography"
+    }, 
+    {
+      "score": 0.9454877376556396, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.9022752046585083, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8892499804496765, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.8829317092895508, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8555648922920227, 
+      "description": "islet"
+    }, 
+    {
+      "score": 0.8520762324333191, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8419675827026367, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.815357506275177, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.8060187697410583, 
+      "description": "bird's eye view"
+    }
+  ]
+}

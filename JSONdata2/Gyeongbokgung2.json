@@ -1,0 +1,190 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.557121, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.980667
+    }, 
+    {
+      "Latitude": 37.537091, 
+      "description": "HOTEL SEOUL PALACE", 
+      "Longitude": 126.974487
+    }, 
+    {
+      "Latitude": 37.578256, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.977019
+    }, 
+    {
+      "Latitude": 37.570092, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.977
+    }, 
+    {
+      "Latitude": 37.534776, 
+      "description": "", 
+      "Longitude": 126.959381
+    }, 
+    {
+      "Latitude": 37.270364, 
+      "description": "Suwon", 
+      "Longitude": 127.01671600341797
+    }, 
+    {
+      "Latitude": 37.566691, 
+      "description": "", 
+      "Longitude": 126.977969
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 49.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.1635233461856842, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 29.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.06399661302566528, 
+      "color-red": 27.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.08003108203411102, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.10687292367219925, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.029737938195466995, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.08518753945827484, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 193.0, 
+      "pixel": 0.1723528951406479, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 133.0, 
+      "pixel": 0.03086812235414982, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.004944550339132547, 
+      "color-red": 46.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.0015540015883743763, 
+      "color-red": 60.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "gyeongbokgung"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.413591146469116, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 1.3750535249710083, 
+      "description": "Gwanghwamun"
+    }, 
+    {
+      "score": 1.2191355228424072, 
+      "description": "Joseon"
+    }, 
+    {
+      "score": 0.7934999465942383, 
+      "description": "Segovia"
+    }, 
+    {
+      "score": 0.7222499847412109, 
+      "description": "Geunjeongjeon"
+    }, 
+    {
+      "score": 0.7008000016212463, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.5910000205039978, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.5770000219345093, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.47029998898506165, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.4343999922275543, 
+      "description": "Stock photography"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9899166226387024, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9694883227348328, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.951911211013794, 
+      "description": "japanese architecture"
+    }, 
+    {
+      "score": 0.9121596217155457, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8598597049713135, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.7950425148010254, 
+      "description": "palace"
+    }, 
+    {
+      "score": 0.7295685410499573, 
+      "description": "shinto shrine"
+    }, 
+    {
+      "score": 0.7229437232017517, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.6754593253135681, 
+      "description": "roof"
+    }, 
+    {
+      "score": 0.5996602177619934, 
+      "description": "facade"
+    }
+  ]
+}

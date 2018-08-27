@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 200.0, 
+      "color-blue": 227.0, 
+      "pixel": 0.28786665201187134, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 26.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.0031999999191612005, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 38.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.0008444444392807782, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 193.0, 
+      "pixel": 0.06551110744476318, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.0017333333380520344, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 204.0, 
+      "pixel": 0.06964444369077682, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 231.0, 
+      "color-blue": 223.0, 
+      "pixel": 0.11133333295583725, 
+      "color-red": 232.0
+    }, 
+    {
+      "color-green": 22.0, 
+      "color-blue": 13.0, 
+      "pixel": 0.000755555578507483, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 209.0, 
+      "pixel": 0.04924444481730461, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.03302222117781639, 
+      "color-red": 155.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8403209447860718, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.8250000476837158, 
+      "description": "Cape May"
+    }, 
+    {
+      "score": 0.6194214820861816, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.6111319065093994, 
+      "description": "Breakwater"
+    }, 
+    {
+      "score": 0.5578134655952454, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.5446065664291382, 
+      "description": "Vacation"
+    }, 
+    {
+      "score": 0.5306000113487244, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5070129632949829, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.41530001163482666, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9756351709365845, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8862965106964111, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8484565019607544, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.7922618985176086, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.7380586862564087, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.689690113067627, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.6501194834709167, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.6256775856018066, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.6144898533821106, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6043935418128967, 
+      "description": "pier"
+    }
+  ]
+}

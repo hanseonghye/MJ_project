@@ -1,0 +1,146 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 160.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.0140444440767169, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.03297777846455574, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.04835555702447891, 
+      "color-red": 107.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.02675555646419525, 
+      "color-red": 76.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.007466666866093874, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.008799999952316284, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 163.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.0015999999595806003, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.008266666904091835, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.05075555667281151, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.021244443953037262, 
+      "color-red": 142.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc81c\uc8fc \ubca0\ub2c8\uc2a4 \ub79c\ub4dc"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0567500591278076, 
+      "description": "\ubca0\ub2c8\uc2a4\ub79c\ub4dc"
+    }, 
+    {
+      "score": 0.8638190627098083, 
+      "description": "\u5a01\u5c3c\u65af\u6c34\u4e61 Venice Land"
+    }, 
+    {
+      "score": 0.8110500574111938, 
+      "description": "Gondola in Venice"
+    }, 
+    {
+      "score": 0.7726500034332275, 
+      "description": "Venice"
+    }, 
+    {
+      "score": 0.6103000044822693, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5897539854049683, 
+      "description": "\uc81c\uc8fc\ud5c8\ube0c\ub2f7\ucef4"
+    }, 
+    {
+      "score": 0.534820020198822, 
+      "description": "Beniseu"
+    }, 
+    {
+      "score": 0.5005770325660706, 
+      "description": "Hai"
+    }, 
+    {
+      "score": 0.4903999865055084, 
+      "description": ""
+    }, 
+    {
+      "score": 0.476498007774353, 
+      "description": "\uc81c\uc8fc\ubaa8\ubc14\uc77c"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9121147394180298, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.7677817344665527, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6848455667495728, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6810805797576904, 
+      "description": "garden"
+    }, 
+    {
+      "score": 0.6471539735794067, 
+      "description": "botanical garden"
+    }, 
+    {
+      "score": 0.6054696440696716, 
+      "description": "recreation"
+    }, 
+    {
+      "score": 0.5523635149002075, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.5270019769668579, 
+      "description": "landscape"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 90.0, 
+      "color-blue": 141.0, 
+      "pixel": 0.05330316722393036, 
+      "color-red": 51.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 225.0, 
+      "pixel": 0.01882352866232395, 
+      "color-red": 131.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 245.0, 
+      "pixel": 0.25475114583969116, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 168.0, 
+      "color-blue": 210.0, 
+      "pixel": 0.0038009050767868757, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 235.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.38968324661254883, 
+      "color-red": 241.0
+    }, 
+    {
+      "color-green": 145.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.002624434418976307, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.008959275670349598, 
+      "color-red": 64.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 222.0, 
+      "pixel": 0.04217194393277168, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 171.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.008235294371843338, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.018914027139544487, 
+      "color-red": 130.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "beach"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1675400733947754, 
+      "description": "Udo"
+    }, 
+    {
+      "score": 0.8816500306129456, 
+      "description": "Hongjodangoe (Coralsand beach)"
+    }, 
+    {
+      "score": 0.6751800775527954, 
+      "description": "\uc11c\ube48\ubc31\uc0ac\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 0.6014852523803711, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.5815500020980835, 
+      "description": "Baka"
+    }, 
+    {
+      "score": 0.4279426336288452, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.4122346341609955, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.3971000015735626, 
+      "description": "Seaside resort"
+    }, 
+    {
+      "score": 0.33809998631477356, 
+      "description": "Island"
+    }, 
+    {
+      "score": 0.31751400232315063, 
+      "description": "Bay"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9773340225219727, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.9547375440597534, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.9505313038825989, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9412661790847778, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9350805878639221, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9233337640762329, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8066500425338745, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.7731786966323853, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7652454972267151, 
+      "description": "bay"
+    }, 
+    {
+      "score": 0.7287682890892029, 
+      "description": "caribbean"
+    }
+  ]
+}

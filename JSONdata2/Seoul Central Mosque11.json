@@ -1,0 +1,161 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.533484, 
+      "description": "Seoul Central Mosque", 
+      "Longitude": 126.997725
+    }, 
+    {
+      "Latitude": 37.772666, 
+      "description": "Conservatory of Flowers", 
+      "Longitude": -122.460222
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 123.0, 
+      "color-blue": 147.0, 
+      "pixel": 0.08841380476951599, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 241.0, 
+      "color-blue": 252.0, 
+      "pixel": 0.1264607310295105, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 167.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.008424676023423672, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 208.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.0018117582658305764, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 239.0, 
+      "color-blue": 216.0, 
+      "pixel": 0.01974816620349884, 
+      "color-red": 244.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 107.0, 
+      "pixel": 0.12455838173627853, 
+      "color-red": 61.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 176.0, 
+      "pixel": 0.04076456278562546, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.0550774522125721, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.048102181404829025, 
+      "color-red": 40.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.05725156143307686, 
+      "color-red": 64.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "seoul central mosque"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2847477197647095, 
+      "description": "Seoul Central Mosque"
+    }, 
+    {
+      "score": 1.0565478801727295, 
+      "description": "Itaewon station"
+    }, 
+    {
+      "score": 1.049749493598938, 
+      "description": "Mosque"
+    }, 
+    {
+      "score": 0.5580999851226807, 
+      "description": "Islam"
+    }, 
+    {
+      "score": 0.4848800301551819, 
+      "description": "SeoulMate"
+    }, 
+    {
+      "score": 0.43574997782707214, 
+      "description": "Chan-woo"
+    }, 
+    {
+      "score": 0.434874027967453, 
+      "description": "Mosque"
+    }, 
+    {
+      "score": 0.4282499849796295, 
+      "description": "Temple"
+    }, 
+    {
+      "score": 0.415910005569458, 
+      "description": "ESC"
+    }, 
+    {
+      "score": 0.35551998019218445, 
+      "description": "EXCITING KOREA TOUR"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9200263023376465, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9130136370658875, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.8569341897964478, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.8502956032752991, 
+      "description": "mosque"
+    }, 
+    {
+      "score": 0.7344493865966797, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.709211528301239, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.6651573777198792, 
+      "description": "khanqah"
+    }, 
+    {
+      "score": 0.5259211659431458, 
+      "description": "byzantine architecture"
+    }, 
+    {
+      "score": 0.5201890468597412, 
+      "description": "facade"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 172.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.12391111254692078, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 140.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.007333333138376474, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.004622222390025854, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.01657777838408947, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 167.0, 
+      "color-blue": 179.0, 
+      "pixel": 0.029511110857129097, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 210.0, 
+      "color-blue": 223.0, 
+      "pixel": 0.12831111252307892, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.0027111112140119076, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.029999999329447746, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 181.0, 
+      "pixel": 0.02182222157716751, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 211.0, 
+      "color-blue": 228.0, 
+      "pixel": 0.04355555400252342, 
+      "color-red": 181.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.82615065574646, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.5863547921180725, 
+      "description": "House"
+    }, 
+    {
+      "score": 0.5734999775886536, 
+      "description": "Meter"
+    }, 
+    {
+      "score": 0.5281000137329102, 
+      "description": "Square meter"
+    }, 
+    {
+      "score": 0.5051000118255615, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.4320000112056732, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9633562564849854, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8539468050003052, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8025088906288147, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.7680242657661438, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7552469968795776, 
+      "description": "street"
+    }, 
+    {
+      "score": 0.6521613001823425, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6104576587677002, 
+      "description": "facade"
+    }, 
+    {
+      "score": 0.5817667841911316, 
+      "description": "town square"
+    }, 
+    {
+      "score": 0.5776916742324829, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.5730457901954651, 
+      "description": "house"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 160.0, 
+      "color-blue": 184.0, 
+      "pixel": 0.027983538806438446, 
+      "color-red": 137.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 218.0, 
+      "pixel": 0.031193416565656662, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 148.0, 
+      "pixel": 0.019917694851756096, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 108.0, 
+      "pixel": 0.03399176895618439, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.15695473551750183, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.03514403477311134, 
+      "color-red": 33.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.08395061641931534, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 103.0, 
+      "pixel": 0.01160493865609169, 
+      "color-red": 18.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.21152263879776, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.04691357910633087, 
+      "color-red": 152.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Beauty"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9665420651435852, 
+      "description": "Waterfall"
+    }, 
+    {
+      "score": 0.4934000074863434, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.4465000033378601, 
+      "description": "Beauty"
+    }, 
+    {
+      "score": 0.3675000071525574, 
+      "description": "Coral reef"
+    }, 
+    {
+      "score": 0.3298085629940033, 
+      "description": "Cliff"
+    }, 
+    {
+      "score": 0.3203999996185303, 
+      "description": "Desktop Wallpaper"
+    }, 
+    {
+      "score": 0.263700008392334, 
+      "description": "Nature"
+    }, 
+    {
+      "score": 0.25369998812675476, 
+      "description": "Desktop metaphor"
+    }, 
+    {
+      "score": 0.24420000612735748, 
+      "description": ""
+    }, 
+    {
+      "score": 0.2359306961297989, 
+      "description": "Water resources"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9647900462150574, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9583156108856201, 
+      "description": "waterfall"
+    }, 
+    {
+      "score": 0.9533276557922363, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9353256821632385, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.8304916024208069, 
+      "description": "watercourse"
+    }, 
+    {
+      "score": 0.820164680480957, 
+      "description": "winter"
+    }, 
+    {
+      "score": 0.7898865342140198, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.7895599007606506, 
+      "description": "snow"
+    }, 
+    {
+      "score": 0.7746625542640686, 
+      "description": "water feature"
+    }, 
+    {
+      "score": 0.7734977006912231, 
+      "description": "formation"
+    }
+  ]
+}

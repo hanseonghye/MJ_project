@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 71.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.02226666733622551, 
+      "color-red": 191.0
+    }, 
+    {
+      "color-green": 135.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.004000000189989805, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 99.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.005466666538268328, 
+      "color-red": 37.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.02226666733622551, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 16.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.07000000029802322, 
+      "color-red": 40.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.010466666892170906, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 204.0, 
+      "pixel": 0.004000000189989805, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 78.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.011800000444054604, 
+      "color-red": 191.0
+    }, 
+    {
+      "color-green": 44.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.01360000018030405, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 180.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.0010666666785255075, 
+      "color-red": 247.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "imagenes de busan corea del"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6287448406219482, 
+      "description": "Gwangandaegyo"
+    }, 
+    {
+      "score": 1.0396575927734375, 
+      "description": "Haeundae District"
+    }, 
+    {
+      "score": 1.0286999940872192, 
+      "description": "Busan International Film Festival"
+    }, 
+    {
+      "score": 0.9700994491577148, 
+      "description": "Gwangalli Beach"
+    }, 
+    {
+      "score": 0.7042999863624573, 
+      "description": "Image"
+    }, 
+    {
+      "score": 0.683899998664856, 
+      "description": "Stock photography"
+    }, 
+    {
+      "score": 0.6625000238418579, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.6413999795913696, 
+      "description": "Royalty-free"
+    }, 
+    {
+      "score": 0.5568000078201294, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.48159998655319214, 
+      "description": "Photograph"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9833760261535645, 
+      "description": "fireworks"
+    }, 
+    {
+      "score": 0.9422475695610046, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.8953972458839417, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.822356104850769, 
+      "description": "event"
+    }, 
+    {
+      "score": 0.7898504734039307, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.762235164642334, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.7605592608451843, 
+      "description": "festival"
+    }, 
+    {
+      "score": 0.7456859350204468, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.7354021668434143, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7328289747238159, 
+      "description": "f\u00eate"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.533484, 
+      "description": "Seoul Central Mosque", 
+      "Longitude": 126.997725
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 123.0, 
+      "color-blue": 133.0, 
+      "pixel": 0.08202645182609558, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 246.0, 
+      "color-blue": 248.0, 
+      "pixel": 0.5222229957580566, 
+      "color-red": 244.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.04184433072805405, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 172.0, 
+      "pixel": 0.029124809429049492, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 142.0, 
+      "pixel": 0.02428271993994713, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.11613789200782776, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.08650719374418259, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.028835730627179146, 
+      "color-red": 183.0
+    }, 
+    {
+      "color-green": 27.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.040182121098041534, 
+      "color-red": 21.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 103.0, 
+      "pixel": 0.016405289992690086, 
+      "color-red": 75.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "seoul central mosque"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.4133496284484863, 
+      "description": "Seoul Central Mosque"
+    }, 
+    {
+      "score": 0.9955368638038635, 
+      "description": "Myeong-dong"
+    }, 
+    {
+      "score": 0.9895853400230408, 
+      "description": "Itaewon-dong"
+    }, 
+    {
+      "score": 0.7091000080108643, 
+      "description": "Mosque"
+    }, 
+    {
+      "score": 0.6425999999046326, 
+      "description": "Temple"
+    }, 
+    {
+      "score": 0.6129000186920166, 
+      "description": "Islam"
+    }, 
+    {
+      "score": 0.45590001344680786, 
+      "description": "Seoul Tourism Organization"
+    }, 
+    {
+      "score": 0.45159998536109924, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.45100000500679016, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.444599986076355, 
+      "description": "Muslim"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8533263802528381, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.8322757482528687, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.7417936325073242, 
+      "description": "mosque"
+    }, 
+    {
+      "score": 0.6365153789520264, 
+      "description": "khanqah"
+    }
+  ]
+}

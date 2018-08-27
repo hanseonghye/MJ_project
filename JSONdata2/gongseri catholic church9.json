@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 239.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.1323586255311966, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.0486578494310379, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.0724065899848938, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.053840797394514084, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.02947319485247135, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.046182408928871155, 
+      "color-red": 202.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.057399243116378784, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.04316546767950058, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.03256749361753464, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.03860137611627579, 
+      "color-red": 111.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "leaf"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.338645100593567, 
+      "description": "\uc544\uc0b0 \uacf5\uc138\ub9ac\uc131\ub2f9"
+    }, 
+    {
+      "score": 0.7052533030509949, 
+      "description": "Church"
+    }, 
+    {
+      "score": 0.5216979384422302, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.34290000796318054, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.3136252164840698, 
+      "description": "Chapel"
+    }, 
+    {
+      "score": 0.29918867349624634, 
+      "description": "Steeple"
+    }, 
+    {
+      "score": 0.27799999713897705, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.26249998807907104, 
+      "description": "Travel literature"
+    }, 
+    {
+      "score": 0.24285727739334106, 
+      "description": "Spire"
+    }, 
+    {
+      "score": 0.2370719015598297, 
+      "description": "Landmark"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9600924253463745, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.9582065343856812, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9472532868385315, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.9453569650650024, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9368768930435181, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.9292857646942139, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9279530644416809, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8970295786857605, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8469391465187073, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8020728826522827, 
+      "description": "plant"
+    }
+  ]
+}

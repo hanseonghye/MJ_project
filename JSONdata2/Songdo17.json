@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.3926667, 
+      "description": "Songdo International Business District", 
+      "Longitude": 126.639663
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 113.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.0811111107468605, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 224.0, 
+      "color-blue": 231.0, 
+      "pixel": 0.2718518376350403, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.07851851731538773, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.10305555909872055, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 108.0, 
+      "pixel": 0.08064814656972885, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 204.0, 
+      "color-blue": 211.0, 
+      "pixel": 0.1543518453836441, 
+      "color-red": 194.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.04027777910232544, 
+      "color-red": 146.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.028240740299224854, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.02916666679084301, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.02101851813495159, 
+      "color-red": 21.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "songdo international business district"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.5416557192802429, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.5187000036239624, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.36769551038742065, 
+      "description": "High-rise building"
+    }, 
+    {
+      "score": 0.36390000581741333, 
+      "description": "Songdo International Business District"
+    }, 
+    {
+      "score": 0.3608972430229187, 
+      "description": "Skyline"
+    }, 
+    {
+      "score": 0.31630387902259827, 
+      "description": "Headquarters"
+    }, 
+    {
+      "score": 0.3075569272041321, 
+      "description": "Commercial building"
+    }, 
+    {
+      "score": 0.29463645815849304, 
+      "description": "Metropolitan area"
+    }, 
+    {
+      "score": 0.2785152196884155, 
+      "description": "Mixed-use"
+    }, 
+    {
+      "score": 0.27572277188301086, 
+      "description": "Corporate headquarters"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9586600065231323, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9513234496116638, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.9376330971717834, 
+      "description": "tower block"
+    }, 
+    {
+      "score": 0.8838906288146973, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.872039258480072, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.843441367149353, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.8340032696723938, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8116676211357117, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.8059569597244263, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7770881056785583, 
+      "description": "corporate headquarters"
+    }
+  ]
+}

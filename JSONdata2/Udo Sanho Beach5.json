@@ -1,0 +1,146 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 162.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.07463628053665161, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 136.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.032430972903966904, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.016305571421980858, 
+      "color-red": 19.0
+    }, 
+    {
+      "color-green": 185.0, 
+      "color-blue": 184.0, 
+      "pixel": 0.2055312842130661, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.020179271697998047, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 168.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.08990585803985596, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.025989821180701256, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 206.0, 
+      "pixel": 0.026305122300982475, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.0283320564776659, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.012161614373326302, 
+      "color-red": 40.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2841756343841553, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.9704110622406006, 
+      "description": "Caribbean"
+    }, 
+    {
+      "score": 0.7717553377151489, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.6725483536720276, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.5944560170173645, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.5906532406806946, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.5197644829750061, 
+      "description": "Turquoise"
+    }, 
+    {
+      "score": 0.503852903842926, 
+      "description": "Vacation"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9506770968437195, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9232441186904907, 
+      "description": "aqua"
+    }, 
+    {
+      "score": 0.9149221181869507, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8865875005722046, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8161608576774597, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8091283440589905, 
+      "description": "azure"
+    }, 
+    {
+      "score": 0.7495894432067871, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.7196487188339233, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7043997049331665, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.6994962096214294, 
+      "description": "caribbean"
+    }
+  ]
+}

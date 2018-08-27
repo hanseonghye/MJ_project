@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 129.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.04560000076889992, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.10480000078678131, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 134.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.006177777890115976, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 236.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.21266666054725647, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.021155554801225662, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 163.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.018711110576987267, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.02168888971209526, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 97.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.0282222218811512, 
+      "color-red": 73.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.006266666576266289, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 163.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.004844444338232279, 
+      "color-red": 129.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "track"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5296494960784912, 
+      "description": "Cherry blossom"
+    }, 
+    {
+      "score": 0.9715200662612915, 
+      "description": "Yeojwacheon"
+    }, 
+    {
+      "score": 0.5377349853515625, 
+      "description": "\ud574\ub3d9\uc911\ud559\uad50"
+    }, 
+    {
+      "score": 0.4558716118335724, 
+      "description": "Spring"
+    }, 
+    {
+      "score": 0.3661588132381439, 
+      "description": "Rail transport"
+    }, 
+    {
+      "score": 0.2799000144004822, 
+      "description": "Cherry"
+    }, 
+    {
+      "score": 0.2393999993801117, 
+      "description": "Cherry Blossom Walkway"
+    }, 
+    {
+      "score": 0.20940054953098297, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.20550000667572021, 
+      "description": "Jinhae-gu"
+    }, 
+    {
+      "score": 0.1889999955892563, 
+      "description": "Transport"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9612707495689392, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.954951822757721, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9130789041519165, 
+      "description": "track"
+    }, 
+    {
+      "score": 0.8915426731109619, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8750888109207153, 
+      "description": "transport"
+    }, 
+    {
+      "score": 0.864726722240448, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8319534063339233, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.8068968653678894, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7778003215789795, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.7601173520088196, 
+      "description": "branch"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 242.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.021069958806037903, 
+      "color-red": 240.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.04362139850854874, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 20.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.2491358071565628, 
+      "color-red": 19.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.01711934246122837, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 98.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.029958847910165787, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 200.0, 
+      "pixel": 0.0161316879093647, 
+      "color-red": 194.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.02567901276051998, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.05810699611902237, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.08279835432767868, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.056296296417713165, 
+      "color-red": 122.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "nature"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1640751361846924, 
+      "description": "Naewonsa"
+    }, 
+    {
+      "score": 1.1009421348571777, 
+      "description": "Waterfall"
+    }, 
+    {
+      "score": 0.9799351096153259, 
+      "description": "\ub0b4\uc6d0\uc0ac\uacc4\uace1"
+    }, 
+    {
+      "score": 0.7001000046730042, 
+      "description": "Stream"
+    }, 
+    {
+      "score": 0.6613200306892395, 
+      "description": "Yongmeori Coast"
+    }, 
+    {
+      "score": 0.5085942149162292, 
+      "description": "River"
+    }, 
+    {
+      "score": 0.49390000104904175, 
+      "description": "Landform"
+    }, 
+    {
+      "score": 0.49166810512542725, 
+      "description": "Stream bed"
+    }, 
+    {
+      "score": 0.48410001397132874, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.4694068133831024, 
+      "description": "Riparian zone"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9728286266326904, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9613667130470276, 
+      "description": "stream"
+    }, 
+    {
+      "score": 0.9586626291275024, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9354602098464966, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.928128719329834, 
+      "description": "watercourse"
+    }, 
+    {
+      "score": 0.9265743494033813, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.9257762432098389, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.9188140630722046, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.9020153880119324, 
+      "description": "creek"
+    }, 
+    {
+      "score": 0.8875205516815186, 
+      "description": "waterfall"
+    }
+  ]
+}

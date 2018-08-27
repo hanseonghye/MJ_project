@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 161.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.08444444090127945, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.22515873610973358, 
+      "color-red": 146.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.012619047425687313, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 170.0, 
+      "pixel": 0.014841269701719284, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.09031745791435242, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.11650793999433517, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 185.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.042222220450639725, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.03301587328314781, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.015634920448064804, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.028730159625411034, 
+      "color-red": 166.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "canola"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.801557779312134, 
+      "description": "Canola oil"
+    }, 
+    {
+      "score": 1.1009804010391235, 
+      "description": "Field mustard"
+    }, 
+    {
+      "score": 0.8547988533973694, 
+      "description": "Rapeseed"
+    }, 
+    {
+      "score": 0.533925473690033, 
+      "description": "Crop"
+    }, 
+    {
+      "score": 0.43370485305786133, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.40290001034736633, 
+      "description": "Wildflower"
+    }, 
+    {
+      "score": 0.38720768690109253, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.349700003862381, 
+      "description": "Sky plc"
+    }, 
+    {
+      "score": 0.022932002320885658, 
+      "description": "Cabbages"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9526573419570923, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9406533241271973, 
+      "description": "canola"
+    }, 
+    {
+      "score": 0.9293264746665955, 
+      "description": "rapeseed"
+    }, 
+    {
+      "score": 0.9011460542678833, 
+      "description": "mustard plant"
+    }, 
+    {
+      "score": 0.8797256946563721, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8202843070030212, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.7876344919204712, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7688938975334167, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.7625992894172668, 
+      "description": "mustard and cabbage family"
+    }, 
+    {
+      "score": 0.6878716945648193, 
+      "description": "brassica"
+    }
+  ]
+}

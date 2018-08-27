@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 76.0, 
+      "color-blue": 112.0, 
+      "pixel": 0.018095238134264946, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 63.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.09833333641290665, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 43.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.09515873342752457, 
+      "color-red": 76.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.028333334252238274, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 241.0, 
+      "color-blue": 250.0, 
+      "pixel": 0.06277777999639511, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 72.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.03841269761323929, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 137.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.019523808732628822, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 66.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.03888889029622078, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.024920634925365448, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 40.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.037539683282375336, 
+      "color-red": 89.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Naejangsan National Park"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0514999628067017, 
+      "description": "Naejangsan National Park"
+    }, 
+    {
+      "score": 0.9376500248908997, 
+      "description": "Naejangsan"
+    }, 
+    {
+      "score": 0.8836063146591187, 
+      "description": "National park"
+    }, 
+    {
+      "score": 0.7013000249862671, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.4269999861717224, 
+      "description": "Stock footage"
+    }, 
+    {
+      "score": 0.4187000095844269, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.39980000257492065, 
+      "description": "Forest"
+    }, 
+    {
+      "score": 0.2526000142097473, 
+      "description": "Video"
+    }, 
+    {
+      "score": 0.22669999301433563, 
+      "description": "Camera"
+    }, 
+    {
+      "score": 0.22172503173351288, 
+      "description": "Biome"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.912951648235321, 
+      "description": "wilderness"
+    }, 
+    {
+      "score": 0.9085346460342407, 
+      "description": "ridge"
+    }, 
+    {
+      "score": 0.8931294679641724, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.8847612738609314, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.8392653465270996, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.8353272080421448, 
+      "description": "escarpment"
+    }, 
+    {
+      "score": 0.7994014620780945, 
+      "description": "national park"
+    }, 
+    {
+      "score": 0.7766186594963074, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7639257907867432, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.7482966780662537, 
+      "description": "geological phenomenon"
+    }
+  ]
+}

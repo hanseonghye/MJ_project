@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 164.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.10506666451692581, 
+      "color-red": 142.0
+    }, 
+    {
+      "color-green": 234.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.23813332617282867, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.0270222220569849, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 216.0, 
+      "pixel": 0.041511110961437225, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.047822222113609314, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.05004444345831871, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.0548444427549839, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.02257777750492096, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.008177777752280235, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.019288888201117516, 
+      "color-red": 161.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc81c\uc8fc \ubca0\ub2c8\uc2a4 \ub79c\ub4dc"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1083238124847412, 
+      "description": "\u5a01\u5c3c\u65af\u6c34\u4e61 Venice Land"
+    }, 
+    {
+      "score": 0.9083999991416931, 
+      "description": "\ubca0\ub2c8\uc2a4\ub79c\ub4dc"
+    }, 
+    {
+      "score": 0.6377000212669373, 
+      "description": ""
+    }, 
+    {
+      "score": 0.41760000586509705, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.41690000891685486, 
+      "description": "tourist"
+    }, 
+    {
+      "score": 0.3741320073604584, 
+      "description": "Venice Paradise"
+    }, 
+    {
+      "score": 0.36059999465942383, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.349484384059906, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.33479851484298706, 
+      "description": "Recreation"
+    }, 
+    {
+      "score": 0.2777000069618225, 
+      "description": "Tourist attraction"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9709073901176453, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9640323519706726, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.9347482919692993, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.7486646771430969, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.7423202991485596, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7218601703643799, 
+      "description": "canal"
+    }, 
+    {
+      "score": 0.6874861717224121, 
+      "description": "recreation"
+    }, 
+    {
+      "score": 0.6855632662773132, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6761327385902405, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.6246786713600159, 
+      "description": "tourism"
+    }
+  ]
+}

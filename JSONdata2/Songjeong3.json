@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 156.0, 
+      "color-blue": 179.0, 
+      "pixel": 0.1208026185631752, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.13868413865566254, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.03665028512477875, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 203.0, 
+      "color-blue": 223.0, 
+      "pixel": 0.3310128450393677, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.06859131902456284, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 64.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.025047775357961655, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 138.0, 
+      "color-blue": 152.0, 
+      "pixel": 0.04641004651784897, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.030439529567956924, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.006347256246954203, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.04777504876255989, 
+      "color-red": 117.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0162185430526733, 
+      "description": "Haeundae Beach"
+    }, 
+    {
+      "score": 0.9076030254364014, 
+      "description": "Sea Life Busan Aquarium"
+    }, 
+    {
+      "score": 0.7546770572662354, 
+      "description": "Dongbaek Park"
+    }, 
+    {
+      "score": 0.5277000069618225, 
+      "description": "Busan International Film Festival"
+    }, 
+    {
+      "score": 0.5198764204978943, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.4968000054359436, 
+      "description": "\u91dc\u5c71\u5e83\u57df\u5e02\u8a18\u5ff5\u7269"
+    }, 
+    {
+      "score": 0.45210000872612, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.4278559982776642, 
+      "description": "BIFF Square"
+    }, 
+    {
+      "score": 0.37007278203964233, 
+      "description": "Cove"
+    }, 
+    {
+      "score": 0.32126083970069885, 
+      "description": "Sea"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9773796796798706, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9609605669975281, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9350876212120056, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9168804287910461, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8880917429924011, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8808029294013977, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.851914644241333, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8404300808906555, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8133097290992737, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8028244376182556, 
+      "description": "aerial photography"
+    }
+  ]
+}

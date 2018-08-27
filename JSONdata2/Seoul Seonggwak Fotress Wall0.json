@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 155.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.024444444105029106, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.04280000180006027, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 202.0, 
+      "color-blue": 224.0, 
+      "pixel": 0.02764444425702095, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.0031555555760860443, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.23724444210529327, 
+      "color-red": 15.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.0006222222000360489, 
+      "color-red": 248.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.0007999999797903001, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 44.0, 
+      "pixel": 8.888888987712562e-05, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 168.0, 
+      "pixel": 0.02311111055314541, 
+      "color-red": 202.0
+    }, 
+    {
+      "color-green": 231.0, 
+      "color-blue": 202.0, 
+      "pixel": 0.02293333411216736, 
+      "color-red": 237.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8663996458053589, 
+      "description": "Car"
+    }, 
+    {
+      "score": 0.6572068333625793, 
+      "description": "Urban area"
+    }, 
+    {
+      "score": 0.554705023765564, 
+      "description": "House"
+    }, 
+    {
+      "score": 0.5270666480064392, 
+      "description": "Suburb"
+    }, 
+    {
+      "score": 0.5058364272117615, 
+      "description": "Metropolitan area"
+    }, 
+    {
+      "score": 0.44889387488365173, 
+      "description": "Cityscape"
+    }, 
+    {
+      "score": 0.33309999108314514, 
+      "description": "Sky plc"
+    }, 
+    {
+      "score": 0.017702728509902954, 
+      "description": ""
+    }, 
+    {
+      "score": 0.0, 
+      "description": "Samsung Galaxy"
+    }, 
+    {
+      "score": 0.0, 
+      "description": "Samsung Galaxy S4"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9633203148841858, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9619195461273193, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.955355167388916, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9093247056007385, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.9070137143135071, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8961979746818542, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.881790041923523, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8537761569023132, 
+      "description": "suburb"
+    }, 
+    {
+      "score": 0.8158533573150635, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.789548933506012, 
+      "description": "metropolitan area"
+    }
+  ]
+}

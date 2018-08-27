@@ -1,0 +1,134 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 65.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.00844444427639246, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 8.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.6291999816894531, 
+      "color-red": 18.0
+    }, 
+    {
+      "color-green": 35.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.0006222222000360489, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.002088888781145215, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 63.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.000711111119017005, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.00039999998989515007, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 236.0, 
+      "color-blue": 224.0, 
+      "pixel": 0.0005333333392627537, 
+      "color-red": 247.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.013022222556173801, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 35.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.01684444397687912, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 13.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.019155556336045265, 
+      "color-red": 43.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "reflection"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7283613681793213, 
+      "description": "River"
+    }, 
+    {
+      "score": 0.6002865433692932, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.49641120433807373, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.4065152406692505, 
+      "description": "Waterway"
+    }, 
+    {
+      "score": 0.33329999446868896, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9435597658157349, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9346895813941956, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9009155035018921, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.899396538734436, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8865768909454346, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.872943639755249, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8495391607284546, 
+      "description": "river"
+    }, 
+    {
+      "score": 0.8491398692131042, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.8486284017562866, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.7701104283332825, 
+      "description": "fixed link"
+    }
+  ]
+}

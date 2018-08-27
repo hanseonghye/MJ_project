@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 51.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.30629074573516846, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.037686996161937714, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 134.0, 
+      "pixel": 0.02445339411497116, 
+      "color-red": 218.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.058975834399461746, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 23.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.2512466311454773, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.018507864326238632, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 224.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.009301879443228245, 
+      "color-red": 248.0
+    }, 
+    {
+      "color-green": 229.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.015439202077686787, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.01822017692029476, 
+      "color-red": 214.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.029535865411162376, 
+      "color-red": 61.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc11c\uc6b8 \uc131\uacfd"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0945500135421753, 
+      "description": "Fortress Wall of Seoul"
+    }, 
+    {
+      "score": 0.6584457755088806, 
+      "description": "Changsin-dong"
+    }, 
+    {
+      "score": 0.5777871608734131, 
+      "description": "Naksan Park"
+    }, 
+    {
+      "score": 0.5755500197410583, 
+      "description": "Naksan"
+    }, 
+    {
+      "score": 0.47839999198913574, 
+      "description": "Rampart"
+    }, 
+    {
+      "score": 0.3352999985218048, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.3211509585380554, 
+      "description": "Night"
+    }, 
+    {
+      "score": 0.25699999928474426, 
+      "description": "Day"
+    }, 
+    {
+      "score": 0.2513999938964844, 
+      "description": "Defensive wall"
+    }, 
+    {
+      "score": 0.24169999361038208, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9826662540435791, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.977917492389679, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9726850986480713, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9653587341308594, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.9605674743652344, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9413813352584839, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.9401485919952393, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9003810286521912, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8397295475006104, 
+      "description": "downtown"
+    }, 
+    {
+      "score": 0.77311772108078, 
+      "description": "skyscraper"
+    }
+  ]
+}

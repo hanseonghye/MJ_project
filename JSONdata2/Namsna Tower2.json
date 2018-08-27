@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 107.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.2125999927520752, 
+      "color-red": 3.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.004600000102072954, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 168.0, 
+      "color-blue": 221.0, 
+      "pixel": 0.00706666661426425, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 184.0, 
+      "pixel": 0.42153334617614746, 
+      "color-red": 2.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.0849333330988884, 
+      "color-red": 12.0
+    }, 
+    {
+      "color-green": 149.0, 
+      "color-blue": 224.0, 
+      "pixel": 0.00026666666963137686, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 223.0, 
+      "pixel": 0.015666667371988297, 
+      "color-red": 13.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.00033333332976326346, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.010066666640341282, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 191.0, 
+      "pixel": 6.666666740784422e-05, 
+      "color-red": 149.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc11c\uc6b8 \ud0c0\uc6cc"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7229795455932617, 
+      "description": "N Seoul Tower"
+    }, 
+    {
+      "score": 1.6932098865509033, 
+      "description": "Namsan"
+    }, 
+    {
+      "score": 0.9220353364944458, 
+      "description": "Tower"
+    }, 
+    {
+      "score": 0.9043500423431396, 
+      "description": "Tom Clancy's Rainbow Six Siege"
+    }, 
+    {
+      "score": 0.5759999752044678, 
+      "description": "Han River"
+    }, 
+    {
+      "score": 0.5271093249320984, 
+      "description": "Spire"
+    }, 
+    {
+      "score": 0.5042898058891296, 
+      "description": "Landmark"
+    }, 
+    {
+      "score": 0.4884999990463257, 
+      "description": "Nightscape"
+    }, 
+    {
+      "score": 0.4677000045776367, 
+      "description": "Observation deck"
+    }, 
+    {
+      "score": 0.4172999858856201, 
+      "description": "Clock tower"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9669607877731323, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.963553249835968, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.913690984249115, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.8980035185813904, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8922290802001953, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.8570541143417358, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8264814615249634, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.8213688135147095, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.8190410137176514, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7698636054992676, 
+      "description": "spire"
+    }
+  ]
+}

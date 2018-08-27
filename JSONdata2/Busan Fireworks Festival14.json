@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 115.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.12342222034931183, 
+      "color-red": 137.0
+    }, 
+    {
+      "color-green": 20.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.32697778940200806, 
+      "color-red": 30.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.10155555605888367, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.06817777454853058, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 144.0, 
+      "color-blue": 112.0, 
+      "pixel": 0.029377777129411697, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.03466666489839554, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 77.0, 
+      "pixel": 0.013199999928474426, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 106.0, 
+      "pixel": 0.01648888923227787, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.052222222089767456, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.03448889032006264, 
+      "color-red": 71.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "fireworks"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0672178268432617, 
+      "description": "Light"
+    }, 
+    {
+      "score": 0.7135154008865356, 
+      "description": "Explosive material"
+    }, 
+    {
+      "score": 0.7101454734802246, 
+      "description": "Fireworks"
+    }, 
+    {
+      "score": 0.6466500163078308, 
+      "description": "Earth"
+    }, 
+    {
+      "score": 0.6383082270622253, 
+      "description": "New Year's Eve"
+    }, 
+    {
+      "score": 0.6378515362739563, 
+      "description": "Sparkler"
+    }, 
+    {
+      "score": 0.6318041682243347, 
+      "description": "Atmosphere of Earth"
+    }, 
+    {
+      "score": 0.6013908386230469, 
+      "description": "Desktop Wallpaper"
+    }, 
+    {
+      "score": 0.5241000056266785, 
+      "description": "Computer"
+    }, 
+    {
+      "score": 0.4796000123023987, 
+      "description": "Explosion"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9918234944343567, 
+      "description": "fireworks"
+    }, 
+    {
+      "score": 0.8670228123664856, 
+      "description": "event"
+    }, 
+    {
+      "score": 0.8234856128692627, 
+      "description": "light"
+    }, 
+    {
+      "score": 0.7461252808570862, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.741157054901123, 
+      "description": "f\u00eate"
+    }, 
+    {
+      "score": 0.7387394905090332, 
+      "description": "new year's eve"
+    }, 
+    {
+      "score": 0.7369442582130432, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.7117598056793213, 
+      "description": "lighting"
+    }, 
+    {
+      "score": 0.6848993301391602, 
+      "description": "new year"
+    }, 
+    {
+      "score": 0.6775493025779724, 
+      "description": "public event"
+    }
+  ]
+}

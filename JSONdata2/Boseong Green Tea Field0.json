@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 91.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.08041152358055115, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.02518518455326557, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.10106995701789856, 
+      "color-red": 35.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.027901234105229378, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 14.0, 
+      "color-blue": 4.0, 
+      "pixel": 0.2934156358242035, 
+      "color-red": 7.0
+    }, 
+    {
+      "color-green": 223.0, 
+      "color-blue": 191.0, 
+      "pixel": 0.00016460905317217112, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.05004115402698517, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 64.0, 
+      "color-blue": 5.0, 
+      "pixel": 0.049794238060712814, 
+      "color-red": 40.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.028065843507647514, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 175.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.013580246828496456, 
+      "color-red": 143.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "boseong green tea fields south korea hd"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9761999845504761, 
+      "description": "Green tea"
+    }, 
+    {
+      "score": 0.9478052258491516, 
+      "description": "Boseong Green Tea Field-up treat Ltd. Bo pluralism"
+    }, 
+    {
+      "score": 0.9011999368667603, 
+      "description": "Tea"
+    }, 
+    {
+      "score": 0.559153139591217, 
+      "description": "\ubcf4\uc131\ub2e4\uc6d0\ub18d\uc6d0"
+    }, 
+    {
+      "score": 0.5281715989112854, 
+      "description": "Plantation"
+    }, 
+    {
+      "score": 0.48496800661087036, 
+      "description": "Damyang"
+    }, 
+    {
+      "score": 0.3400999903678894, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.33709999918937683, 
+      "description": "Orchard"
+    }, 
+    {
+      "score": 0.2974180281162262, 
+      "description": "Chungjang"
+    }, 
+    {
+      "score": 0.24570000171661377, 
+      "description": "Accommodation"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9495783448219299, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.886411190032959, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8642412424087524, 
+      "description": "terrace"
+    }, 
+    {
+      "score": 0.8214197158813477, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.7986067533493042, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.7975676655769348, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.7275868654251099, 
+      "description": "landscape"
+    }, 
+    {
+      "score": 0.7128617167472839, 
+      "description": "plantation"
+    }, 
+    {
+      "score": 0.6809889078140259, 
+      "description": "paddy field"
+    }, 
+    {
+      "score": 0.6777058243751526, 
+      "description": "maze"
+    }
+  ]
+}

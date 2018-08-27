@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.813947, 
+      "description": "", 
+      "Longitude": 127.149271
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 189.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.054381269961595535, 
+      "color-red": 221.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.10829431563615799, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.033511705696582794, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.0498327761888504, 
+      "color-red": 219.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.025217391550540924, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.023545149713754654, 
+      "color-red": 248.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.006220735609531403, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 233.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.05551839619874954, 
+      "color-red": 247.0
+    }, 
+    {
+      "color-green": 221.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.007959865964949131, 
+      "color-red": 249.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.07237458229064941, 
+      "color-red": 124.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "medieval architecture"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7537229657173157, 
+      "description": "Basilica"
+    }, 
+    {
+      "score": 0.7056503295898438, 
+      "description": "Medieval architecture"
+    }, 
+    {
+      "score": 0.7023000121116638, 
+      "description": "Middle Ages"
+    }, 
+    {
+      "score": 0.6161478161811829, 
+      "description": "Steeple"
+    }, 
+    {
+      "score": 0.6121618151664734, 
+      "description": "Historic site"
+    }, 
+    {
+      "score": 0.599463164806366, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.5866286754608154, 
+      "description": "Cathedral"
+    }, 
+    {
+      "score": 0.5778999924659729, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.5746257901191711, 
+      "description": "Chapel"
+    }, 
+    {
+      "score": 0.4909239113330841, 
+      "description": "Tree"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9001489281654358, 
+      "description": "medieval architecture"
+    }, 
+    {
+      "score": 0.8650042414665222, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.8500729203224182, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.8322792649269104, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.8267660140991211, 
+      "description": "parish"
+    }, 
+    {
+      "score": 0.7964813113212585, 
+      "description": "cathedral"
+    }, 
+    {
+      "score": 0.7602629661560059, 
+      "description": "basilica"
+    }, 
+    {
+      "score": 0.6719728112220764, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.6657944321632385, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6588349938392639, 
+      "description": "steeple"
+    }
+  ]
+}

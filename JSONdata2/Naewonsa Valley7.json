@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 17.0, 
+      "color-blue": 12.0, 
+      "pixel": 0.47999998927116394, 
+      "color-red": 14.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.07316872477531433, 
+      "color-red": 37.0
+    }, 
+    {
+      "color-green": 234.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.036625515669584274, 
+      "color-red": 230.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.017777778208255768, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.01975308731198311, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.0010699589038267732, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 33.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.02213991805911064, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.008806584402918816, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 33.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.032016459852457047, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.07761316746473312, 
+      "color-red": 48.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Naewonsa"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3120499849319458, 
+      "description": "Naewonsa"
+    }, 
+    {
+      "score": 0.8340911865234375, 
+      "description": "Waterfall"
+    }, 
+    {
+      "score": 0.6775000095367432, 
+      "description": "Stream"
+    }, 
+    {
+      "score": 0.6668999791145325, 
+      "description": "\ub0b4\uc6d0\uc0ac\uacc4\uace1"
+    }, 
+    {
+      "score": 0.6458004713058472, 
+      "description": "Ravine"
+    }, 
+    {
+      "score": 0.5894086360931396, 
+      "description": "Arroyo"
+    }, 
+    {
+      "score": 0.5801999568939209, 
+      "description": "Cheonseongsan"
+    }, 
+    {
+      "score": 0.5245500206947327, 
+      "description": "Busan"
+    }, 
+    {
+      "score": 0.47037941217422485, 
+      "description": "Riparian zone"
+    }, 
+    {
+      "score": 0.466905415058136, 
+      "description": "Water resources"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9636344909667969, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9571747183799744, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9516562819480896, 
+      "description": "waterfall"
+    }, 
+    {
+      "score": 0.9424195289611816, 
+      "description": "stream"
+    }, 
+    {
+      "score": 0.941496729850769, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.9384641647338867, 
+      "description": "watercourse"
+    }, 
+    {
+      "score": 0.9379928112030029, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.935456395149231, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9220742583274841, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8489660024642944, 
+      "description": "creek"
+    }
+  ]
+}

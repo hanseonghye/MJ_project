@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 116.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.03799410164356232, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.029144542291760445, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 20.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.11150442808866501, 
+      "color-red": 15.0
+    }, 
+    {
+      "color-green": 106.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.02820058912038803, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.04654867202043533, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.03598820045590401, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 75.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.030383480712771416, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.018348082900047302, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.05038348212838173, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.04353982210159302, 
+      "color-red": 75.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "portland, oregon - rose garden overview - lantern press photography (24x36 giclee gallery print, wall decor travel poster),"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2752190828323364, 
+      "description": "International Rose Test Garden"
+    }, 
+    {
+      "score": 0.7074999809265137, 
+      "description": "Garden"
+    }, 
+    {
+      "score": 0.7060999870300293, 
+      "description": "Rose garden"
+    }, 
+    {
+      "score": 0.673799991607666, 
+      "description": "Rose"
+    }, 
+    {
+      "score": 0.6385500431060791, 
+      "description": "Cottage garden"
+    }, 
+    {
+      "score": 0.5860999822616577, 
+      "description": "Garden roses"
+    }, 
+    {
+      "score": 0.53329998254776, 
+      "description": "Garden design"
+    }, 
+    {
+      "score": 0.5045999884605408, 
+      "description": "Japanese garden"
+    }, 
+    {
+      "score": 0.4587000012397766, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.43540000915527344, 
+      "description": "Image"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9765856862068176, 
+      "description": "garden"
+    }, 
+    {
+      "score": 0.9697205424308777, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9549713730812073, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9534289240837097, 
+      "description": "botanical garden"
+    }, 
+    {
+      "score": 0.9516352415084839, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9411258697509766, 
+      "description": "flora"
+    }, 
+    {
+      "score": 0.9204196929931641, 
+      "description": "flowering plant"
+    }, 
+    {
+      "score": 0.8356481194496155, 
+      "description": "park"
+    }, 
+    {
+      "score": 0.7600134015083313, 
+      "description": "shrub"
+    }, 
+    {
+      "score": 0.7365506291389465, 
+      "description": "grass"
+    }
+  ]
+}

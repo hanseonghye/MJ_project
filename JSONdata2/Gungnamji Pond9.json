@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 158.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.009056078270077705, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 103.0, 
+      "pixel": 0.00296064093708992, 
+      "color-red": 73.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 3.0, 
+      "pixel": 0.00043538835598155856, 
+      "color-red": 51.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.05485893413424492, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.03988157585263252, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 166.0, 
+      "color-blue": 186.0, 
+      "pixel": 0.2070707082748413, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.006617903243750334, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.003918495494872332, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.01994078792631626, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.0017415534239262342, 
+      "color-red": 155.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ubd80\uc18c\uc0b0\uc131 \u6276\u82cf\u5c71\u57ce"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3346999883651733, 
+      "description": "\ubd80\uc18c\uc0b0\uc131 \u6276\u82cf\u5c71\u57ce"
+    }, 
+    {
+      "score": 0.6934499740600586, 
+      "description": "\ubd80\uc5ec \uad00\ubd81\ub9ac \uc720\uc801"
+    }, 
+    {
+      "score": 0.6353999972343445, 
+      "description": "Jeongnimsa"
+    }, 
+    {
+      "score": 0.5917499661445618, 
+      "description": "Baeghwajeong"
+    }, 
+    {
+      "score": 0.5662800073623657, 
+      "description": "\uc0bc\ucc9c\uad81\ub140"
+    }, 
+    {
+      "score": 0.5645999908447266, 
+      "description": "Gungnamji"
+    }, 
+    {
+      "score": 0.5245000123977661, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5235999822616577, 
+      "description": "Cultural heritage"
+    }, 
+    {
+      "score": 0.4993632733821869, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.48510000109672546, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9757519960403442, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9561505913734436, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9348852038383484, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8951161503791809, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.8905149102210999, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.86137855052948, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.8264983296394348, 
+      "description": "reservoir"
+    }, 
+    {
+      "score": 0.8166706562042236, 
+      "description": "lake"
+    }, 
+    {
+      "score": 0.8138445615768433, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7600000500679016, 
+      "description": "tourist attraction"
+    }
+  ]
+}

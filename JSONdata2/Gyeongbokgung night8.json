@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 109.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.14849206805229187, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 72.0, 
+      "pixel": 0.02658730186522007, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.007222222164273262, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.008492063730955124, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.003015873022377491, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 34.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.019761905074119568, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.009444444440305233, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 171.0, 
+      "pixel": 0.059761904180049896, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.0337301604449749, 
+      "color-red": 61.0
+    }, 
+    {
+      "color-green": 107.0, 
+      "color-blue": 176.0, 
+      "pixel": 0.015158730559051037, 
+      "color-red": 79.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Seoul"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.9512795209884644, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 0.6542999744415283, 
+      "description": "Time-lapse photography"
+    }, 
+    {
+      "score": 0.6272000074386597, 
+      "description": "Stock footage"
+    }, 
+    {
+      "score": 0.5097000002861023, 
+      "description": "Footage"
+    }, 
+    {
+      "score": 0.42739999294281006, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.42501553893089294, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.42289999127388, 
+      "description": "Video"
+    }, 
+    {
+      "score": 0.3928000032901764, 
+      "description": "4K resolution"
+    }, 
+    {
+      "score": 0.2870999872684479, 
+      "description": "Video clip"
+    }, 
+    {
+      "score": 0.267300009727478, 
+      "description": "Royalty-free"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9553946256637573, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9309177398681641, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8433534502983093, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7933775782585144, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.787487268447876, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.7697111368179321, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7582313418388367, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.7419819831848145, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.6986271142959595, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.6855046153068542, 
+      "description": "night"
+    }
+  ]
+}

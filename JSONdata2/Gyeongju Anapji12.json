@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 225.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.2805365324020386, 
+      "color-red": 219.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.00570776266977191, 
+      "color-red": 247.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.009346460923552513, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 107.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.023259133100509644, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 216.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.004138127900660038, 
+      "color-red": 254.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.06927796453237534, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.028538811951875687, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 28.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.07491438090801239, 
+      "color-red": 27.0
+    }, 
+    {
+      "color-green": 180.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.007134702987968922, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 209.0, 
+      "color-blue": 215.0, 
+      "pixel": 0.12036244571208954, 
+      "color-red": 204.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "chinese architecture"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7261348962783813, 
+      "description": "Chinese architecture"
+    }, 
+    {
+      "score": 0.7020000219345093, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.6942818760871887, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.6877482533454895, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.662255585193634, 
+      "description": "Pagoda"
+    }, 
+    {
+      "score": 0.5972490906715393, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.5526471138000488, 
+      "description": "Lake"
+    }, 
+    {
+      "score": 0.5386000275611877, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.4679262340068817, 
+      "description": "City"
+    }, 
+    {
+      "score": 0.38749998807907104, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.98790442943573, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9753292798995972, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9414371252059937, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9333637356758118, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8655294179916382, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8520737290382385, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.8275277614593506, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.8146266341209412, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8119943737983704, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.7199526429176331, 
+      "description": "plant"
+    }
+  ]
+}

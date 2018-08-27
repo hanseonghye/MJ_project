@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.835384999999995, 
+      "description": "", 
+      "Longitude": 129.226652
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 87.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.06757453083992004, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 249.0, 
+      "color-blue": 248.0, 
+      "pixel": 0.4046374559402466, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.10901729762554169, 
+      "color-red": 55.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.01987486146390438, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.04909827187657356, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 74.0, 
+      "pixel": 0.028413692489266396, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.04092749208211899, 
+      "color-red": 23.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.017004048451781273, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 32.0, 
+      "color-blue": 12.0, 
+      "pixel": 0.02304011769592762, 
+      "color-red": 33.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.011188811622560024, 
+      "color-red": 50.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "anapji pond south korea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.113311529159546, 
+      "description": "Donggung Palace and Wolji Pond in Gyeongju"
+    }, 
+    {
+      "score": 0.94454425573349, 
+      "description": "Banwolseong"
+    }, 
+    {
+      "score": 0.8509500026702881, 
+      "description": "Silla"
+    }, 
+    {
+      "score": 0.7013999819755554, 
+      "description": "North\u2013South States Period"
+    }, 
+    {
+      "score": 0.666100025177002, 
+      "description": "Pond"
+    }, 
+    {
+      "score": 0.6385500431060791, 
+      "description": "Samguk sagi"
+    }, 
+    {
+      "score": 0.5833500027656555, 
+      "description": "Later Silla"
+    }, 
+    {
+      "score": 0.4749999940395355, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.44209998846054077, 
+      "description": "National park"
+    }, 
+    {
+      "score": 0.3598000109195709, 
+      "description": "Archaeological site"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9898998737335205, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9786207675933838, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9218479990959167, 
+      "description": "japanese architecture"
+    }, 
+    {
+      "score": 0.8812251687049866, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.798799991607666, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7804328799247742, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7671046257019043, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.7651255130767822, 
+      "description": "reservoir"
+    }, 
+    {
+      "score": 0.745775580406189, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.6930418610572815, 
+      "description": "pagoda"
+    }
+  ]
+}

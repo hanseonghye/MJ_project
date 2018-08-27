@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 53.0, 
+      "color-blue": 72.0, 
+      "pixel": 0.0534653477370739, 
+      "color-red": 32.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.051851850003004074, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 141.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.002053538803011179, 
+      "color-red": 198.0
+    }, 
+    {
+      "color-green": 104.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.00022002200421411544, 
+      "color-red": 183.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 110.0, 
+      "pixel": 0.055005501955747604, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.1084708496928215, 
+      "color-red": 51.0
+    }, 
+    {
+      "color-green": 107.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.0019068573601543903, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 71.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.002053538803011179, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.05192519351840019, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.07495415955781937, 
+      "color-red": 78.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "songdo international business district"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.445665717124939, 
+      "description": "Songdo International Business District"
+    }, 
+    {
+      "score": 1.2480722665786743, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 1.159128189086914, 
+      "description": "Incheon International Airport"
+    }, 
+    {
+      "score": 0.6886000037193298, 
+      "description": "Business"
+    }, 
+    {
+      "score": 0.6136000156402588, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.582578718662262, 
+      "description": "Seoul Capital Area"
+    }, 
+    {
+      "score": 0.36340001225471497, 
+      "description": ""
+    }, 
+    {
+      "score": 0.34139999747276306, 
+      "description": "International trade"
+    }, 
+    {
+      "score": 0.3407000005245209, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3345000147819519, 
+      "description": "Limited company"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9467476606369019, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9223722815513611, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.900864839553833, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8625707030296326, 
+      "description": "mixed use"
+    }, 
+    {
+      "score": 0.8523477911949158, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.8473644256591797, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.8035276532173157, 
+      "description": "condominium"
+    }, 
+    {
+      "score": 0.7667134404182434, 
+      "description": "urban design"
+    }, 
+    {
+      "score": 0.7161411643028259, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.6730789542198181, 
+      "description": "downtown"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.533484, 
+      "description": "Seoul Central Mosque", 
+      "Longitude": 126.997725
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 192.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.10904762148857117, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 19.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.07590476423501968, 
+      "color-red": 13.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 139.0, 
+      "pixel": 0.019904762506484985, 
+      "color-red": 107.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 170.0, 
+      "pixel": 0.10400000214576721, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 133.0, 
+      "pixel": 0.0630476176738739, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 171.0, 
+      "pixel": 0.03095238097012043, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.015904761850833893, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.012666666880249977, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 205.0, 
+      "pixel": 0.02923809550702572, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.03323809430003166, 
+      "color-red": 76.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "seoul central mosque"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.278066635131836, 
+      "description": "Seoul Central Mosque"
+    }, 
+    {
+      "score": 1.0840150117874146, 
+      "description": "Mosque"
+    }, 
+    {
+      "score": 0.620199978351593, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.6031000018119812, 
+      "description": "Photographer"
+    }, 
+    {
+      "score": 0.567300021648407, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.43529999256134033, 
+      "description": "Black and white"
+    }, 
+    {
+      "score": 0.42640000581741333, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4255000054836273, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3903999924659729, 
+      "description": "Landscape photography"
+    }, 
+    {
+      "score": 0.3725000023841858, 
+      "description": "Art"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9385923743247986, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.9223750829696655, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8622841835021973, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.8233118653297424, 
+      "description": "classical architecture"
+    }, 
+    {
+      "score": 0.7304019927978516, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.7298080921173096, 
+      "description": "mosque"
+    }, 
+    {
+      "score": 0.7028003931045532, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.6508556008338928, 
+      "description": "khanqah"
+    }, 
+    {
+      "score": 0.6425510048866272, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.628707766532898, 
+      "description": "metropolis"
+    }
+  ]
+}

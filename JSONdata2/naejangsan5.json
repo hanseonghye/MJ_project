@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 52.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.06351981312036514, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 71.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.0979992225766182, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 106.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.018550893291831017, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 138.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.0023310023825615644, 
+      "color-red": 213.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.042346540838479996, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.022435897961258888, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 40.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.07478632777929306, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.030982905998826027, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.01107226125895977, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 9.0, 
+      "pixel": 0.013209013268351555, 
+      "color-red": 69.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "nature"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4896923303604126, 
+      "description": "Maple leaf"
+    }, 
+    {
+      "score": 0.6798273324966431, 
+      "description": "Landscape"
+    }, 
+    {
+      "score": 0.6472251415252686, 
+      "description": "Maidenhair tree"
+    }, 
+    {
+      "score": 0.6111459136009216, 
+      "description": "Forest"
+    }, 
+    {
+      "score": 0.5935706496238708, 
+      "description": "Leaf"
+    }, 
+    {
+      "score": 0.5891487002372742, 
+      "description": "Deciduous"
+    }, 
+    {
+      "score": 0.5427098274230957, 
+      "description": "Desktop Wallpaper"
+    }, 
+    {
+      "score": 0.5196999907493591, 
+      "description": "Adiantum capillus-veneris"
+    }, 
+    {
+      "score": 0.5141000151634216, 
+      "description": "Computer"
+    }, 
+    {
+      "score": 0.49059998989105225, 
+      "description": "Maple"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9585342407226562, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9527755975723267, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.9501538872718811, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.9478412866592407, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.913800060749054, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8522325158119202, 
+      "description": "maple tree"
+    }, 
+    {
+      "score": 0.8082153797149658, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.7857186794281006, 
+      "description": "deciduous"
+    }, 
+    {
+      "score": 0.7822657227516174, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.777852475643158, 
+      "description": "branch"
+    }
+  ]
+}

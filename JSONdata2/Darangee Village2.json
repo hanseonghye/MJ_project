@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 126.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.01582222245633602, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.03413333371281624, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 175.0, 
+      "pixel": 0.023600000888109207, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 233.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.37031111121177673, 
+      "color-red": 232.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.01608888804912567, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.015422222204506397, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.0848444476723671, 
+      "color-red": 40.0
+    }, 
+    {
+      "color-green": 163.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.02151111140847206, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.013155555352568626, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.019111111760139465, 
+      "color-red": 67.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "nature"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4049187898635864, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.6876835823059082, 
+      "description": "Bird's-eye view"
+    }, 
+    {
+      "score": 0.6561998724937439, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.6353858113288879, 
+      "description": "Hill station"
+    }, 
+    {
+      "score": 0.6025630235671997, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.5212000012397766, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.5169000029563904, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.47662481665611267, 
+      "description": "Mountain range"
+    }, 
+    {
+      "score": 0.42149999737739563, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9417476058006287, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9377702474594116, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.918423593044281, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9092544317245483, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.8857346773147583, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8811426758766174, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.8720345497131348, 
+      "description": "hill"
+    }, 
+    {
+      "score": 0.8601773381233215, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8149778842926025, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.8114043474197388, 
+      "description": "mount scenery"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 210.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.0773744061589241, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.04657132551074028, 
+      "color-red": 37.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.01884855143725872, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.06285294890403748, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.008434176445007324, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 181.0, 
+      "pixel": 0.004033736884593964, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.0038137147203087807, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 219.0, 
+      "color-blue": 241.0, 
+      "pixel": 0.07202053815126419, 
+      "color-red": 200.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.0002933626819867641, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.022955628111958504, 
+      "color-red": 58.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "petite france nami island"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4237042665481567, 
+      "description": "Namiseom"
+    }, 
+    {
+      "score": 1.3541462421417236, 
+      "description": "Jeju Province"
+    }, 
+    {
+      "score": 1.2830235958099365, 
+      "description": "Petite France, Gapyeong"
+    }, 
+    {
+      "score": 1.1573712825775146, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.9931350350379944, 
+      "description": "Petite France, Strasbourg"
+    }, 
+    {
+      "score": 0.6812999844551086, 
+      "description": ""
+    }, 
+    {
+      "score": 0.6371999979019165, 
+      "description": "Island"
+    }, 
+    {
+      "score": 0.5966293215751648, 
+      "description": "Resort"
+    }, 
+    {
+      "score": 0.5551999807357788, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.4887000024318695, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9009514451026917, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.8843749165534973, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8838533759117126, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.7996292114257812, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.7414984107017517, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.72759610414505, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.6997843384742737, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.613580048084259, 
+      "description": "estate"
+    }, 
+    {
+      "score": 0.5914336442947388, 
+      "description": "mixed use"
+    }, 
+    {
+      "score": 0.5758399963378906, 
+      "description": "leisure"
+    }
+  ]
+}

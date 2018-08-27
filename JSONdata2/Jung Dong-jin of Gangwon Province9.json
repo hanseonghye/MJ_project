@@ -1,0 +1,118 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 197.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.09080000221729279, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 227.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.035066667944192886, 
+      "color-red": 244.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 133.0, 
+      "pixel": 0.015377777628600597, 
+      "color-red": 240.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 209.0, 
+      "pixel": 0.042044445872306824, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.02675555646419525, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.04035555571317673, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.0015999999595806003, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 221.0, 
+      "color-blue": 165.0, 
+      "pixel": 0.01711111143231392, 
+      "color-red": 251.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 228.0, 
+      "pixel": 0.4873333275318146, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 185.0, 
+      "color-blue": 105.0, 
+      "pixel": 0.009200000204145908, 
+      "color-red": 246.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.5361456274986267, 
+      "description": "Sea"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8912071585655212, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8901829719543457, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.8670607209205627, 
+      "description": "calm"
+    }, 
+    {
+      "score": 0.8291459679603577, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8061020374298096, 
+      "description": "sunrise"
+    }, 
+    {
+      "score": 0.6829715967178345, 
+      "description": "sunset"
+    }, 
+    {
+      "score": 0.6606729030609131, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.637265682220459, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.527910590171814, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.5197826623916626, 
+      "description": "dawn"
+    }
+  ]
+}

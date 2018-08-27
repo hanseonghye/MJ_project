@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 101.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.1467333287000656, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.10593333095312119, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 181.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.09086667001247406, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.03826666623353958, 
+      "color-red": 214.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.02253333292901516, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.02979999966919422, 
+      "color-red": 218.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.02226666733622551, 
+      "color-red": 178.0
+    }, 
+    {
+      "color-green": 11.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.0005333333392627537, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 133.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.02786666713654995, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 137.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.021199999377131462, 
+      "color-red": 213.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "autumn in seoul"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.269774079322815, 
+      "description": "Seoraksan"
+    }, 
+    {
+      "score": 0.8233566880226135, 
+      "description": "Naejangsan"
+    }, 
+    {
+      "score": 0.7013999819755554, 
+      "description": "Autumn"
+    }, 
+    {
+      "score": 0.6989747285842896, 
+      "description": "seoul tour"
+    }, 
+    {
+      "score": 0.666700005531311, 
+      "description": "Autumn leaf color"
+    }, 
+    {
+      "score": 0.6654335260391235, 
+      "description": "Jeju Province"
+    }, 
+    {
+      "score": 0.6262355446815491, 
+      "description": "Oneday Korea Tours & Travel in Seoul"
+    }, 
+    {
+      "score": 0.6080999970436096, 
+      "description": "Package tour"
+    }, 
+    {
+      "score": 0.5199000239372253, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.5080999732017517, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9606984257698059, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.9594869613647461, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9519101977348328, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.9418672323226929, 
+      "description": "path"
+    }, 
+    {
+      "score": 0.933791995048523, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9005299210548401, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8984531164169312, 
+      "description": "deciduous"
+    }, 
+    {
+      "score": 0.8313236832618713, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8212547898292542, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7892287969589233, 
+      "description": "road"
+    }
+  ]
+}

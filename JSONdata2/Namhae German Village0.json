@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 201.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.07705014944076538, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.0135103240609169, 
+      "color-red": 224.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 240.0, 
+      "pixel": 0.14283186197280884, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.0405309721827507, 
+      "color-red": 64.0
+    }, 
+    {
+      "color-green": 142.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.010560471564531326, 
+      "color-red": 204.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.008849557489156723, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.00796460174024105, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 180.0, 
+      "pixel": 0.00696165207773447, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 216.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.03734513372182846, 
+      "color-red": 149.0
+    }, 
+    {
+      "color-green": 102.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.012330383062362671, 
+      "color-red": 209.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "nature"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.290869116783142, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.6793521046638489, 
+      "description": "Resort"
+    }, 
+    {
+      "score": 0.6363589763641357, 
+      "description": "Vacation"
+    }, 
+    {
+      "score": 0.6291999816894531, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.6120540499687195, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.5619999766349792, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.533497154712677, 
+      "description": "Roof"
+    }, 
+    {
+      "score": 0.4878000020980835, 
+      "description": "Real Estate"
+    }, 
+    {
+      "score": 0.4212999939918518, 
+      "description": "Village"
+    }, 
+    {
+      "score": 0.4007999897003174, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.941975474357605, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.8865900039672852, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8786093592643738, 
+      "description": "mountain village"
+    }, 
+    {
+      "score": 0.8298943042755127, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8167994618415833, 
+      "description": "resort"
+    }, 
+    {
+      "score": 0.7802781462669373, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.7538962960243225, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7472437024116516, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.7400922179222107, 
+      "description": "village"
+    }, 
+    {
+      "score": 0.7257315516471863, 
+      "description": "real estate"
+    }
+  ]
+}

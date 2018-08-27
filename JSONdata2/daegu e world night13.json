@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 108.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.006137566175311804, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 67.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.006243386305868626, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.003809523768723011, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 200.0, 
+      "pixel": 0.013015872798860073, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 5.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.5860317349433899, 
+      "color-red": 10.0
+    }, 
+    {
+      "color-green": 145.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.006878307089209557, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.004444444552063942, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 96.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.0035978835076093674, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.0057142856530845165, 
+      "color-red": 228.0
+    }, 
+    {
+      "color-green": 180.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.0032804233487695456, 
+      "color-red": 241.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "E-World"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.776485800743103, 
+      "description": "E \u00b7 WORLD 83Tower"
+    }, 
+    {
+      "score": 0.7075999975204468, 
+      "description": "E-World"
+    }, 
+    {
+      "score": 0.6876665353775024, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5660743117332458, 
+      "description": "VR CORE"
+    }, 
+    {
+      "score": 0.47999998927116394, 
+      "description": "Bomun Lake Resort"
+    }, 
+    {
+      "score": 0.4549768567085266, 
+      "description": "Landmark"
+    }, 
+    {
+      "score": 0.4399000108242035, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.43560001254081726, 
+      "description": "Cherry blossom"
+    }, 
+    {
+      "score": 0.42480000853538513, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.39321255683898926, 
+      "description": "Fair"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9372087717056274, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9036247134208679, 
+      "description": "amusement park"
+    }, 
+    {
+      "score": 0.8744171261787415, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.8423340320587158, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.743695855140686, 
+      "description": "amusement ride"
+    }, 
+    {
+      "score": 0.7344087958335876, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6665257811546326, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.6484048366546631, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6451998353004456, 
+      "description": "fair"
+    }, 
+    {
+      "score": 0.5805284380912781, 
+      "description": "recreation"
+    }
+  ]
+}

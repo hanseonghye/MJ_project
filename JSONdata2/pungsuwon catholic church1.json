@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 120.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.13966666162014008, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 185.0, 
+      "pixel": 0.02033333294093609, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 149.0, 
+      "color-blue": 137.0, 
+      "pixel": 0.013266666792333126, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 152.0, 
+      "pixel": 0.023600000888109207, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.046266667544841766, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 188.0, 
+      "pixel": 0.04946666583418846, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 140.0, 
+      "color-blue": 212.0, 
+      "pixel": 0.014866666868329048, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 210.0, 
+      "pixel": 0.02539999969303608, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 142.0, 
+      "pixel": 0.06386666744947433, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 179.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.012266666628420353, 
+      "color-red": 222.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ud48d\uc218\uc6d0 \uc131\ub2f9"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6149870157241821, 
+      "description": "\ud48d\uc218\uc6d0\uc131\ub2f9"
+    }, 
+    {
+      "score": 1.0528500080108643, 
+      "description": "\u8056\u5802"
+    }, 
+    {
+      "score": 0.6946500539779663, 
+      "description": "Roman Catholic Diocese of Wonju"
+    }, 
+    {
+      "score": 0.6036999821662903, 
+      "description": "Parish church"
+    }, 
+    {
+      "score": 0.5374908447265625, 
+      "description": "Chapel"
+    }, 
+    {
+      "score": 0.5367000102996826, 
+      "description": "Catholicism"
+    }, 
+    {
+      "score": 0.4790000021457672, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4772999882698059, 
+      "description": "Priest"
+    }, 
+    {
+      "score": 0.4476153254508972, 
+      "description": "\uc720\ud604\ubb38\ud654\uad00\uad11\uc9c0\uc720\ubb3c\uc804\uc2dc\uad00"
+    }, 
+    {
+      "score": 0.4034999907016754, 
+      "description": "Diocese"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9422990679740906, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8872233033180237, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.8778656125068665, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.8393847942352295, 
+      "description": "steeple"
+    }, 
+    {
+      "score": 0.8178624510765076, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.8007931113243103, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7880838513374329, 
+      "description": "spire"
+    }, 
+    {
+      "score": 0.7469390630722046, 
+      "description": "parish"
+    }, 
+    {
+      "score": 0.7134937644004822, 
+      "description": "chapel"
+    }, 
+    {
+      "score": 0.6952929496765137, 
+      "description": "medieval architecture"
+    }
+  ]
+}

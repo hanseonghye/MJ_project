@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 50.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.032380953431129456, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.026746030896902084, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 233.0, 
+      "color-blue": 231.0, 
+      "pixel": 0.005634920671582222, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.006031746044754982, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.011031745932996273, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.004761904943734407, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 43.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.0073015871457755566, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 29.0, 
+      "color-blue": 9.0, 
+      "pixel": 0.029682539403438568, 
+      "color-red": 32.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.013095238246023655, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.003968254197388887, 
+      "color-red": 109.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Seoul"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.253438949584961, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.6697999835014343, 
+      "description": "Stock footage"
+    }, 
+    {
+      "score": 0.6579999923706055, 
+      "description": "Footage"
+    }, 
+    {
+      "score": 0.5784000158309937, 
+      "description": "Time-lapse photography"
+    }, 
+    {
+      "score": 0.4684000015258789, 
+      "description": "Video"
+    }, 
+    {
+      "score": 0.4683000147342682, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4666000008583069, 
+      "description": "Special Effects"
+    }, 
+    {
+      "score": 0.4223000109195709, 
+      "description": "Royalty-free"
+    }, 
+    {
+      "score": 0.390500009059906, 
+      "description": "Video clip"
+    }, 
+    {
+      "score": 0.38600000739097595, 
+      "description": "Street"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9658125638961792, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9473751187324524, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8797264099121094, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.8776129484176636, 
+      "description": "structure"
+    }, 
+    {
+      "score": 0.8585180044174194, 
+      "description": "infrastructure"
+    }, 
+    {
+      "score": 0.8476834893226624, 
+      "description": "light"
+    }, 
+    {
+      "score": 0.8443240523338318, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.782709538936615, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7730023264884949, 
+      "description": "darkness"
+    }, 
+    {
+      "score": 0.7577033042907715, 
+      "description": "lighting"
+    }
+  ]
+}

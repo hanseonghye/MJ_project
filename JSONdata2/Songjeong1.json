@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 118.0, 
+      "color-blue": 172.0, 
+      "pixel": 0.15489712357521057, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.039670780301094055, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 176.0, 
+      "pixel": 0.13193415105342865, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.024855967611074448, 
+      "color-red": 33.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.01539094652980566, 
+      "color-red": 73.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 152.0, 
+      "pixel": 0.06938271969556808, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 103.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.05506172776222229, 
+      "color-red": 21.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.058847736567258835, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 181.0, 
+      "pixel": 0.08115226030349731, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.019835390150547028, 
+      "color-red": 62.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "highschool of the dead"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3908220529556274, 
+      "description": "Haeundae Beach"
+    }, 
+    {
+      "score": 1.3347103595733643, 
+      "description": "\u0421\u043e\u043d\u0447\u0436\u043e\u043d"
+    }, 
+    {
+      "score": 1.2375307083129883, 
+      "description": "Gwangalli Beach"
+    }, 
+    {
+      "score": 0.6550999879837036, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.5741999745368958, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.5353000164031982, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.48069998621940613, 
+      "description": "Seaside resort"
+    }, 
+    {
+      "score": 0.4560000002384186, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.3767000138759613, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.1602311134338379, 
+      "description": "Suyeong District"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9736936688423157, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9582648277282715, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9517191052436829, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.9431570768356323, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.9375855326652527, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9349450469017029, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9055681824684143, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8620283603668213, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8519622087478638, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8394229412078857, 
+      "description": "daytime"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.1889, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 120.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.12150996923446655, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.021794872358441353, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.11994302272796631, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.09216523915529251, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.06623931974172592, 
+      "color-red": 46.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.07849002629518509, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.05940170958638191, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 29.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.006837606895714998, 
+      "color-red": 14.0
+    }, 
+    {
+      "color-green": 29.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.03789173811674118, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.017236467450857162, 
+      "color-red": 69.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "haedong yonggungsa"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1032660007476807, 
+      "description": "Haedong Yonggungsa"
+    }, 
+    {
+      "score": 0.694350004196167, 
+      "description": "Temple"
+    }, 
+    {
+      "score": 0.6113283634185791, 
+      "description": "Seomyeon station"
+    }, 
+    {
+      "score": 0.47145000100135803, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 0.4433000087738037, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.40059998631477356, 
+      "description": "Culture"
+    }, 
+    {
+      "score": 0.38912129402160645, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.37812501192092896, 
+      "description": "10 Magazine"
+    }, 
+    {
+      "score": 0.3518083691596985, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.3443000018596649, 
+      "description": "10 Magazine"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9637457132339478, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.8691802024841309, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.8410028219223022, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.8028440475463867, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.7333434224128723, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.6263158321380615, 
+      "description": "travel"
+    }, 
+    {
+      "score": 0.6210052371025085, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.5508353114128113, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.5104211568832397, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.5015010237693787, 
+      "description": "coast"
+    }
+  ]
+}

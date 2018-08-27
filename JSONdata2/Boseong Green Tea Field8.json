@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 129.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.3694685995578766, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 254.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.0215458944439888, 
+      "color-red": 243.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.023864734917879105, 
+      "color-red": 30.0
+    }, 
+    {
+      "color-green": 102.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.2719806730747223, 
+      "color-red": 51.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.09710144996643066, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 105.0, 
+      "pixel": 0.04202898591756821, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.03864734247326851, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 252.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.002415458904579282, 
+      "color-red": 233.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 178.0, 
+      "pixel": 0.004347825888544321, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 71.0, 
+      "pixel": 0.00685990322381258, 
+      "color-red": 78.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "crop"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7985132336616516, 
+      "description": "Crop"
+    }, 
+    {
+      "score": 0.7152178287506104, 
+      "description": "Biome"
+    }, 
+    {
+      "score": 0.7136902213096619, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.7010175585746765, 
+      "description": "Grassland"
+    }, 
+    {
+      "score": 0.6342089176177979, 
+      "description": "Hill station"
+    }, 
+    {
+      "score": 0.5825164318084717, 
+      "description": "Plantation"
+    }, 
+    {
+      "score": 0.5167236924171448, 
+      "description": "Maze"
+    }, 
+    {
+      "score": 0.4996987581253052, 
+      "description": "Paddy Field"
+    }, 
+    {
+      "score": 0.47699999809265137, 
+      "description": "Rice"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9356224536895752, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.9258983135223389, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.9203185439109802, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.9157610535621643, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8360394239425659, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.8204423785209656, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.8053597807884216, 
+      "description": "plantation"
+    }, 
+    {
+      "score": 0.7425839900970459, 
+      "description": "tea plant"
+    }, 
+    {
+      "score": 0.6834036707878113, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.6826834678649902, 
+      "description": "biome"
+    }
+  ]
+}

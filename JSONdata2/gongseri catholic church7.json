@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 230.0, 
+      "color-blue": 252.0, 
+      "pixel": 0.09275167435407639, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.0953691303730011, 
+      "color-red": 36.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.03785235062241554, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 242.0, 
+      "color-blue": 248.0, 
+      "pixel": 0.07201342284679413, 
+      "color-red": 223.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.06503355503082275, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 34.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.06006711348891258, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.01859060488641262, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.01114093977957964, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.03536912798881531, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.029127515852451324, 
+      "color-red": 56.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "tree"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5565439462661743, 
+      "description": "\uc544\uc0b0 \uacf5\uc138\ub9ac\uc131\ub2f9"
+    }, 
+    {
+      "score": 0.6680999994277954, 
+      "description": "\u8056\u5802"
+    }, 
+    {
+      "score": 0.6171000599861145, 
+      "description": "Semadae"
+    }, 
+    {
+      "score": 0.5990999937057495, 
+      "description": "\uc0bd\uad50\ucc9c"
+    }, 
+    {
+      "score": 0.5327630043029785, 
+      "description": "\uc544\uc0b0\ub9cc\ubc29\uc870\uc81c"
+    }, 
+    {
+      "score": 0.46665000915527344, 
+      "description": "Japanese invasions of Korea"
+    }, 
+    {
+      "score": 0.4492499828338623, 
+      "description": "Pyeongtaek"
+    }, 
+    {
+      "score": 0.3671000003814697, 
+      "description": "Photo-essay"
+    }, 
+    {
+      "score": 0.34290000796318054, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.3310999870300293, 
+      "description": "Essay"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9108795523643494, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8274009823799133, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.775810956954956, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7470759749412537, 
+      "description": "spire"
+    }, 
+    {
+      "score": 0.7423626184463501, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.731614887714386, 
+      "description": "steeple"
+    }, 
+    {
+      "score": 0.6882514953613281, 
+      "description": "estate"
+    }, 
+    {
+      "score": 0.6849217414855957, 
+      "description": "chapel"
+    }, 
+    {
+      "score": 0.6843925714492798, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.6814092993736267, 
+      "description": "plant"
+    }
+  ]
+}

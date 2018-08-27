@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 193.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.10668724030256271, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 177.0, 
+      "color-blue": 254.0, 
+      "pixel": 0.12170781940221786, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.06337448209524155, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.03580246865749359, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.09619341790676117, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 182.0, 
+      "color-blue": 255.0, 
+      "pixel": 0.025823045521974564, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 249.0, 
+      "pixel": 0.020576132461428642, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 152.0, 
+      "pixel": 0.0855967104434967, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 138.0, 
+      "pixel": 0.047427982091903687, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 176.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.018209876492619514, 
+      "color-red": 114.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Songdo International Business District"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0534499883651733, 
+      "description": "Songdo International Business District"
+    }, 
+    {
+      "score": 0.7067999839782715, 
+      "description": "Business"
+    }, 
+    {
+      "score": 0.6620000004768372, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5023999810218811, 
+      "description": "Global Partners"
+    }, 
+    {
+      "score": 0.45399999618530273, 
+      "description": "Global Partners"
+    }, 
+    {
+      "score": 0.38108402490615845, 
+      "description": "Urban design"
+    }, 
+    {
+      "score": 0.33000001311302185, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.3199537694454193, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.30946794152259827, 
+      "description": "Urban area"
+    }, 
+    {
+      "score": 0.2898872196674347, 
+      "description": "Apartment"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9785305261611938, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9148861765861511, 
+      "description": "tower block"
+    }, 
+    {
+      "score": 0.903661847114563, 
+      "description": "condominium"
+    }, 
+    {
+      "score": 0.9008408784866333, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.8861081600189209, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8799439668655396, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.8647308945655823, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.8636476993560791, 
+      "description": "mixed use"
+    }, 
+    {
+      "score": 0.8511108160018921, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8483599424362183, 
+      "description": "urban area"
+    }
+  ]
+}

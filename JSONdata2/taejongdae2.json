@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 117.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.1783333271741867, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 104.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.025714285671710968, 
+      "color-red": 37.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.11063492298126221, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.13349206745624542, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.02936507947742939, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.015793651342391968, 
+      "color-red": 137.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.009999999776482582, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.010873015969991684, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 154.0, 
+      "pixel": 0.005793650634586811, 
+      "color-red": 231.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.029603173956274986, 
+      "color-red": 69.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "taejongdae park"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6003944873809814, 
+      "description": "Taejongdae"
+    }, 
+    {
+      "score": 0.6283000111579895, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5814000368118286, 
+      "description": "Daewangam Park"
+    }, 
+    {
+      "score": 0.5426685214042664, 
+      "description": "Cliff"
+    }, 
+    {
+      "score": 0.5288910269737244, 
+      "description": "Taejongsa"
+    }, 
+    {
+      "score": 0.5060999989509583, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.4422000050544739, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.43939998745918274, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.42980000376701355, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.42590001225471497, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9318931698799133, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8596554398536682, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8520510792732239, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.7282846570014954, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.6703677177429199, 
+      "description": "cliff"
+    }, 
+    {
+      "score": 0.6644759774208069, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6414932608604431, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.6216379404067993, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.6140610575675964, 
+      "description": "rock"
+    }, 
+    {
+      "score": 0.6032419204711914, 
+      "description": "bay"
+    }
+  ]
+}

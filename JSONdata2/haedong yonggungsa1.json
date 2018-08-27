@@ -1,0 +1,165 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.188944, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }, 
+    {
+      "Latitude": 35.1889, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 120.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.0733506977558136, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 187.0, 
+      "pixel": 0.07696758955717087, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 33.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.0007233796059153974, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.07863136380910873, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.06517650187015533, 
+      "color-red": 206.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.07103587687015533, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 227.0, 
+      "color-blue": 223.0, 
+      "pixel": 0.12355323880910873, 
+      "color-red": 232.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.010923032648861408, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.04759838059544563, 
+      "color-red": 165.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.039858218282461166, 
+      "color-red": 124.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "haedong yonggungsa"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6744647026062012, 
+      "description": "Haedong Yonggungsa"
+    }, 
+    {
+      "score": 1.0564500093460083, 
+      "description": "Temple"
+    }, 
+    {
+      "score": 0.8160240650177002, 
+      "description": "Sudeoksa"
+    }, 
+    {
+      "score": 0.7991989850997925, 
+      "description": "Bongeunsa"
+    }, 
+    {
+      "score": 0.7460920810699463, 
+      "description": "Doseonsa"
+    }, 
+    {
+      "score": 0.4986000061035156, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.4887999892234802, 
+      "description": "Pagoda"
+    }, 
+    {
+      "score": 0.438400000333786, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.4002000093460083, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.38960000872612, 
+      "description": "Buddhism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.80437833070755, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8014600872993469, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.7795049548149109, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.719192624092102, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7142521142959595, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.6963502168655396, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.672295093536377, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.6716671586036682, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6533850431442261, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6084173917770386, 
+      "description": "reservoir"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 108.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.07712257653474808, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 249.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.08060333132743835, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.09971334785223007, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 141.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.022659022361040115, 
+      "color-red": 194.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.017745018005371094, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.023205023258924484, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.04047229140996933, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.024638274684548378, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.028733279556035995, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 106.0, 
+      "color-blue": 38.0, 
+      "pixel": 0.010510510765016079, 
+      "color-red": 168.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ubd80\uc11d\uc0ac"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4203201532363892, 
+      "description": "Buseoksa"
+    }, 
+    {
+      "score": 1.160115122795105, 
+      "description": "Muryangsujeon"
+    }, 
+    {
+      "score": 0.4797999858856201, 
+      "description": "Buddhist temple"
+    }, 
+    {
+      "score": 0.4503999948501587, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3731880187988281, 
+      "description": "Shinto shrine"
+    }, 
+    {
+      "score": 0.36890000104904175, 
+      "description": "Temple"
+    }, 
+    {
+      "score": 0.2969000041484833, 
+      "description": "Naver Blog"
+    }, 
+    {
+      "score": 0.2727000117301941, 
+      "description": "Daum"
+    }, 
+    {
+      "score": 0.24070000648498535, 
+      "description": "Blog"
+    }, 
+    {
+      "score": 0.23839999735355377, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9499927163124084, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9227088689804077, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.9226891398429871, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.9176089763641357, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9093499183654785, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8859861493110657, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8834324479103088, 
+      "description": "mountain village"
+    }, 
+    {
+      "score": 0.868366539478302, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8645870685577393, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.8122310638427734, 
+      "description": "sky"
+    }
+  ]
+}

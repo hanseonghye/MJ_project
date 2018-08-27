@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.529155599999996, 
+      "description": "", 
+      "Longitude": 127.81842800000001
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 248.0, 
+      "color-blue": 249.0, 
+      "pixel": 0.1303030252456665, 
+      "color-red": 241.0
+    }, 
+    {
+      "color-green": 105.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.013314967975020409, 
+      "color-red": 148.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.08181817829608917, 
+      "color-red": 35.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.15693296492099762, 
+      "color-red": 19.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 148.0, 
+      "pixel": 0.019100092351436615, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 75.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.014784205704927444, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 107.0, 
+      "color-blue": 70.0, 
+      "pixel": 0.008356289938092232, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 34.0, 
+      "color-blue": 12.0, 
+      "pixel": 0.030762167647480965, 
+      "color-red": 19.0
+    }, 
+    {
+      "color-green": 102.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.0026629935018718243, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.026629935950040817, 
+      "color-red": 126.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "chapel"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8551499843597412, 
+      "description": "Gangwon Province, South Korea"
+    }, 
+    {
+      "score": 0.6098999977111816, 
+      "description": "\uad6c\ub840 \uc5f0\uace1\uc0ac \ubd81 \uc2b9\ud0d1"
+    }, 
+    {
+      "score": 0.5906000137329102, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5641499757766724, 
+      "description": "Gyeonggang Line"
+    }, 
+    {
+      "score": 0.540149986743927, 
+      "description": "PyeongChang 2018 Olympic Winter Games"
+    }, 
+    {
+      "score": 0.5087000131607056, 
+      "description": "Landscape"
+    }, 
+    {
+      "score": 0.4668999910354614, 
+      "description": "Natural landscape"
+    }, 
+    {
+      "score": 0.35335585474967957, 
+      "description": "Parish"
+    }, 
+    {
+      "score": 0.35089999437332153, 
+      "description": "Pagoda"
+    }, 
+    {
+      "score": 0.3443000018596649, 
+      "description": "\uc5f0\uace1\uc0ac"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8546695113182068, 
+      "description": "chapel"
+    }, 
+    {
+      "score": 0.8456629514694214, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.8385323882102966, 
+      "description": "parish"
+    }, 
+    {
+      "score": 0.8382155299186707, 
+      "description": "medieval architecture"
+    }, 
+    {
+      "score": 0.7935642004013062, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.7704086303710938, 
+      "description": "steeple"
+    }, 
+    {
+      "score": 0.7496153712272644, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.7320222854614258, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.6956354379653931, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.5587522983551025, 
+      "description": "facade"
+    }
+  ]
+}

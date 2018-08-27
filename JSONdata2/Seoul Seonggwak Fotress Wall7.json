@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 48.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.11042852699756622, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.09050045162439346, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.0017231046222150326, 
+      "color-red": 254.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.11866946518421173, 
+      "color-red": 30.0
+    }, 
+    {
+      "color-green": 44.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.036110278218984604, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.05011986941099167, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.15193288028240204, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 40.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.02974228374660015, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 72.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.02719508484005928, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.03198981285095215, 
+      "color-red": 46.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "urban area"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6133727431297302, 
+      "description": "Urban area"
+    }, 
+    {
+      "score": 0.46380096673965454, 
+      "description": "Metropolitan area"
+    }, 
+    {
+      "score": 0.46259787678718567, 
+      "description": "Suburb"
+    }, 
+    {
+      "score": 0.45734143257141113, 
+      "description": "Cityscape"
+    }, 
+    {
+      "score": 0.2935999929904938, 
+      "description": "Sky plc"
+    }, 
+    {
+      "score": 0.019055556505918503, 
+      "description": ""
+    }, 
+    {
+      "score": 0.0, 
+      "description": "Samsung Galaxy S4"
+    }, 
+    {
+      "score": 0.0, 
+      "description": "Samsung Galaxy S series"
+    }, 
+    {
+      "score": 0.0, 
+      "description": "Mobile Phones"
+    }, 
+    {
+      "score": 0.0, 
+      "description": "Samsung Galaxy"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9636637568473816, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9394039511680603, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9201911091804504, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.9019399881362915, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.8958568572998047, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.8942228555679321, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8846197724342346, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8024510145187378, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.7648187279701233, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.7371241450309753, 
+      "description": "residential area"
+    }
+  ]
+}

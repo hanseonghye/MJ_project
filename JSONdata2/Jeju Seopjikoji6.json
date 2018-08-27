@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 126.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.08381108194589615, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.10217035561800003, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.02170352078974247, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.010988260619342327, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.0726863220334053, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.030985530465841293, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 103.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.02300027385354042, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 237.0, 
+      "color-blue": 139.0, 
+      "pixel": 6.825006857980043e-05, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 147.0, 
+      "pixel": 0.0022522523067891598, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.01986077055335045, 
+      "color-red": 131.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "coast"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8231850266456604, 
+      "description": "Seopjikoji"
+    }, 
+    {
+      "score": 0.2807999849319458, 
+      "description": "Jeju Olle Trail"
+    }, 
+    {
+      "score": 0.21862171590328217, 
+      "description": "Sky"
+    }, 
+    {
+      "score": 0.17790000140666962, 
+      "description": "Weather"
+    }, 
+    {
+      "score": 0.16349999606609344, 
+      "description": "Afternoon"
+    }, 
+    {
+      "score": 0.1571206897497177, 
+      "description": "Cliff"
+    }, 
+    {
+      "score": 0.156700000166893, 
+      "description": "Day"
+    }, 
+    {
+      "score": 0.1382751613855362, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.1371999979019165, 
+      "description": "Real Estate"
+    }, 
+    {
+      "score": 0.13660000264644623, 
+      "description": "Gale"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8259432315826416, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.7451522946357727, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.6635788679122925, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.652405321598053, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.6257858276367188, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6202715635299683, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.6136515140533447, 
+      "description": "hill"
+    }, 
+    {
+      "score": 0.5522305369377136, 
+      "description": "landscape"
+    }, 
+    {
+      "score": 0.5300170183181763, 
+      "description": "cliff"
+    }
+  ]
+}

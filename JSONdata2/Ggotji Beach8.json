@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 180.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.052323117852211, 
+      "color-red": 244.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.03572941571474075, 
+      "color-red": 214.0
+    }, 
+    {
+      "color-green": 107.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.055147577077150345, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 8.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.0330461785197258, 
+      "color-red": 15.0
+    }, 
+    {
+      "color-green": 16.0, 
+      "color-blue": 1.0, 
+      "pixel": 0.0036011862102895975, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.03558819368481636, 
+      "color-red": 239.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.04879254475235939, 
+      "color-red": 232.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 133.0, 
+      "pixel": 0.023937296122312546, 
+      "color-red": 228.0
+    }, 
+    {
+      "color-green": 183.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.01228640042245388, 
+      "color-red": 240.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.07661347091197968, 
+      "color-red": 178.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ud0dc\uc548 \uaf43\uc9c0 \ud574\uc218\uc695\uc7a5"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6045074462890625, 
+      "description": "\uaf43\uc9c0\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 1.248731017112732, 
+      "description": "Anmyeondo"
+    }, 
+    {
+      "score": 0.9601500034332275, 
+      "description": "\uaf43\uc9c0\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 0.9325652122497559, 
+      "description": "Taeanhaean National Park"
+    }, 
+    {
+      "score": 0.8769228458404541, 
+      "description": "\ud560\ubbf8\ud560\uc544\ube44\ubc14\uc704"
+    }, 
+    {
+      "score": 0.8384901881217957, 
+      "description": "Sambong-haesuyokchang"
+    }, 
+    {
+      "score": 0.7059000134468079, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.5856000185012817, 
+      "description": "Seaside resort"
+    }, 
+    {
+      "score": 0.4388999938964844, 
+      "description": "National park"
+    }, 
+    {
+      "score": 0.3926999866962433, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.960747480392456, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9568900465965271, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9330019950866699, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9147233366966248, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9078847169876099, 
+      "description": "sunset"
+    }, 
+    {
+      "score": 0.9074523448944092, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.873431384563446, 
+      "description": "sunrise"
+    }, 
+    {
+      "score": 0.8685355186462402, 
+      "description": "calm"
+    }, 
+    {
+      "score": 0.8384366631507874, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8328846096992493, 
+      "description": "cloud"
+    }
+  ]
+}

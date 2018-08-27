@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 195.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.041646089404821396, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 188.0, 
+      "pixel": 0.016049383208155632, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 180.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.0018106995848938823, 
+      "color-red": 31.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 143.0, 
+      "pixel": 0.007818929851055145, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.0032921810634434223, 
+      "color-red": 27.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 72.0, 
+      "pixel": 0.00016460905317217112, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.0011522633722051978, 
+      "color-red": 31.0
+    }, 
+    {
+      "color-green": 104.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.0002469135797582567, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 32.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.0009053497924469411, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 64.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.0009053497924469411, 
+      "color-red": 245.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Busan"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2514063119888306, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 0.5378000140190125, 
+      "description": "Culture"
+    }, 
+    {
+      "score": 0.47510001063346863, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.43184903264045715, 
+      "description": "\ubd80\uc0b0\ubb38\ud654\uad00\uad11"
+    }, 
+    {
+      "score": 0.41339999437332153, 
+      "description": "Content"
+    }, 
+    {
+      "score": 0.39100000262260437, 
+      "description": "Information"
+    }, 
+    {
+      "score": 0.3774999976158142, 
+      "description": "Art"
+    }, 
+    {
+      "score": 0.2946999967098236, 
+      "description": "Information management"
+    }, 
+    {
+      "score": 0.2921000123023987, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.2821132242679596, 
+      "description": "Urban area"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9326198697090149, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8505710959434509, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.8424142003059387, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8012343645095825, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.7271296381950378, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.6759377121925354, 
+      "description": "suburb"
+    }, 
+    {
+      "score": 0.6687741279602051, 
+      "description": "collage"
+    }, 
+    {
+      "score": 0.5957229733467102, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.5795392394065857, 
+      "description": "cityscape"
+    }
+  ]
+}

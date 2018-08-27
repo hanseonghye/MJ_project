@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 112.0, 
+      "color-blue": 148.0, 
+      "pixel": 0.056912440806627274, 
+      "color-red": 133.0
+    }, 
+    {
+      "color-green": 214.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.003456221194937825, 
+      "color-red": 249.0
+    }, 
+    {
+      "color-green": 145.0, 
+      "color-blue": 184.0, 
+      "pixel": 0.0276497695595026, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 109.0, 
+      "pixel": 0.056758832186460495, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 34.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.0003840245772153139, 
+      "color-red": 30.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.05000000074505806, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 172.0, 
+      "pixel": 0.04615975543856621, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.019585253670811653, 
+      "color-red": 107.0
+    }, 
+    {
+      "color-green": 183.0, 
+      "color-blue": 220.0, 
+      "pixel": 0.00637480802834034, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 72.0, 
+      "pixel": 0.11912442743778229, 
+      "color-red": 47.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "e world starlight cherry blossom"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3664047718048096, 
+      "description": "E \u00b7 WORLD 83Tower"
+    }, 
+    {
+      "score": 1.0256999731063843, 
+      "description": "National Cherry Blossom Festival"
+    }, 
+    {
+      "score": 0.7075999975204468, 
+      "description": "Cherry blossom"
+    }, 
+    {
+      "score": 0.6546000242233276, 
+      "description": "E-World"
+    }, 
+    {
+      "score": 0.6366000175476074, 
+      "description": "Blossom"
+    }, 
+    {
+      "score": 0.5544000267982483, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.482699990272522, 
+      "description": "Amusement park"
+    }, 
+    {
+      "score": 0.47589999437332153, 
+      "description": "Hanami"
+    }, 
+    {
+      "score": 0.4426500201225281, 
+      "description": "Starlite Festival"
+    }, 
+    {
+      "score": 0.4325999915599823, 
+      "description": "Flower"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8065732717514038, 
+      "description": "aerial photography"
+    }, 
+    {
+      "score": 0.7817151546478271, 
+      "description": "bird's eye view"
+    }, 
+    {
+      "score": 0.7539218068122864, 
+      "description": "amusement park"
+    }, 
+    {
+      "score": 0.717475175857544, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6832011938095093, 
+      "description": "festival"
+    }, 
+    {
+      "score": 0.6741014122962952, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6739509105682373, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.6323078274726868, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6297093629837036, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.596035897731781, 
+      "description": "world"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 117.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.0386681854724884, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.08311624825000763, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 219.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.043796807527542114, 
+      "color-red": 227.0
+    }, 
+    {
+      "color-green": 99.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.048111364245414734, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 217.0, 
+      "pixel": 0.20490068197250366, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.08612829446792603, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.06935851275920868, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 182.0, 
+      "pixel": 0.04420384392142296, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.06276457011699677, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 223.0, 
+      "pixel": 0.03541191667318344, 
+      "color-red": 229.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "beach"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3256224393844604, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 1.196084976196289, 
+      "description": "\u0421\u043e\u043d\u0447\u0436\u043e\u043d"
+    }, 
+    {
+      "score": 0.9581384658813477, 
+      "description": "Songjeong station"
+    }, 
+    {
+      "score": 0.7074037194252014, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.6887892484664917, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.5304999947547913, 
+      "description": "Seaside resort"
+    }, 
+    {
+      "score": 0.516582727432251, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.49289998412132263, 
+      "description": "Donghae Nambu Line"
+    }, 
+    {
+      "score": 0.490896999835968, 
+      "description": "\uc1a1\uc815\ubc14\ub2e4\ubbfc\ubc15"
+    }, 
+    {
+      "score": 0.4735783636569977, 
+      "description": "Sand"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9562690258026123, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.9391052722930908, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9354291558265686, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9310837388038635, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9198081493377686, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8928125500679016, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8871368169784546, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8865928053855896, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8096048831939697, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7287985682487488, 
+      "description": "water"
+    }
+  ]
+}

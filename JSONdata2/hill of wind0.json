@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 192.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.06913580000400543, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.06172839552164078, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 181.0, 
+      "pixel": 0.27720165252685547, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 135.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.02526748925447464, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.024855967611074448, 
+      "color-red": 231.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.12699589133262634, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 141.0, 
+      "pixel": 0.10872428119182587, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.057777777314186096, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 229.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.0046913581900298595, 
+      "color-red": 241.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.012263374403119087, 
+      "color-red": 211.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uac70\uc81c \ubc14\ub78c \uc758 \uc5b8\ub355"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3783040046691895, 
+      "description": "Geojedo"
+    }, 
+    {
+      "score": 1.2792121171951294, 
+      "description": "Windy Hill"
+    }, 
+    {
+      "score": 1.0393500328063965, 
+      "description": "\uac70\uc81c \ud574\uae08\uac15"
+    }, 
+    {
+      "score": 0.9948015213012695, 
+      "description": "Tongyeong"
+    }, 
+    {
+      "score": 0.8969730138778687, 
+      "description": "Jeju Province"
+    }, 
+    {
+      "score": 0.8496015667915344, 
+      "description": "Oedo"
+    }, 
+    {
+      "score": 0.8245545029640198, 
+      "description": "Sinseondae"
+    }, 
+    {
+      "score": 0.6076499819755554, 
+      "description": "\ub9e4\ubb3c\ub3c4"
+    }, 
+    {
+      "score": 0.5160285234451294, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.4864000082015991, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9712064862251282, 
+      "description": "windmill"
+    }, 
+    {
+      "score": 0.8037111759185791, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.786024808883667, 
+      "description": "loch"
+    }, 
+    {
+      "score": 0.7707106471061707, 
+      "description": "mill"
+    }, 
+    {
+      "score": 0.7353470921516418, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7054719924926758, 
+      "description": "reservoir"
+    }, 
+    {
+      "score": 0.663436770439148, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.5509973764419556, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.5346399545669556, 
+      "description": "land lot"
+    }, 
+    {
+      "score": 0.5313795208930969, 
+      "description": "mount scenery"
+    }
+  ]
+}

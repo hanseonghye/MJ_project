@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 195.0, 
+      "color-blue": 188.0, 
+      "pixel": 0.0883742943406105, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.030324511229991913, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.02811909280717373, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 23.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.016619408503174782, 
+      "color-red": 19.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.03835853934288025, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 241.0, 
+      "color-blue": 240.0, 
+      "pixel": 0.3727158308029175, 
+      "color-red": 239.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.026701323688030243, 
+      "color-red": 146.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 170.0, 
+      "pixel": 0.02402331493794918, 
+      "color-red": 194.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.01787964627146721, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.03142721951007843, 
+      "color-red": 47.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Donggung Palace and Wolji Pond in Gyeongju"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5287744998931885, 
+      "description": "Donggung Palace and Wolji Pond in Gyeongju"
+    }, 
+    {
+      "score": 0.8447010517120361, 
+      "description": "Yangdong Folk Village"
+    }, 
+    {
+      "score": 0.7024000287055969, 
+      "description": "Cultural heritage"
+    }, 
+    {
+      "score": 0.6949635148048401, 
+      "description": "Seokguram"
+    }, 
+    {
+      "score": 0.628000020980835, 
+      "description": "Culture"
+    }, 
+    {
+      "score": 0.627291202545166, 
+      "description": "Pond"
+    }, 
+    {
+      "score": 0.600600004196167, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5153999924659729, 
+      "description": "Historic site"
+    }, 
+    {
+      "score": 0.4708000123500824, 
+      "description": "History"
+    }, 
+    {
+      "score": 0.4683000147342682, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8368788957595825, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.8015264868736267, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.7989004254341125, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7388688921928406, 
+      "description": "pond"
+    }, 
+    {
+      "score": 0.725530743598938, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.7101041078567505, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6707395911216736, 
+      "description": "garden"
+    }, 
+    {
+      "score": 0.6558583378791809, 
+      "description": "reservoir"
+    }, 
+    {
+      "score": 0.6410802006721497, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6397233009338379, 
+      "description": "lake"
+    }
+  ]
+}

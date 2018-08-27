@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 184.0, 
+      "color-blue": 191.0, 
+      "pixel": 0.07001109421253204, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 147.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.08997904509305954, 
+      "color-red": 191.0
+    }, 
+    {
+      "color-green": 171.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.03217059001326561, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.05571305379271507, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 212.0, 
+      "color-blue": 219.0, 
+      "pixel": 0.012572414241731167, 
+      "color-red": 251.0
+    }, 
+    {
+      "color-green": 139.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.07025761157274246, 
+      "color-red": 214.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.03747072443366051, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 4.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.00024651794228702784, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 145.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.022926168516278267, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.036238137632608414, 
+      "color-red": 137.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "botanical garden"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6824674606323242, 
+      "description": "Rose"
+    }, 
+    {
+      "score": 0.9588645100593567, 
+      "description": "Ulsan Grand Park"
+    }, 
+    {
+      "score": 0.8392560482025146, 
+      "description": "Chugje"
+    }, 
+    {
+      "score": 0.49243664741516113, 
+      "description": "Shrub"
+    }, 
+    {
+      "score": 0.4498780071735382, 
+      "description": "\uc6b8\uc0b0\uc2dc\ubbfc\uad50\ud68c"
+    }, 
+    {
+      "score": 0.41218605637550354, 
+      "description": "Botanical garden"
+    }, 
+    {
+      "score": 0.31369999051094055, 
+      "description": "Flower"
+    }, 
+    {
+      "score": 0.23695886135101318, 
+      "description": "Rhododendron"
+    }, 
+    {
+      "score": 0.21780000627040863, 
+      "description": "Garden"
+    }, 
+    {
+      "score": 0.2028748244047165, 
+      "description": "Landscape"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9803875684738159, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.97088623046875, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9352211356163025, 
+      "description": "flowering plant"
+    }, 
+    {
+      "score": 0.902609646320343, 
+      "description": "botanical garden"
+    }, 
+    {
+      "score": 0.8457297086715698, 
+      "description": "garden"
+    }, 
+    {
+      "score": 0.8304110765457153, 
+      "description": "flora"
+    }, 
+    {
+      "score": 0.7640746831893921, 
+      "description": "shrub"
+    }, 
+    {
+      "score": 0.6604011654853821, 
+      "description": "annual plant"
+    }, 
+    {
+      "score": 0.6265600323677063, 
+      "description": "rose family"
+    }, 
+    {
+      "score": 0.6262984871864319, 
+      "description": "spring"
+    }
+  ]
+}

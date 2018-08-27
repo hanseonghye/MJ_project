@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.835193, 
+      "description": "Anapji", 
+      "Longitude": 129.22638416290283
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 198.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.0141333332285285, 
+      "color-red": 239.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.024000000208616257, 
+      "color-red": 216.0
+    }, 
+    {
+      "color-green": 231.0, 
+      "color-blue": 43.0, 
+      "pixel": 0.00426666671410203, 
+      "color-red": 241.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.020866665989160538, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 42.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.012066666968166828, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 21.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.4697999954223633, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.0055333334021270275, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 166.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.0020000000949949026, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 44.0, 
+      "pixel": 0.02433333359658718, 
+      "color-red": 231.0
+    }, 
+    {
+      "color-green": 171.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.011933333240449429, 
+      "color-red": 238.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "anapji"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7777836322784424, 
+      "description": "Donggung Palace and Wolji Pond in Gyeongju"
+    }, 
+    {
+      "score": 0.9491361379623413, 
+      "description": "Cheomseongdae"
+    }, 
+    {
+      "score": 0.7091568112373352, 
+      "description": "Gyeongju National Museum"
+    }, 
+    {
+      "score": 0.5067999958992004, 
+      "description": "Blog"
+    }, 
+    {
+      "score": 0.49453309178352356, 
+      "description": "Busan"
+    }, 
+    {
+      "score": 0.413100004196167, 
+      "description": "Pond"
+    }, 
+    {
+      "score": 0.4099000096321106, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.35280001163482666, 
+      "description": ""
+    }, 
+    {
+      "score": 0.34869998693466187, 
+      "description": "Image"
+    }, 
+    {
+      "score": 0.27630001306533813, 
+      "description": "Naver Blog"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9427000880241394, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9329832196235657, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.887142539024353, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.8417239189147949, 
+      "description": "light"
+    }, 
+    {
+      "score": 0.8310762643814087, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.8044143319129944, 
+      "description": "lighting"
+    }, 
+    {
+      "score": 0.7896437644958496, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6515606045722961, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6080751419067383, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.556957483291626, 
+      "description": "darkness"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 152.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.0805683583021164, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.20291858911514282, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 17.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.07987711578607559, 
+      "color-red": 23.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.01144393254071474, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.06735791265964508, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.03663594648241997, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 181.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.03717358037829399, 
+      "color-red": 202.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.0539170503616333, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 217.0, 
+      "pixel": 0.16705068945884705, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.024807987734675407, 
+      "color-red": 162.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Independence Gate"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.571608543395996, 
+      "description": "Independence Gate"
+    }, 
+    {
+      "score": 0.8700104355812073, 
+      "description": "Historic site"
+    }, 
+    {
+      "score": 0.7063999772071838, 
+      "description": "Cultural heritage"
+    }, 
+    {
+      "score": 0.6973499655723572, 
+      "description": "Yeongeunmun"
+    }, 
+    {
+      "score": 0.632099986076355, 
+      "description": "Joseon"
+    }, 
+    {
+      "score": 0.6075999736785889, 
+      "description": "History"
+    }, 
+    {
+      "score": 0.5911574959754944, 
+      "description": "Triumphal arch"
+    }, 
+    {
+      "score": 0.5805000066757202, 
+      "description": "Culture"
+    }, 
+    {
+      "score": 0.5282310843467712, 
+      "description": "National Trust for Places of Historic Interest or Natural Beauty"
+    }, 
+    {
+      "score": 0.527400016784668, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9356920719146729, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.9145373702049255, 
+      "description": "arch"
+    }, 
+    {
+      "score": 0.906458854675293, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8989152908325195, 
+      "description": "triumphal arch"
+    }, 
+    {
+      "score": 0.799868106842041, 
+      "description": "monument"
+    }, 
+    {
+      "score": 0.7939194440841675, 
+      "description": "national historic landmark"
+    }, 
+    {
+      "score": 0.7893674969673157, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.785606861114502, 
+      "description": "archaeological site"
+    }, 
+    {
+      "score": 0.697654664516449, 
+      "description": "ancient history"
+    }, 
+    {
+      "score": 0.6286431550979614, 
+      "description": "tree"
+    }
+  ]
+}

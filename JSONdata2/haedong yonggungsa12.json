@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.188944, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 241.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.17585952579975128, 
+      "color-red": 231.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.01746644638478756, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.07119874656200409, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 169.0, 
+      "pixel": 0.01746644638478756, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 203.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.001378929940983653, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 73.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.0005056076333858073, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 101.0, 
+      "pixel": 9.192866127705202e-05, 
+      "color-red": 216.0
+    }, 
+    {
+      "color-green": 17.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.00027578597655519843, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 171.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.00013789298827759922, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 105.0, 
+      "pixel": 0.001057179644703865, 
+      "color-red": 220.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "haedong yonggungsa"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.772293210029602, 
+      "description": "Haedong Yonggungsa"
+    }, 
+    {
+      "score": 1.0411947965621948, 
+      "description": "Haeundae Beach"
+    }, 
+    {
+      "score": 0.886199951171875, 
+      "description": "Temple"
+    }, 
+    {
+      "score": 0.6542999744415283, 
+      "description": "Buddhist temple"
+    }, 
+    {
+      "score": 0.5614500045776367, 
+      "description": "Ko Sichang District"
+    }, 
+    {
+      "score": 0.5249999761581421, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.5249000191688538, 
+      "description": "Buddhism"
+    }, 
+    {
+      "score": 0.43479999899864197, 
+      "description": "Cruise Planet"
+    }, 
+    {
+      "score": 0.39980000257492065, 
+      "description": "Stock photography"
+    }, 
+    {
+      "score": 0.3617999851703644, 
+      "description": "Image"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9477108120918274, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.8993194103240967, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.856695830821991, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8380193114280701, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.7803966403007507, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7747220396995544, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7648121118545532, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.7205575108528137, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7203880548477173, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.7060010433197021, 
+      "description": "mount scenery"
+    }
+  ]
+}

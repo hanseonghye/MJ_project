@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 143.0, 
+      "color-blue": 254.0, 
+      "pixel": 0.055711530148983, 
+      "color-red": 51.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.04193718358874321, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.02403930574655533, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.024302508682012558, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 178.0, 
+      "pixel": 0.007545183412730694, 
+      "color-red": 76.0
+    }, 
+    {
+      "color-green": 106.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.007281979080289602, 
+      "color-red": 7.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.00017546938033774495, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 141.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.0004386734508443624, 
+      "color-red": 35.0
+    }, 
+    {
+      "color-green": 4.0, 
+      "color-blue": 22.0, 
+      "pixel": 8.773469016887248e-05, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.026759080588817596, 
+      "color-red": 39.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "mandeok dong busan"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4680604934692383, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 1.0600817203521729, 
+      "description": "Yongdusan Park"
+    }, 
+    {
+      "score": 1.020990252494812, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.7236000299453735, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 0.5828999876976013, 
+      "description": "Busan International Film Festival"
+    }, 
+    {
+      "score": 0.5551000237464905, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.5426999926567078, 
+      "description": "Excursion"
+    }, 
+    {
+      "score": 0.5351999998092651, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.45730000734329224, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.4426000118255615, 
+      "description": "Danh lam th\u1eafng c\u1ea3nh"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.914399266242981, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8241323232650757, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.821935772895813, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.770241916179657, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6616180539131165, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.6046738624572754, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.5902457237243652, 
+      "description": "fair"
+    }, 
+    {
+      "score": 0.5473958253860474, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.5335506200790405, 
+      "description": "mountain range"
+    }, 
+    {
+      "score": 0.5101951360702515, 
+      "description": "tree"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 235.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.12942469120025635, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 66.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.03590436652302742, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.005322294309735298, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.009123933501541615, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.052040211856365204, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.1441243588924408, 
+      "color-red": 206.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 231.0, 
+      "pixel": 0.10095463693141937, 
+      "color-red": 172.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.005068852100521326, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.011404916644096375, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.007687758654356003, 
+      "color-red": 191.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc678\uad6d \ub9c8\uc744"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5393015146255493, 
+      "description": "Namhae County"
+    }, 
+    {
+      "score": 0.9009000062942505, 
+      "description": "Dogil Maeul"
+    }, 
+    {
+      "score": 0.7748400568962097, 
+      "description": "Geoje"
+    }, 
+    {
+      "score": 0.5214999914169312, 
+      "description": ""
+    }, 
+    {
+      "score": 0.515999972820282, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4047999978065491, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.37049999833106995, 
+      "description": "V-Train"
+    }, 
+    {
+      "score": 0.3528999984264374, 
+      "description": "Town"
+    }, 
+    {
+      "score": 0.3481999933719635, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.3450700044631958, 
+      "description": "Bileong-Gil"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8849223852157593, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8665302395820618, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.7461158633232117, 
+      "description": "village"
+    }, 
+    {
+      "score": 0.7187224626541138, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.7027432322502136, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.7005723714828491, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6715090274810791, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.6674606204032898, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6354261636734009, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6338413953781128, 
+      "description": "mount scenery"
+    }
+  ]
+}

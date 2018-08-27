@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 166.0, 
+      "color-blue": 12.0, 
+      "pixel": 0.07920634746551514, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.02738095261156559, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 216.0, 
+      "pixel": 0.15777777135372162, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 234.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.041031744331121445, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.0041269841603934765, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 172.0, 
+      "color-blue": 219.0, 
+      "pixel": 0.027698412537574768, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.07928571105003357, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.052619047462940216, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 80.0, 
+      "pixel": 0.0007936508045531809, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 211.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.023650793358683586, 
+      "color-red": 213.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sunflower"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7095390558242798, 
+      "description": "Common sunflower"
+    }, 
+    {
+      "score": 1.6048229932785034, 
+      "description": "Daejeo Ecological Park"
+    }, 
+    {
+      "score": 1.0613394975662231, 
+      "description": "Samnak Ecological Park"
+    }, 
+    {
+      "score": 0.5417236089706421, 
+      "description": "Sunflower seed"
+    }, 
+    {
+      "score": 0.5405070185661316, 
+      "description": "Daejeo station"
+    }, 
+    {
+      "score": 0.5042070150375366, 
+      "description": "Gangseo-gu Office station"
+    }, 
+    {
+      "score": 0.4896000027656555, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.31729501485824585, 
+      "description": "Chungmu-dong"
+    }, 
+    {
+      "score": 0.2935500144958496, 
+      "description": "Bus"
+    }, 
+    {
+      "score": 0.1777999997138977, 
+      "description": "Computer"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9717419743537903, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9484332203865051, 
+      "description": "sunflower"
+    }, 
+    {
+      "score": 0.9477242231369019, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9395602941513062, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.9131757616996765, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7828754186630249, 
+      "description": "flowering plant"
+    }, 
+    {
+      "score": 0.7761568427085876, 
+      "description": "prairie"
+    }, 
+    {
+      "score": 0.7600498795509338, 
+      "description": "meadow"
+    }, 
+    {
+      "score": 0.7125946879386902, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.7109037041664124, 
+      "description": "wildflower"
+    }
+  ]
+}

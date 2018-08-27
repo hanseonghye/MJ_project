@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 132.0, 
+      "color-blue": 210.0, 
+      "pixel": 0.39470237493515015, 
+      "color-red": 6.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.0433928556740284, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.06041666492819786, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 205.0, 
+      "pixel": 0.027202380821108818, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 147.0, 
+      "color-blue": 219.0, 
+      "pixel": 0.019761905074119568, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.047083333134651184, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 147.0, 
+      "pixel": 0.030297618359327316, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 185.0, 
+      "pixel": 0.048273809254169464, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.017202381044626236, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 97.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.018809523433446884, 
+      "color-red": 44.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Songdo International Business District"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8572245240211487, 
+      "description": "Campus Town station"
+    }, 
+    {
+      "score": 0.7086970210075378, 
+      "description": "\uc1a1\ub3c4\uad6d\uc81c\ud654\ubcf5\ud569\ub2e8\uc9c0\uac1c\ubc1c"
+    }, 
+    {
+      "score": 0.7008266448974609, 
+      "description": "Mixed-use"
+    }, 
+    {
+      "score": 0.6988500356674194, 
+      "description": "Yongsan District"
+    }, 
+    {
+      "score": 0.6972020268440247, 
+      "description": "Songdo Lotte Castle Campus Town Apartment"
+    }, 
+    {
+      "score": 0.5801514983177185, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.5780500173568726, 
+      "description": "Songdo Lotte Castle Apartments"
+    }, 
+    {
+      "score": 0.5194000005722046, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.47916001081466675, 
+      "description": "\ub86f\ub370\uce90\uc2ac\ucea0\ud37c\uc2a4\ud0c0\uc6b4"
+    }, 
+    {
+      "score": 0.47831302881240845, 
+      "description": "\ub86f\ub370\uce90\uc2ac\ucea0\ud37c\uc2a4\ud0c0\uc6b4"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9898156523704529, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9777145981788635, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.9684222340583801, 
+      "description": "tower block"
+    }, 
+    {
+      "score": 0.9526099562644958, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9506916999816895, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9460602402687073, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.9451708197593689, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9374470114707947, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.9326552748680115, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9295869469642639, 
+      "description": "building"
+    }
+  ]
+}

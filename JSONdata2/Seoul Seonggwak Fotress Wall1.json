@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 48.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.20520000159740448, 
+      "color-red": 37.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.024000000208616257, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.02795555628836155, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.15066666901111603, 
+      "color-red": 32.0
+    }, 
+    {
+      "color-green": 71.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.015333333052694798, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 27.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.23902222514152527, 
+      "color-red": 16.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.00559999980032444, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 106.0, 
+      "color-blue": 139.0, 
+      "pixel": 0.004755555652081966, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.014888889156281948, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 229.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.007466666866093874, 
+      "color-red": 246.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1689269542694092, 
+      "description": "Street light"
+    }, 
+    {
+      "score": 0.8000246286392212, 
+      "description": "Light"
+    }, 
+    {
+      "score": 0.5401519536972046, 
+      "description": "Night"
+    }, 
+    {
+      "score": 0.5041999816894531, 
+      "description": "Street"
+    }, 
+    {
+      "score": 0.49061909317970276, 
+      "description": "Dusk"
+    }, 
+    {
+      "score": 0.4793923795223236, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.4634135365486145, 
+      "description": "Darkness"
+    }, 
+    {
+      "score": 0.4558546841144562, 
+      "description": "Evening"
+    }, 
+    {
+      "score": 0.42257705330848694, 
+      "description": "Town"
+    }, 
+    {
+      "score": 0.33629998564720154, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9703307747840881, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9428719878196716, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8795191645622253, 
+      "description": "street light"
+    }, 
+    {
+      "score": 0.8636308908462524, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8422759771347046, 
+      "description": "light"
+    }, 
+    {
+      "score": 0.8301600813865662, 
+      "description": "lighting"
+    }, 
+    {
+      "score": 0.7393399477005005, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7262149453163147, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.6826193332672119, 
+      "description": "dusk"
+    }, 
+    {
+      "score": 0.6726804971694946, 
+      "description": "light fixture"
+    }
+  ]
+}

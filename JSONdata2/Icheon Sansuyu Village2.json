@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 154.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.16115888953208923, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.13558171689510345, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.05288969352841377, 
+      "color-red": 211.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.11513505131006241, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.11272069066762924, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.07461898028850555, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.029726874083280563, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.010034706443548203, 
+      "color-red": 214.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.00920476857572794, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 3.0, 
+      "pixel": 0.04149690642952919, 
+      "color-red": 76.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc774\ucc9c \uc0b0\uc218\uc720 \ub9c8\uc744"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8489360213279724, 
+      "description": "Sansuyu Village"
+    }, 
+    {
+      "score": 0.7003480792045593, 
+      "description": "\uc0b0\uc218\uc720\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.6951000094413757, 
+      "description": "Cornus officinalis"
+    }, 
+    {
+      "score": 0.5901169776916504, 
+      "description": "\uc774\ucc9c \uc0b0\uc218\uc720\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.49434003233909607, 
+      "description": "Sandong-myeon"
+    }, 
+    {
+      "score": 0.36399999260902405, 
+      "description": ""
+    }, 
+    {
+      "score": 0.32019999623298645, 
+      "description": ""
+    }, 
+    {
+      "score": 0.2818000018596649, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.26606571674346924, 
+      "description": "Maidenhair tree"
+    }, 
+    {
+      "score": 0.2264000028371811, 
+      "description": "\ubc31\uc0ac\ub9c8\uc744"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9504867196083069, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9498483538627625, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9413236975669861, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9097029566764832, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8563689589500427, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.8494168519973755, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8207886219024658, 
+      "description": "maidenhair tree"
+    }, 
+    {
+      "score": 0.8126579523086548, 
+      "description": "branch"
+    }, 
+    {
+      "score": 0.7674272656440735, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.7541876435279846, 
+      "description": "autumn"
+    }
+  ]
+}

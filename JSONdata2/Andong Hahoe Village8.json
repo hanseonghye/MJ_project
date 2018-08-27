@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 223.0, 
+      "color-blue": 234.0, 
+      "pixel": 0.10072430968284607, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 11.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.06367889046669006, 
+      "color-red": 21.0
+    }, 
+    {
+      "color-green": 210.0, 
+      "color-blue": 229.0, 
+      "pixel": 0.12426437437534332, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.05643579363822937, 
+      "color-red": 64.0
+    }, 
+    {
+      "color-green": 70.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.01780594512820244, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 18.0, 
+      "color-blue": 3.0, 
+      "pixel": 0.01690055802464485, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.050626225769519806, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 182.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.016674211248755455, 
+      "color-red": 219.0
+    }, 
+    {
+      "color-green": 219.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.057492077350616455, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.0405915193259716, 
+      "color-red": 96.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Andong"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3958290815353394, 
+      "description": "\ud558\ud68c\ub9c8\uc744\uc804\ud1b5\ubb38\ud654\uccb4\ud5d8\uac10\ub098\ubb34\uc9d1"
+    }, 
+    {
+      "score": 1.0957911014556885, 
+      "description": "Hahoe Folk Village"
+    }, 
+    {
+      "score": 0.7685061693191528, 
+      "description": "\ubc88\ub0a8\uace0\ud0dd\ubbfc\ubc15"
+    }, 
+    {
+      "score": 0.7440556883811951, 
+      "description": "\ud55c\uc6b0\uc640\ub41c\uc7a5"
+    }, 
+    {
+      "score": 0.6914944648742676, 
+      "description": "\ud55c\uc625\uc2a4\ud14c\uc774"
+    }, 
+    {
+      "score": 0.4629000127315521, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4487224817276001, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.4336000084877014, 
+      "description": "\ud558\ud68c\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.43309998512268066, 
+      "description": "Accommodation"
+    }, 
+    {
+      "score": 0.13712762296199799, 
+      "description": "Jeonseo-ro"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8780283331871033, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8777236342430115, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8516082167625427, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.8224396109580994, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7710019946098328, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7240835428237915, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.6927796602249146, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6906073093414307, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.6700552105903625, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.6098465919494629, 
+      "description": "estate"
+    }
+  ]
+}

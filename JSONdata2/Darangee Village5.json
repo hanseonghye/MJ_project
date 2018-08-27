@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 134.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.04579365253448486, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.04253968223929405, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 235.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.1525396853685379, 
+      "color-red": 216.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.004047619178891182, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 166.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.02460317499935627, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 133.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.017222221940755844, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 96.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.037460315972566605, 
+      "color-red": 64.0
+    }, 
+    {
+      "color-green": 167.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.020952381193637848, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.018968254327774048, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 100.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.02539682574570179, 
+      "color-red": 53.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "vegetation"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.212190866470337, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.861183762550354, 
+      "description": "Nature reserve"
+    }, 
+    {
+      "score": 0.6438251733779907, 
+      "description": "Water resources"
+    }, 
+    {
+      "score": 0.5831999778747559, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.5679214000701904, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.5220999717712402, 
+      "description": "Nature"
+    }, 
+    {
+      "score": 0.5108994245529175, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.5034000277519226, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.4821999967098236, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.42800000309944153, 
+      "description": "Village"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.950606644153595, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.9019840955734253, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8776721358299255, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.8573812246322632, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.8397937417030334, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8257896900177002, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.7649224996566772, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.733173131942749, 
+      "description": "village"
+    }, 
+    {
+      "score": 0.7187544107437134, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7173948287963867, 
+      "description": "highland"
+    }
+  ]
+}

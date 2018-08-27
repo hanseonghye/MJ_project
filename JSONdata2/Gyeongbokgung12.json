@@ -1,0 +1,165 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.570092, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.977
+    }, 
+    {
+      "Latitude": 37.578256, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.977019
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 48.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.0668041855096817, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 222.0, 
+      "pixel": 0.11710567772388458, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.16272611916065216, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 29.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.03197397664189339, 
+      "color-red": 30.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.059346240013837814, 
+      "color-red": 87.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 109.0, 
+      "pixel": 0.041177403181791306, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 147.0, 
+      "pixel": 0.029911139979958534, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.04895271360874176, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.07021580636501312, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 165.0, 
+      "pixel": 0.0271342433989048, 
+      "color-red": 54.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "gyeongbokgung"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7762861251831055, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 1.0639349222183228, 
+      "description": "Gwanghwamun"
+    }, 
+    {
+      "score": 0.7309005260467529, 
+      "description": "Joseon"
+    }, 
+    {
+      "score": 0.7261815071105957, 
+      "description": "Insa-dong"
+    }, 
+    {
+      "score": 0.7190700173377991, 
+      "description": "Incheon International Airport"
+    }, 
+    {
+      "score": 0.5757180452346802, 
+      "description": "\ub9ac\uce58\ubca0\uc774\ube44(RICHBABY)\uc5f0\uae30\ud559\uc6d0"
+    }, 
+    {
+      "score": 0.5054000020027161, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.5023713707923889, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.387800008058548, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.3765000104904175, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9730521440505981, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9484076499938965, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8256714344024658, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7667518258094788, 
+      "description": "palace"
+    }, 
+    {
+      "score": 0.7533891201019287, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7046381235122681, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6648191213607788, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.5946720838546753, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.5848709344863892, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.5061464309692383, 
+      "description": "world"
+    }
+  ]
+}

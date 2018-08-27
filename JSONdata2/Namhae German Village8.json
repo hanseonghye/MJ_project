@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 152.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.038733333349227905, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.028200000524520874, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.03500000014901161, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.029866667464375496, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.012733333744108677, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 204.0, 
+      "color-blue": 237.0, 
+      "pixel": 0.033533334732055664, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 227.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.04633333161473274, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 169.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.013000000268220901, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.03486666828393936, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.008333333767950535, 
+      "color-red": 123.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Namhae County"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7592200040817261, 
+      "description": "\ub3c5\uc77c\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.7121999859809875, 
+      "description": "Dogil Maeul"
+    }, 
+    {
+      "score": 0.5531899929046631, 
+      "description": "\ub0a8\ud574 \ub3c5\uc77c\ub9c8\uc744 \ub178\uc774\ud558\uc6b0\uc2a4 \ud39c\uc158"
+    }, 
+    {
+      "score": 0.25220000743865967, 
+      "description": "Price"
+    }, 
+    {
+      "score": 0.2392921894788742, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.22973212599754333, 
+      "description": "Roof"
+    }, 
+    {
+      "score": 0.210099995136261, 
+      "description": "Landscape"
+    }, 
+    {
+      "score": 0.20829999446868896, 
+      "description": "Menu"
+    }, 
+    {
+      "score": 0.18826669454574585, 
+      "description": "Residential area"
+    }, 
+    {
+      "score": 0.17180000245571136, 
+      "description": "Copyright"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9079023003578186, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.9037191271781921, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8641858100891113, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.8449487090110779, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8207133412361145, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8191977143287659, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.8002093434333801, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7958295941352844, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7490306496620178, 
+      "description": "estate"
+    }, 
+    {
+      "score": 0.7416105270385742, 
+      "description": "cottage"
+    }
+  ]
+}

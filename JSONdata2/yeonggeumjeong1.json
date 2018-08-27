@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 129.0, 
+      "color-blue": 171.0, 
+      "pixel": 0.06531745940446854, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.12484127283096313, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 14.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.08984126895666122, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.013809523545205593, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 18.0, 
+      "color-blue": 3.0, 
+      "pixel": 0.007936508394777775, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 180.0, 
+      "color-blue": 103.0, 
+      "pixel": 0.0007936508045531809, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 72.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.0026984126307070255, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.04253968223929405, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.031507935374975204, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.041904762387275696, 
+      "color-red": 80.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uac15\uc6d0\ub3c4 \uc18d\ucd08"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.065132975578308, 
+      "description": "Younggeumjeong Pavilion"
+    }, 
+    {
+      "score": 0.9658668637275696, 
+      "description": "Seoraksan"
+    }, 
+    {
+      "score": 0.9258970022201538, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.8125755190849304, 
+      "description": "Goseong"
+    }, 
+    {
+      "score": 0.7875394821166992, 
+      "description": "Naksansa"
+    }, 
+    {
+      "score": 0.6901000142097473, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.43700000643730164, 
+      "description": "Danh lam th\u1eafng c\u1ea3nh"
+    }, 
+    {
+      "score": 0.4025999903678894, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.3824000060558319, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.3479667901992798, 
+      "description": "Sokcho"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9794249534606934, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9339765906333923, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.889665424823761, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8778449892997742, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8771857619285583, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8630111813545227, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.833032488822937, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.7721859812736511, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.7189016342163086, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.6851906776428223, 
+      "description": "wood"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 159.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.1467999964952469, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 248.0, 
+      "pixel": 0.04800000041723251, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 211.0, 
+      "pixel": 0.17546667158603668, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.024488888680934906, 
+      "color-red": 73.0
+    }, 
+    {
+      "color-green": 141.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.01657777838408947, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 22.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.13377778232097626, 
+      "color-red": 16.0
+    }, 
+    {
+      "color-green": 173.0, 
+      "color-blue": 242.0, 
+      "pixel": 0.04537777602672577, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 134.0, 
+      "color-blue": 216.0, 
+      "pixel": 0.028266666457057, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 229.0, 
+      "pixel": 0.005822222214192152, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.006266666576266289, 
+      "color-red": 125.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8002398610115051, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.7469959259033203, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.6772447228431702, 
+      "description": "Suburb"
+    }, 
+    {
+      "score": 0.661277711391449, 
+      "description": "House"
+    }, 
+    {
+      "score": 0.6520000100135803, 
+      "description": "Real Estate"
+    }, 
+    {
+      "score": 0.6514983177185059, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.4681999981403351, 
+      "description": "Estate"
+    }, 
+    {
+      "score": 0.3910999894142151, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9778844118118286, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9407591819763184, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.9161880016326904, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.9161820411682129, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.9153657555580139, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8742572665214539, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8312461376190186, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.826815664768219, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.819723904132843, 
+      "description": "suburb"
+    }, 
+    {
+      "score": 0.8106390237808228, 
+      "description": "city"
+    }
+  ]
+}

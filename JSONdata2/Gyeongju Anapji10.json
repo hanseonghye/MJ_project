@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 150.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.0215000007301569, 
+      "color-red": 183.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.03028571419417858, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.020571429282426834, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 75.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.02671428583562374, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 144.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.010285714641213417, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 182.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.006500000134110451, 
+      "color-red": 218.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 9.0, 
+      "pixel": 0.015857143327593803, 
+      "color-red": 87.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.014285714365541935, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 39.0, 
+      "color-blue": 13.0, 
+      "pixel": 0.01899999938905239, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 178.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.0044999998062849045, 
+      "color-red": 226.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Autumn"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8274153470993042, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.7006999850273132, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5622870326042175, 
+      "description": "Seoul Metropolitan Library"
+    }, 
+    {
+      "score": 0.4885999858379364, 
+      "description": "Museum"
+    }, 
+    {
+      "score": 0.37070000171661377, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.34732502698898315, 
+      "description": "Gimhae"
+    }, 
+    {
+      "score": 0.3303999900817871, 
+      "description": "Autumn"
+    }, 
+    {
+      "score": 0.20350000262260437, 
+      "description": "Popular"
+    }, 
+    {
+      "score": 0.19089999794960022, 
+      "description": "Location"
+    }, 
+    {
+      "score": 0.09790109843015671, 
+      "description": "Seoul"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8765096068382263, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8274396061897278, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7613576650619507, 
+      "description": "lighting"
+    }, 
+    {
+      "score": 0.7299644351005554, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6823450326919556, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.630921483039856, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6273716688156128, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.611175000667572, 
+      "description": "landscape lighting"
+    }, 
+    {
+      "score": 0.5643233060836792, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.5438264608383179, 
+      "description": "city"
+    }
+  ]
+}

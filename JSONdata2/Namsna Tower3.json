@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 205.0, 
+      "color-blue": 234.0, 
+      "pixel": 0.31267327070236206, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.05141914263367653, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 78.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.015841584652662277, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 220.0, 
+      "color-blue": 237.0, 
+      "pixel": 0.030891088768839836, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 223.0, 
+      "color-blue": 232.0, 
+      "pixel": 0.08488448709249496, 
+      "color-red": 211.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 229.0, 
+      "pixel": 0.027326732873916626, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 231.0, 
+      "pixel": 0.03412541374564171, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 229.0, 
+      "pixel": 0.05551155284047127, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 208.0, 
+      "pixel": 0.025874586775898933, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.011287128552794456, 
+      "color-red": 143.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7461390495300293, 
+      "description": "N Seoul Tower"
+    }, 
+    {
+      "score": 1.7035976648330688, 
+      "description": "Namsan"
+    }, 
+    {
+      "score": 1.3977497816085815, 
+      "description": "Namsan cable car"
+    }, 
+    {
+      "score": 0.7381500005722046, 
+      "description": "Cable car"
+    }, 
+    {
+      "score": 0.7066941857337952, 
+      "description": "Steeple"
+    }, 
+    {
+      "score": 0.618552029132843, 
+      "description": "\ub0a8\uc0b0\uc11c\uc6b8\ud0c0\uc6cc\ud55c\ubcf5\ubb38\ud654\uccb4\ud5d8\uad00"
+    }, 
+    {
+      "score": 0.5828999876976013, 
+      "description": "Tower"
+    }, 
+    {
+      "score": 0.5571386814117432, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5537999868392944, 
+      "description": "Observation deck"
+    }, 
+    {
+      "score": 0.5489044189453125, 
+      "description": "\uc11c\uc6b8\uc2a4\ud1a0\ub9ac(\uc11c\uc6b8\uc758\uc7ac\ubc1c\uacac)"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9367688298225403, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.9322340488433838, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9172072410583496, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.7880731821060181, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.7249226570129395, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6960751414299011, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6399394273757935, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.6381152868270874, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.5595132112503052, 
+      "description": "steeple"
+    }
+  ]
+}

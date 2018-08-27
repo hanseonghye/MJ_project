@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 49.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.09714286029338837, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.08833333104848862, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 31.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.4144444465637207, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.017142856493592262, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.01746031828224659, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.06111111119389534, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 30.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.162222221493721, 
+      "color-red": 23.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.020952381193637848, 
+      "color-red": 148.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 137.0, 
+      "pixel": 0.006190476007759571, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.019365079700946808, 
+      "color-red": 130.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uacbd\ubcf5\uad81"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.528411626815796, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 1.2374670505523682, 
+      "description": "Changgyeonggung"
+    }, 
+    {
+      "score": 0.8713815212249756, 
+      "description": "Deoksugung"
+    }, 
+    {
+      "score": 0.8479499816894531, 
+      "description": "Joseon"
+    }, 
+    {
+      "score": 0.7700549960136414, 
+      "description": "Changdeokgung"
+    }, 
+    {
+      "score": 0.7448999881744385, 
+      "description": "Geunjeongjeon"
+    }, 
+    {
+      "score": 0.7002000212669373, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.6194999814033508, 
+      "description": "National Treasure"
+    }, 
+    {
+      "score": 0.5353000164031982, 
+      "description": "Cultural Heritage Administration"
+    }, 
+    {
+      "score": 0.500249981880188, 
+      "description": "Comic Con Seoul"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.977992832660675, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9381145238876343, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8462890386581421, 
+      "description": "structure"
+    }, 
+    {
+      "score": 0.8169769048690796, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8059350252151489, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7582833766937256, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.5813515186309814, 
+      "description": "facade"
+    }, 
+    {
+      "score": 0.5324146747589111, 
+      "description": "opera"
+    }, 
+    {
+      "score": 0.5223527550697327, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.5025850534439087, 
+      "description": "shrine"
+    }
+  ]
+}

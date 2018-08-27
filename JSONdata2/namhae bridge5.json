@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 118.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.2505718469619751, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 203.0, 
+      "color-blue": 225.0, 
+      "pixel": 0.4584014117717743, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 96.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.06542056053876877, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 137.0, 
+      "pixel": 0.035553231835365295, 
+      "color-red": 61.0
+    }, 
+    {
+      "color-green": 106.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.007450493518263102, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 180.0, 
+      "pixel": 0.04287301376461983, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 208.0, 
+      "color-blue": 218.0, 
+      "pixel": 0.07528919726610184, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 221.0, 
+      "color-blue": 231.0, 
+      "pixel": 0.03882099315524101, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 64.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.0013724593445658684, 
+      "color-red": 40.0
+    }, 
+    {
+      "color-green": 222.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.0075158486142754555, 
+      "color-red": 203.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "cable stayed bridge"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0883383750915527, 
+      "description": "Cable-stayed bridge"
+    }, 
+    {
+      "score": 0.7042999863624573, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.6835176944732666, 
+      "description": "Suspension bridge"
+    }, 
+    {
+      "score": 0.5603305101394653, 
+      "description": "Extradosed bridge"
+    }, 
+    {
+      "score": 0.5519999861717224, 
+      "description": "Construction"
+    }, 
+    {
+      "score": 0.5446000099182129, 
+      "description": "Pylon"
+    }, 
+    {
+      "score": 0.5214328765869141, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.44190001487731934, 
+      "description": "\uc775\uc0b0\uc9c0\ubc29\uad6d\ud1a0\uad00\ub9ac\uccad"
+    }, 
+    {
+      "score": 0.4339999854564667, 
+      "description": ""
+    }, 
+    {
+      "score": 0.428600013256073, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9750816822052002, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.9481227397918701, 
+      "description": "cable stayed bridge"
+    }, 
+    {
+      "score": 0.8696646690368652, 
+      "description": "suspension bridge"
+    }, 
+    {
+      "score": 0.8596948981285095, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.8513404130935669, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.8235064148902893, 
+      "description": "extradosed bridge"
+    }, 
+    {
+      "score": 0.7566770315170288, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7370153665542603, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.729412317276001, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.595511794090271, 
+      "description": "water"
+    }
+  ]
+}

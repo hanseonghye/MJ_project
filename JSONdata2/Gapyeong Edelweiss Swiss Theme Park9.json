@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 204.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.1986222267150879, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 178.0, 
+      "color-blue": 223.0, 
+      "pixel": 0.2270222157239914, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 185.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.04275555536150932, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.030977778136730194, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 221.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.1451111137866974, 
+      "color-red": 212.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 202.0, 
+      "pixel": 0.05111110955476761, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.015244444832205772, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 237.0, 
+      "pixel": 0.035066667944192886, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 163.0, 
+      "color-blue": 182.0, 
+      "pixel": 0.002266666619107127, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.018311111256480217, 
+      "color-red": 166.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8910952806472778, 
+      "description": "Samsung Galaxy S4"
+    }, 
+    {
+      "score": 0.8471373915672302, 
+      "description": "Steeple"
+    }, 
+    {
+      "score": 0.6570055484771729, 
+      "description": "Metropolitan area"
+    }, 
+    {
+      "score": 0.5895102024078369, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.446399986743927, 
+      "description": "Sky plc"
+    }, 
+    {
+      "score": 0.0362686924636364, 
+      "description": ""
+    }, 
+    {
+      "score": 0.0, 
+      "description": "Samsung Galaxy S series"
+    }, 
+    {
+      "score": 0.0, 
+      "description": "Mobile Phones"
+    }, 
+    {
+      "score": 0.0, 
+      "description": "Samsung Galaxy"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9820295572280884, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9420720338821411, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9178924560546875, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.8530552387237549, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.8465660810470581, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.8039649724960327, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7285234332084656, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.6904582381248474, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.6056839227676392, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.5741111040115356, 
+      "description": "facade"
+    }
+  ]
+}

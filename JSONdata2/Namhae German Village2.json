@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 210.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.11275555193424225, 
+      "color-red": 180.0
+    }, 
+    {
+      "color-green": 101.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.025066666305065155, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.012888888828456402, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 222.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.026311110705137253, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.047066666185855865, 
+      "color-red": 131.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 191.0, 
+      "pixel": 0.010044444352388382, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 239.0, 
+      "pixel": 0.02235555462539196, 
+      "color-red": 218.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.011866666376590729, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 74.0, 
+      "pixel": 0.00431111129000783, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 144.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.012222222052514553, 
+      "color-red": 195.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8012624382972717, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.693301796913147, 
+      "description": "Roof"
+    }, 
+    {
+      "score": 0.6868268847465515, 
+      "description": "Resort"
+    }, 
+    {
+      "score": 0.6736614108085632, 
+      "description": "Suburb"
+    }, 
+    {
+      "score": 0.6639449000358582, 
+      "description": "Property"
+    }, 
+    {
+      "score": 0.6600149869918823, 
+      "description": "Vacation"
+    }, 
+    {
+      "score": 0.6011000275611877, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5055580735206604, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.46299999952316284, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9531621336936951, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9374414086341858, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8978126049041748, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8976947069168091, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8784196972846985, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8314271569252014, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.7971838116645813, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.7742496728897095, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.7739638686180115, 
+      "description": "roof"
+    }, 
+    {
+      "score": 0.739069402217865, 
+      "description": "real estate"
+    }
+  ]
+}

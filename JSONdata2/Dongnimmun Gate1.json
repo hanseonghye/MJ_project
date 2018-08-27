@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 167.0, 
+      "color-blue": 231.0, 
+      "pixel": 0.12340851873159409, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.08862155675888062, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.03488721698522568, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.014436090365052223, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.04661654308438301, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 242.0, 
+      "pixel": 0.03278195485472679, 
+      "color-red": 142.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.023959899321198463, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.04952380806207657, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.025363408029079437, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 188.0, 
+      "pixel": 0.16481202840805054, 
+      "color-red": 196.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ub3c5\ub9bd\ubb38"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6142610311508179, 
+      "description": "Independence Gate"
+    }, 
+    {
+      "score": 0.9009547233581543, 
+      "description": "Triumphal arch"
+    }, 
+    {
+      "score": 0.6804999709129333, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5418999791145325, 
+      "description": "TripAdvisor"
+    }, 
+    {
+      "score": 0.536899983882904, 
+      "description": "History"
+    }, 
+    {
+      "score": 0.4307999908924103, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4207000136375427, 
+      "description": ""
+    }, 
+    {
+      "score": 0.40380001068115234, 
+      "description": "Image"
+    }, 
+    {
+      "score": 0.3831000030040741, 
+      "description": "Japan"
+    }, 
+    {
+      "score": 0.34397000074386597, 
+      "description": "\u5f35"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9376813173294067, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.9332456588745117, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.906183660030365, 
+      "description": "triumphal arch"
+    }, 
+    {
+      "score": 0.9011818170547485, 
+      "description": "arch"
+    }, 
+    {
+      "score": 0.8067392110824585, 
+      "description": "monument"
+    }, 
+    {
+      "score": 0.772746205329895, 
+      "description": "memorial"
+    }, 
+    {
+      "score": 0.7403441071510315, 
+      "description": "national historic landmark"
+    }, 
+    {
+      "score": 0.6214415431022644, 
+      "description": "estate"
+    }, 
+    {
+      "score": 0.6210449934005737, 
+      "description": "national trust for places of historic interest or natural beauty"
+    }, 
+    {
+      "score": 0.6094366312026978, 
+      "description": "archaeological site"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 120.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.1511739045381546, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 206.0, 
+      "pixel": 0.2287059724330902, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.04907179996371269, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.06592956930398941, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.029825279489159584, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.044976793229579926, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.027914278209209442, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.03931203857064247, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.020202020183205605, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.005596505478024483, 
+      "color-red": 142.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "coast"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6263106465339661, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.5672999620437622, 
+      "description": "Cape May"
+    }, 
+    {
+      "score": 0.5107113718986511, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.497124582529068, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.4926471412181854, 
+      "description": "Headland"
+    }, 
+    {
+      "score": 0.4188796877861023, 
+      "description": "Cove"
+    }, 
+    {
+      "score": 0.35940131545066833, 
+      "description": "Hill station"
+    }, 
+    {
+      "score": 0.2930000126361847, 
+      "description": "Sky plc"
+    }, 
+    {
+      "score": 0.2784000039100647, 
+      "description": "The Promontory"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9721590280532837, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.898761510848999, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8519917726516724, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8437013030052185, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.7880653738975525, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7873730659484863, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.7772557735443115, 
+      "description": "cliff"
+    }, 
+    {
+      "score": 0.7746716737747192, 
+      "description": "hill"
+    }, 
+    {
+      "score": 0.755374014377594, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.7061210870742798, 
+      "description": "coastal and oceanic landforms"
+    }
+  ]
+}

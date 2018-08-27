@@ -1,0 +1,165 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.1889, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }, 
+    {
+      "Latitude": 35.188944, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 171.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.014177633449435234, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 4.0, 
+      "color-blue": 2.0, 
+      "pixel": 0.00762921990826726, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.1165999099612236, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.018310127779841423, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.013923326507210732, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.000381460995413363, 
+      "color-red": 247.0
+    }, 
+    {
+      "color-green": 16.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.005340454168617725, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 105.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.00031788417254574597, 
+      "color-red": 183.0
+    }, 
+    {
+      "color-green": 21.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.03286922350525856, 
+      "color-red": 21.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.00012715366028714925, 
+      "color-red": 242.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "haedong yonggungsa"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1563200950622559, 
+      "description": "Haedong Yonggungsa"
+    }, 
+    {
+      "score": 1.1215051412582397, 
+      "description": "Taejongdae"
+    }, 
+    {
+      "score": 0.8195550441741943, 
+      "description": "Korea National Maritime Museum"
+    }, 
+    {
+      "score": 0.7084639072418213, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5457000136375427, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.38040000200271606, 
+      "description": "Museum"
+    }, 
+    {
+      "score": 0.34839266538619995, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.335999995470047, 
+      "description": "Buddhist temple"
+    }, 
+    {
+      "score": 0.24768324196338654, 
+      "description": "Vacation"
+    }, 
+    {
+      "score": 0.23172113299369812, 
+      "description": "Village"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.7644091248512268, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.7405057549476624, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6967463493347168, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.6535459160804749, 
+      "description": "rock"
+    }, 
+    {
+      "score": 0.6405193209648132, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.6338687539100647, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6276788711547852, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.6025952696800232, 
+      "description": "bay"
+    }, 
+    {
+      "score": 0.5955670475959778, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.5696941018104553, 
+      "description": "leisure"
+    }
+  ]
+}

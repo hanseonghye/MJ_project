@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 153.0, 
+      "color-blue": 133.0, 
+      "pixel": 0.05645933002233505, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.07633419334888458, 
+      "color-red": 149.0
+    }, 
+    {
+      "color-green": 243.0, 
+      "color-blue": 239.0, 
+      "pixel": 0.19705557823181152, 
+      "color-red": 241.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.04019138589501381, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 168.0, 
+      "pixel": 0.03481781482696533, 
+      "color-red": 206.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 105.0, 
+      "pixel": 0.07618696987628937, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.010967979207634926, 
+      "color-red": 179.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.03864556550979614, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.1203533336520195, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.05550239235162735, 
+      "color-red": 115.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Paju"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.788798987865448, 
+      "description": "Suwon"
+    }, 
+    {
+      "score": 0.7636310458183289, 
+      "description": "English Village Paju Camp"
+    }, 
+    {
+      "score": 0.7031000256538391, 
+      "description": "English village"
+    }, 
+    {
+      "score": 0.4860000014305115, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4838789999485016, 
+      "description": "Paju English Village"
+    }, 
+    {
+      "score": 0.47770801186561584, 
+      "description": "Paju English Village"
+    }, 
+    {
+      "score": 0.46869999170303345, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4602999985218048, 
+      "description": "TEFL"
+    }, 
+    {
+      "score": 0.4514000117778778, 
+      "description": "English Language"
+    }, 
+    {
+      "score": 0.37790000438690186, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9288228750228882, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8954668641090393, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8897625207901001, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.875105082988739, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8660864233970642, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.8307492136955261, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.8252089023590088, 
+      "description": "wall"
+    }, 
+    {
+      "score": 0.7925223112106323, 
+      "description": "street"
+    }, 
+    {
+      "score": 0.7780275344848633, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.7279268503189087, 
+      "description": "lane"
+    }
+  ]
+}

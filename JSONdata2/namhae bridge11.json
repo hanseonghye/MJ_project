@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 195.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.1207110658288002, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.04228481650352478, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.03254689276218414, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.04966995492577553, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.02829880453646183, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.03712175786495209, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.028886999934911728, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 220.0, 
+      "pixel": 0.1511012315750122, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.013201751746237278, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.024442845955491066, 
+      "color-red": 151.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Bridge"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0628999471664429, 
+      "description": "Bosphorus Bridge"
+    }, 
+    {
+      "score": 1.0579500198364258, 
+      "description": "Yavuz Sultan Selim Bridge"
+    }, 
+    {
+      "score": 1.0363937616348267, 
+      "description": "Cable-stayed bridge"
+    }, 
+    {
+      "score": 0.8822999596595764, 
+      "description": "Brooklyn Bridge"
+    }, 
+    {
+      "score": 0.7555500268936157, 
+      "description": "Bosphorus"
+    }, 
+    {
+      "score": 0.746459424495697, 
+      "description": "Suspension bridge"
+    }, 
+    {
+      "score": 0.7093999981880188, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.5942999720573425, 
+      "description": "Pylon"
+    }, 
+    {
+      "score": 0.5426257252693176, 
+      "description": "Cantilever bridge"
+    }, 
+    {
+      "score": 0.510420560836792, 
+      "description": "Beam bridge"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9842913150787354, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.9405080080032349, 
+      "description": "cable stayed bridge"
+    }, 
+    {
+      "score": 0.9070163369178772, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8820450901985168, 
+      "description": "suspension bridge"
+    }, 
+    {
+      "score": 0.8679150342941284, 
+      "description": "extradosed bridge"
+    }, 
+    {
+      "score": 0.86403489112854, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.7932642698287964, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.5925298929214478, 
+      "description": "arch bridge"
+    }, 
+    {
+      "score": 0.5862571597099304, 
+      "description": "river"
+    }, 
+    {
+      "score": 0.5723650455474854, 
+      "description": "beam bridge"
+    }
+  ]
+}

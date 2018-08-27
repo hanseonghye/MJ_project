@@ -1,0 +1,142 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 127.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.02804877981543541, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 247.0, 
+      "color-blue": 239.0, 
+      "pixel": 0.034471545368433, 
+      "color-red": 243.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.07544715702533722, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.056260161101818085, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.07105690985918045, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.10512194782495499, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 64.0, 
+      "color-blue": 8.0, 
+      "pixel": 0.042276423424482346, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.006341463420540094, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.025040650740265846, 
+      "color-red": 107.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.04829268157482147, 
+      "color-red": 54.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "chinese architecture"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3877308368682861, 
+      "description": "Shinto shrine"
+    }, 
+    {
+      "score": 0.5691999793052673, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.4989696145057678, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.4941999912261963, 
+      "description": "Shinto"
+    }, 
+    {
+      "score": 0.46935880184173584, 
+      "description": "Chinese architecture"
+    }, 
+    {
+      "score": 0.39910000562667847, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.36469998955726624, 
+      "description": "Shrine"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9796378016471863, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.8239941596984863, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7501168847084045, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7477843761444092, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.7380084991455078, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.719078779220581, 
+      "description": "japanese architecture"
+    }, 
+    {
+      "score": 0.6720805168151855, 
+      "description": "shinto shrine"
+    }, 
+    {
+      "score": 0.662061333656311, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.6510903835296631, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.6386852860450745, 
+      "description": "pagoda"
+    }
+  ]
+}

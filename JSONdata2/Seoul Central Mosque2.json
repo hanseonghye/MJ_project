@@ -1,0 +1,136 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.533484, 
+      "description": "Seoul Central Mosque", 
+      "Longitude": 126.997725
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 158.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.11705370247364044, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.0022496371529996395, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.0037735849618911743, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 191.0, 
+      "pixel": 0.15000000596046448, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.060885339975357056, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.03904208913445473, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 232.0, 
+      "color-blue": 232.0, 
+      "pixel": 0.41770681738853455, 
+      "color-red": 227.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.001523947692476213, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.003846153849735856, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.019521044567227364, 
+      "color-red": 51.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "seoul central mosque"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.4104506969451904, 
+      "description": "Seoul Central Mosque"
+    }, 
+    {
+      "score": 1.2823264598846436, 
+      "description": "Mosque"
+    }, 
+    {
+      "score": 1.1465221643447876, 
+      "description": "N Seoul Tower"
+    }, 
+    {
+      "score": 0.9028373956680298, 
+      "description": "Jeju Province"
+    }, 
+    {
+      "score": 0.8381307721138, 
+      "description": "Seoraksan"
+    }, 
+    {
+      "score": 0.7422000169754028, 
+      "description": "Itaewon"
+    }, 
+    {
+      "score": 0.7363950610160828, 
+      "description": "Han River"
+    }, 
+    {
+      "score": 0.6097999811172485, 
+      "description": "Islam"
+    }, 
+    {
+      "score": 0.6073086857795715, 
+      "description": "Seoul Central Mosque"
+    }, 
+    {
+      "score": 0.4738999903202057, 
+      "description": "Hotel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8935407400131226, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.8409252762794495, 
+      "description": "mosque"
+    }, 
+    {
+      "score": 0.7651532888412476, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.6414021253585815, 
+      "description": "khanqah"
+    }
+  ]
+}

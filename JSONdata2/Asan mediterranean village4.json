@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 194.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.22239218652248383, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 106.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.013039044104516506, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.004589160904288292, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 235.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.100888691842556, 
+      "color-red": 234.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.15763403475284576, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.11691433936357498, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.06861887872219086, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.03314393758773804, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.02134324051439762, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.0032779721077531576, 
+      "color-red": 196.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "urban area"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1183700561523438, 
+      "description": "Asan Mediterranean town"
+    }, 
+    {
+      "score": 0.7863900065422058, 
+      "description": "Sun Moon University"
+    }, 
+    {
+      "score": 0.50770503282547, 
+      "description": "\uc624\uc158\ud30c\ud06c"
+    }, 
+    {
+      "score": 0.452595055103302, 
+      "description": "Oeam Folk Village"
+    }, 
+    {
+      "score": 0.40290001034736633, 
+      "description": "Tistory"
+    }, 
+    {
+      "score": 0.3880000114440918, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.35440000891685486, 
+      "description": "Naver Blog"
+    }, 
+    {
+      "score": 0.32120001316070557, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.3118000030517578, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3075999915599823, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9403873085975647, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9050483107566833, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8962415456771851, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.8801842331886292, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.7963303327560425, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.7878549695014954, 
+      "description": "suburb"
+    }, 
+    {
+      "score": 0.7057766318321228, 
+      "description": "bird's eye view"
+    }, 
+    {
+      "score": 0.6156455278396606, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.6044967174530029, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.5984304547309875, 
+      "description": "aerial photography"
+    }
+  ]
+}

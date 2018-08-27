@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 105.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.05556933581829071, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.014140412211418152, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 207.0, 
+      "pixel": 0.015546184033155441, 
+      "color-red": 251.0
+    }, 
+    {
+      "color-green": 72.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.09493095427751541, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 138.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.02199619635939598, 
+      "color-red": 204.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.046142395585775375, 
+      "color-red": 172.0
+    }, 
+    {
+      "color-green": 66.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.11519060283899307, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.03208467736840248, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.018275035545229912, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.06011742353439331, 
+      "color-red": 90.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "fall rain"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7099000215530396, 
+      "description": "Rain"
+    }, 
+    {
+      "score": 0.7067999839782715, 
+      "description": "Autumn"
+    }, 
+    {
+      "score": 0.6446999907493591, 
+      "description": "Autumn leaf color"
+    }, 
+    {
+      "score": 0.6326000094413757, 
+      "description": "Desktop Wallpaper"
+    }, 
+    {
+      "score": 0.5120000243186951, 
+      "description": "Leaf"
+    }, 
+    {
+      "score": 0.5044000148773193, 
+      "description": ""
+    }, 
+    {
+      "score": 0.482699990272522, 
+      "description": "Stream"
+    }, 
+    {
+      "score": 0.4507000148296356, 
+      "description": "Landscape"
+    }, 
+    {
+      "score": 0.42809998989105225, 
+      "description": "Wet season"
+    }, 
+    {
+      "score": 0.42809998989105225, 
+      "description": "Weather"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9736273884773254, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.9702221751213074, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9629536867141724, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9422187209129333, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.9135682582855225, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8687497973442078, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.866344153881073, 
+      "description": "bank"
+    }, 
+    {
+      "score": 0.836134135723114, 
+      "description": "deciduous"
+    }, 
+    {
+      "score": 0.8299123644828796, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7857210636138916, 
+      "description": "morning"
+    }
+  ]
+}

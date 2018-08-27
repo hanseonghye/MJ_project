@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 202.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.2718300521373749, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.025163399055600166, 
+      "color-red": 131.0
+    }, 
+    {
+      "color-green": 134.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.01666666753590107, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 224.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.07712418586015701, 
+      "color-red": 211.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 191.0, 
+      "pixel": 0.07261437922716141, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.045947711914777756, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.03418300673365593, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 231.0, 
+      "pixel": 0.09712418168783188, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 110.0, 
+      "pixel": 0.013921568170189857, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 135.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.0033333334140479565, 
+      "color-red": 96.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0905139446258545, 
+      "description": "Fjord"
+    }, 
+    {
+      "score": 1.0324523448944092, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.758938729763031, 
+      "description": "Loch"
+    }, 
+    {
+      "score": 0.700720489025116, 
+      "description": "Water resources"
+    }, 
+    {
+      "score": 0.6861906051635742, 
+      "description": "Bird's-eye view"
+    }, 
+    {
+      "score": 0.5977253317832947, 
+      "description": "Hill station"
+    }, 
+    {
+      "score": 0.5865491032600403, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.5230887532234192, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.5045999884605408, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5026000142097473, 
+      "description": "Water"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9493334293365479, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9366913437843323, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.9255334734916687, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9127253293991089, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.8858272433280945, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8663124442100525, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.8518309593200684, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8373711109161377, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.8293387293815613, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8288476467132568, 
+      "description": "mountain"
+    }
+  ]
+}

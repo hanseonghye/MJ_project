@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 166.0, 
+      "color-blue": 9.0, 
+      "pixel": 0.00800000037997961, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 5.0, 
+      "pixel": 0.03493333235383034, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 223.0, 
+      "pixel": 0.13153333961963654, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 209.0, 
+      "color-blue": 13.0, 
+      "pixel": 0.002199999988079071, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 32.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.014666666276752949, 
+      "color-red": 149.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 9.0, 
+      "pixel": 0.014800000004470348, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 36.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.00026666666963137686, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.011533332988619804, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 193.0, 
+      "pixel": 0.16513332724571228, 
+      "color-red": 211.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.0141333332285285, 
+      "color-red": 143.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Jinhae-gu"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.156980037689209, 
+      "description": "Yeojwacheon"
+    }, 
+    {
+      "score": 0.8267748355865479, 
+      "description": "Cherry blossom"
+    }, 
+    {
+      "score": 0.7330950498580933, 
+      "description": "Gyeonghwayeog"
+    }, 
+    {
+      "score": 0.3411000072956085, 
+      "description": "ST.AU.150 MIN.V.UNC.NR AD"
+    }, 
+    {
+      "score": 0.29564109444618225, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.23929743468761444, 
+      "description": "Recreation"
+    }, 
+    {
+      "score": 0.2175000011920929, 
+      "description": "Vacation"
+    }, 
+    {
+      "score": 0.16369999945163727, 
+      "description": "Weekday"
+    }, 
+    {
+      "score": 0.157773956656456, 
+      "description": "Leaf"
+    }, 
+    {
+      "score": 0.1412999927997589, 
+      "description": "Branching"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9783626198768616, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9714093208312988, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9475354552268982, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9154825210571289, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9032214879989624, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.9013575315475464, 
+      "description": "pink"
+    }, 
+    {
+      "score": 0.8927645683288574, 
+      "description": "cherry blossom"
+    }, 
+    {
+      "score": 0.8698371052742004, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8045859336853027, 
+      "description": "blossom"
+    }, 
+    {
+      "score": 0.7734103798866272, 
+      "description": "leaf"
+    }
+  ]
+}

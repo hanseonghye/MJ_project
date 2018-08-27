@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 207.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.0949760377407074, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 173.0, 
+      "color-blue": 237.0, 
+      "pixel": 0.04615657776594162, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 62.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.010296467691659927, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 185.0, 
+      "pixel": 0.005059470888227224, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 180.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.10695899277925491, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 178.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.12994851171970367, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.09914787858724594, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 169.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.06834723800420761, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 138.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.07855494320392609, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 134.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.035061247646808624, 
+      "color-red": 77.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Boseong County"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6148055791854858, 
+      "description": "Boseong"
+    }, 
+    {
+      "score": 1.0594500303268433, 
+      "description": "Green tea"
+    }, 
+    {
+      "score": 1.051650047302246, 
+      "description": "Tea"
+    }, 
+    {
+      "score": 1.0302276611328125, 
+      "description": "Darjeeling white tea"
+    }, 
+    {
+      "score": 0.877394437789917, 
+      "description": "Tea plant"
+    }, 
+    {
+      "score": 0.7803032994270325, 
+      "description": "Plantation"
+    }, 
+    {
+      "score": 0.47029998898506165, 
+      "description": "Farm"
+    }, 
+    {
+      "score": 0.3322071433067322, 
+      "description": "Crop"
+    }, 
+    {
+      "score": 0.27950000762939453, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.26460000872612, 
+      "description": "Sri Lanka"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9244547486305237, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.9240732789039612, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.9103370308876038, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.9090683460235596, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.9017313122749329, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.8667677044868469, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.8601531982421875, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.8321751356124878, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.8280156850814819, 
+      "description": "plantation"
+    }, 
+    {
+      "score": 0.8087765574455261, 
+      "description": "hill"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 197.0, 
+      "color-blue": 222.0, 
+      "pixel": 0.16759882867336273, 
+      "color-red": 179.0
+    }, 
+    {
+      "color-green": 237.0, 
+      "color-blue": 242.0, 
+      "pixel": 0.20314721763134003, 
+      "color-red": 235.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.031282585114240646, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.038487061858177185, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.06834770739078522, 
+      "color-red": 211.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 207.0, 
+      "pixel": 0.04853540658950806, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.04076215624809265, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 166.0, 
+      "color-blue": 214.0, 
+      "pixel": 0.048251017928123474, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.007773248478770256, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.01355578750371933, 
+      "color-red": 93.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6475093364715576, 
+      "description": "Lawn"
+    }, 
+    {
+      "score": 0.6162898540496826, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.48641344904899597, 
+      "description": "Energy"
+    }, 
+    {
+      "score": 0.45204055309295654, 
+      "description": "Grassland"
+    }, 
+    {
+      "score": 0.4250912368297577, 
+      "description": "Desktop Wallpaper"
+    }, 
+    {
+      "score": 0.391400009393692, 
+      "description": "Computer"
+    }, 
+    {
+      "score": 0.38041627407073975, 
+      "description": "Rural area"
+    }, 
+    {
+      "score": 0.32120001316070557, 
+      "description": "Sky plc"
+    }, 
+    {
+      "score": 0.296099990606308, 
+      "description": "Mountain"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9768566489219666, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9552400708198547, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.9517866373062134, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9297176599502563, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9187777042388916, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.8901058435440063, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8494368195533752, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.8168842196464539, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.7623772025108337, 
+      "description": "meadow"
+    }, 
+    {
+      "score": 0.733403742313385, 
+      "description": "landscape"
+    }
+  ]
+}

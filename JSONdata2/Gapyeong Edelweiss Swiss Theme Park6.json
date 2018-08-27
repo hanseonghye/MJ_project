@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 241.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.17079365253448486, 
+      "color-red": 247.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.011666666716337204, 
+      "color-red": 222.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.0033333334140479565, 
+      "color-red": 252.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.047857142984867096, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 43.0, 
+      "color-blue": 23.0, 
+      "pixel": 7.936507608974352e-05, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 107.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.014206348918378353, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.07039682567119598, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 145.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.03936507925391197, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 137.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.0029365080408751965, 
+      "color-red": 228.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 103.0, 
+      "pixel": 0.0026984126307070255, 
+      "color-red": 207.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "JPEG"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7609500288963318, 
+      "description": "Edelweiss Swiss Theme Park"
+    }, 
+    {
+      "score": 0.41698747873306274, 
+      "description": "Painting"
+    }, 
+    {
+      "score": 0.38429999351501465, 
+      "description": "JPEG"
+    }, 
+    {
+      "score": 0.35464000701904297, 
+      "description": "iPhone"
+    }, 
+    {
+      "score": 0.31369999051094055, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.29829999804496765, 
+      "description": "Amusement park"
+    }, 
+    {
+      "score": 0.2619035243988037, 
+      "description": "Paint"
+    }, 
+    {
+      "score": 0.24719999730587006, 
+      "description": "Steemit"
+    }, 
+    {
+      "score": 0.22520117461681366, 
+      "description": "Town"
+    }, 
+    {
+      "score": 0.19840000569820404, 
+      "description": "Saturday"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9518876075744629, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.9282610416412354, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.8440501689910889, 
+      "description": "street"
+    }, 
+    {
+      "score": 0.742842972278595, 
+      "description": "alley"
+    }, 
+    {
+      "score": 0.7398309707641602, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.6986168026924133, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6730964779853821, 
+      "description": "road"
+    }, 
+    {
+      "score": 0.6249191164970398, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.5846663117408752, 
+      "description": "paint"
+    }, 
+    {
+      "score": 0.5829119682312012, 
+      "description": "facade"
+    }
+  ]
+}

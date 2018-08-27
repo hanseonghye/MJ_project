@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 116.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.06101556122303009, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.027300028130412102, 
+      "color-red": 64.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.0021840021945536137, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 180.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.0006825006566941738, 
+      "color-red": 240.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.0629948154091835, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.10421785712242126, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 183.0, 
+      "pixel": 0.015970515087246895, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.24945400655269623, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.0012285012053325772, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.021976521238684654, 
+      "color-red": 98.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "metropolitan area"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6573426723480225, 
+      "description": "Metropolitan area"
+    }, 
+    {
+      "score": 0.6190426349639893, 
+      "description": "Aerial photography"
+    }, 
+    {
+      "score": 0.606516420841217, 
+      "description": "Skyscraper"
+    }, 
+    {
+      "score": 0.52122962474823, 
+      "description": "Bird's-eye view"
+    }, 
+    {
+      "score": 0.49159249663352966, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.45786407589912415, 
+      "description": "Cityscape"
+    }, 
+    {
+      "score": 0.43077147006988525, 
+      "description": "Urban area"
+    }, 
+    {
+      "score": 0.42955777049064636, 
+      "description": "Desktop Wallpaper"
+    }, 
+    {
+      "score": 0.39640000462532043, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.3874000012874603, 
+      "description": "Computer"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9905168414115906, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9870568513870239, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9858653545379639, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.981234610080719, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9695883393287659, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.9686387777328491, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9639384746551514, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.9481230974197388, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9359143376350403, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9131872653961182, 
+      "description": "skyscraper"
+    }
+  ]
+}

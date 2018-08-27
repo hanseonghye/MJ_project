@@ -1,0 +1,157 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.533484, 
+      "description": "Seoul Central Mosque", 
+      "Longitude": 126.997725
+    }, 
+    {
+      "Latitude": 37.772666, 
+      "description": "Conservatory of Flowers", 
+      "Longitude": -122.460222
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 84.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.1989278793334961, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 23.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.1751461923122406, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 244.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.2587719261646271, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.2019493132829666, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.05750487372279167, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.0027290447615087032, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.010136452503502369, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.011988304555416107, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.001754386001266539, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.000974658876657486, 
+      "color-red": 34.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "seoul central mosque"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.413591146469116, 
+      "description": "Seoul Central Mosque"
+    }, 
+    {
+      "score": 1.3014003038406372, 
+      "description": "Mosque"
+    }, 
+    {
+      "score": 0.9137981534004211, 
+      "description": "Itaewon-dong"
+    }, 
+    {
+      "score": 0.6535000205039978, 
+      "description": "Islam"
+    }, 
+    {
+      "score": 0.5287500023841858, 
+      "description": "Quran"
+    }, 
+    {
+      "score": 0.4699000120162964, 
+      "description": ""
+    }, 
+    {
+      "score": 0.44119998812675476, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4171000123023987, 
+      "description": "Muslim"
+    }, 
+    {
+      "score": 0.3698999881744385, 
+      "description": "Shutterstock"
+    }, 
+    {
+      "score": 0.35749998688697815, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9570774435997009, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.9118648767471313, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8707160353660583, 
+      "description": "mosque"
+    }, 
+    {
+      "score": 0.8661479353904724, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.7750546336174011, 
+      "description": "classical architecture"
+    }, 
+    {
+      "score": 0.7645480036735535, 
+      "description": "khanqah"
+    }, 
+    {
+      "score": 0.6386041045188904, 
+      "description": "facade"
+    }, 
+    {
+      "score": 0.5926192402839661, 
+      "description": "medieval architecture"
+    }
+  ]
+}

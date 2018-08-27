@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 199.0, 
+      "color-blue": 228.0, 
+      "pixel": 0.28070586919784546, 
+      "color-red": 172.0
+    }, 
+    {
+      "color-green": 232.0, 
+      "color-blue": 242.0, 
+      "pixel": 0.039137255400419235, 
+      "color-red": 224.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.012862744741141796, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.06172548979520798, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 206.0, 
+      "color-blue": 216.0, 
+      "pixel": 0.025568626821041107, 
+      "color-red": 191.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.01984313689172268, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 224.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.02101960778236389, 
+      "color-red": 211.0
+    }, 
+    {
+      "color-green": 97.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.021490195766091347, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.024313725531101227, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 163.0, 
+      "color-blue": 193.0, 
+      "pixel": 0.043529409915208817, 
+      "color-red": 127.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Yahoo! Celebrity"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.3835912346839905, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.33035367727279663, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.2833000123500824, 
+      "description": ""
+    }, 
+    {
+      "score": 0.28171634674072266, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.25221946835517883, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.2263289839029312, 
+      "description": "Cape"
+    }, 
+    {
+      "score": 0.21975001692771912, 
+      "description": "Ice cream"
+    }, 
+    {
+      "score": 0.21393871307373047, 
+      "description": "Headland"
+    }, 
+    {
+      "score": 0.19394451379776, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.17001785337924957, 
+      "description": "Ocean"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9576360583305359, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9470440745353699, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9023552536964417, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.8966385722160339, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8516638278961182, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8059301972389221, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.7942451238632202, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.7924365997314453, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.7834116220474243, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.7699909210205078, 
+      "description": "coastal and oceanic landforms"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.153363, 
+      "description": "Gwangan Bridge", 
+      "Longitude": 129.128623
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 49.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.2794871926307678, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.06020512804389, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.019487179815769196, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.22923077642917633, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 105.0, 
+      "pixel": 0.0006153846043162048, 
+      "color-red": 231.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.08194871991872787, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.05610256269574165, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 44.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.05743589624762535, 
+      "color-red": 23.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.0006153846043162048, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 30.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.024307692423462868, 
+      "color-red": 19.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "gwangan bridge"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3784101009368896, 
+      "description": "Gwangandaegyo"
+    }, 
+    {
+      "score": 0.7578450441360474, 
+      "description": "Gwangalli Beach"
+    }, 
+    {
+      "score": 0.6645975708961487, 
+      "description": "Cable-stayed bridge"
+    }, 
+    {
+      "score": 0.6373000144958496, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.5407000184059143, 
+      "description": "Marketing"
+    }, 
+    {
+      "score": 0.5015000104904175, 
+      "description": "Advertising"
+    }, 
+    {
+      "score": 0.48649999499320984, 
+      "description": "Public Relations"
+    }, 
+    {
+      "score": 0.44769999384880066, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4095219373703003, 
+      "description": "Transporter bridge"
+    }, 
+    {
+      "score": 0.4011000096797943, 
+      "description": "Industry"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9848417043685913, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.9344325661659241, 
+      "description": "cable stayed bridge"
+    }, 
+    {
+      "score": 0.9126263856887817, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8705170154571533, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.8494568467140198, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8490278720855713, 
+      "description": "suspension bridge"
+    }, 
+    {
+      "score": 0.7982144355773926, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.7892529368400574, 
+      "description": "extradosed bridge"
+    }, 
+    {
+      "score": 0.7800626754760742, 
+      "description": "structure"
+    }, 
+    {
+      "score": 0.7768594622612, 
+      "description": "reflection"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 209.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.3933458626270294, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.0770612359046936, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 198.0, 
+      "pixel": 0.01761888526380062, 
+      "color-red": 222.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.00017105713777709752, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.07663359493017197, 
+      "color-red": 107.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.03190215677022934, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.01471091341227293, 
+      "color-red": 149.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.03472459688782692, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.0328429713845253, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 96.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.07073212414979935, 
+      "color-red": 77.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "field"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9986129999160767, 
+      "description": "\uba54\ubc00\uaf43\ucd95\uc81c"
+    }, 
+    {
+      "score": 0.8302500247955322, 
+      "description": "When Buckwheat Flowers Bloom"
+    }, 
+    {
+      "score": 0.7463279962539673, 
+      "description": "\uc624\ub77c\ub3d9 \uba54\ubc00\ubc2d"
+    }, 
+    {
+      "score": 0.6216100454330444, 
+      "description": "\ubcf4\ub86c\uc653(BOROMWAT)"
+    }, 
+    {
+      "score": 0.4542340338230133, 
+      "description": "\uba54\ubc00\ubc2d\uc2dd\ub2f9"
+    }, 
+    {
+      "score": 0.3301425874233246, 
+      "description": "Crop"
+    }, 
+    {
+      "score": 0.30219998955726624, 
+      "description": "Daum"
+    }, 
+    {
+      "score": 0.27069735527038574, 
+      "description": "Meadow"
+    }, 
+    {
+      "score": 0.2510558068752289, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.20901179313659668, 
+      "description": "Ecosystem"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9426183104515076, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.9081081748008728, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8886609673500061, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8780895471572876, 
+      "description": "ecosystem"
+    }, 
+    {
+      "score": 0.874264657497406, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.8525739908218384, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8120937347412109, 
+      "description": "meadow"
+    }, 
+    {
+      "score": 0.7980448007583618, 
+      "description": "prairie"
+    }, 
+    {
+      "score": 0.7795432806015015, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.7559701204299927, 
+      "description": "agriculture"
+    }
+  ]
+}

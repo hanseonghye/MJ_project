@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.1889, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 22.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.03850586339831352, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.09301064163446426, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.00467764912173152, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.002440512413159013, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.0515897236764431, 
+      "color-red": 40.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 134.0, 
+      "pixel": 0.13863466680049896, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 136.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.0039319368079304695, 
+      "color-red": 190.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.07945223897695541, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 70.0, 
+      "pixel": 0.026032133027911186, 
+      "color-red": 39.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.011117890477180481, 
+      "color-red": 16.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "haedong yonggungsa temple winter"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.945349931716919, 
+      "description": "Haedong Yonggungsa"
+    }, 
+    {
+      "score": 0.9701999425888062, 
+      "description": "Temple"
+    }, 
+    {
+      "score": 0.5248202085494995, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5105999708175659, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5083000063896179, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.4513089060783386, 
+      "description": "Yongdusan Park"
+    }, 
+    {
+      "score": 0.427663654088974, 
+      "description": "\ud574\ub3d9\uc815\uacf5"
+    }, 
+    {
+      "score": 0.3772999942302704, 
+      "description": "Travel itinerary"
+    }, 
+    {
+      "score": 0.2675144076347351, 
+      "description": "Vacation"
+    }, 
+    {
+      "score": 0.2644714415073395, 
+      "description": "Winter"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9402590990066528, 
+      "description": "winter"
+    }, 
+    {
+      "score": 0.8976173996925354, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.8540763854980469, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8539746403694153, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.8496838212013245, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.8491641879081726, 
+      "description": "snow"
+    }, 
+    {
+      "score": 0.7746971845626831, 
+      "description": "mountain range"
+    }, 
+    {
+      "score": 0.7505620718002319, 
+      "description": "travel"
+    }, 
+    {
+      "score": 0.7421107292175293, 
+      "description": "geological phenomenon"
+    }, 
+    {
+      "score": 0.7397847175598145, 
+      "description": "tourist attraction"
+    }
+  ]
+}

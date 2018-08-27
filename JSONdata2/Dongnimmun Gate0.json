@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 192.0, 
+      "color-blue": 187.0, 
+      "pixel": 0.08440065383911133, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 18.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.04802955687046051, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 219.0, 
+      "pixel": 0.3224138021469116, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 152.0, 
+      "pixel": 0.0753694549202919, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 222.0, 
+      "color-blue": 218.0, 
+      "pixel": 0.017241379246115685, 
+      "color-red": 228.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.03440065681934357, 
+      "color-red": 131.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.033579640090465546, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 174.0, 
+      "pixel": 0.00829228200018406, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.1032019704580307, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.012807881459593773, 
+      "color-red": 173.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ub3c5\ub9bd\ubb38"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.136019706726074, 
+      "description": "Independence Gate"
+    }, 
+    {
+      "score": 0.9538500308990479, 
+      "description": "Korea under Japanese rule"
+    }, 
+    {
+      "score": 0.9111827611923218, 
+      "description": "Jeju Province"
+    }, 
+    {
+      "score": 0.7716000080108643, 
+      "description": "Yeongeunmun"
+    }, 
+    {
+      "score": 0.6529499888420105, 
+      "description": "Korean Empire"
+    }, 
+    {
+      "score": 0.6235539317131042, 
+      "description": "Triumphal arch"
+    }, 
+    {
+      "score": 0.5080000162124634, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.49239999055862427, 
+      "description": "History"
+    }, 
+    {
+      "score": 0.4869000017642975, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4675000011920929, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9654536247253418, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.9587329030036926, 
+      "description": "arch"
+    }, 
+    {
+      "score": 0.9480590224266052, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.932123601436615, 
+      "description": "triumphal arch"
+    }, 
+    {
+      "score": 0.8915663957595825, 
+      "description": "national historic landmark"
+    }, 
+    {
+      "score": 0.829081118106842, 
+      "description": "monument"
+    }, 
+    {
+      "score": 0.8135265707969666, 
+      "description": "archaeological site"
+    }, 
+    {
+      "score": 0.7411321997642517, 
+      "description": "arch bridge"
+    }, 
+    {
+      "score": 0.7295241355895996, 
+      "description": "aqueduct"
+    }, 
+    {
+      "score": 0.7219573259353638, 
+      "description": "sky"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 66.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.27026665210723877, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 140.0, 
+      "pixel": 0.02199999988079071, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 226.0, 
+      "pixel": 0.0069333333522081375, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 212.0, 
+      "pixel": 0.003599999938160181, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.01720000058412552, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 64.0, 
+      "color-blue": 215.0, 
+      "pixel": 0.06053333356976509, 
+      "color-red": 32.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 165.0, 
+      "pixel": 0.04399999976158142, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 185.0, 
+      "pixel": 0.009066666476428509, 
+      "color-red": 142.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 148.0, 
+      "pixel": 0.012799999676644802, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 205.0, 
+      "pixel": 0.001466666697524488, 
+      "color-red": 85.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "haeundae"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9801418781280518, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.7515226602554321, 
+      "description": "Dalmaji Park"
+    }, 
+    {
+      "score": 0.5514533519744873, 
+      "description": "Jangsan"
+    }, 
+    {
+      "score": 0.4942801892757416, 
+      "description": "Dalmaj-I"
+    }, 
+    {
+      "score": 0.4531383514404297, 
+      "description": "Skyscraper"
+    }, 
+    {
+      "score": 0.40450000762939453, 
+      "description": "City"
+    }, 
+    {
+      "score": 0.39719998836517334, 
+      "description": ""
+    }, 
+    {
+      "score": 0.2827000021934509, 
+      "description": ""
+    }, 
+    {
+      "score": 0.23758214712142944, 
+      "description": "High-rise building"
+    }, 
+    {
+      "score": 0.23029999434947968, 
+      "description": "Building"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9893543720245361, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9811015725135803, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9810231924057007, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9786197543144226, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9630376696586609, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.9460052847862244, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.9331714510917664, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9271091818809509, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9117198586463928, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.8908023834228516, 
+      "description": "tower block"
+    }
+  ]
+}

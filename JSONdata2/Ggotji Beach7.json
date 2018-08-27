@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 157.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.2234666645526886, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.12246666848659515, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 180.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.06146666780114174, 
+      "color-red": 206.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 142.0, 
+      "pixel": 0.04179999977350235, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 219.0, 
+      "color-blue": 133.0, 
+      "pixel": 0.00039999998989515007, 
+      "color-red": 255.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.03999999910593033, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 27.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.035866666585206985, 
+      "color-red": 30.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 108.0, 
+      "pixel": 0.0061333333142101765, 
+      "color-red": 253.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.026533333584666252, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.02226666733622551, 
+      "color-red": 186.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6138980388641357, 
+      "description": "\uaf43\uc9c0\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 0.3320227861404419, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.28455615043640137, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.2816999852657318, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.27701112627983093, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.23909299075603485, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.23740088939666748, 
+      "description": "Sunset"
+    }, 
+    {
+      "score": 0.23180000483989716, 
+      "description": "Seaside resort"
+    }, 
+    {
+      "score": 0.22169999778270721, 
+      "description": "Landscape photography"
+    }, 
+    {
+      "score": 0.19764187932014465, 
+      "description": "Vacation"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9724413156509399, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9345949292182922, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9233275651931763, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.9018773436546326, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8950737714767456, 
+      "description": "sunset"
+    }, 
+    {
+      "score": 0.8914456367492676, 
+      "description": "sunrise"
+    }, 
+    {
+      "score": 0.8686979413032532, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8447659015655518, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8218942284584045, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.8176586031913757, 
+      "description": "coast"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 228.0, 
+      "color-blue": 249.0, 
+      "pixel": 0.2656444311141968, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.17786666750907898, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.014933333732187748, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 16.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.024266665801405907, 
+      "color-red": 11.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.014666666276752949, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 234.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.09666666388511658, 
+      "color-red": 219.0
+    }, 
+    {
+      "color-green": 210.0, 
+      "color-blue": 239.0, 
+      "pixel": 0.14053332805633545, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.010577777400612831, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 21.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.01128888875246048, 
+      "color-red": 14.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.01742222160100937, 
+      "color-red": 145.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Shellfish"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6873000264167786, 
+      "description": "\uaf43\uc9c0\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 0.4153169095516205, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.36399999260902405, 
+      "description": "Shellfish"
+    }, 
+    {
+      "score": 0.3189064860343933, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.2898000180721283, 
+      "description": "Anmyeondo"
+    }, 
+    {
+      "score": 0.2721000015735626, 
+      "description": "Gimhae Lotte Water Park"
+    }, 
+    {
+      "score": 0.24167391657829285, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.22873258590698242, 
+      "description": "Vacation"
+    }, 
+    {
+      "score": 0.20077335834503174, 
+      "description": "Sand"
+    }, 
+    {
+      "score": 0.18700000643730164, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9802126884460449, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9631856083869934, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.9424365162849426, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9387032985687256, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.9352841973304749, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9218788146972656, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9072550535202026, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.9036719799041748, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8954527378082275, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.7787348628044128, 
+      "description": "calm"
+    }
+  ]
+}

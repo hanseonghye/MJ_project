@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 119.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.05810948833823204, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 176.0, 
+      "pixel": 0.008653325960040092, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.11105101555585861, 
+      "color-red": 87.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.06471966952085495, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.023255813866853714, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.05985217168927193, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 80.0, 
+      "pixel": 0.041523948311805725, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.051078662276268005, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 176.0, 
+      "pixel": 0.005167958792299032, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.04627125710248947, 
+      "color-red": 83.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "wildflower"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 3.0110385417938232, 
+      "description": "English lavender"
+    }, 
+    {
+      "score": 0.8401257395744324, 
+      "description": "French lavender"
+    }, 
+    {
+      "score": 0.7309035658836365, 
+      "description": "Flora"
+    }, 
+    {
+      "score": 0.7182273864746094, 
+      "description": "Ecoregion"
+    }, 
+    {
+      "score": 0.5854375958442688, 
+      "description": "Prairie"
+    }, 
+    {
+      "score": 0.5742613673210144, 
+      "description": "Plant community"
+    }, 
+    {
+      "score": 0.5016000270843506, 
+      "description": "Community"
+    }, 
+    {
+      "score": 0.49720001220703125, 
+      "description": "Plants"
+    }, 
+    {
+      "score": 0.475600004196167, 
+      "description": "Wildflower"
+    }, 
+    {
+      "score": 0.3589000105857849, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9694729447364807, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9207689762115479, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9087808728218079, 
+      "description": "ecosystem"
+    }, 
+    {
+      "score": 0.8625487685203552, 
+      "description": "wildflower"
+    }, 
+    {
+      "score": 0.84843510389328, 
+      "description": "english lavender"
+    }, 
+    {
+      "score": 0.8450450897216797, 
+      "description": "flora"
+    }, 
+    {
+      "score": 0.8394518494606018, 
+      "description": "lavender"
+    }, 
+    {
+      "score": 0.8263750672340393, 
+      "description": "lavender"
+    }, 
+    {
+      "score": 0.8147505521774292, 
+      "description": "flowering plant"
+    }, 
+    {
+      "score": 0.7771953344345093, 
+      "description": "prairie"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 175.0, 
+      "color-blue": 242.0, 
+      "pixel": 0.18507936596870422, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.02023809589445591, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.014047618955373764, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 99.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.026349205523729324, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 228.0, 
+      "pixel": 0.11261904984712601, 
+      "color-red": 178.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 241.0, 
+      "pixel": 0.0696825385093689, 
+      "color-red": 212.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 226.0, 
+      "pixel": 0.1534920632839203, 
+      "color-red": 179.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.021190475672483444, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.014761905185878277, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 198.0, 
+      "pixel": 0.013015872798860073, 
+      "color-red": 169.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Site arch\u00e9ologique de Wanggung-ri"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7225803136825562, 
+      "description": "Arch\u00e4ologische St\u00e4tte von Wanggung-ri"
+    }, 
+    {
+      "score": 0.5827999711036682, 
+      "description": "Archaeological site"
+    }, 
+    {
+      "score": 0.4510999917984009, 
+      "description": "History"
+    }, 
+    {
+      "score": 0.34485912322998047, 
+      "description": "Cloud"
+    }, 
+    {
+      "score": 0.328900009393692, 
+      "description": ""
+    }, 
+    {
+      "score": 0.2956184446811676, 
+      "description": "Historic site"
+    }, 
+    {
+      "score": 0.227400004863739, 
+      "description": "Star"
+    }, 
+    {
+      "score": 0.21671117842197418, 
+      "description": "Pagoda"
+    }, 
+    {
+      "score": 0.21636968851089478, 
+      "description": "Monument"
+    }, 
+    {
+      "score": 0.20145435631275177, 
+      "description": "National Historic Landmark"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9469308853149414, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9142395257949829, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8934268951416016, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.8435020446777344, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.820315420627594, 
+      "description": "pagoda"
+    }, 
+    {
+      "score": 0.8168753981590271, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.800530731678009, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7420470714569092, 
+      "description": "monument"
+    }, 
+    {
+      "score": 0.7403876781463623, 
+      "description": "national historic landmark"
+    }, 
+    {
+      "score": 0.6912059187889099, 
+      "description": "archaeological site"
+    }
+  ]
+}

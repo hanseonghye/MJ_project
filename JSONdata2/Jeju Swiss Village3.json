@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 159.0, 
+      "color-blue": 218.0, 
+      "pixel": 0.3528444468975067, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 64.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.020622221753001213, 
+      "color-red": 232.0
+    }, 
+    {
+      "color-green": 36.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.0269777774810791, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 78.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.011511110700666904, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 206.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.0007999999797903001, 
+      "color-red": 243.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.02773333340883255, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 101.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.0011555555975064635, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 240.0, 
+      "pixel": 0.03942222148180008, 
+      "color-red": 146.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.01746666617691517, 
+      "color-red": 178.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 250.0, 
+      "pixel": 0.014933333732187748, 
+      "color-red": 204.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9335914850234985, 
+      "description": "House"
+    }, 
+    {
+      "score": 0.809442400932312, 
+      "description": "Samsung Galaxy S4"
+    }, 
+    {
+      "score": 0.7838665246963501, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.6552249789237976, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.626336395740509, 
+      "description": "Transport"
+    }, 
+    {
+      "score": 0.5773806571960449, 
+      "description": "Metropolitan area"
+    }, 
+    {
+      "score": 0.5282050371170044, 
+      "description": "Mixed-use"
+    }, 
+    {
+      "score": 0.3959999978542328, 
+      "description": "Sky plc"
+    }, 
+    {
+      "score": 0.03374985232949257, 
+      "description": ""
+    }, 
+    {
+      "score": 0.0, 
+      "description": "Samsung Galaxy"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9351217746734619, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8552104830741882, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.845124363899231, 
+      "description": "transport"
+    }, 
+    {
+      "score": 0.8259292244911194, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.8044027090072632, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7475930452346802, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.7430811524391174, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.7377153038978577, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7372251152992249, 
+      "description": "car"
+    }, 
+    {
+      "score": 0.7132447957992554, 
+      "description": "road"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 104.0, 
+      "color-blue": 191.0, 
+      "pixel": 0.049436673521995544, 
+      "color-red": 252.0
+    }, 
+    {
+      "color-green": 7.0, 
+      "color-blue": 133.0, 
+      "pixel": 0.015637140721082687, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.025446776300668716, 
+      "color-red": 183.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.012723388150334358, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 22.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.09858197718858719, 
+      "color-red": 18.0
+    }, 
+    {
+      "color-green": 182.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.038170162588357925, 
+      "color-red": 218.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.005050505045801401, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 188.0, 
+      "pixel": 0.01689976640045643, 
+      "color-red": 247.0
+    }, 
+    {
+      "color-green": 97.0, 
+      "color-blue": 212.0, 
+      "pixel": 0.01466588955372572, 
+      "color-red": 251.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 168.0, 
+      "pixel": 0.015734266489744186, 
+      "color-red": 249.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Daegu"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.313697099685669, 
+      "description": "E \u00b7 WORLD 83Tower"
+    }, 
+    {
+      "score": 0.7824283838272095, 
+      "description": "Busan"
+    }, 
+    {
+      "score": 0.727125346660614, 
+      "description": "\u5927\u90b1\u4e00\u4e2d\u5b66\u6821"
+    }, 
+    {
+      "score": 0.7038999795913696, 
+      "description": "E-World"
+    }, 
+    {
+      "score": 0.5516999959945679, 
+      "description": "Garden"
+    }, 
+    {
+      "score": 0.4591500163078308, 
+      "description": "Hanging Gardens of Babylon"
+    }, 
+    {
+      "score": 0.42419999837875366, 
+      "description": "Daegu Metropolitan City Government"
+    }, 
+    {
+      "score": 0.3841266334056854, 
+      "description": "Cheonghagdong"
+    }, 
+    {
+      "score": 0.33219999074935913, 
+      "description": "Village"
+    }, 
+    {
+      "score": 0.2729136347770691, 
+      "description": "Petal"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9575686454772949, 
+      "description": "pink"
+    }, 
+    {
+      "score": 0.8888486623764038, 
+      "description": "purple"
+    }, 
+    {
+      "score": 0.8339013457298279, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.6964992880821228, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.6528483033180237, 
+      "description": "petal"
+    }, 
+    {
+      "score": 0.5877813100814819, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.5470691919326782, 
+      "description": "computer wallpaper"
+    }, 
+    {
+      "score": 0.5437090992927551, 
+      "description": "f\u00eate"
+    }, 
+    {
+      "score": 0.5374906659126282, 
+      "description": "magenta"
+    }, 
+    {
+      "score": 0.5369439125061035, 
+      "description": "love"
+    }
+  ]
+}

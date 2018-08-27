@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 106.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.008057636208832264, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.007583657279610634, 
+      "color-red": 230.0
+    }, 
+    {
+      "color-green": 163.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.011659872718155384, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.04398521035909653, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.019527917727828026, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.005403355695307255, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 224.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.002559484215453267, 
+      "color-red": 248.0
+    }, 
+    {
+      "color-green": 99.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.005877334158867598, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 138.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.007014882750809193, 
+      "color-red": 206.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.004171011503785849, 
+      "color-red": 220.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uacbd\ubcf5\uad81 \uc57c\uac04 \uac1c\uc7a5"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.345441460609436, 
+      "description": "Changgyeonggung"
+    }, 
+    {
+      "score": 0.9970522522926331, 
+      "description": "\uacbd\ud68c\ub8e8"
+    }, 
+    {
+      "score": 0.7008000016212463, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.478300005197525, 
+      "description": ""
+    }, 
+    {
+      "score": 0.45629867911338806, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.4302999973297119, 
+      "description": ""
+    }, 
+    {
+      "score": 0.42640000581741333, 
+      "description": "Nightscape"
+    }, 
+    {
+      "score": 0.4065000116825104, 
+      "description": "Image"
+    }, 
+    {
+      "score": 0.4016999900341034, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.39879998564720154, 
+      "description": "Night"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9898714423179626, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9691026210784912, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9441511034965515, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.91034334897995, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8212173581123352, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.8197333216667175, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7984801530838013, 
+      "description": "japanese architecture"
+    }, 
+    {
+      "score": 0.768982470035553, 
+      "description": "lighting"
+    }, 
+    {
+      "score": 0.7420594096183777, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.6927057504653931, 
+      "description": "pagoda"
+    }
+  ]
+}

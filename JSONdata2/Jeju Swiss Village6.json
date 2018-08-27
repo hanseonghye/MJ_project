@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 34.0, 
+      "color-blue": 38.0, 
+      "pixel": 0.103175587952137, 
+      "color-red": 231.0
+    }, 
+    {
+      "color-green": 254.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.2336861789226532, 
+      "color-red": 254.0
+    }, 
+    {
+      "color-green": 33.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.013947696425020695, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.026525529101490974, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.06874221563339233, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.012453299947082996, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 104.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.0023661269806325436, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.002615193137899041, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.0005603985046036541, 
+      "color-red": 23.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.013760896399617195, 
+      "color-red": 232.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "street"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.738352656364441, 
+      "description": "\uc81c\uc8fc\uc870\ucc9c\uc2a4\uc704\uc2a4\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.8287290334701538, 
+      "description": "\ubc29\uc8fc\uad50\ud68c"
+    }, 
+    {
+      "score": 0.5463150143623352, 
+      "description": "\uc11c\uadc0\ud3ec\ubaa9\uc591\uad50\ud68c"
+    }, 
+    {
+      "score": 0.438383013010025, 
+      "description": "\ubc29\uc8fc\uad50\ud68c"
+    }, 
+    {
+      "score": 0.42579999566078186, 
+      "description": "Church"
+    }, 
+    {
+      "score": 0.42543599009513855, 
+      "description": "\uc77c\uc694\ub09a\uc2dc"
+    }, 
+    {
+      "score": 0.39730000495910645, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3695340156555176, 
+      "description": "\ub3c4\ubbfc\uc0c1\ud68c"
+    }, 
+    {
+      "score": 0.32659998536109924, 
+      "description": "Christian Church"
+    }, 
+    {
+      "score": 0.2460000067949295, 
+      "description": "Adoration"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9202399253845215, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8597530722618103, 
+      "description": "public space"
+    }, 
+    {
+      "score": 0.8383723497390747, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.7930450439453125, 
+      "description": "street"
+    }, 
+    {
+      "score": 0.7397886514663696, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7155647277832031, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.6597397923469543, 
+      "description": "road"
+    }, 
+    {
+      "score": 0.6372784376144409, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.5863224864006042, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.5311205387115479, 
+      "description": "car"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 153.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.1147436797618866, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.06877559423446655, 
+      "color-red": 149.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.11947464942932129, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 185.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.05119333416223526, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.07675469666719437, 
+      "color-red": 180.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.08028527349233627, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 29.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.0006355034420266747, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.017158593982458115, 
+      "color-red": 219.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 41.0, 
+      "pixel": 0.0100974440574646, 
+      "color-red": 191.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.011933342553675175, 
+      "color-red": 120.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "JPEG"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6663470268249512, 
+      "description": "\uc0b0\uc218\uc720\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.6502650380134583, 
+      "description": "Gurye"
+    }, 
+    {
+      "score": 0.6345999836921692, 
+      "description": "Cornus officinalis"
+    }, 
+    {
+      "score": 0.5568547248840332, 
+      "description": "Flower"
+    }, 
+    {
+      "score": 0.5312504768371582, 
+      "description": "Jirisan"
+    }, 
+    {
+      "score": 0.47600001096725464, 
+      "description": "Plants"
+    }, 
+    {
+      "score": 0.4348999857902527, 
+      "description": "Species"
+    }, 
+    {
+      "score": 0.37040001153945923, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.3488529622554779, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.33889999985694885, 
+      "description": "Spring"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9527616500854492, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9484493732452393, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9472683668136597, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9190217852592468, 
+      "description": "ecosystem"
+    }, 
+    {
+      "score": 0.9153060913085938, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8773678541183472, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8628097176551819, 
+      "description": "branch"
+    }, 
+    {
+      "score": 0.8522555232048035, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8048301935195923, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.783504843711853, 
+      "description": "leaf"
+    }
+  ]
+}

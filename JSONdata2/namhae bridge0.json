@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 6.0, 
+      "color-blue": 4.0, 
+      "pixel": 0.007559539750218391, 
+      "color-red": 251.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.08603157848119736, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 37.0, 
+      "color-blue": 5.0, 
+      "pixel": 0.004950494971126318, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.0008027830044738948, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.017059138044714928, 
+      "color-red": 149.0
+    }, 
+    {
+      "color-green": 11.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.0006689858273603022, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 4.0, 
+      "pixel": 0.007024351041764021, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 162.0, 
+      "pixel": 6.68985812808387e-05, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 38.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.0044822050258517265, 
+      "color-red": 224.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.034787263721227646, 
+      "color-red": 52.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "nature"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9173020720481873, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.8720818161964417, 
+      "description": "Suspension bridge"
+    }, 
+    {
+      "score": 0.7340846061706543, 
+      "description": "Cable-stayed bridge"
+    }, 
+    {
+      "score": 0.6722999811172485, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.6479896306991577, 
+      "description": "Reservoir"
+    }, 
+    {
+      "score": 0.6175149083137512, 
+      "description": "Extradosed bridge"
+    }, 
+    {
+      "score": 0.5919829607009888, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.5758897066116333, 
+      "description": "Water resources"
+    }, 
+    {
+      "score": 0.5714893341064453, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.49470001459121704, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9718281030654907, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.9534618258476257, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.8810556530952454, 
+      "description": "suspension bridge"
+    }, 
+    {
+      "score": 0.8361762762069702, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8178846836090088, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.8015580177307129, 
+      "description": "cable stayed bridge"
+    }, 
+    {
+      "score": 0.7809362411499023, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.7742210626602173, 
+      "description": "extradosed bridge"
+    }, 
+    {
+      "score": 0.7478053569793701, 
+      "description": "reservoir"
+    }, 
+    {
+      "score": 0.6994131207466125, 
+      "description": "river"
+    }
+  ]
+}

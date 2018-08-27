@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 88.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.04333333298563957, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.012321428395807743, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 148.0, 
+      "pixel": 0.041130952537059784, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 181.0, 
+      "pixel": 0.03500000014901161, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.019583333283662796, 
+      "color-red": 28.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 215.0, 
+      "pixel": 0.03351190313696861, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.008988095447421074, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 169.0, 
+      "color-blue": 227.0, 
+      "pixel": 0.23654761910438538, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.008690476417541504, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.0401785708963871, 
+      "color-red": 109.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Songdo International Business District"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.836715042591095, 
+      "description": "\uc1a1\ub3c4 \uc790\uc774\ud558\ubc84\ubdf0"
+    }, 
+    {
+      "score": 0.6248000264167786, 
+      "description": "Songdo Xi Harbour View"
+    }, 
+    {
+      "score": 0.6123999953269958, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.5590887665748596, 
+      "description": "Apartment"
+    }, 
+    {
+      "score": 0.47208160161972046, 
+      "description": "Urban design"
+    }, 
+    {
+      "score": 0.3918200135231018, 
+      "description": "\uc1a1\ub3c4\uc790\uc774\uacf5\uc778\uc911\uac1c\uc0ac"
+    }, 
+    {
+      "score": 0.38679999113082886, 
+      "description": "Real Estate"
+    }, 
+    {
+      "score": 0.3640090823173523, 
+      "description": "Urban area"
+    }, 
+    {
+      "score": 0.3418799936771393, 
+      "description": "Xi Harbour View"
+    }, 
+    {
+      "score": 0.33869999647140503, 
+      "description": "Architecture"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9676173329353333, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9542661309242249, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.9287745952606201, 
+      "description": "condominium"
+    }, 
+    {
+      "score": 0.8904692530632019, 
+      "description": "commercial building"
+    }, 
+    {
+      "score": 0.8899060487747192, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8833383917808533, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.864841878414154, 
+      "description": "mixed use"
+    }, 
+    {
+      "score": 0.8644985556602478, 
+      "description": "tower block"
+    }, 
+    {
+      "score": 0.8600931763648987, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.8426958918571472, 
+      "description": "neighbourhood"
+    }
+  ]
+}

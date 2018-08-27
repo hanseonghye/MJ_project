@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 190.0, 
+      "color-blue": 234.0, 
+      "pixel": 0.0603715181350708, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 238.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.045123837888240814, 
+      "color-red": 248.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.036764707416296005, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 180.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.016718266531825066, 
+      "color-red": 230.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.032894738018512726, 
+      "color-red": 22.0
+    }, 
+    {
+      "color-green": 72.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.008049535565078259, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 172.0, 
+      "color-blue": 223.0, 
+      "pixel": 0.158049538731575, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 227.0, 
+      "pixel": 0.025928793475031853, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.011996904388070107, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 222.0, 
+      "pixel": 0.0724458172917366, 
+      "color-red": 82.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc5b4\ub9b0\uc774 \ub0a0 \uc5ec\ud589\uc9c0"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.9539148807525635, 
+      "description": "Petite France, Gapyeong"
+    }, 
+    {
+      "score": 0.8824530839920044, 
+      "description": "Namiseom"
+    }, 
+    {
+      "score": 0.7049642205238342, 
+      "description": "Namyangju"
+    }, 
+    {
+      "score": 0.5634000301361084, 
+      "description": "France"
+    }, 
+    {
+      "score": 0.5008999705314636, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.4431000053882599, 
+      "description": ""
+    }, 
+    {
+      "score": 0.39469999074935913, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.37349459528923035, 
+      "description": "Resort"
+    }, 
+    {
+      "score": 0.36730000376701355, 
+      "description": "\ub0b4\uc77c\ub85c"
+    }, 
+    {
+      "score": 0.3555999994277954, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9172401428222656, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8829828500747681, 
+      "description": "resort"
+    }, 
+    {
+      "score": 0.8760283589363098, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8466989398002625, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8346846699714661, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.7954623103141785, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.7866649627685547, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.7491953372955322, 
+      "description": "village"
+    }, 
+    {
+      "score": 0.7475600242614746, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.744800865650177, 
+      "description": "mountain village"
+    }
+  ]
+}

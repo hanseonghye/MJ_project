@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 28.53823, 
+      "description": "Cinderella Castle", 
+      "Longitude": -81.377388
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 26.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.01509803906083107, 
+      "color-red": 55.0
+    }, 
+    {
+      "color-green": 5.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.0367320254445076, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 66.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.00594771234318614, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 42.0, 
+      "color-blue": 139.0, 
+      "pixel": 0.01196078397333622, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.0031372548546642065, 
+      "color-red": 206.0
+    }, 
+    {
+      "color-green": 235.0, 
+      "color-blue": 240.0, 
+      "pixel": 0.015751633793115616, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 61.0, 
+      "color-blue": 241.0, 
+      "pixel": 6.535947613883764e-05, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 228.0, 
+      "pixel": 6.535947613883764e-05, 
+      "color-red": 194.0
+    }, 
+    {
+      "color-green": 16.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.010849673300981522, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 23.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.023464052006602287, 
+      "color-red": 72.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "cinderella castle"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.8785070180892944, 
+      "description": "Magic Kingdom"
+    }, 
+    {
+      "score": 0.862306535243988, 
+      "description": "Orlando"
+    }, 
+    {
+      "score": 0.858858048915863, 
+      "description": "Cinderella Castle"
+    }, 
+    {
+      "score": 0.8284650444984436, 
+      "description": "Sleeping Beauty Castle"
+    }, 
+    {
+      "score": 0.6832000017166138, 
+      "description": "Wishes: A Magical Gathering of Disney Dreams"
+    }, 
+    {
+      "score": 0.642300009727478, 
+      "description": "Tokyo Disneyland"
+    }, 
+    {
+      "score": 0.6305000185966492, 
+      "description": "Castle"
+    }, 
+    {
+      "score": 0.5054000020027161, 
+      "description": "Walt Disney Parks and Resorts"
+    }, 
+    {
+      "score": 0.4966999888420105, 
+      "description": "Fireworks"
+    }, 
+    {
+      "score": 0.47999998927116394, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9899754524230957, 
+      "description": "fireworks"
+    }, 
+    {
+      "score": 0.8910624980926514, 
+      "description": "festival"
+    }, 
+    {
+      "score": 0.8874342441558838, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.8720239400863647, 
+      "description": "purple"
+    }, 
+    {
+      "score": 0.839259147644043, 
+      "description": "light"
+    }, 
+    {
+      "score": 0.8291633129119873, 
+      "description": "event"
+    }, 
+    {
+      "score": 0.8127124309539795, 
+      "description": "entertainment"
+    }, 
+    {
+      "score": 0.7790610790252686, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.7462016344070435, 
+      "description": "f\u00eate"
+    }, 
+    {
+      "score": 0.7237148880958557, 
+      "description": "lighting"
+    }
+  ]
+}

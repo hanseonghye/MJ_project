@@ -1,0 +1,130 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 244.0, 
+      "color-blue": 172.0, 
+      "pixel": 0.10958904027938843, 
+      "color-red": 242.0
+    }, 
+    {
+      "color-green": 244.0, 
+      "color-blue": 202.0, 
+      "pixel": 0.07484818249940872, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.026549922302365303, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 187.0, 
+      "pixel": 0.008685213513672352, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 241.0, 
+      "color-blue": 140.0, 
+      "pixel": 0.05846631899476051, 
+      "color-red": 242.0
+    }, 
+    {
+      "color-green": 242.0, 
+      "color-blue": 178.0, 
+      "pixel": 0.030857224017381668, 
+      "color-red": 249.0
+    }, 
+    {
+      "color-green": 203.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.03198700770735741, 
+      "color-red": 198.0
+    }, 
+    {
+      "color-green": 206.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.018570823594927788, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 163.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.019771218299865723, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.01850021257996559, 
+      "color-red": 116.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "field"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7273499965667725, 
+      "description": "Narcissus"
+    }, 
+    {
+      "score": 0.6848970055580139, 
+      "description": "Meadow"
+    }, 
+    {
+      "score": 0.5618000030517578, 
+      "description": "Wildflower"
+    }, 
+    {
+      "score": 0.533355176448822, 
+      "description": "Tulip"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.978611171245575, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.952524721622467, 
+      "description": "flowering plant"
+    }, 
+    {
+      "score": 0.951514720916748, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9320905804634094, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9231280088424683, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8762263655662537, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.7520354986190796, 
+      "description": "narcissus"
+    }, 
+    {
+      "score": 0.6787964105606079, 
+      "description": "wildflower"
+    }, 
+    {
+      "score": 0.6753913164138794, 
+      "description": "tulip"
+    }, 
+    {
+      "score": 0.6666331887245178, 
+      "description": "meadow"
+    }
+  ]
+}

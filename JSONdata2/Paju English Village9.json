@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 237.0, 
+      "color-blue": 245.0, 
+      "pixel": 0.32380953431129456, 
+      "color-red": 232.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.043492063879966736, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.06793650984764099, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.05484126880764961, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.0493650808930397, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.07865079492330551, 
+      "color-red": 204.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.028730159625411034, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.0067460318095982075, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 61.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.005079364869743586, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.03444444388151169, 
+      "color-red": 54.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Paju"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6702190041542053, 
+      "description": "Paju English Village"
+    }, 
+    {
+      "score": 0.6655000448226929, 
+      "description": "Paju English Village"
+    }, 
+    {
+      "score": 0.25929999351501465, 
+      "description": "English village"
+    }, 
+    {
+      "score": 0.2558000087738037, 
+      "description": "Location"
+    }, 
+    {
+      "score": 0.2434999942779541, 
+      "description": "Furniture"
+    }, 
+    {
+      "score": 0.23012517392635345, 
+      "description": "Suburb"
+    }, 
+    {
+      "score": 0.22251947224140167, 
+      "description": "Roof"
+    }, 
+    {
+      "score": 0.21950000524520874, 
+      "description": "Couch"
+    }, 
+    {
+      "score": 0.21701109409332275, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.16507893800735474, 
+      "description": "Mixed-use"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9349385499954224, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.9308512210845947, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.9144614934921265, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8892986178398132, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8478803634643555, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.8383610844612122, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.7593848705291748, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7369005084037781, 
+      "description": "mixed use"
+    }, 
+    {
+      "score": 0.7138935327529907, 
+      "description": "street"
+    }, 
+    {
+      "score": 0.701583981513977, 
+      "description": "real estate"
+    }
+  ]
+}

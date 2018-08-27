@@ -1,0 +1,134 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 253.0, 
+      "color-blue": 254.0, 
+      "pixel": 0.3729333281517029, 
+      "color-red": 250.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.05515555664896965, 
+      "color-red": 133.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 43.0, 
+      "pixel": 0.04275555536150932, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 42.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.0140888886526227, 
+      "color-red": 73.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 103.0, 
+      "pixel": 0.004044444300234318, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.00039999998989515007, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.04293333366513252, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.019822223111987114, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 37.0, 
+      "color-blue": 38.0, 
+      "pixel": 0.012177777476608753, 
+      "color-red": 64.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.0284000001847744, 
+      "color-red": 120.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6599774360656738, 
+      "description": "House"
+    }, 
+    {
+      "score": 0.6444193720817566, 
+      "description": "Roof"
+    }, 
+    {
+      "score": 0.6021406650543213, 
+      "description": "Residential area"
+    }, 
+    {
+      "score": 0.5187655687332153, 
+      "description": "Property"
+    }, 
+    {
+      "score": 0.358599990606308, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9220278859138489, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8240707516670227, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7695356607437134, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7506195902824402, 
+      "description": "roof"
+    }, 
+    {
+      "score": 0.7256285548210144, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.6879507899284363, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.6720095872879028, 
+      "description": "area"
+    }, 
+    {
+      "score": 0.6557148694992065, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.6071321964263916, 
+      "description": "estate"
+    }, 
+    {
+      "score": 0.5952558517456055, 
+      "description": "outdoor structure"
+    }
+  ]
+}

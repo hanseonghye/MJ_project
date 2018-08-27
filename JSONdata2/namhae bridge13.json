@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 160.0, 
+      "color-blue": 220.0, 
+      "pixel": 0.369992196559906, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 70.0, 
+      "pixel": 0.016584286466240883, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 12.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.008064515888690948, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 21.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.0039021852426230907, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 139.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.002406347543001175, 
+      "color-red": 214.0
+    }, 
+    {
+      "color-green": 182.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.0719953179359436, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 221.0, 
+      "pixel": 0.0961238294839859, 
+      "color-red": 160.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 198.0, 
+      "pixel": 0.047866806387901306, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 41.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.0005853277980349958, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 134.0, 
+      "color-blue": 193.0, 
+      "pixel": 0.08305151015520096, 
+      "color-red": 92.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ub0a8\ud574 \ub300\uad50"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.1913187503814697, 
+      "description": "Namhae Bridge"
+    }, 
+    {
+      "score": 0.9256138205528259, 
+      "description": "Suspension bridge"
+    }, 
+    {
+      "score": 0.8551809191703796, 
+      "description": "\ub0a8\ud574\ub300\uad50\uc720\ub78c\uc120"
+    }, 
+    {
+      "score": 0.7286999821662903, 
+      "description": "\ub0a8\ud574 \uad00\uc74c\ud3ec \uc774\ucda9\ubb34\uacf5 \uc720\uc801"
+    }, 
+    {
+      "score": 0.672639012336731, 
+      "description": "Changseon-Samcheonpo Bridge"
+    }, 
+    {
+      "score": 0.6587752103805542, 
+      "description": "Cable-stayed bridge"
+    }, 
+    {
+      "score": 0.6187000274658203, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.5888850688934326, 
+      "description": "Yi Sun-sin Bridge"
+    }, 
+    {
+      "score": 0.4203999936580658, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3594494163990021, 
+      "description": "Beam bridge"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.979029655456543, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.8761415481567383, 
+      "description": "suspension bridge"
+    }, 
+    {
+      "score": 0.8742952346801758, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.8647744059562683, 
+      "description": "cable stayed bridge"
+    }, 
+    {
+      "score": 0.8623258471488953, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.8596668243408203, 
+      "description": "extradosed bridge"
+    }, 
+    {
+      "score": 0.7255260944366455, 
+      "description": "water transportation"
+    }, 
+    {
+      "score": 0.6770188212394714, 
+      "description": "girder bridge"
+    }, 
+    {
+      "score": 0.6546384692192078, 
+      "description": "beam bridge"
+    }, 
+    {
+      "score": 0.6290088295936584, 
+      "description": "sky"
+    }
+  ]
+}

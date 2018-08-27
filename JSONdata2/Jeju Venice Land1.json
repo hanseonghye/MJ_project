@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 198.0, 
+      "color-blue": 218.0, 
+      "pixel": 0.019733333960175514, 
+      "color-red": 165.0
+    }, 
+    {
+      "color-green": 240.0, 
+      "color-blue": 248.0, 
+      "pixel": 0.2728888988494873, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.081377774477005, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 15.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.1351555585861206, 
+      "color-red": 21.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.018133332952857018, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.00426666671410203, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 203.0, 
+      "color-blue": 226.0, 
+      "pixel": 0.008933333680033684, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.03213333338499069, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 233.0, 
+      "color-blue": 248.0, 
+      "pixel": 0.042088888585567474, 
+      "color-red": 206.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 185.0, 
+      "pixel": 0.012044444680213928, 
+      "color-red": 138.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "water"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.899708092212677, 
+      "description": "Boat"
+    }, 
+    {
+      "score": 0.7366847991943359, 
+      "description": "Boating"
+    }, 
+    {
+      "score": 0.6879987716674805, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.6636313796043396, 
+      "description": "Palm trees"
+    }, 
+    {
+      "score": 0.6390312314033508, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.6213841438293457, 
+      "description": "Vacation"
+    }, 
+    {
+      "score": 0.5938000082969666, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.4911910593509674, 
+      "description": "City"
+    }, 
+    {
+      "score": 0.4643999934196472, 
+      "description": "Channel M"
+    }, 
+    {
+      "score": 0.41190001368522644, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9744096994400024, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.9642969965934753, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9402636289596558, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9016821384429932, 
+      "description": "water transportation"
+    }, 
+    {
+      "score": 0.8688873648643494, 
+      "description": "canal"
+    }, 
+    {
+      "score": 0.7940350770950317, 
+      "description": "boat"
+    }, 
+    {
+      "score": 0.736405074596405, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6810448169708252, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6629217863082886, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6558827757835388, 
+      "description": "arecales"
+    }
+  ]
+}

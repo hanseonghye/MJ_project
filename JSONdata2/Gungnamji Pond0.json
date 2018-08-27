@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 165.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.04613333195447922, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.06379999965429306, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.006733333226293325, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 140.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.007266666740179062, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.017533333972096443, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.010466666892170906, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 136.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.03593333438038826, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 171.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.018666666001081467, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.025733333081007004, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.04800000041723251, 
+      "color-red": 139.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Travel"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4655300378799438, 
+      "description": "Gungnamji"
+    }, 
+    {
+      "score": 0.8925000429153442, 
+      "description": "\ubd80\uc5ec\uc11c\ub3d9\uc5f0\uaf43\ucd95\uc81c"
+    }, 
+    {
+      "score": 0.6383000016212463, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5440499782562256, 
+      "description": "Baekje"
+    }, 
+    {
+      "score": 0.5030850172042847, 
+      "description": "\ubd80\uc18c\uc0b0\uc131 \u6276\u82cf\u5c71\u57ce"
+    }, 
+    {
+      "score": 0.42309999465942383, 
+      "description": ""
+    }, 
+    {
+      "score": 0.40860000252723694, 
+      "description": "Garden"
+    }, 
+    {
+      "score": 0.3923700153827667, 
+      "description": "Naghwaam \ub099\ud654\uc554 \u843d\u82b1\u5ca9"
+    }, 
+    {
+      "score": 0.3815915882587433, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.34869998693466187, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9680806398391724, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9611549377441406, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.8986616134643555, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8483540415763855, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8384257555007935, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.7949186563491821, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.7869990468025208, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.7681286334991455, 
+      "description": "botanical garden"
+    }, 
+    {
+      "score": 0.7498143315315247, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.7492603659629822, 
+      "description": "pond"
+    }
+  ]
+}

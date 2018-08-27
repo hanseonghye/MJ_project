@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 119.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.01312184613198042, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 23.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.4797404408454895, 
+      "color-red": 29.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.021917808800935745, 
+      "color-red": 76.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.0076423934660851955, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.00994953140616417, 
+      "color-red": 133.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.0028839220758527517, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.008435471914708614, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.0020187455229461193, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.00980533566325903, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.12357605993747711, 
+      "color-red": 50.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Seoul"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.390158176422119, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 1.6932098865509033, 
+      "description": "Changgyeonggung"
+    }, 
+    {
+      "score": 1.620495319366455, 
+      "description": "Changdeokgung"
+    }, 
+    {
+      "score": 1.2559800148010254, 
+      "description": "Joseon"
+    }, 
+    {
+      "score": 1.2368718385696411, 
+      "description": "Gyeonghuigung"
+    }, 
+    {
+      "score": 1.2301076650619507, 
+      "description": "Deoksugung"
+    }, 
+    {
+      "score": 1.091925859451294, 
+      "description": "Gwanghwamun"
+    }, 
+    {
+      "score": 0.7017999887466431, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.6588000059127808, 
+      "description": "Japanese invasions of Korea"
+    }, 
+    {
+      "score": 0.4948499798774719, 
+      "description": "Korean Peninsula"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9888235926628113, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9531397819519043, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9268877506256104, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9185147285461426, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8815438151359558, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.8307600617408752, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.8268402814865112, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8201855421066284, 
+      "description": "light"
+    }, 
+    {
+      "score": 0.808219850063324, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7713189721107483, 
+      "description": "lighting"
+    }
+  ]
+}

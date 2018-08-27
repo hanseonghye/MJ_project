@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 125.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.10063491761684418, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.007222222164273262, 
+      "color-red": 230.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.004206349141895771, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.05880952253937721, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.095238097012043, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 134.0, 
+      "pixel": 0.016349205747246742, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 219.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.014523809775710106, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.035079363733530045, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 181.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.0027777778450399637, 
+      "color-red": 235.0
+    }, 
+    {
+      "color-green": 97.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.05507936328649521, 
+      "color-red": 77.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Instagram"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.4300999939441681, 
+      "description": ""
+    }, 
+    {
+      "score": 0.19132806360721588, 
+      "description": "Grassland"
+    }, 
+    {
+      "score": 0.18320000171661377, 
+      "description": "Instagram"
+    }, 
+    {
+      "score": 0.18052813410758972, 
+      "description": "Rural area"
+    }, 
+    {
+      "score": 0.1762000024318695, 
+      "description": "Landscape"
+    }, 
+    {
+      "score": 0.17399999499320984, 
+      "description": "\uc548\ubc18\ub370\uae30"
+    }, 
+    {
+      "score": 0.16972899436950684, 
+      "description": "Crop"
+    }, 
+    {
+      "score": 0.1558937281370163, 
+      "description": "Desktop Wallpaper"
+    }, 
+    {
+      "score": 0.14880000054836273, 
+      "description": "Sunrise"
+    }, 
+    {
+      "score": 0.14539821445941925, 
+      "description": "Highland"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.942599356174469, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9375103712081909, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9110710024833679, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.9074517488479614, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8302538990974426, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.7980170249938965, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.7917790412902832, 
+      "description": "hill"
+    }, 
+    {
+      "score": 0.7709909677505493, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.760705292224884, 
+      "description": "rural area"
+    }, 
+    {
+      "score": 0.738476574420929, 
+      "description": "crop"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 151.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.05023204907774925, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.101419597864151, 
+      "color-red": 206.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.06954681873321533, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.07022932171821594, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 239.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.004026753827929497, 
+      "color-red": 227.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.05146055296063423, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.049890801310539246, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.09309308975934982, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 180.0, 
+      "pixel": 0.283579021692276, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 231.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.0005460005486384034, 
+      "color-red": 209.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6487613916397095, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.45585867762565613, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.40410447120666504, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.39410001039505005, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.35533764958381653, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.32580000162124634, 
+      "description": "Sky plc"
+    }, 
+    {
+      "score": 0.2965499758720398, 
+      "description": "The Promontory"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9282317757606506, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9231377840042114, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9101552367210388, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8519740104675293, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.7730469107627869, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.7503840327262878, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.7493887543678284, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7098549008369446, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.6940236687660217, 
+      "description": "lighthouse"
+    }, 
+    {
+      "score": 0.5972840189933777, 
+      "description": "cloud"
+    }
+  ]
+}

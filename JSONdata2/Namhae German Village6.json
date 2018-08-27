@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 187.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.019094767048954964, 
+      "color-red": 241.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.05905233323574066, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 21.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.026520509272813797, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 235.0, 
+      "color-blue": 227.0, 
+      "pixel": 0.1683168262243271, 
+      "color-red": 234.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.009688826277852058, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.048656295984983444, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 147.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.014922206290066242, 
+      "color-red": 200.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.0449080616235733, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.02864214964210987, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.024257425218820572, 
+      "color-red": 40.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ub0a8\ud574 \ub3c5\uc77c \ub9c8\uc744"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0563000440597534, 
+      "description": "Dogil Maeul"
+    }, 
+    {
+      "score": 0.9017525911331177, 
+      "description": "Southern German town Neuhaus"
+    }, 
+    {
+      "score": 0.4542999863624573, 
+      "description": ""
+    }, 
+    {
+      "score": 0.43758001923561096, 
+      "description": "Geoje"
+    }, 
+    {
+      "score": 0.42750000953674316, 
+      "description": "Yeosu"
+    }, 
+    {
+      "score": 0.4256538152694702, 
+      "description": "\ub3c5\uc77c\uc778\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.4163999855518341, 
+      "description": "Bi\u00f3pio"
+    }, 
+    {
+      "score": 0.40689003467559814, 
+      "description": "Busan"
+    }, 
+    {
+      "score": 0.375, 
+      "description": "Tongyeong"
+    }, 
+    {
+      "score": 0.36419999599456787, 
+      "description": "Industry"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9510038495063782, 
+      "description": "mountain village"
+    }, 
+    {
+      "score": 0.9089467525482178, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.8842703700065613, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.7755202054977417, 
+      "description": "cottage"
+    }, 
+    {
+      "score": 0.7753885984420776, 
+      "description": "village"
+    }, 
+    {
+      "score": 0.7676253914833069, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.7643505334854126, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7473357319831848, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.7232997417449951, 
+      "description": "roof"
+    }, 
+    {
+      "score": 0.7232620120048523, 
+      "description": "plant"
+    }
+  ]
+}

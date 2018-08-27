@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 193.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.1404964029788971, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.2105838507413864, 
+      "color-red": 3.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 154.0, 
+      "pixel": 0.11085391044616699, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 136.0, 
+      "pixel": 0.02218364179134369, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.07137345522642136, 
+      "color-red": 228.0
+    }, 
+    {
+      "color-green": 65.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.04957561567425728, 
+      "color-red": 3.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 103.0, 
+      "pixel": 0.019933126866817474, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 185.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.005851337220519781, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.0710519552230835, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.07510288059711456, 
+      "color-red": 80.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2824790477752686, 
+      "description": "Huinnyeoul Munhwa Maul \u2502 White Ford Cultural Village"
+    }, 
+    {
+      "score": 0.6042740345001221, 
+      "description": "\ud770\uc5ec\uc6b8\ub9c8\uc744\ud68c\uad00"
+    }, 
+    {
+      "score": 0.5638764500617981, 
+      "description": "Aerial photography"
+    }, 
+    {
+      "score": 0.5017054677009583, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.4686330258846283, 
+      "description": "\uc808\uc601\uc544\ud30c\ud2b8"
+    }, 
+    {
+      "score": 0.46661999821662903, 
+      "description": "Huin-Yeoul"
+    }, 
+    {
+      "score": 0.31850001215934753, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.2992999851703644, 
+      "description": ""
+    }, 
+    {
+      "score": 0.2615915834903717, 
+      "description": "Bird's-eye view"
+    }, 
+    {
+      "score": 0.24779999256134033, 
+      "description": "Photograph"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9458934664726257, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.90582275390625, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8457432985305786, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8338763117790222, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7975097894668579, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7772889733314514, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.7723053693771362, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.712811291217804, 
+      "description": "bay"
+    }, 
+    {
+      "score": 0.6901087760925293, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6627941727638245, 
+      "description": "marina"
+    }
+  ]
+}

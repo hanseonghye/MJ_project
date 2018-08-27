@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 90.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.054744526743888855, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 170.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.015447292476892471, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.012306909076869488, 
+      "color-red": 242.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.06917331367731094, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.014259039424359798, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 134.0, 
+      "pixel": 0.008402648381888866, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 163.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.03386521711945534, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 61.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.053301647305488586, 
+      "color-red": 37.0
+    }, 
+    {
+      "color-green": 176.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.0022916311863809824, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 221.0, 
+      "pixel": 0.056696657091379166, 
+      "color-red": 118.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Songaksan"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4676750898361206, 
+      "description": "Songaksan"
+    }, 
+    {
+      "score": 0.8773500323295593, 
+      "description": "Jeju Olle Trail"
+    }, 
+    {
+      "score": 0.5872350335121155, 
+      "description": "Marado"
+    }, 
+    {
+      "score": 0.5867000222206116, 
+      "description": "\ub458\ub808\uae38"
+    }, 
+    {
+      "score": 0.4244999885559082, 
+      "description": "\uc81c\uc8fc\uc62c\ub808"
+    }, 
+    {
+      "score": 0.39590001106262207, 
+      "description": "\uc62c\ub808"
+    }, 
+    {
+      "score": 0.319965124130249, 
+      "description": "Cliff"
+    }, 
+    {
+      "score": 0.3173830211162567, 
+      "description": "\ubc14\ub2e4\uc640\ud5ec\uc2a4"
+    }, 
+    {
+      "score": 0.2903999984264374, 
+      "description": "\ubc14\ub2e4\uc640\uacf5\uc6d0"
+    }, 
+    {
+      "score": 0.2824382781982422, 
+      "description": "Shore"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9636102914810181, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8856635093688965, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8483763933181763, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.838351309299469, 
+      "description": "cliff"
+    }, 
+    {
+      "score": 0.8142458200454712, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.7919498085975647, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.7638210654258728, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.7493926882743835, 
+      "description": "bay"
+    }, 
+    {
+      "score": 0.7270705103874207, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.720325767993927, 
+      "description": "cove"
+    }
+  ]
+}

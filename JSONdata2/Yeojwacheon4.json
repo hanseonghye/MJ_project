@@ -1,0 +1,142 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 155.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.1657174974679947, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.02711157500743866, 
+      "color-red": 64.0
+    }, 
+    {
+      "color-green": 40.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.03737867996096611, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.010507740080356598, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.004652282223105431, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.1610652059316635, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.08293896168470383, 
+      "color-red": 131.0
+    }, 
+    {
+      "color-green": 68.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.022539503872394562, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.04098821058869362, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 43.0, 
+      "color-blue": 44.0, 
+      "pixel": 0.008582658134400845, 
+      "color-red": 72.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "romantic place korea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6610881090164185, 
+      "description": "Yeojwacheon"
+    }, 
+    {
+      "score": 1.0654064416885376, 
+      "description": "Cherry blossom"
+    }, 
+    {
+      "score": 0.48841652274131775, 
+      "description": "Garden of Morning Calm"
+    }, 
+    {
+      "score": 0.3495999872684479, 
+      "description": "Flower"
+    }, 
+    {
+      "score": 0.3127245008945465, 
+      "description": "Cheongsan-myeon"
+    }, 
+    {
+      "score": 0.2946000099182129, 
+      "description": ""
+    }, 
+    {
+      "score": 0.2603999972343445, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.20464125275611877, 
+      "description": "Jinhae-gu"
+    }, 
+    {
+      "score": 0.19329999387264252, 
+      "description": "Garden"
+    }, 
+    {
+      "score": 0.1891999989748001, 
+      "description": "Cherry"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9757068157196045, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9745292663574219, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9144493937492371, 
+      "description": "blossom"
+    }, 
+    {
+      "score": 0.9095938205718994, 
+      "description": "cherry blossom"
+    }, 
+    {
+      "score": 0.8989219665527344, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8960856199264526, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.7719619870185852, 
+      "description": "branch"
+    }
+  ]
+}

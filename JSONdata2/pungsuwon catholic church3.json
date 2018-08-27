@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 242.0, 
+      "color-blue": 250.0, 
+      "pixel": 0.14709506928920746, 
+      "color-red": 234.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.021214788779616356, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.0404929593205452, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.06522887200117111, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.04357394203543663, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 234.0, 
+      "color-blue": 252.0, 
+      "pixel": 0.09938380122184753, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 64.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.006426056381314993, 
+      "color-red": 137.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.04172535240650177, 
+      "color-red": 76.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.03213028237223625, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.033362675458192825, 
+      "color-red": 105.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "tree"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6119016408920288, 
+      "description": "\ud48d\uc218\uc6d0\uc131\ub2f9"
+    }, 
+    {
+      "score": 0.8801999688148499, 
+      "description": "\u8056\u5802"
+    }, 
+    {
+      "score": 0.3997197151184082, 
+      "description": "Chapel"
+    }, 
+    {
+      "score": 0.3378913998603821, 
+      "description": "Parish"
+    }, 
+    {
+      "score": 0.28569933772087097, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.26978635787963867, 
+      "description": "Spire"
+    }, 
+    {
+      "score": 0.2614000141620636, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.2506999969482422, 
+      "description": "History"
+    }, 
+    {
+      "score": 0.2355317622423172, 
+      "description": "Medieval architecture"
+    }, 
+    {
+      "score": 0.2287999987602234, 
+      "description": "Building"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8205634951591492, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.8024839162826538, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7917762398719788, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7566818594932556, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.7209221720695496, 
+      "description": "steeple"
+    }, 
+    {
+      "score": 0.678166925907135, 
+      "description": "chapel"
+    }, 
+    {
+      "score": 0.6775961518287659, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.657374382019043, 
+      "description": "medieval architecture"
+    }, 
+    {
+      "score": 0.5965461134910583, 
+      "description": "parish"
+    }, 
+    {
+      "score": 0.5179111957550049, 
+      "description": "facade"
+    }
+  ]
+}

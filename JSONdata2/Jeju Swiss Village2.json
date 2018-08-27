@@ -1,0 +1,146 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 46.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.00800000037997961, 
+      "color-red": 216.0
+    }, 
+    {
+      "color-green": 37.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.02288888953626156, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 26.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.012088889256119728, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.00279999990016222, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.0034666666761040688, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.010266666300594807, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 235.0, 
+      "color-blue": 252.0, 
+      "pixel": 0.04995555430650711, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.10075555741786957, 
+      "color-red": 198.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.00417777756229043, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.007777777966111898, 
+      "color-red": 134.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "architecture"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9511035680770874, 
+      "description": "Window"
+    }, 
+    {
+      "score": 0.80594801902771, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.7451617121696472, 
+      "description": "Mixed-use"
+    }, 
+    {
+      "score": 0.7103449106216431, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.6868987679481506, 
+      "description": "House"
+    }, 
+    {
+      "score": 0.5951295495033264, 
+      "description": "Neighbourhood"
+    }, 
+    {
+      "score": 0.49191516637802124, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.4731886088848114, 
+      "description": "Recreation"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8937389850616455, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.8497993350028992, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.7998074889183044, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.780297040939331, 
+      "description": "mixed use"
+    }, 
+    {
+      "score": 0.7658820152282715, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.7532815337181091, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7475413680076599, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.6751390099525452, 
+      "description": "facade"
+    }, 
+    {
+      "score": 0.6333889961242676, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.6326249241828918, 
+      "description": "tree"
+    }
+  ]
+}

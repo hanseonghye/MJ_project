@@ -1,0 +1,142 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 197.0, 
+      "color-blue": 217.0, 
+      "pixel": 0.07522054016590118, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 165.0, 
+      "pixel": 0.026622558012604713, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 173.0, 
+      "color-blue": 219.0, 
+      "pixel": 0.0841209813952446, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.021975426003336906, 
+      "color-red": 64.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.0957781970500946, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 207.0, 
+      "pixel": 0.05915248766541481, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.03079710155725479, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 221.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.007482671644538641, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.0404851920902729, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.04213925823569298, 
+      "color-red": 132.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "bridge"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.596474051475525, 
+      "description": "Younggeumjeong Pavilion"
+    }, 
+    {
+      "score": 0.876645028591156, 
+      "description": "\ub3d9\uba85\ud56d"
+    }, 
+    {
+      "score": 0.8303625583648682, 
+      "description": "Sokch'o-hang"
+    }, 
+    {
+      "score": 0.34251073002815247, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.3184784948825836, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.23552201688289642, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.22995001077651978, 
+      "description": "Korea under Japanese rule"
+    }, 
+    {
+      "score": 0.21889999508857727, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.007379064802080393, 
+      "description": "Sokcho"
+    }, 
+    {
+      "score": 0.00010795200796565041, 
+      "description": "Gangwon Province, South Korea"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8633555769920349, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.7979249954223633, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7462643980979919, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.7066190838813782, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.6440185308456421, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.6375141739845276, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.59363853931427, 
+      "description": "coast"
+    }
+  ]
+}

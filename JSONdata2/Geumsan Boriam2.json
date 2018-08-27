@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 193.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.02288786508142948, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 188.0, 
+      "pixel": 0.06136712804436684, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.02211981639266014, 
+      "color-red": 23.0
+    }, 
+    {
+      "color-green": 18.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.17403994500637054, 
+      "color-red": 16.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 134.0, 
+      "pixel": 0.02227342501282692, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.02465437725186348, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.029185868799686432, 
+      "color-red": 40.0
+    }, 
+    {
+      "color-green": 222.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.004761904943734407, 
+      "color-red": 234.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.03018433228135109, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.009600614197552204, 
+      "color-red": 17.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "nature"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5685230493545532, 
+      "description": "\ubcf4\ub9ac\uc554"
+    }, 
+    {
+      "score": 1.2737669944763184, 
+      "description": "\uae08\uc0b0"
+    }, 
+    {
+      "score": 0.458469033241272, 
+      "description": "Naksansa"
+    }, 
+    {
+      "score": 0.44877246022224426, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.4249500036239624, 
+      "description": "\ub099\uc0b0\uc0ac\ud64d\ub828\uc554"
+    }, 
+    {
+      "score": 0.3312247693538666, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.3201660215854645, 
+      "description": "\ub0a8\ud574\ubaa8\ub358\ud558\uc6b0\uc2a4\ud39c\uc158"
+    }, 
+    {
+      "score": 0.296999990940094, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.27649998664855957, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.26291584968566895, 
+      "description": "Leisure"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9464927911758423, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9243882298469543, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.9202709794044495, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.8785468339920044, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8216630816459656, 
+      "description": "mountain village"
+    }, 
+    {
+      "score": 0.8070359826087952, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7932208180427551, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.7602598667144775, 
+      "description": "mountain range"
+    }, 
+    {
+      "score": 0.7595986127853394, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.7443933486938477, 
+      "description": "tourism"
+    }
+  ]
+}

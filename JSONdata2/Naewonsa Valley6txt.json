@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 120.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.04679134488105774, 
+      "color-red": 107.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.016061605885624886, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.03359002619981766, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.10531719774007797, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.019288595765829086, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.07436743378639221, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 169.0, 
+      "pixel": 0.008067473769187927, 
+      "color-red": 178.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 138.0, 
+      "pixel": 0.007114044856280088, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.012247891165316105, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.14726805686950684, 
+      "color-red": 72.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "nature"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.279574990272522, 
+      "description": "Naewonsa"
+    }, 
+    {
+      "score": 1.1144100427627563, 
+      "description": "\ub0b4\uc6d0\uc0ac\uacc4\uace1"
+    }, 
+    {
+      "score": 0.6440830230712891, 
+      "description": "Daeunsan Recreational Forest"
+    }, 
+    {
+      "score": 0.6284252405166626, 
+      "description": "Riparian zone"
+    }, 
+    {
+      "score": 0.5867400169372559, 
+      "description": "Sanjini"
+    }, 
+    {
+      "score": 0.5249663591384888, 
+      "description": "Riparian forest"
+    }, 
+    {
+      "score": 0.5091999769210815, 
+      "description": "Stream"
+    }, 
+    {
+      "score": 0.4350000023841858, 
+      "description": "Argitaletxe"
+    }, 
+    {
+      "score": 0.35920000076293945, 
+      "description": "Camping"
+    }, 
+    {
+      "score": 0.356288343667984, 
+      "description": "Tributary"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9604484438896179, 
+      "description": "stream"
+    }, 
+    {
+      "score": 0.9559615850448608, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9524925351142883, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9483659863471985, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.9479042291641235, 
+      "description": "watercourse"
+    }, 
+    {
+      "score": 0.9436638951301575, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.9353558421134949, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9350200295448303, 
+      "description": "creek"
+    }, 
+    {
+      "score": 0.9348178505897522, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.913693904876709, 
+      "description": "river"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 227.0, 
+      "color-blue": 234.0, 
+      "pixel": 0.3123297691345215, 
+      "color-red": 235.0
+    }, 
+    {
+      "color-green": 166.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.012292969971895218, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.01567905768752098, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.007140228059142828, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 205.0, 
+      "pixel": 0.19977916777133942, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 139.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.02097902074456215, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.08030916750431061, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.017887376248836517, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 135.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.0054471842013299465, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.003459698287770152, 
+      "color-red": 135.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ubc9a\uaf43 \uad00\uad11\uc9c0"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.627548098564148, 
+      "description": "Cherry blossom"
+    }, 
+    {
+      "score": 0.9799185395240784, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.9097500443458557, 
+      "description": "Yeouido"
+    }, 
+    {
+      "score": 0.7987500429153442, 
+      "description": "Jinhae Gunhangje Festival"
+    }, 
+    {
+      "score": 0.6772500276565552, 
+      "description": "National Cherry Blossom Festival"
+    }, 
+    {
+      "score": 0.6029999852180481, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5756999850273132, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5332000255584717, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.5138999819755554, 
+      "description": "Hanami"
+    }, 
+    {
+      "score": 0.46230000257492065, 
+      "description": "\u8cde\u6afb"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9489066004753113, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9350714087486267, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9111729860305786, 
+      "description": "cherry blossom"
+    }, 
+    {
+      "score": 0.8602525591850281, 
+      "description": "blossom"
+    }, 
+    {
+      "score": 0.842647135257721, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8424047231674194, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.659007728099823, 
+      "description": "branch"
+    }, 
+    {
+      "score": 0.5011895298957825, 
+      "description": "winter"
+    }
+  ]
+}

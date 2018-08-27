@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 114.0, 
+      "color-blue": 181.0, 
+      "pixel": 0.1501278430223465, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 107.0, 
+      "pixel": 0.07997763156890869, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.1573985368013382, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.06599552929401398, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 97.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.06224033236503601, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.039789069443941116, 
+      "color-red": 51.0
+    }, 
+    {
+      "color-green": 142.0, 
+      "color-blue": 217.0, 
+      "pixel": 0.10594438761472702, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.033157557249069214, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 182.0, 
+      "pixel": 0.02844359166920185, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.01230425015091896, 
+      "color-red": 60.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2808455228805542, 
+      "description": "Huinnyeoul Munhwa Maul \u2502 White Ford Cultural Village"
+    }, 
+    {
+      "score": 0.7409999966621399, 
+      "description": "Yeongseondong"
+    }, 
+    {
+      "score": 0.694661021232605, 
+      "description": "\u91dc\u5c71\u9280\u884c"
+    }, 
+    {
+      "score": 0.564223051071167, 
+      "description": "\uc808\uc601\ud574\uc548\uc0b0\ucc45\ub85c"
+    }, 
+    {
+      "score": 0.36557823419570923, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.2937999963760376, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.292395681142807, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.28463849425315857, 
+      "description": "Evening"
+    }, 
+    {
+      "score": 0.27379998564720154, 
+      "description": "Nightscape"
+    }, 
+    {
+      "score": 0.2602533996105194, 
+      "description": "Urban area"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9584367275238037, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9383403658866882, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9105114340782166, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8861105442047119, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8639689683914185, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.7983599305152893, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.7897273898124695, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.7593997716903687, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.710195779800415, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6812307238578796, 
+      "description": "port"
+    }
+  ]
+}

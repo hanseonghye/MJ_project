@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 124.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.04577777907252312, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 248.0, 
+      "pixel": 0.2240888923406601, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.010044444352388382, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 174.0, 
+      "pixel": 0.035555556416511536, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.025066666305065155, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 234.0, 
+      "color-blue": 242.0, 
+      "pixel": 0.12373333424329758, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.0559111125767231, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.02239999920129776, 
+      "color-red": 61.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 221.0, 
+      "pixel": 0.09279999881982803, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.053244445472955704, 
+      "color-red": 72.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "songdo smart city"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0339475870132446, 
+      "description": "Incheon International Airport"
+    }, 
+    {
+      "score": 0.9307284951210022, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.7034000158309937, 
+      "description": "Smart city"
+    }, 
+    {
+      "score": 0.5228301882743835, 
+      "description": "Songdo Smart Valley"
+    }, 
+    {
+      "score": 0.5043824911117554, 
+      "description": "Songdo Park"
+    }, 
+    {
+      "score": 0.4925000071525574, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.45820000767707825, 
+      "description": "City"
+    }, 
+    {
+      "score": 0.4080527126789093, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.4016999900341034, 
+      "description": "Internet of things"
+    }, 
+    {
+      "score": 0.37248554825782776, 
+      "description": "Cable-stayed bridge"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9745517373085022, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9623723030090332, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.9079334735870361, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9020824432373047, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.8953893184661865, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.8817800879478455, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8677595853805542, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8640410304069519, 
+      "description": "tower block"
+    }, 
+    {
+      "score": 0.8355164527893066, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.8257469534873962, 
+      "description": "fixed link"
+    }
+  ]
+}

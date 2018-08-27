@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 153.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.04390847310423851, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 62.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.03370439261198044, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 244.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.1602504700422287, 
+      "color-red": 241.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.060915276408195496, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.044526901096105576, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.05697279050946236, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.07707174122333527, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.07251082360744476, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.017779838293790817, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 168.0, 
+      "pixel": 0.013605441898107529, 
+      "color-red": 195.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "chapel"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8453201055526733, 
+      "description": "Window"
+    }, 
+    {
+      "score": 0.7534500360488892, 
+      "description": "Historic house museum"
+    }, 
+    {
+      "score": 0.7046264410018921, 
+      "description": "House"
+    }, 
+    {
+      "score": 0.7006000280380249, 
+      "description": "Real Estate"
+    }, 
+    {
+      "score": 0.6741093397140503, 
+      "description": "Medieval architecture"
+    }, 
+    {
+      "score": 0.654702365398407, 
+      "description": "Spire"
+    }, 
+    {
+      "score": 0.6372327208518982, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.619949996471405, 
+      "description": "Middle Ages"
+    }, 
+    {
+      "score": 0.5971077680587769, 
+      "description": "Steeple"
+    }, 
+    {
+      "score": 0.5718367695808411, 
+      "description": "Almshouse"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8956504464149475, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.8529554605484009, 
+      "description": "chapel"
+    }, 
+    {
+      "score": 0.849449634552002, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.8433781266212463, 
+      "description": "medieval architecture"
+    }, 
+    {
+      "score": 0.8325864672660828, 
+      "description": "parish"
+    }, 
+    {
+      "score": 0.8020380139350891, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.7786210775375366, 
+      "description": "steeple"
+    }, 
+    {
+      "score": 0.6351466178894043, 
+      "description": "facade"
+    }, 
+    {
+      "score": 0.6282742619514465, 
+      "description": "bell tower"
+    }, 
+    {
+      "score": 0.6110488176345825, 
+      "description": "estate"
+    }
+  ]
+}

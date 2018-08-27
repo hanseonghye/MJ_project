@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 121.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.026584362611174583, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.035637859255075455, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 18.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.09827160835266113, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 65.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.00148148147854954, 
+      "color-red": 137.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 110.0, 
+      "pixel": 0.024526748806238174, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.059423867613077164, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.04905349761247635, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 183.0, 
+      "pixel": 0.021893003955483437, 
+      "color-red": 137.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.057283949106931686, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.03078189305961132, 
+      "color-red": 92.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "gamcheon culture village"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3796216249465942, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 1.062600016593933, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 1.0012500286102295, 
+      "description": "Gamcheon-dong"
+    }, 
+    {
+      "score": 0.7932494878768921, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 0.6401045918464661, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 0.6396999955177307, 
+      "description": "Culture"
+    }, 
+    {
+      "score": 0.5152499675750732, 
+      "description": "Santorini"
+    }, 
+    {
+      "score": 0.5120999813079834, 
+      "description": "Village"
+    }, 
+    {
+      "score": 0.4745999872684479, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.4422999918460846, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9095281958580017, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9091753363609314, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8657498359680176, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.837763249874115, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6875137686729431, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.6432482004165649, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6391342878341675, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.6209630966186523, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.5639330148696899, 
+      "description": "suburb"
+    }, 
+    {
+      "score": 0.5495430827140808, 
+      "description": "village"
+    }
+  ]
+}

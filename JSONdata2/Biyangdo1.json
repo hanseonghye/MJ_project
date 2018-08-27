@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 240.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.1520058959722519, 
+      "color-red": 224.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.02657342702150345, 
+      "color-red": 64.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.02863452397286892, 
+      "color-red": 51.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 180.0, 
+      "pixel": 0.020169304683804512, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.02333456091582775, 
+      "color-red": 87.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 193.0, 
+      "pixel": 0.08325358480215073, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 184.0, 
+      "pixel": 0.03003312461078167, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.028560912236571312, 
+      "color-red": 21.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 214.0, 
+      "pixel": 0.0550607293844223, 
+      "color-red": 142.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.0205373577773571, 
+      "color-red": 60.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.849544107913971, 
+      "description": "Cove"
+    }, 
+    {
+      "score": 0.5635325312614441, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.5577294230461121, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.5520898699760437, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.5495315194129944, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.5193125605583191, 
+      "description": "Headland"
+    }, 
+    {
+      "score": 0.4592173993587494, 
+      "description": "Islet"
+    }, 
+    {
+      "score": 0.4226999878883362, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.42071667313575745, 
+      "description": "Vacation"
+    }, 
+    {
+      "score": 0.4090999960899353, 
+      "description": "Microsoft Azure"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9718145728111267, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9504839181900024, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9496186971664429, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.935841977596283, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.9350693821907043, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9347030520439148, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.9318397641181946, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.9200658798217773, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.820816159248352, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.816071629524231, 
+      "description": "headland"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 114.0, 
+      "color-blue": 141.0, 
+      "pixel": 0.13893333077430725, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.04280000180006027, 
+      "color-red": 183.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.1640888899564743, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 105.0, 
+      "pixel": 0.015466666780412197, 
+      "color-red": 200.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.012222222052514553, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 18.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.22004444897174835, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 185.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.031066667288541794, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 100.0, 
+      "color-blue": 137.0, 
+      "pixel": 0.03857777640223503, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 143.0, 
+      "pixel": 0.018755555152893066, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 222.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.012622222304344177, 
+      "color-red": 252.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.4310542941093445, 
+      "description": "Loch"
+    }, 
+    {
+      "score": 0.3400999903678894, 
+      "description": "Progress M-06M"
+    }, 
+    {
+      "score": 0.296999990940094, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9806550145149231, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.960534393787384, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.9395328760147095, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9117481112480164, 
+      "description": "afterglow"
+    }, 
+    {
+      "score": 0.9012723565101624, 
+      "description": "sunset"
+    }, 
+    {
+      "score": 0.8685702681541443, 
+      "description": "dawn"
+    }, 
+    {
+      "score": 0.8674183487892151, 
+      "description": "loch"
+    }, 
+    {
+      "score": 0.8618925213813782, 
+      "description": "sunrise"
+    }, 
+    {
+      "score": 0.8558123707771301, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.8542065620422363, 
+      "description": "shore"
+    }
+  ]
+}

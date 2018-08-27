@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 170.0, 
+      "color-blue": 226.0, 
+      "pixel": 0.09215160459280014, 
+      "color-red": 55.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.017692437395453453, 
+      "color-red": 33.0
+    }, 
+    {
+      "color-green": 168.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.006875733844935894, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.06146235018968582, 
+      "color-red": 3.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.0623847059905529, 
+      "color-red": 11.0
+    }, 
+    {
+      "color-green": 233.0, 
+      "color-blue": 242.0, 
+      "pixel": 0.03630722686648369, 
+      "color-red": 222.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.08259265124797821, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 141.0, 
+      "pixel": 0.012912963517010212, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.007798088248819113, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.005031024571508169, 
+      "color-red": 167.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Jeju City"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6222000122070312, 
+      "description": "Jeju Island"
+    }, 
+    {
+      "score": 0.6204000115394592, 
+      "description": "Jeju City"
+    }, 
+    {
+      "score": 0.43369999527931213, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3430236876010895, 
+      "description": "Islet"
+    }, 
+    {
+      "score": 0.3327000141143799, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.32745471596717834, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.30239999294281006, 
+      "description": "Island"
+    }, 
+    {
+      "score": 0.26489147543907166, 
+      "description": "Aerial photography"
+    }, 
+    {
+      "score": 0.2646999955177307, 
+      "description": "Resort island"
+    }, 
+    {
+      "score": 0.24971087276935577, 
+      "description": "Sea"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9343912601470947, 
+      "description": "aerial photography"
+    }, 
+    {
+      "score": 0.9165109395980835, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8894991278648376, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8795050382614136, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.8756853342056274, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.851660430431366, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8132721781730652, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.7964567542076111, 
+      "description": "photography"
+    }, 
+    {
+      "score": 0.7908113598823547, 
+      "description": "islet"
+    }, 
+    {
+      "score": 0.7727549076080322, 
+      "description": "cape"
+    }
+  ]
+}

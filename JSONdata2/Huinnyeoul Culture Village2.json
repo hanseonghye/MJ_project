@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 75.0, 
+      "color-blue": 139.0, 
+      "pixel": 0.07660000026226044, 
+      "color-red": 46.0
+    }, 
+    {
+      "color-green": 71.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.019733333960175514, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 145.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.009666666388511658, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.006733333226293325, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 191.0, 
+      "pixel": 0.015333333052694798, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.1356000006198883, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 217.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.0004666666791308671, 
+      "color-red": 255.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.017666665837168694, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 136.0, 
+      "pixel": 0.014333332888782024, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 185.0, 
+      "pixel": 0.11353333294391632, 
+      "color-red": 65.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "cityscape"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4140501022338867, 
+      "description": "Huinnyeoul Munhwa Maul \u2502 White Ford Cultural Village"
+    }, 
+    {
+      "score": 0.5058900117874146, 
+      "description": "Hangawi"
+    }, 
+    {
+      "score": 0.44517001509666443, 
+      "description": "Sky & Sea Pension"
+    }, 
+    {
+      "score": 0.32545551657676697, 
+      "description": "Evening"
+    }, 
+    {
+      "score": 0.29804757237434387, 
+      "description": "Bird's-eye view"
+    }, 
+    {
+      "score": 0.2921000123023987, 
+      "description": "Cloud"
+    }, 
+    {
+      "score": 0.28279998898506165, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.26971277594566345, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.26418566703796387, 
+      "description": "Metropolitan area"
+    }, 
+    {
+      "score": 0.2606205642223358, 
+      "description": "Metropolis"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9686709642410278, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9557523727416992, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9411892294883728, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9210332036018372, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9098300933837891, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8377296328544617, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8140022158622742, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.7742541432380676, 
+      "description": "harbor"
+    }, 
+    {
+      "score": 0.7736424803733826, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.7708908319473267, 
+      "description": "port"
+    }
+  ]
+}

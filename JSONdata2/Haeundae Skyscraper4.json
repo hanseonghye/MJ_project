@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 55.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.11688888818025589, 
+      "color-red": 36.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.06476190686225891, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 106.0, 
+      "pixel": 0.09530159085988998, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 138.0, 
+      "pixel": 0.09682539850473404, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 32.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.0467301569879055, 
+      "color-red": 16.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 137.0, 
+      "pixel": 0.08228571712970734, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 202.0, 
+      "pixel": 0.06406348943710327, 
+      "color-red": 178.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.04374603182077408, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.051873017102479935, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 238.0, 
+      "color-blue": 241.0, 
+      "pixel": 0.05790476128458977, 
+      "color-red": 229.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "we ve the zenith"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3278000354766846, 
+      "description": "Haeundae Doosan We've the Zenith"
+    }, 
+    {
+      "score": 0.8287322521209717, 
+      "description": "Skyscraper"
+    }, 
+    {
+      "score": 0.7093999981880188, 
+      "description": ""
+    }, 
+    {
+      "score": 0.620199978351593, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5748999714851379, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.5108000040054321, 
+      "description": "Thornton Tomasetti"
+    }, 
+    {
+      "score": 0.42089998722076416, 
+      "description": "Meter"
+    }, 
+    {
+      "score": 0.4140999913215637, 
+      "description": "Mixed-use"
+    }, 
+    {
+      "score": 0.40139999985694885, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.3376826047897339, 
+      "description": "Commercial building"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9883771538734436, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9868475198745728, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.9750921726226807, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.9643909335136414, 
+      "description": "tower block"
+    }, 
+    {
+      "score": 0.9601945877075195, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.9504697322845459, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9494787454605103, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.9353640079498291, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.9333014488220215, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9293604493141174, 
+      "description": "sky"
+    }
+  ]
+}

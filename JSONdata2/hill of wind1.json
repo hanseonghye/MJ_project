@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 244.0, 
+      "color-blue": 250.0, 
+      "pixel": 0.28273332118988037, 
+      "color-red": 233.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 226.0, 
+      "pixel": 0.08186666667461395, 
+      "color-red": 160.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 209.0, 
+      "pixel": 0.03240000084042549, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.029866667464375496, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.01613333262503147, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 245.0, 
+      "pixel": 0.10499999672174454, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 202.0, 
+      "color-blue": 224.0, 
+      "pixel": 0.024133333936333656, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 168.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.012266666628420353, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.018533334136009216, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.038466665893793106, 
+      "color-red": 145.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uac70\uc81c \ubc14\ub78c \uc758 \uc5b8\ub355"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4077322483062744, 
+      "description": "Windy Hill"
+    }, 
+    {
+      "score": 1.0789086818695068, 
+      "description": "Sinseondae"
+    }, 
+    {
+      "score": 0.8646841645240784, 
+      "description": "\uc6b0\uc81c\ubd09 \uc804\ub9dd\ub300"
+    }, 
+    {
+      "score": 0.7067999839782715, 
+      "description": "Oedo"
+    }, 
+    {
+      "score": 0.5397810339927673, 
+      "description": "\uac70\uc81c\uad00\uad11\ubaa8\ub178\ub808\uc77c"
+    }, 
+    {
+      "score": 0.4625830054283142, 
+      "description": "\ud55c\ub824\uc218\ub3c4\uc870\ub9dd\ucf00\uc774\ube14\uce74"
+    }, 
+    {
+      "score": 0.367900013923645, 
+      "description": "\ud1b5\uc601 \ucf00\uc774\ube14\uce74"
+    }, 
+    {
+      "score": 0.36419999599456787, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.35961201786994934, 
+      "description": "\uc678\ub3c4"
+    }, 
+    {
+      "score": 0.322831392288208, 
+      "description": "Windmill"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9681668877601624, 
+      "description": "windmill"
+    }, 
+    {
+      "score": 0.7811921834945679, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7658914923667908, 
+      "description": "mill"
+    }, 
+    {
+      "score": 0.6354711055755615, 
+      "description": "hill"
+    }, 
+    {
+      "score": 0.6162097454071045, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.6130321621894836, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.6108773350715637, 
+      "description": "energy"
+    }, 
+    {
+      "score": 0.5759652256965637, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.5536718964576721, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.5280805230140686, 
+      "description": "reservoir"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 202.0, 
+      "color-blue": 225.0, 
+      "pixel": 0.499149888753891, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.01673378050327301, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.06362415850162506, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.021387023851275444, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 200.0, 
+      "pixel": 0.06845637410879135, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.032572705298662186, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.03937360271811485, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.00760626420378685, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.019328858703374863, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.01127516757696867, 
+      "color-red": 77.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7245150208473206, 
+      "description": "Marado"
+    }, 
+    {
+      "score": 0.5128200054168701, 
+      "description": "Choenamdan"
+    }, 
+    {
+      "score": 0.3921894431114197, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.34729230403900146, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.31559306383132935, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.266400009393692, 
+      "description": "Island"
+    }, 
+    {
+      "score": 0.24449999630451202, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.1889999955892563, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.15951913595199585, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.15440000593662262, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9153819680213928, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8948540091514587, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8832835555076599, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8463790416717529, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.6428536772727966, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.631634533405304, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.6122918725013733, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.6077557802200317, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.5900174975395203, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.566053032875061, 
+      "description": "bay"
+    }
+  ]
+}

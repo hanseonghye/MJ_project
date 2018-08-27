@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 219.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.011931394226849079, 
+      "color-red": 30.0
+    }, 
+    {
+      "color-green": 237.0, 
+      "color-blue": 239.0, 
+      "pixel": 0.08128262311220169, 
+      "color-red": 232.0
+    }, 
+    {
+      "color-green": 204.0, 
+      "color-blue": 226.0, 
+      "pixel": 0.05633516237139702, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 193.0, 
+      "pixel": 0.0214900691062212, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.0018981763860210776, 
+      "color-red": 240.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.004881024826318026, 
+      "color-red": 243.0
+    }, 
+    {
+      "color-green": 209.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.0016948003321886063, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 170.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.0023727205116301775, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.020879941061139107, 
+      "color-red": 149.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.0017625923501327634, 
+      "color-red": 16.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Gamcheon-dong"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.8355424404144287, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 0.46950000524520874, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.3977028429508209, 
+      "description": "\ub2e4\ub300\ud3ec\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 0.3675000071525574, 
+      "description": "Google Images"
+    }, 
+    {
+      "score": 0.29600000381469727, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.2801089584827423, 
+      "description": "Gamcheon-dong"
+    }, 
+    {
+      "score": 0.266400009393692, 
+      "description": "Town"
+    }, 
+    {
+      "score": 0.25815916061401367, 
+      "description": "Urban area"
+    }, 
+    {
+      "score": 0.22227753698825836, 
+      "description": "Mixed-use"
+    }, 
+    {
+      "score": 0.21899999678134918, 
+      "description": "Download"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9248886704444885, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.9216980338096619, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8815383315086365, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8696380853652954, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.8663971424102783, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.835398256778717, 
+      "description": "mixed use"
+    }, 
+    {
+      "score": 0.8263780474662781, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.654854953289032, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.5835622549057007, 
+      "description": "condominium"
+    }, 
+    {
+      "score": 0.5457470417022705, 
+      "description": "house"
+    }
+  ]
+}

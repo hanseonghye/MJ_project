@@ -1,0 +1,126 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 198.0, 
+      "color-blue": 168.0, 
+      "pixel": 0.10614648461341858, 
+      "color-red": 224.0
+    }, 
+    {
+      "color-green": 20.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.04372469708323479, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.10298123210668564, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.13566432893276215, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 215.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.018623482435941696, 
+      "color-red": 239.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.07699668407440186, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 220.0, 
+      "pixel": 0.26168566942214966, 
+      "color-red": 230.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.028413692489266396, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 74.0, 
+      "pixel": 0.03481781482696533, 
+      "color-red": 87.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 108.0, 
+      "pixel": 0.032609496265649796, 
+      "color-red": 125.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ud30c\uc8fc \uc601\uc5b4 \uc601\uc5b4 \ub9c8\uc744"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8321945667266846, 
+      "description": "Paju English Village"
+    }, 
+    {
+      "score": 0.8272165656089783, 
+      "description": "Paju English Village"
+    }, 
+    {
+      "score": 0.7057999968528748, 
+      "description": "English village"
+    }, 
+    {
+      "score": 0.6459609270095825, 
+      "description": "English Village Paju Camp"
+    }, 
+    {
+      "score": 0.6308940649032593, 
+      "description": "Yangpyeong"
+    }, 
+    {
+      "score": 0.6137999892234802, 
+      "description": "English Language"
+    }, 
+    {
+      "score": 0.6136043667793274, 
+      "description": "Imjingak"
+    }, 
+    {
+      "score": 0.43761953711509705, 
+      "description": "\ud30c\uc8fc\uc601\uc5b4\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.3701511323451996, 
+      "description": "Yesgil"
+    }, 
+    {
+      "score": 0.3201660215854645, 
+      "description": "\uc2e0\ud61c\uc6d0\ub9c8\uc744"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.811203122138977, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.5858637094497681, 
+      "description": "facade"
+    }, 
+    {
+      "score": 0.5255305767059326, 
+      "description": "signage"
+    }
+  ]
+}

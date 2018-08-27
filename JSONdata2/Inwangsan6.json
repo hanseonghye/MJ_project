@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 81.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.09766257554292679, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.044742729514837265, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.24438787996768951, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.03255419433116913, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.008022834546864033, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.03479132801294327, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.504204273223877, 
+      "color-red": 27.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.01049139816313982, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.0023914217017591, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.0015428527258336544, 
+      "color-red": 206.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "N Seoul Tower"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2904651165008545, 
+      "description": "N Seoul Tower"
+    }, 
+    {
+      "score": 0.5256240367889404, 
+      "description": "Namsan"
+    }, 
+    {
+      "score": 0.4553000032901764, 
+      "description": "Nightscape"
+    }, 
+    {
+      "score": 0.451200008392334, 
+      "description": ""
+    }, 
+    {
+      "score": 0.43098005652427673, 
+      "description": "Kobe Port Tower"
+    }, 
+    {
+      "score": 0.40470001101493835, 
+      "description": "Apsan Park"
+    }, 
+    {
+      "score": 0.3901999890804291, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3684000074863434, 
+      "description": "\ub2e4\ub9ac\uc548\uad00\uad11\uc9c0"
+    }, 
+    {
+      "score": 0.29668375849723816, 
+      "description": "Night"
+    }, 
+    {
+      "score": 0.24719999730587006, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9864612221717834, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9838089346885681, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.983508825302124, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.972456157207489, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.9722084999084473, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9545356631278992, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.9315810203552246, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9291369318962097, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9249844551086426, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8636346459388733, 
+      "description": "bird's eye view"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 86.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.0177221167832613, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.07963138073682785, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.02134530618786812, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.23062381148338318, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 206.0, 
+      "color-blue": 240.0, 
+      "pixel": 0.15997163951396942, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.002599243773147464, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.003229363588616252, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 198.0, 
+      "pixel": 0.11389414221048355, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.022290484979748726, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 224.0, 
+      "color-blue": 254.0, 
+      "pixel": 0.03780718520283699, 
+      "color-red": 183.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Anmyeondo Recreational Forest"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1871750354766846, 
+      "description": "Anmyeondo"
+    }, 
+    {
+      "score": 0.8827500343322754, 
+      "description": "Anmyeondo Recreational Forest"
+    }, 
+    {
+      "score": 0.7892999649047852, 
+      "description": "\uaf43\uc9c0\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 0.6797999739646912, 
+      "description": ""
+    }, 
+    {
+      "score": 0.6035700440406799, 
+      "description": "\uadf8\ub9bc\uc774\uc788\ub294\uc815\uc6d0"
+    }, 
+    {
+      "score": 0.5440499782562256, 
+      "description": "Oedo"
+    }, 
+    {
+      "score": 0.5407999753952026, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.5203999876976013, 
+      "description": "Recreation"
+    }, 
+    {
+      "score": 0.5107210278511047, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.35679998993873596, 
+      "description": "TripAdvisor"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9733179807662964, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9393208622932434, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9358731508255005, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.9345294833183289, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.8870777487754822, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.8854769468307495, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8833812475204468, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8573093414306641, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8516845107078552, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8401452898979187, 
+      "description": "headland"
+    }
+  ]
+}

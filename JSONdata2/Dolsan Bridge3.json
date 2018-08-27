@@ -1,0 +1,122 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 48.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.06853333115577698, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 41.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.013288889080286026, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 140.0, 
+      "pixel": 0.002133333357051015, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 229.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.002933333395048976, 
+      "color-red": 251.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.190711110830307, 
+      "color-red": 16.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 106.0, 
+      "pixel": 0.0282222218811512, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 62.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.00022222222469281405, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 71.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.007688888814300299, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.00786666665226221, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 17.0, 
+      "color-blue": 3.0, 
+      "pixel": 0.009955555200576782, 
+      "color-red": 53.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.58214271068573, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.2985000014305115, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8885546326637268, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7907781600952148, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.7703047394752502, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.7628746032714844, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.7302367687225342, 
+      "description": "lighting"
+    }, 
+    {
+      "score": 0.6583907008171082, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.6541150212287903, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.644738495349884, 
+      "description": "calm"
+    }, 
+    {
+      "score": 0.6211848855018616, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.5714005827903748, 
+      "description": "dawn"
+    }
+  ]
+}

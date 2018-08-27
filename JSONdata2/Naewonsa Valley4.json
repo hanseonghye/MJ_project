@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 85.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.13038605451583862, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.06021170690655708, 
+      "color-red": 55.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.013947696425020695, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.10193026065826416, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.13991282880306244, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.1046077236533165, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.03829389810562134, 
+      "color-red": 61.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.017995018512010574, 
+      "color-red": 73.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.024097135290503502, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.01662515476346016, 
+      "color-red": 30.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ub0b4\uc6d0\uc0ac \uacc4\uace1"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8293307423591614, 
+      "description": "Waterfall"
+    }, 
+    {
+      "score": 0.7508431077003479, 
+      "description": "Stream"
+    }, 
+    {
+      "score": 0.6290112733840942, 
+      "description": "Water resources"
+    }, 
+    {
+      "score": 0.5401265621185303, 
+      "description": "Watercourse"
+    }, 
+    {
+      "score": 0.4931570291519165, 
+      "description": "River"
+    }, 
+    {
+      "score": 0.4727994501590729, 
+      "description": "Stream bed"
+    }, 
+    {
+      "score": 0.3805221617221832, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.36921536922454834, 
+      "description": "Nature reserve"
+    }, 
+    {
+      "score": 0.2858000099658966, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.2253870815038681, 
+      "description": "Leaf"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9716846942901611, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9562101364135742, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9353830814361572, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9265258312225342, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.9131587743759155, 
+      "description": "stream"
+    }, 
+    {
+      "score": 0.8812426328659058, 
+      "description": "watercourse"
+    }, 
+    {
+      "score": 0.8734564781188965, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8569679856300354, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.8551968932151794, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.797195553779602, 
+      "description": "plant"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 195.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.040142856538295746, 
+      "color-red": 227.0
+    }, 
+    {
+      "color-green": 18.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.09407142549753189, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.06892856955528259, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 144.0, 
+      "color-blue": 219.0, 
+      "pixel": 0.014571428298950195, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.01664285734295845, 
+      "color-red": 222.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.009499999694526196, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.019428571686148643, 
+      "color-red": 228.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 180.0, 
+      "pixel": 0.03621428459882736, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.03807142749428749, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.01157142873853445, 
+      "color-red": 249.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\u99f1 \u5c71 \u516c\u5712 \u591c\u666f"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6265486478805542, 
+      "description": "Naksan Park"
+    }, 
+    {
+      "score": 0.8718497157096863, 
+      "description": "Namdaemun"
+    }, 
+    {
+      "score": 0.7857000231742859, 
+      "description": "Naksan"
+    }, 
+    {
+      "score": 0.6430000066757202, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.6113255620002747, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.592345654964447, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 0.5529906749725342, 
+      "description": "Seoul station"
+    }, 
+    {
+      "score": 0.5409117937088013, 
+      "description": "Hyehwa station"
+    }, 
+    {
+      "score": 0.5016000270843506, 
+      "description": "Nightscape"
+    }, 
+    {
+      "score": 0.4329240024089813, 
+      "description": "Night"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9747853875160217, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9351021647453308, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9143046140670776, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.898875892162323, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8497405648231506, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8469732999801636, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.8159748911857605, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8096045851707458, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.7715668082237244, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.7632135152816772, 
+      "description": "skyline"
+    }
+  ]
+}

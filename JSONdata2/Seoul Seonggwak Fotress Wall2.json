@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 57.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.1399555504322052, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 232.0, 
+      "pixel": 0.10204444080591202, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.07257777452468872, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.08751111477613449, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.06253333389759064, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.052799999713897705, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 34.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.03422222286462784, 
+      "color-red": 21.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.06008888781070709, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 227.0, 
+      "color-blue": 249.0, 
+      "pixel": 0.023777777329087257, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.028844444081187248, 
+      "color-red": 81.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc778\uc655\uc0b0"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1955901384353638, 
+      "description": "Inwangsan"
+    }, 
+    {
+      "score": 0.7848593592643738, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.7064999938011169, 
+      "description": ""
+    }, 
+    {
+      "score": 0.6941999793052673, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.6384620666503906, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.593999981880188, 
+      "description": "TripAdvisor"
+    }, 
+    {
+      "score": 0.5059000253677368, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.4814999997615814, 
+      "description": "Review"
+    }, 
+    {
+      "score": 0.36023762822151184, 
+      "description": "Mountain range"
+    }, 
+    {
+      "score": 0.3578999936580658, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9353334307670593, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.9276269674301147, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9261179566383362, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.9141379594802856, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9121191501617432, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8849452137947083, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.8627163767814636, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8507595062255859, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.8418352603912354, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.8381582498550415, 
+      "description": "hill"
+    }
+  ]
+}

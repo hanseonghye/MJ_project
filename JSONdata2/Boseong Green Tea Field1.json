@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 159.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.16507937014102936, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.1765872985124588, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 244.0, 
+      "color-blue": 211.0, 
+      "pixel": 0.006190476007759571, 
+      "color-red": 243.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.03380952402949333, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.03500000014901161, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.12460317462682724, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 171.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.029206348583102226, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.10404761880636215, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 99.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.021746031939983368, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.031507935374975204, 
+      "color-red": 153.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Boseong County"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0118999481201172, 
+      "description": "Green tea"
+    }, 
+    {
+      "score": 0.8711627125740051, 
+      "description": "Darjeeling white tea"
+    }, 
+    {
+      "score": 0.856499969959259, 
+      "description": "Tea"
+    }, 
+    {
+      "score": 0.8168817162513733, 
+      "description": "Tea plant"
+    }, 
+    {
+      "score": 0.7747300267219543, 
+      "description": "Boseong Green Tea Field-up treat Ltd. Bo pluralism"
+    }, 
+    {
+      "score": 0.6848000288009644, 
+      "description": "Footage"
+    }, 
+    {
+      "score": 0.6825000047683716, 
+      "description": "Stock footage"
+    }, 
+    {
+      "score": 0.6043000221252441, 
+      "description": "Pond5"
+    }, 
+    {
+      "score": 0.4657000005245209, 
+      "description": "Royalty-free"
+    }, 
+    {
+      "score": 0.423256516456604, 
+      "description": "Plantation"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9328676462173462, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8775885105133057, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.8632770776748657, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.860414445400238, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.7968364953994751, 
+      "description": "plantation"
+    }, 
+    {
+      "score": 0.7711846232414246, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.764109194278717, 
+      "description": "tea plant"
+    }, 
+    {
+      "score": 0.7630780339241028, 
+      "description": "terrace"
+    }, 
+    {
+      "score": 0.7457469701766968, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.7327139973640442, 
+      "description": "crop"
+    }
+  ]
+}

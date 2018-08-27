@@ -1,0 +1,142 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 97.0, 
+      "color-blue": 148.0, 
+      "pixel": 0.06563492119312286, 
+      "color-red": 46.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.07007936388254166, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.051825396716594696, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 234.0, 
+      "color-blue": 241.0, 
+      "pixel": 0.017222221940755844, 
+      "color-red": 224.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 221.0, 
+      "pixel": 0.07722222059965134, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 71.0, 
+      "pixel": 0.048650793731212616, 
+      "color-red": 131.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.02380952425301075, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 23.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.03222222253680229, 
+      "color-red": 23.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.041904762387275696, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.013571428135037422, 
+      "color-red": 156.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "coast"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.5690200328826904, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.5037246942520142, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.49037307500839233, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.48590072989463806, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.39410001039505005, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.34619998931884766, 
+      "description": "Microsoft Azure"
+    }, 
+    {
+      "score": 0.34369999170303345, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9648585915565491, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9475683569908142, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8920071125030518, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.879037082195282, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8520471453666687, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8499506115913391, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8325787782669067, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8223086595535278, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7407339215278625, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7022675275802612, 
+      "description": "terrain"
+    }
+  ]
+}

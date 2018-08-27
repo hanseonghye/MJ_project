@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 164.0, 
+      "color-blue": 12.0, 
+      "pixel": 0.15059523284435272, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 4.0, 
+      "pixel": 0.09380952268838882, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 202.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.01696428656578064, 
+      "color-red": 218.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.13607142865657806, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 206.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.1148214265704155, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 169.0, 
+      "color-blue": 109.0, 
+      "pixel": 0.0035714285913854837, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 224.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.05273809656500816, 
+      "color-red": 240.0
+    }, 
+    {
+      "color-green": 219.0, 
+      "color-blue": 9.0, 
+      "pixel": 0.05285714194178581, 
+      "color-red": 250.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 9.0, 
+      "pixel": 0.0476190485060215, 
+      "color-red": 231.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.02767857164144516, 
+      "color-red": 174.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\u0e14\u0e2d\u0e01 \u0e01\u0e23\u0e30\u0e16\u0e34\u0e19 \u0e17\u0e38\u0e48\u0e07 \u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8658999800682068, 
+      "description": "All Organic Treasures GmbH"
+    }, 
+    {
+      "score": 0.6298500299453735, 
+      "description": "Yokohama"
+    }, 
+    {
+      "score": 0.5824000239372253, 
+      "description": "Yellow"
+    }, 
+    {
+      "score": 0.5546000003814697, 
+      "description": "Rapeseed"
+    }, 
+    {
+      "score": 0.5525000095367432, 
+      "description": "Oil"
+    }, 
+    {
+      "score": 0.5491999983787537, 
+      "description": "Common sunflower"
+    }, 
+    {
+      "score": 0.5360000133514404, 
+      "description": "Flower"
+    }, 
+    {
+      "score": 0.5338000059127808, 
+      "description": "Xyris indica"
+    }, 
+    {
+      "score": 0.5167499780654907, 
+      "description": "\u0e01\u0e23\u0e30\u0e16\u0e34\u0e19\u0e17\u0e38\u0e48\u0e07@\u0e1a\u0e36\u0e07\u0e42\u0e02\u0e07\u0e2b\u0e25\u0e07"
+    }, 
+    {
+      "score": 0.5001999735832214, 
+      "description": "Seed"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9595020413398743, 
+      "description": "rapeseed"
+    }, 
+    {
+      "score": 0.942459762096405, 
+      "description": "canola"
+    }, 
+    {
+      "score": 0.9407415986061096, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9395595788955688, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.9276965260505676, 
+      "description": "mustard plant"
+    }, 
+    {
+      "score": 0.9080882668495178, 
+      "description": "mustard and cabbage family"
+    }, 
+    {
+      "score": 0.8729499578475952, 
+      "description": "mustard"
+    }, 
+    {
+      "score": 0.8690356016159058, 
+      "description": "brassica rapa"
+    }, 
+    {
+      "score": 0.8610873222351074, 
+      "description": "mustard"
+    }, 
+    {
+      "score": 0.8096809387207031, 
+      "description": "grassland"
+    }
+  ]
+}

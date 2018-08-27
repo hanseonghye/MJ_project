@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 139.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.07978494465351105, 
+      "color-red": 253.0
+    }, 
+    {
+      "color-green": 63.0, 
+      "color-blue": 41.0, 
+      "pixel": 0.01921146921813488, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 4.0, 
+      "color-blue": 5.0, 
+      "pixel": 0.19412186741828918, 
+      "color-red": 5.0
+    }, 
+    {
+      "color-green": 172.0, 
+      "color-blue": 38.0, 
+      "pixel": 0.0015770609024912119, 
+      "color-red": 242.0
+    }, 
+    {
+      "color-green": 239.0, 
+      "color-blue": 70.0, 
+      "pixel": 0.00021505376207642257, 
+      "color-red": 255.0
+    }, 
+    {
+      "color-green": 221.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.0003584229270927608, 
+      "color-red": 255.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.2549820840358734, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.0002867383591365069, 
+      "color-red": 252.0
+    }, 
+    {
+      "color-green": 102.0, 
+      "color-blue": 0.0, 
+      "pixel": 7.168458978412673e-05, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.02752688154578209, 
+      "color-red": 134.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Beach"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.04671049118042, 
+      "description": "Zlatni Rat"
+    }, 
+    {
+      "score": 0.8721082210540771, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.7378113269805908, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.6378900408744812, 
+      "description": "Songjeong station"
+    }, 
+    {
+      "score": 0.5517600178718567, 
+      "description": "\u677e\u4ead\u521d\u7b49\u5b66\u6821 (\u6d77\u96f2\u53f0\u533a)"
+    }, 
+    {
+      "score": 0.5246999859809875, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4487999975681305, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.40598639845848083, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.383899986743927, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3603000044822693, 
+      "description": "Sand"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.954113781452179, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.941331148147583, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9340806007385254, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9259783625602722, 
+      "description": "sunset"
+    }, 
+    {
+      "score": 0.9144735336303711, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.9025189280509949, 
+      "description": "sunrise"
+    }, 
+    {
+      "score": 0.8606213331222534, 
+      "description": "afterglow"
+    }, 
+    {
+      "score": 0.7899675965309143, 
+      "description": "dawn"
+    }, 
+    {
+      "score": 0.7874306440353394, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.7732276320457458, 
+      "description": "shore"
+    }
+  ]
+}

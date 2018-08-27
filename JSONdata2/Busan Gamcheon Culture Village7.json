@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 156.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.018923712894320488, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 181.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.008363605476915836, 
+      "color-red": 230.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 184.0, 
+      "pixel": 0.011911801993846893, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.030413111671805382, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.03117343969643116, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.01757201924920082, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.0010137703502550721, 
+      "color-red": 234.0
+    }, 
+    {
+      "color-green": 17.0, 
+      "color-blue": 12.0, 
+      "pixel": 0.02745628170669079, 
+      "color-red": 15.0
+    }, 
+    {
+      "color-green": 222.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.00016896173474378884, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 227.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.0042240433394908905, 
+      "color-red": 31.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Gamcheon Culture Village"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4506800174713135, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 1.062000036239624, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 1.0507500171661377, 
+      "description": "Gamcheon-dong"
+    }, 
+    {
+      "score": 0.6089000105857849, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5248000025749207, 
+      "description": "Culture"
+    }, 
+    {
+      "score": 0.5220999717712402, 
+      "description": "Village"
+    }, 
+    {
+      "score": 0.5159000158309937, 
+      "description": "Town"
+    }, 
+    {
+      "score": 0.5105999708175659, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.4494999945163727, 
+      "description": "Image"
+    }, 
+    {
+      "score": 0.3935000002384186, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8241842985153198, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.7404661178588867, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7143850326538086, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6881939768791199, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.6741764545440674, 
+      "description": "resort town"
+    }, 
+    {
+      "score": 0.6508250832557678, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6437156796455383, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.6192702054977417, 
+      "description": "village"
+    }, 
+    {
+      "score": 0.530268132686615, 
+      "description": "resort"
+    }
+  ]
+}

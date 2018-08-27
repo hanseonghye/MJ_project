@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 94.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.01899999938905239, 
+      "color-red": 32.0
+    }, 
+    {
+      "color-green": 210.0, 
+      "color-blue": 242.0, 
+      "pixel": 0.05820000171661377, 
+      "color-red": 148.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 142.0, 
+      "pixel": 0.012466666288673878, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 110.0, 
+      "pixel": 0.01746666617691517, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 242.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.06346666812896729, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.010200000368058681, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.024533333256840706, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 62.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.04259999841451645, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 228.0, 
+      "pixel": 0.032999999821186066, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.013133333064615726, 
+      "color-red": 30.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc131\uc0b0 \uc77c\ucd9c\ubd09"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3514490127563477, 
+      "description": "Seongsan Ilchulbong"
+    }, 
+    {
+      "score": 1.1510729789733887, 
+      "description": "Seongsan Sunrise Peak"
+    }, 
+    {
+      "score": 0.7199999690055847, 
+      "description": "Jeju Island"
+    }, 
+    {
+      "score": 0.6881999969482422, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5905880928039551, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.4674000144004822, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.44080302119255066, 
+      "description": "CORE TRAVEL"
+    }, 
+    {
+      "score": 0.4041000008583069, 
+      "description": "Volcano"
+    }, 
+    {
+      "score": 0.3761509656906128, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.3626999855041504, 
+      "description": "Tourist attraction"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9442574381828308, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9374139308929443, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9326781034469604, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9213775396347046, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8974804282188416, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8606123328208923, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8520196676254272, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8401522040367126, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.804338812828064, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.7936917543411255, 
+      "description": "cape"
+    }
+  ]
+}

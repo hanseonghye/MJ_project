@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 18.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.01298091933131218, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 250.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.32882389426231384, 
+      "color-red": 239.0
+    }, 
+    {
+      "color-green": 23.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.008445417508482933, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.05575539544224739, 
+      "color-red": 33.0
+    }, 
+    {
+      "color-green": 207.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.004300907254219055, 
+      "color-red": 200.0
+    }, 
+    {
+      "color-green": 166.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.008367219008505344, 
+      "color-red": 148.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.026665624231100082, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.0006255864864215255, 
+      "color-red": 252.0
+    }, 
+    {
+      "color-green": 171.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.001172974705696106, 
+      "color-red": 253.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.003675320651382208, 
+      "color-red": 156.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "vegetation"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6671464443206787, 
+      "description": "Garden roses"
+    }, 
+    {
+      "score": 0.8683950901031494, 
+      "description": "Ulsan Grand Park"
+    }, 
+    {
+      "score": 0.7977476716041565, 
+      "description": "Memorial rose"
+    }, 
+    {
+      "score": 0.7763800024986267, 
+      "description": "Chugje"
+    }, 
+    {
+      "score": 0.7409743666648865, 
+      "description": "Floribunda"
+    }, 
+    {
+      "score": 0.5666999816894531, 
+      "description": "Rosa wichuraiana"
+    }, 
+    {
+      "score": 0.46387001872062683, 
+      "description": "SK\uc5d0\ub108\uc9c0\uc6b8\uc0b0CLX"
+    }, 
+    {
+      "score": 0.4381161630153656, 
+      "description": "Shrub"
+    }, 
+    {
+      "score": 0.4368000030517578, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.38519999384880066, 
+      "description": "SK Energy"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9712144136428833, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9457989931106567, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8785180449485779, 
+      "description": "flowering plant"
+    }, 
+    {
+      "score": 0.8779619932174683, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8582123517990112, 
+      "description": "flora"
+    }, 
+    {
+      "score": 0.8343930244445801, 
+      "description": "garden roses"
+    }, 
+    {
+      "score": 0.8190074563026428, 
+      "description": "rose family"
+    }, 
+    {
+      "score": 0.8104279637336731, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7348714470863342, 
+      "description": "shrub"
+    }, 
+    {
+      "score": 0.7108672857284546, 
+      "description": "rose"
+    }
+  ]
+}

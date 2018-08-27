@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 167.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.14161889255046844, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 232.0, 
+      "color-blue": 228.0, 
+      "pixel": 0.13875238597393036, 
+      "color-red": 222.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 213.0, 
+      "pixel": 0.3161343038082123, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.03207753226161003, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 191.0, 
+      "pixel": 0.02907452918589115, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.02607152611017227, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 172.0, 
+      "pixel": 0.02115752175450325, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.005937756039202213, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.004231504164636135, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.040267542004585266, 
+      "color-red": 190.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "beach"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7088355422019958, 
+      "description": "Cove"
+    }, 
+    {
+      "score": 0.5995070338249207, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.5924914479255676, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.5264548659324646, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.395735502243042, 
+      "description": "Inlet"
+    }, 
+    {
+      "score": 0.36641189455986023, 
+      "description": "Caribbean"
+    }, 
+    {
+      "score": 0.34911471605300903, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.3334085941314697, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.31124404072761536, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.2790638208389282, 
+      "description": "Vacation"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9829307198524475, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.9684514999389648, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9565383791923523, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.9539428949356079, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9354397654533386, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9258495569229126, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8832640647888184, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8534859418869019, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8520987629890442, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.837655782699585, 
+      "description": "tourism"
+    }
+  ]
+}

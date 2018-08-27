@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 93.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.01874116063117981, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.008981612510979176, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 75.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.026096181944012642, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 44.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.03161244839429855, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.009264498017728329, 
+      "color-red": 221.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.009900989942252636, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.010042432695627213, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 220.0, 
+      "color-blue": 169.0, 
+      "pixel": 0.00021216407185420394, 
+      "color-red": 255.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.11280056834220886, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 215.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.00028288541943766177, 
+      "color-red": 227.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "fireworks"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4056349992752075, 
+      "description": "Hwacheon"
+    }, 
+    {
+      "score": 0.6829767227172852, 
+      "description": "New Year's Eve"
+    }, 
+    {
+      "score": 0.5598000288009644, 
+      "description": "\uc5bc\uc74c\ub098\ub77c \ud654\ucc9c \uc0b0\ucc9c\uc5b4 \ucd95\uc81c"
+    }, 
+    {
+      "score": 0.532443642616272, 
+      "description": "Fireworks"
+    }, 
+    {
+      "score": 0.49771538376808167, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.4578000009059906, 
+      "description": ""
+    }, 
+    {
+      "score": 0.45509999990463257, 
+      "description": "2018"
+    }, 
+    {
+      "score": 0.42669999599456787, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.37450000643730164, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.328900009393692, 
+      "description": "September"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9862468242645264, 
+      "description": "fireworks"
+    }, 
+    {
+      "score": 0.8402695059776306, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8342445492744446, 
+      "description": "event"
+    }, 
+    {
+      "score": 0.8258355259895325, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.8001542091369629, 
+      "description": "festival"
+    }, 
+    {
+      "score": 0.7994272112846375, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7832451462745667, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.7802342176437378, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.7480222582817078, 
+      "description": "new year's eve"
+    }, 
+    {
+      "score": 0.7201987504959106, 
+      "description": "f\u00eate"
+    }
+  ]
+}

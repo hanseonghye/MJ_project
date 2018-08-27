@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 195.0, 
+      "color-blue": 200.0, 
+      "pixel": 0.1621333360671997, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 213.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.029200000688433647, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 137.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.008133333176374435, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 97.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.012199999764561653, 
+      "color-red": 35.0
+    }, 
+    {
+      "color-green": 38.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.019066667184233665, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 62.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.01353333331644535, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 15.0, 
+      "color-blue": 8.0, 
+      "pixel": 0.04673333466053009, 
+      "color-red": 19.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 140.0, 
+      "pixel": 0.00139999995008111, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.10540000349283218, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.00706666661426425, 
+      "color-red": 71.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Jinhae Gunhangje Festival"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.326474666595459, 
+      "description": "Jinhae Gunhangje Festival"
+    }, 
+    {
+      "score": 0.8919966220855713, 
+      "description": "Cherry blossom"
+    }, 
+    {
+      "score": 0.8894407749176025, 
+      "description": "Busan"
+    }, 
+    {
+      "score": 0.7517422437667847, 
+      "description": "Gyeonghwa-dong"
+    }, 
+    {
+      "score": 0.5761500000953674, 
+      "description": "Jinhae Gunhangje Festival"
+    }, 
+    {
+      "score": 0.4327879846096039, 
+      "description": "Gyeonghwa-dong"
+    }, 
+    {
+      "score": 0.41679999232292175, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.27889999747276306, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.27630001306533813, 
+      "description": ""
+    }, 
+    {
+      "score": 0.26028820872306824, 
+      "description": "Leisure"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9695444107055664, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9682936668395996, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9093923568725586, 
+      "description": "cherry blossom"
+    }, 
+    {
+      "score": 0.8899320960044861, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.8826403617858887, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8728396892547607, 
+      "description": "blossom"
+    }, 
+    {
+      "score": 0.6610513925552368, 
+      "description": "branch"
+    }, 
+    {
+      "score": 0.6544798612594604, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.6530323028564453, 
+      "description": "winter"
+    }, 
+    {
+      "score": 0.6355027556419373, 
+      "description": "sky"
+    }
+  ]
+}

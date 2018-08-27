@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 121.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.05836734548211098, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 71.0, 
+      "pixel": 0.0024489795323461294, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.03272108733654022, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.025442177429795265, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.05714285746216774, 
+      "color-red": 146.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.06190476194024086, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.05925169959664345, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.1878231316804886, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 80.0, 
+      "pixel": 0.06183673441410065, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 163.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.020884353667497635, 
+      "color-red": 132.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "urban area"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8616229295730591, 
+      "description": "Samsung Galaxy S4"
+    }, 
+    {
+      "score": 0.8434535264968872, 
+      "description": "Urban area"
+    }, 
+    {
+      "score": 0.587006151676178, 
+      "description": "Metropolitan area"
+    }, 
+    {
+      "score": 0.5363442301750183, 
+      "description": "Cityscape"
+    }, 
+    {
+      "score": 0.5340306758880615, 
+      "description": "Suburb"
+    }, 
+    {
+      "score": 0.41819998621940613, 
+      "description": "Sky plc"
+    }, 
+    {
+      "score": 0.0369579903781414, 
+      "description": ""
+    }, 
+    {
+      "score": 0.0, 
+      "description": "Samsung Galaxy S series"
+    }, 
+    {
+      "score": 0.0, 
+      "description": "Mobile Phones"
+    }, 
+    {
+      "score": 0.0, 
+      "description": "Samsung Galaxy"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9679024815559387, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9557828307151794, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9035784602165222, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.9024780988693237, 
+      "description": "slum"
+    }, 
+    {
+      "score": 0.8774110674858093, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8739563226699829, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.7981902360916138, 
+      "description": "suburb"
+    }, 
+    {
+      "score": 0.7382558584213257, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.7198046445846558, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.6587204933166504, 
+      "description": "metropolis"
+    }
+  ]
+}

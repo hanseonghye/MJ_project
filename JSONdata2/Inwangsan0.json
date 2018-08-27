@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 189.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.12687687575817108, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.0665438175201416, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 206.0, 
+      "pixel": 0.17997543513774872, 
+      "color-red": 165.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.06258530914783478, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.04995904862880707, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.04968604817986488, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.043748293071985245, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 152.0, 
+      "pixel": 0.05384930223226547, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.03310128301382065, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.007507507689297199, 
+      "color-red": 37.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Seoul"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.783293604850769, 
+      "description": "SOON"
+    }, 
+    {
+      "score": 0.5773878693580627, 
+      "description": "Inwangsan"
+    }, 
+    {
+      "score": 0.48089998960494995, 
+      "description": "National Treasure"
+    }, 
+    {
+      "score": 0.4320000112056732, 
+      "description": ""
+    }, 
+    {
+      "score": 0.2720564305782318, 
+      "description": "\uad50\ucd0c\uce58\ud0a8 \uc11c\ucd081\ud638"
+    }, 
+    {
+      "score": 0.26773568987846375, 
+      "description": "Metropolitan area"
+    }, 
+    {
+      "score": 0.2117609977722168, 
+      "description": "Aerial photography"
+    }, 
+    {
+      "score": 0.20720000565052032, 
+      "description": "Naver Blog"
+    }, 
+    {
+      "score": 0.20555858314037323, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.18145880103111267, 
+      "description": "Skyline"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9867631793022156, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9854709506034851, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9750006794929504, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9676782488822937, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9659964442253113, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9588921070098877, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9381421804428101, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9267417788505554, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.9144924879074097, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.8911824226379395, 
+      "description": "skyscraper"
+    }
+  ]
+}

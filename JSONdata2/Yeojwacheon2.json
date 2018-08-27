@@ -1,0 +1,146 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 192.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.24480000138282776, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 43.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.057733334600925446, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.005200000014156103, 
+      "color-red": 165.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.023333333432674408, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.0006000000284984708, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 227.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.15266667306423187, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.0038666666951030493, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.11840000003576279, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 109.0, 
+      "pixel": 6.666666740784422e-05, 
+      "color-red": 255.0
+    }, 
+    {
+      "color-green": 61.0, 
+      "color-blue": 74.0, 
+      "pixel": 6.666666740784422e-05, 
+      "color-red": 223.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Jinhae-gu"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4279284477233887, 
+      "description": "Cherry blossom"
+    }, 
+    {
+      "score": 1.2653818130493164, 
+      "description": "Yeojwacheon"
+    }, 
+    {
+      "score": 0.4540500044822693, 
+      "description": "Yeouido"
+    }, 
+    {
+      "score": 0.3555999994277954, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.31060701608657837, 
+      "description": "Beotkkot-gil"
+    }, 
+    {
+      "score": 0.3043000102043152, 
+      "description": "Travel Agent"
+    }, 
+    {
+      "score": 0.28458112478256226, 
+      "description": "Jinhae-gu"
+    }, 
+    {
+      "score": 0.24959999322891235, 
+      "description": ""
+    }, 
+    {
+      "score": 0.24269999563694, 
+      "description": "Busshotell"
+    }, 
+    {
+      "score": 0.2370000034570694, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9660986065864563, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9609366655349731, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8911885619163513, 
+      "description": "cherry blossom"
+    }, 
+    {
+      "score": 0.8893799781799316, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8647952079772949, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.8490322828292847, 
+      "description": "branch"
+    }, 
+    {
+      "score": 0.840558648109436, 
+      "description": "blossom"
+    }, 
+    {
+      "score": 0.5129316449165344, 
+      "description": "sky"
+    }
+  ]
+}

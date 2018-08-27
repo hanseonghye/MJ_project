@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 47.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.12126666307449341, 
+      "color-red": 37.0
+    }, 
+    {
+      "color-green": 45.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.14259999990463257, 
+      "color-red": 6.0
+    }, 
+    {
+      "color-green": 145.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.01666666753590107, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.008200000040233135, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 110.0, 
+      "pixel": 0.01706666685640812, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 142.0, 
+      "color-blue": 208.0, 
+      "pixel": 0.0023333332501351833, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.00033333332976326346, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.00026666666963137686, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.1080000028014183, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 245.0, 
+      "color-blue": 153.0, 
+      "pixel": 6.666666740784422e-05, 
+      "color-red": 255.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Yeongdo District"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0772850513458252, 
+      "description": "Huinnyeoul Munhwa Maul \u2502 White Ford Cultural Village"
+    }, 
+    {
+      "score": 0.5965999960899353, 
+      "description": "Lotte Department Store, Gwangbok"
+    }, 
+    {
+      "score": 0.5501999855041504, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5317400097846985, 
+      "description": "\ud770\uc5ec\uc6b8\ub9c8\uc744\ud68c\uad00"
+    }, 
+    {
+      "score": 0.48350000381469727, 
+      "description": "Lotte Department Store"
+    }, 
+    {
+      "score": 0.4213915765285492, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.3986999988555908, 
+      "description": ""
+    }, 
+    {
+      "score": 0.260699987411499, 
+      "description": "Town"
+    }, 
+    {
+      "score": 0.2506999969482422, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.22530101239681244, 
+      "description": "Bird's-eye view"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9331339597702026, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8673487901687622, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8279979825019836, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.808771550655365, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7761215567588806, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7516925930976868, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.751436173915863, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.7092011570930481, 
+      "description": "bird's eye view"
+    }, 
+    {
+      "score": 0.6561166644096375, 
+      "description": "aerial photography"
+    }, 
+    {
+      "score": 0.6318655610084534, 
+      "description": "metropolitan area"
+    }
+  ]
+}

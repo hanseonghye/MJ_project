@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 118.0, 
+      "color-blue": 147.0, 
+      "pixel": 0.10841269791126251, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 239.0, 
+      "pixel": 0.19730158150196075, 
+      "color-red": 219.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.06253968179225922, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 177.0, 
+      "pixel": 0.11857143044471741, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 227.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.11269841343164444, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 204.0, 
+      "color-blue": 226.0, 
+      "pixel": 0.22611111402511597, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.03849206492304802, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 62.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.009841269813477993, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.028015872463583946, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.03412698581814766, 
+      "color-red": 42.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Haeundae District"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0600817203521729, 
+      "description": "Haeundae Beach"
+    }, 
+    {
+      "score": 1.0146214962005615, 
+      "description": "Haeundae Beach"
+    }, 
+    {
+      "score": 0.9587193727493286, 
+      "description": "South Gyeongsang Province"
+    }, 
+    {
+      "score": 0.8694559335708618, 
+      "description": "Suyeong District"
+    }, 
+    {
+      "score": 0.5551499724388123, 
+      "description": "Marine City, Busan"
+    }, 
+    {
+      "score": 0.4512999951839447, 
+      "description": "Stock photography"
+    }, 
+    {
+      "score": 0.44020000100135803, 
+      "description": "Provinces of South Korea"
+    }, 
+    {
+      "score": 0.3950999975204468, 
+      "description": "District"
+    }, 
+    {
+      "score": 0.34380000829696655, 
+      "description": "Alamy"
+    }, 
+    {
+      "score": 0.302700012922287, 
+      "description": "Gyeongsang dialect"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9544782638549805, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.9336351752281189, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9150962829589844, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.875464141368866, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8659606575965881, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.8636589646339417, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.8493689894676208, 
+      "description": "tower block"
+    }, 
+    {
+      "score": 0.849315881729126, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.812629759311676, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.8107627630233765, 
+      "description": "metropolis"
+    }
+  ]
+}

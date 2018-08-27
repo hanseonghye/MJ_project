@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 169.0, 
+      "color-blue": 229.0, 
+      "pixel": 0.0806666687130928, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 237.0, 
+      "pixel": 0.05119999870657921, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 147.0, 
+      "pixel": 0.02759999968111515, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 77.0, 
+      "pixel": 0.05711111053824425, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.04662222042679787, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 240.0, 
+      "pixel": 0.03315555676817894, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 237.0, 
+      "pixel": 0.04879999905824661, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 251.0, 
+      "pixel": 0.03951111063361168, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 142.0, 
+      "pixel": 0.010444444604218006, 
+      "color-red": 165.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 108.0, 
+      "pixel": 0.047600001096725464, 
+      "color-red": 118.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.683899998664856, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4869000017642975, 
+      "description": "Real Estate"
+    }, 
+    {
+      "score": 0.4703634977340698, 
+      "description": "Campus"
+    }, 
+    {
+      "score": 0.45833516120910645, 
+      "description": "Mansion"
+    }, 
+    {
+      "score": 0.41350001096725464, 
+      "description": "English country house"
+    }, 
+    {
+      "score": 0.3539654314517975, 
+      "description": "Villa"
+    }, 
+    {
+      "score": 0.3527830243110657, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.34354662895202637, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.3375532329082489, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.30997052788734436, 
+      "description": "National Trust for Places of Historic Interest or Natural Beauty"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9671729207038879, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9065119028091431, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8763116598129272, 
+      "description": "estate"
+    }, 
+    {
+      "score": 0.8639848232269287, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.8151764869689941, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.7968010306358337, 
+      "description": "stately home"
+    }, 
+    {
+      "score": 0.7958672642707825, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7887459397315979, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.765550434589386, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.7490087747573853, 
+      "description": "mansion"
+    }
+  ]
+}

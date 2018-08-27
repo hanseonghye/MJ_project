@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 193.0, 
+      "color-blue": 249.0, 
+      "pixel": 0.08049645274877548, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 187.0, 
+      "pixel": 0.12198581546545029, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 12.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.053971629589796066, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.016950353980064392, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.014184396713972092, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.0302127655595541, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 170.0, 
+      "color-blue": 229.0, 
+      "pixel": 0.08936170488595963, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.23078013956546783, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 154.0, 
+      "pixel": 0.03411347419023514, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 221.0, 
+      "pixel": 0.04517730325460434, 
+      "color-red": 227.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7567204236984253, 
+      "description": "Independence Gate"
+    }, 
+    {
+      "score": 0.5960956811904907, 
+      "description": "Triumphal arch"
+    }, 
+    {
+      "score": 0.542443037033081, 
+      "description": "3\ud638\uc120\ub3c5\ub9bd\ubb38\uc5ed"
+    }, 
+    {
+      "score": 0.5408700108528137, 
+      "description": "Subway Line 3 Dongnimmun Station"
+    }, 
+    {
+      "score": 0.534699022769928, 
+      "description": "Subway Line 3 Dongnimmun Station"
+    }, 
+    {
+      "score": 0.5266000032424927, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5031669735908508, 
+      "description": "Historic site"
+    }, 
+    {
+      "score": 0.4183886647224426, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.28346365690231323, 
+      "description": "National Historic Landmark"
+    }, 
+    {
+      "score": 0.27719998359680176, 
+      "description": "Rapid transit"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9403665065765381, 
+      "description": "arch"
+    }, 
+    {
+      "score": 0.9244998693466187, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.859734296798706, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8010343909263611, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.708821713924408, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7078830599784851, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.6886420845985413, 
+      "description": "monument"
+    }, 
+    {
+      "score": 0.6855612993240356, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.6738985180854797, 
+      "description": "triumphal arch"
+    }, 
+    {
+      "score": 0.6585853099822998, 
+      "description": "aqueduct"
+    }
+  ]
+}

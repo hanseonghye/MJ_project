@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 80.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.03208889067173004, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 188.0, 
+      "pixel": 0.01146666705608368, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 38.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.053466666489839554, 
+      "color-red": 76.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.026088889688253403, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.04306666553020477, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.023644443601369858, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 21.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.05146666616201401, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.008711110800504684, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.010933333076536655, 
+      "color-red": 224.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 148.0, 
+      "pixel": 0.01124444417655468, 
+      "color-red": 217.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Fireworks"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7011711597442627, 
+      "description": "Fireworks"
+    }, 
+    {
+      "score": 0.7672500014305115, 
+      "description": "Busan International Fireworks Festival"
+    }, 
+    {
+      "score": 0.6169000267982483, 
+      "description": "Evenement"
+    }, 
+    {
+      "score": 0.6007649898529053, 
+      "description": "Gwangalli Beach"
+    }, 
+    {
+      "score": 0.5611100196838379, 
+      "description": "PAFF EVENTS"
+    }, 
+    {
+      "score": 0.5055000185966492, 
+      "description": "Br\u00fchler Schlosskonzerte - Haydn-Festival 2018"
+    }, 
+    {
+      "score": 0.421099990606308, 
+      "description": "Veranstaltungstechnik"
+    }, 
+    {
+      "score": 0.41760000586509705, 
+      "description": "Spectacle"
+    }, 
+    {
+      "score": 0.39250001311302185, 
+      "description": "Seoul International Fireworks Festival"
+    }, 
+    {
+      "score": 0.33451002836227417, 
+      "description": "Eventtechnik Hamburg - PPT Veranstaltungs GmbH"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9933987259864807, 
+      "description": "fireworks"
+    }, 
+    {
+      "score": 0.9100014567375183, 
+      "description": "pink"
+    }, 
+    {
+      "score": 0.8780888915061951, 
+      "description": "event"
+    }, 
+    {
+      "score": 0.82965087890625, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7480716705322266, 
+      "description": "f\u00eate"
+    }, 
+    {
+      "score": 0.7061429023742676, 
+      "description": "explosive material"
+    }, 
+    {
+      "score": 0.700874388217926, 
+      "description": "festival"
+    }, 
+    {
+      "score": 0.6998624205589294, 
+      "description": "new year's eve"
+    }, 
+    {
+      "score": 0.6993257999420166, 
+      "description": "public event"
+    }, 
+    {
+      "score": 0.5856124758720398, 
+      "description": "computer wallpaper"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 200.0, 
+      "color-blue": 209.0, 
+      "pixel": 0.22181817889213562, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.04227272793650627, 
+      "color-red": 46.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 218.0, 
+      "pixel": 0.1850000023841858, 
+      "color-red": 180.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 171.0, 
+      "pixel": 0.10393939167261124, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.0949999988079071, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 234.0, 
+      "pixel": 0.08272727578878403, 
+      "color-red": 216.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.08909090608358383, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 222.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.03969696909189224, 
+      "color-red": 204.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 179.0, 
+      "pixel": 0.024696970358490944, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.01772727258503437, 
+      "color-red": 37.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Haeundae District"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4674274921417236, 
+      "description": "Haeundae Doosan We've the Zenith"
+    }, 
+    {
+      "score": 1.0122137069702148, 
+      "description": "Skyscraper"
+    }, 
+    {
+      "score": 0.8556957840919495, 
+      "description": "Skyline"
+    }, 
+    {
+      "score": 0.7110000252723694, 
+      "description": ""
+    }, 
+    {
+      "score": 0.6856499910354614, 
+      "description": "Marine City, Busan"
+    }, 
+    {
+      "score": 0.6439499855041504, 
+      "description": "The Skyscraper"
+    }, 
+    {
+      "score": 0.6054840683937073, 
+      "description": "The W"
+    }, 
+    {
+      "score": 0.5800148248672485, 
+      "description": "High-rise building"
+    }, 
+    {
+      "score": 0.5138000249862671, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.3688080310821533, 
+      "description": "Haeundae Gyeongdong Jade Apt."
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9567821621894836, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9244690537452698, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9233338832855225, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8833664655685425, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8422307968139648, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.7980105876922607, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.7756983041763306, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.7705519199371338, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.7357370257377625, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.7171340584754944, 
+      "description": "horizon"
+    }
+  ]
+}

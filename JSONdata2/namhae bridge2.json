@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 79.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.011990407481789589, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.0047961631789803505, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.037518370896577835, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.08168948441743851, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 4.0, 
+      "color-blue": 0.0, 
+      "pixel": 0.0010056471219286323, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.0018565792124718428, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 68.0, 
+      "color-blue": 8.0, 
+      "pixel": 0.0022433665581047535, 
+      "color-red": 235.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.0025527963880449533, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 41.0, 
+      "pixel": 0.0011603620368987322, 
+      "color-red": 194.0
+    }, 
+    {
+      "color-green": 64.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.0018565792124718428, 
+      "color-red": 227.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Namhae Bridge"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5363974571228027, 
+      "description": "Namhae Bridge"
+    }, 
+    {
+      "score": 0.9370973110198975, 
+      "description": "Geojedo"
+    }, 
+    {
+      "score": 0.8054990768432617, 
+      "description": "Suspension bridge"
+    }, 
+    {
+      "score": 0.7936995029449463, 
+      "description": "Jindo"
+    }, 
+    {
+      "score": 0.461899995803833, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.4290660321712494, 
+      "description": "\ub0a8\ud574\uc548\uac74\uc5b4\ubb3c"
+    }, 
+    {
+      "score": 0.291126012802124, 
+      "description": "Jeju Province"
+    }, 
+    {
+      "score": 0.17350782454013824, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.1526000052690506, 
+      "description": "Estate agent"
+    }, 
+    {
+      "score": 0.15219999849796295, 
+      "description": "Clothing"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8439273834228516, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.8280699253082275, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.6857412457466125, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6767945885658264, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.6488323211669922, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6170873641967773, 
+      "description": "suspension bridge"
+    }, 
+    {
+      "score": 0.5851354598999023, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.5189363956451416, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.5158549547195435, 
+      "description": "city"
+    }
+  ]
+}

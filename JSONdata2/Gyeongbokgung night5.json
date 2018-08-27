@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 127.0, 
+      "color-blue": 200.0, 
+      "pixel": 0.4194444417953491, 
+      "color-red": 16.0
+    }, 
+    {
+      "color-green": 107.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.04039682447910309, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.037857141345739365, 
+      "color-red": 28.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.003809523768723011, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.03412698581814766, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 181.0, 
+      "pixel": 0.07579365372657776, 
+      "color-red": 46.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.009365078993141651, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 142.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.020952381193637848, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 142.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.009126984514296055, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 96.0, 
+      "color-blue": 143.0, 
+      "pixel": 0.015634920448064804, 
+      "color-red": 40.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "gyeongbokgung palace 4k"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.9838265180587769, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 0.7598403096199036, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.7010999917984009, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.6306999921798706, 
+      "description": "4K resolution"
+    }, 
+    {
+      "score": 0.5934000015258789, 
+      "description": "Stock footage"
+    }, 
+    {
+      "score": 0.520799994468689, 
+      "description": "Image"
+    }, 
+    {
+      "score": 0.5169000029563904, 
+      "description": "Time-lapse photography"
+    }, 
+    {
+      "score": 0.4848000109195709, 
+      "description": ""
+    }, 
+    {
+      "score": 0.45899999141693115, 
+      "description": "Video"
+    }, 
+    {
+      "score": 0.4456000030040741, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.987658679485321, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9433023929595947, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9343523383140564, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.8957216143608093, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.88815838098526, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8807280659675598, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.7603101134300232, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.7346810698509216, 
+      "description": "pagoda"
+    }, 
+    {
+      "score": 0.6861639022827148, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6606557369232178, 
+      "description": "water"
+    }
+  ]
+}

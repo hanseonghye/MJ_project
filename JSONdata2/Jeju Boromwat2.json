@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 122.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.0861460268497467, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.1146024540066719, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 251.0, 
+      "pixel": 0.1653721183538437, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.08946476131677628, 
+      "color-red": 87.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.03911876678466797, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.09172433614730835, 
+      "color-red": 160.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.05592430382966995, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 139.0, 
+      "pixel": 0.016381867229938507, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.030786611139774323, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.012992515228688717, 
+      "color-red": 192.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ubcf4\ub86c\uc653(BOROMWAT)"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8479680418968201, 
+      "description": "Memilkkoch"
+    }, 
+    {
+      "score": 0.7722000479698181, 
+      "description": "\ubcf4\ub86c\uc653(BOROMWAT)"
+    }, 
+    {
+      "score": 0.6456999778747559, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5925999879837036, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5547850131988525, 
+      "description": "Goleula"
+    }, 
+    {
+      "score": 0.40125519037246704, 
+      "description": "Crop"
+    }, 
+    {
+      "score": 0.3715391159057617, 
+      "description": "Field"
+    }, 
+    {
+      "score": 0.33466923236846924, 
+      "description": "Meadow"
+    }, 
+    {
+      "score": 0.24005027115345, 
+      "description": "Shrubland"
+    }, 
+    {
+      "score": 0.21719999611377716, 
+      "description": "Naver"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8782052993774414, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.8714683055877686, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.844404399394989, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.6665674448013306, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.6196156144142151, 
+      "description": "shrub"
+    }, 
+    {
+      "score": 0.6037858724594116, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.5905593037605286, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.5860930681228638, 
+      "description": "meadow"
+    }, 
+    {
+      "score": 0.5631729960441589, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.5548055171966553, 
+      "description": "wildflower"
+    }
+  ]
+}

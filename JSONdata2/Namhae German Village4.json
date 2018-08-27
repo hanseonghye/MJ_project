@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 128.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.014999999664723873, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 249.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.07906666398048401, 
+      "color-red": 250.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.023733332753181458, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 140.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.010933333076536655, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 214.0, 
+      "color-blue": 231.0, 
+      "pixel": 0.2438666671514511, 
+      "color-red": 165.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 103.0, 
+      "pixel": 0.05126666650176048, 
+      "color-red": 221.0
+    }, 
+    {
+      "color-green": 96.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.00286666676402092, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.002400000113993883, 
+      "color-red": 243.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.0020666667260229588, 
+      "color-red": 251.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.0019333333475515246, 
+      "color-red": 245.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8529000282287598, 
+      "description": "Dogil Maeul"
+    }, 
+    {
+      "score": 0.8491780161857605, 
+      "description": "\ub3c5\uc77c\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.5511999726295471, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3005000054836273, 
+      "description": "Town"
+    }, 
+    {
+      "score": 0.25369998812675476, 
+      "description": "\uc624\ub974\ub9c9\uae38"
+    }, 
+    {
+      "score": 0.23337601125240326, 
+      "description": "Namhae County"
+    }, 
+    {
+      "score": 0.22800064086914062, 
+      "description": "Village"
+    }, 
+    {
+      "score": 0.18850000202655792, 
+      "description": "Naver"
+    }, 
+    {
+      "score": 0.18700000643730164, 
+      "description": "Tradition"
+    }, 
+    {
+      "score": 0.17928747832775116, 
+      "description": "Mountain"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8958891034126282, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.8953117728233337, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8514137268066406, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.7830097675323486, 
+      "description": "cottage"
+    }, 
+    {
+      "score": 0.7505182027816772, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.6917047500610352, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6781390309333801, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.6614277362823486, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6289601922035217, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.609835684299469, 
+      "description": "coast"
+    }
+  ]
+}

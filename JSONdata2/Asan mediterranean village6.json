@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 115.0, 
+      "color-blue": 187.0, 
+      "pixel": 0.1513533890247345, 
+      "color-red": 32.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 228.0, 
+      "pixel": 0.02721804566681385, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 180.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.011353383772075176, 
+      "color-red": 235.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 193.0, 
+      "pixel": 0.08947368711233139, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.00030075188260525465, 
+      "color-red": 13.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.04278195649385452, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 100.0, 
+      "color-blue": 171.0, 
+      "pixel": 0.14887218177318573, 
+      "color-red": 7.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 204.0, 
+      "pixel": 0.03609022498130798, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.017142856493592262, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.010676691308617592, 
+      "color-red": 193.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.335015058517456, 
+      "description": "Asan Mediterranean town"
+    }, 
+    {
+      "score": 0.5913000106811523, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4327000081539154, 
+      "description": "Naver Blog"
+    }, 
+    {
+      "score": 0.37581413984298706, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.3685399889945984, 
+      "description": "Mixed-use"
+    }, 
+    {
+      "score": 0.3587051331996918, 
+      "description": "Urban area"
+    }, 
+    {
+      "score": 0.3366999924182892, 
+      "description": "Real Estate"
+    }, 
+    {
+      "score": 0.32376599311828613, 
+      "description": "Apartment"
+    }, 
+    {
+      "score": 0.2718672454357147, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.2663905918598175, 
+      "description": "Metropolis"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9280731081962585, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.9210729598999023, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.9191482067108154, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9152109026908875, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8878621459007263, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8875337839126587, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8860999941825867, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.8817482590675354, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.842570960521698, 
+      "description": "downtown"
+    }, 
+    {
+      "score": 0.8401232957839966, 
+      "description": "mixed use"
+    }
+  ]
+}

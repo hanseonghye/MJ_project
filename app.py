@@ -26,7 +26,6 @@ def load_json():
             target_list.append(temp_dict)
             temp_dict = {}
 
-
 @app.route("/")
 def index():
     load_json()
@@ -34,12 +33,13 @@ def index():
 
 @app.route('/upload', methods=['POST'])
 def upload():
+    global target_list
 
     if not target_list:
         load_json()
 
-    lat=request.form['latitude']
-    lon=request.form['longitude']
+    lat = float(request.form['latitude'])
+    lon = float(request.form['longitude'])
 
     file = request.files['uploaded_file']
     des = "/".join([target, "photo.jpg"])
@@ -54,25 +54,8 @@ def upload():
     # with open('jsonfile.json','w') as make_file:
     #     json.dump(RE_json, make_file, indent=2)
 
-    global target_list
-
-    best=[]
-    best=funcs.get_score(RE_json, target_list)
-
-    print (best[0]+"  "+best[1]+ "   "+best[2])
-
-    print ("#######print re ......")
-    return_url=""
-    
-    for i in range (0,3):
-        url_txtfile=os.path.join(url_target,best[i])
-        f=open(url_txtfile,'r')
-        url=f.readline()
-        print (url)
-        return_url+=(str(url)+"\n")
-        f.close()
-
-    return return_url
+    best = funcs.get_score(RE_json, target_list, APP_ROOT, lat, lon)
+    return best
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=3003, debug=True)

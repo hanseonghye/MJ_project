@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 153.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.09060150384902954, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.09520676732063293, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.12640976905822754, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.04125939682126045, 
+      "color-red": 216.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.0290413536131382, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.03815789520740509, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.0647556409239769, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.021804511547088623, 
+      "color-red": 223.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.018139097839593887, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.07734962552785873, 
+      "color-red": 150.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Economy"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8503759503364563, 
+      "description": "Sansuyu Village"
+    }, 
+    {
+      "score": 0.6962461471557617, 
+      "description": "\uc0b0\uc218\uc720\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.6891918778419495, 
+      "description": "Yeong-Wonsa"
+    }, 
+    {
+      "score": 0.6504597663879395, 
+      "description": "\uc774\ucc9c \uc0b0\uc218\uc720\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.6490499973297119, 
+      "description": "\uc774\ucc9c \uc601\uc6d0\uc0ac \uc11d\uc870\uc57d\uc0ac\uc5ec\ub798\uc88c\uc0c1"
+    }, 
+    {
+      "score": 0.5578500032424927, 
+      "description": "Gurye"
+    }, 
+    {
+      "score": 0.552299976348877, 
+      "description": "Cornus officinalis"
+    }, 
+    {
+      "score": 0.4911390244960785, 
+      "description": "Yeong-Wonsa"
+    }, 
+    {
+      "score": 0.3149707019329071, 
+      "description": "Autumn"
+    }, 
+    {
+      "score": 0.303600013256073, 
+      "description": "Economy"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9491981863975525, 
+      "description": "mountain village"
+    }, 
+    {
+      "score": 0.9054197072982788, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.8729260563850403, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8610821962356567, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.8558458089828491, 
+      "description": "village"
+    }, 
+    {
+      "score": 0.8511321544647217, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8319608569145203, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.819486141204834, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8132277727127075, 
+      "description": "suburb"
+    }, 
+    {
+      "score": 0.7518691420555115, 
+      "description": "rural area"
+    }
+  ]
+}

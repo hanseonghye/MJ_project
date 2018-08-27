@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 153.0, 
+      "color-blue": 214.0, 
+      "pixel": 0.34960317611694336, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 227.0, 
+      "pixel": 0.17896825075149536, 
+      "color-red": 160.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 73.0, 
+      "pixel": 7.936507608974352e-05, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.07111111283302307, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.04523809626698494, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 198.0, 
+      "pixel": 0.036666665226221085, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 226.0, 
+      "pixel": 0.0029365080408751965, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.003015873022377491, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.0019047618843615055, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.008174602873623371, 
+      "color-red": 119.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ub0a8\uc0b0 \ud0c0\uc6cc"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.0932607650756836, 
+      "description": "N Seoul Tower"
+    }, 
+    {
+      "score": 1.5216904878616333, 
+      "description": "Namsan"
+    }, 
+    {
+      "score": 0.7172759771347046, 
+      "description": "\uc561\uc194\ub8e8\uc158"
+    }, 
+    {
+      "score": 0.7028999924659729, 
+      "description": "Tower"
+    }, 
+    {
+      "score": 0.4620000123977661, 
+      "description": "Observation deck"
+    }, 
+    {
+      "score": 0.42243826389312744, 
+      "description": "Observation tower"
+    }, 
+    {
+      "score": 0.4178467392921448, 
+      "description": "Steeple"
+    }, 
+    {
+      "score": 0.38679999113082886, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.36239999532699585, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.35523295402526855, 
+      "description": "Spire"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9618357419967651, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.9349191784858704, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9276537299156189, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8695945739746094, 
+      "description": "transmitter station"
+    }, 
+    {
+      "score": 0.7837626934051514, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.7595453262329102, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.7041974067687988, 
+      "description": "television transmitter"
+    }, 
+    {
+      "score": 0.6619006395339966, 
+      "description": "national historic landmark"
+    }, 
+    {
+      "score": 0.5953653454780579, 
+      "description": "steeple"
+    }, 
+    {
+      "score": 0.5937703251838684, 
+      "description": "cumulus"
+    }
+  ]
+}

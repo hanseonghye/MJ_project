@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 200.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.17597591876983643, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.11029476672410965, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 220.0, 
+      "color-blue": 80.0, 
+      "pixel": 0.02248384617269039, 
+      "color-red": 244.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.07214304804801941, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 224.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.006461892742663622, 
+      "color-red": 242.0
+    }, 
+    {
+      "color-green": 209.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.006196335423737764, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.02558201365172863, 
+      "color-red": 191.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.03602726384997368, 
+      "color-red": 146.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.05160662159323692, 
+      "color-red": 172.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.06090112403035164, 
+      "color-red": 140.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc0b0\uc218\uc720 \ub098\ubb34"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7942439913749695, 
+      "description": "Gurye"
+    }, 
+    {
+      "score": 0.7019000053405762, 
+      "description": "Cornus officinalis"
+    }, 
+    {
+      "score": 0.6005472540855408, 
+      "description": "Sansuyu Village"
+    }, 
+    {
+      "score": 0.5241000056266785, 
+      "description": "Flower"
+    }, 
+    {
+      "score": 0.4474499821662903, 
+      "description": "Jirisan National Park"
+    }, 
+    {
+      "score": 0.41620001196861267, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.3587999939918518, 
+      "description": "Korean drama"
+    }, 
+    {
+      "score": 0.32339999079704285, 
+      "description": "Spring"
+    }, 
+    {
+      "score": 0.32249999046325684, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.3192000091075897, 
+      "description": "Cornus mas"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9532713890075684, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9111429452896118, 
+      "description": "ecosystem"
+    }, 
+    {
+      "score": 0.9084769487380981, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8519772291183472, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.8273102641105652, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.805275022983551, 
+      "description": "shrubland"
+    }, 
+    {
+      "score": 0.8026318550109863, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.766747236251831, 
+      "description": "mustard plant"
+    }, 
+    {
+      "score": 0.7613085508346558, 
+      "description": "rural area"
+    }, 
+    {
+      "score": 0.7146984934806824, 
+      "description": "field"
+    }
+  ]
+}

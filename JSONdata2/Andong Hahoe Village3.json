@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 128.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.058088887482881546, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 246.0, 
+      "color-blue": 249.0, 
+      "pixel": 0.25244444608688354, 
+      "color-red": 243.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.03257777914404869, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 142.0, 
+      "pixel": 0.01355555560439825, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.03213333338499069, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.03457777947187424, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.0141777778044343, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.013866666704416275, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.018755555152893066, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.023244444280862808, 
+      "color-red": 94.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "field"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8675060272216797, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.5284271836280823, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.5261779427528381, 
+      "description": "Grassland"
+    }, 
+    {
+      "score": 0.41603657603263855, 
+      "description": "Paddy Field"
+    }, 
+    {
+      "score": 0.3991890549659729, 
+      "description": "Hill station"
+    }, 
+    {
+      "score": 0.3969937562942505, 
+      "description": "Farm"
+    }, 
+    {
+      "score": 0.3495999872684479, 
+      "description": "Rice"
+    }, 
+    {
+      "score": 0.3005000054836273, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.29490000009536743, 
+      "description": "Cloud computing"
+    }, 
+    {
+      "score": 0.29330000281333923, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9346619248390198, 
+      "description": "green"
+    }, 
+    {
+      "score": 0.9317769408226013, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.9224528670310974, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.9103176593780518, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8673083782196045, 
+      "description": "paddy field"
+    }, 
+    {
+      "score": 0.8671029806137085, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8567047119140625, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.8478197455406189, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.8386071920394897, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.8280859589576721, 
+      "description": "farm"
+    }
+  ]
+}

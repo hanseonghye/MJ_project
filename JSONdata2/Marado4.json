@@ -1,0 +1,134 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 205.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.19959479570388794, 
+      "color-red": 194.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 211.0, 
+      "pixel": 0.053133781999349594, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 239.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.13502384722232819, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.010914319194853306, 
+      "color-red": 133.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.019475851207971573, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 135.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.025684595108032227, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.018234102055430412, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.010326122865080833, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 170.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.09267368167638779, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.018038036301732063, 
+      "color-red": 166.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.5603313446044922, 
+      "description": "Land lot"
+    }, 
+    {
+      "score": 0.5068382024765015, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.40178269147872925, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.3517000079154968, 
+      "description": "Real property"
+    }, 
+    {
+      "score": 0.35120001435279846, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8812201619148254, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.810101330280304, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8083285689353943, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.7409057021141052, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.7309190630912781, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.7034459710121155, 
+      "description": "land lot"
+    }, 
+    {
+      "score": 0.6887486577033997, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.655010461807251, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.6358364224433899, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.629702091217041, 
+      "description": "bay"
+    }
+  ]
+}

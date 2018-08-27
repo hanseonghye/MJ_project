@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 218.0, 
+      "color-blue": 8.0, 
+      "pixel": 0.07474119961261749, 
+      "color-red": 251.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 251.0, 
+      "pixel": 0.11055900901556015, 
+      "color-red": 200.0
+    }, 
+    {
+      "color-green": 207.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.22298136353492737, 
+      "color-red": 241.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.004037267062813044, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 148.0, 
+      "pixel": 0.0006211180007085204, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 5.0, 
+      "pixel": 0.003519668709486723, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 229.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.01304347813129425, 
+      "color-red": 249.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.08716356009244919, 
+      "color-red": 219.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.0007246377062983811, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.0020703934133052826, 
+      "color-red": 237.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "paardenbloemen veld"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3327499628067017, 
+      "description": "Sonchamp"
+    }, 
+    {
+      "score": 0.4383000135421753, 
+      "description": "Jeju Olle Trail"
+    }, 
+    {
+      "score": 0.41920000314712524, 
+      "description": "Seed"
+    }, 
+    {
+      "score": 0.41909998655319214, 
+      "description": "Agriculture"
+    }, 
+    {
+      "score": 0.3792000114917755, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.3754124045372009, 
+      "description": "Canola oil"
+    }, 
+    {
+      "score": 0.3650999963283539, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.3508000075817108, 
+      "description": "\uc81c\uc8fc\uc62c\ub808"
+    }, 
+    {
+      "score": 0.33820000290870667, 
+      "description": "Image"
+    }, 
+    {
+      "score": 0.31459999084472656, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9572972059249878, 
+      "description": "rapeseed"
+    }, 
+    {
+      "score": 0.9459201693534851, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.9438588619232178, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9385523796081543, 
+      "description": "canola"
+    }, 
+    {
+      "score": 0.9234322309494019, 
+      "description": "mustard plant"
+    }, 
+    {
+      "score": 0.8957746624946594, 
+      "description": "mustard and cabbage family"
+    }, 
+    {
+      "score": 0.8771774768829346, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8569043278694153, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.841101884841919, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.8049015998840332, 
+      "description": "brassica rapa"
+    }
+  ]
+}

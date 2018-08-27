@@ -1,0 +1,165 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.188944, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }, 
+    {
+      "Latitude": 35.1889, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 56.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.13253560662269592, 
+      "color-red": 29.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 106.0, 
+      "pixel": 0.09253561496734619, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 141.0, 
+      "pixel": 0.05276353284716606, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.0006267806165851653, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 174.0, 
+      "pixel": 0.036467235535383224, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.05168091133236885, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.030028490349650383, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.0365242175757885, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.026267806068062782, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.027122506871819496, 
+      "color-red": 25.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "haedong yonggungsa"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7758868932724, 
+      "description": "Incheon International Airport"
+    }, 
+    {
+      "score": 0.7510499954223633, 
+      "description": "AREX"
+    }, 
+    {
+      "score": 0.7185803651809692, 
+      "description": "Myeong-dong"
+    }, 
+    {
+      "score": 0.6122000217437744, 
+      "description": ""
+    }, 
+    {
+      "score": 0.570900022983551, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5260000228881836, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.48100000619888306, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.4465999901294708, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.4120999872684479, 
+      "description": "TripAdvisor"
+    }, 
+    {
+      "score": 0.4025999903678894, 
+      "description": "T-money"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.7668054103851318, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.7268733382225037, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.7195985317230225, 
+      "description": "reservoir"
+    }, 
+    {
+      "score": 0.7102582454681396, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.6912531852722168, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.679186224937439, 
+      "description": "arch bridge"
+    }, 
+    {
+      "score": 0.6790358424186707, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6651163697242737, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.649324357509613, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6163068413734436, 
+      "description": "tourism"
+    }
+  ]
+}

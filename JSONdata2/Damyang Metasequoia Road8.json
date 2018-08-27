@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 159.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.043933331966400146, 
+      "color-red": 178.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.09653333574533463, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.14693333208560944, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.02526666596531868, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.01733333244919777, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.06453333050012589, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.061400000005960464, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.017799999564886093, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.01346666645258665, 
+      "color-red": 160.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.028066666796803474, 
+      "color-red": 213.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Damyang County"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0140405893325806, 
+      "description": "Metasequoia-lined Road"
+    }, 
+    {
+      "score": 0.7145655155181885, 
+      "description": "Jeonju"
+    }, 
+    {
+      "score": 0.5289999842643738, 
+      "description": "Tax"
+    }, 
+    {
+      "score": 0.511199951171875, 
+      "description": "Light"
+    }, 
+    {
+      "score": 0.3472000062465668, 
+      "description": "\uc138\ubb34\ud68c\uacc4"
+    }, 
+    {
+      "score": 0.33869999647140503, 
+      "description": "\uc870\uc138\uad6c\uc81c\uc81c\ub3c4"
+    }, 
+    {
+      "score": 0.3257398307323456, 
+      "description": "Landscape"
+    }, 
+    {
+      "score": 0.28299999237060547, 
+      "description": "Dawn redwood"
+    }, 
+    {
+      "score": 0.2750999927520752, 
+      "description": "Accounting"
+    }, 
+    {
+      "score": 0.2745000123977661, 
+      "description": "Yellow"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9535910487174988, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9520184397697449, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9257146120071411, 
+      "description": "path"
+    }, 
+    {
+      "score": 0.9059614539146423, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.8885939717292786, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8838809132575989, 
+      "description": "woodland"
+    }, 
+    {
+      "score": 0.8787350654602051, 
+      "description": "ecosystem"
+    }, 
+    {
+      "score": 0.8719661831855774, 
+      "description": "grove"
+    }, 
+    {
+      "score": 0.7828033566474915, 
+      "description": "forest"
+    }, 
+    {
+      "score": 0.7504120469093323, 
+      "description": "sunlight"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 156.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.049047619104385376, 
+      "color-red": 172.0
+    }, 
+    {
+      "color-green": 212.0, 
+      "color-blue": 209.0, 
+      "pixel": 0.09714286029338837, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 20.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.015317460522055626, 
+      "color-red": 10.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.007222222164273262, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.022142857313156128, 
+      "color-red": 204.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.04722222313284874, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 224.0, 
+      "pixel": 0.05317460373044014, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.019206348806619644, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.016904762014746666, 
+      "color-red": 191.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.012539682909846306, 
+      "color-red": 155.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "santa maria della salute"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7762861251831055, 
+      "description": "Santa Maria della Salute"
+    }, 
+    {
+      "score": 1.3867689371109009, 
+      "description": "Grand Canal"
+    }, 
+    {
+      "score": 0.5523045063018799, 
+      "description": "Santa Maria Gloriosa dei Frari"
+    }, 
+    {
+      "score": 0.524399995803833, 
+      "description": ""
+    }, 
+    {
+      "score": 0.49129998683929443, 
+      "description": "Basilica"
+    }, 
+    {
+      "score": 0.4765999913215637, 
+      "description": "Gondola"
+    }, 
+    {
+      "score": 0.4401375353336334, 
+      "description": "Siena"
+    }, 
+    {
+      "score": 0.4287000000476837, 
+      "description": "Church"
+    }, 
+    {
+      "score": 0.42410001158714294, 
+      "description": "Desktop Wallpaper"
+    }, 
+    {
+      "score": 0.349700003862381, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9736367464065552, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.9240281581878662, 
+      "description": "water transportation"
+    }, 
+    {
+      "score": 0.8642210364341736, 
+      "description": "gondola"
+    }, 
+    {
+      "score": 0.8312534689903259, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7944111227989197, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7553108334541321, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7055881023406982, 
+      "description": "watercraft"
+    }, 
+    {
+      "score": 0.7034375071525574, 
+      "description": "canal"
+    }, 
+    {
+      "score": 0.672509491443634, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.6600340604782104, 
+      "description": "boat"
+    }
+  ]
+}

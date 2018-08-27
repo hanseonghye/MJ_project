@@ -1,0 +1,134 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 142.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.08629923313856125, 
+      "color-red": 191.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.014032946899533272, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 249.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.5339298844337463, 
+      "color-red": 250.0
+    }, 
+    {
+      "color-green": 41.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.003999728709459305, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.23374687135219574, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 223.0, 
+      "color-blue": 200.0, 
+      "pixel": 0.022167988121509552, 
+      "color-red": 239.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.010033218190073967, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.005152192898094654, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.0070503694005310535, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 147.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.005084400996565819, 
+      "color-red": 186.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "grassland"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7681878805160522, 
+      "description": "Steppe"
+    }, 
+    {
+      "score": 0.7285366654396057, 
+      "description": "Grasses"
+    }, 
+    {
+      "score": 0.6963329911231995, 
+      "description": "Grassland"
+    }, 
+    {
+      "score": 0.4489000141620636, 
+      "description": "Sky plc"
+    }, 
+    {
+      "score": 0.38199999928474426, 
+      "description": "Family"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.807503342628479, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.7344518303871155, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7079405784606934, 
+      "description": "ecoregion"
+    }, 
+    {
+      "score": 0.698736310005188, 
+      "description": "grass family"
+    }, 
+    {
+      "score": 0.690220296382904, 
+      "description": "prairie"
+    }, 
+    {
+      "score": 0.6446425318717957, 
+      "description": "plain"
+    }, 
+    {
+      "score": 0.6146636009216309, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.5601906180381775, 
+      "description": "road"
+    }, 
+    {
+      "score": 0.5583237409591675, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.5440447926521301, 
+      "description": "steppe"
+    }
+  ]
+}

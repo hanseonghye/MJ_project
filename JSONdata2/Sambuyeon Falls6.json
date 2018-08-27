@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 51.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.16546666622161865, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.00795555580407381, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 218.0, 
+      "pixel": 0.035244446247816086, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 26.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.0837777778506279, 
+      "color-red": 22.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.08648888766765594, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.002888888819143176, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.008088888600468636, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 27.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.03853333368897438, 
+      "color-red": 16.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.009200000204145908, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.03848888725042343, 
+      "color-red": 38.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "waterfall"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8733950257301331, 
+      "description": "Waterfall"
+    }, 
+    {
+      "score": 0.7083446383476257, 
+      "description": "Nature reserve"
+    }, 
+    {
+      "score": 0.614994466304779, 
+      "description": "Water resources"
+    }, 
+    {
+      "score": 0.6084758639335632, 
+      "description": "National park"
+    }, 
+    {
+      "score": 0.5279976725578308, 
+      "description": "Rainforest"
+    }, 
+    {
+      "score": 0.46746766567230225, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.4643999934196472, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.43076035380363464, 
+      "description": "Watercourse"
+    }, 
+    {
+      "score": 0.40524983406066895, 
+      "description": "Escarpment"
+    }, 
+    {
+      "score": 0.3699471354484558, 
+      "description": "Hill station"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9760419726371765, 
+      "description": "waterfall"
+    }, 
+    {
+      "score": 0.9421229362487793, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9360398650169373, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.935099184513092, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.8915613889694214, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.866023063659668, 
+      "description": "watercourse"
+    }, 
+    {
+      "score": 0.7653474807739258, 
+      "description": "chute"
+    }, 
+    {
+      "score": 0.7546778321266174, 
+      "description": "escarpment"
+    }, 
+    {
+      "score": 0.7368444204330444, 
+      "description": "ravine"
+    }, 
+    {
+      "score": 0.7312883138656616, 
+      "description": "national park"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 205.0, 
+      "color-blue": 229.0, 
+      "pixel": 0.22502222657203674, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.01733333244919777, 
+      "color-red": 32.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.16333332657814026, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.025644443929195404, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 174.0, 
+      "pixel": 0.04008888825774193, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.025599999353289604, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.04351111128926277, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 176.0, 
+      "pixel": 0.046666666865348816, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 220.0, 
+      "color-blue": 237.0, 
+      "pixel": 0.024444444105029106, 
+      "color-red": 202.0
+    }, 
+    {
+      "color-green": 223.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.026088889688253403, 
+      "color-red": 209.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.43304139375686646, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.40875160694122314, 
+      "description": "Wind wave"
+    }, 
+    {
+      "score": 0.3760618269443512, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.31498482823371887, 
+      "description": "Islet"
+    }, 
+    {
+      "score": 0.2701699435710907, 
+      "description": "Cove"
+    }, 
+    {
+      "score": 0.2625281810760498, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.25781577825546265, 
+      "description": "Caribbean"
+    }, 
+    {
+      "score": 0.21492210030555725, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.20381106436252594, 
+      "description": "Inlet"
+    }, 
+    {
+      "score": 0.20358723402023315, 
+      "description": "Headland"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9800691604614258, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.960005521774292, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.9577902555465698, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9461536407470703, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.9395279288291931, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9166467189788818, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8846750855445862, 
+      "description": "wind wave"
+    }, 
+    {
+      "score": 0.8774948120117188, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8596488237380981, 
+      "description": "islet"
+    }, 
+    {
+      "score": 0.851443350315094, 
+      "description": "horizon"
+    }
+  ]
+}

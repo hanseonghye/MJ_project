@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 120.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.02873070351779461, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.009005146101117134, 
+      "color-red": 233.0
+    }, 
+    {
+      "color-green": 29.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.29130932688713074, 
+      "color-red": 28.0
+    }, 
+    {
+      "color-green": 175.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.0045740422792732716, 
+      "color-red": 249.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.005288736429065466, 
+      "color-red": 214.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.015437392517924309, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.023156089708209038, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.008576328866183758, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.007289879955351353, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 204.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.0010005717631429434, 
+      "color-red": 248.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Rampart"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.5730000138282776, 
+      "description": "Jeju Olle Trail"
+    }, 
+    {
+      "score": 0.47040000557899475, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4320000112056732, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3767000138759613, 
+      "description": "\ub458\ub808\uae38"
+    }, 
+    {
+      "score": 0.3307500183582306, 
+      "description": "\ubd81\uc545\uc0b0\ub85c"
+    }, 
+    {
+      "score": 0.29600000381469727, 
+      "description": "\uc62c\ub808"
+    }, 
+    {
+      "score": 0.29490000009536743, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.2902500033378601, 
+      "description": "Jeju Province"
+    }, 
+    {
+      "score": 0.2741999924182892, 
+      "description": "Japanese invasions of Korea"
+    }, 
+    {
+      "score": 0.2731499969959259, 
+      "description": "Jirisan"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9732538461685181, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9720585346221924, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9684489369392395, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.959092915058136, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9356963038444519, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.9064398407936096, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8577489852905273, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.8162664175033569, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7084513902664185, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.6697590947151184, 
+      "description": "skyscraper"
+    }
+  ]
+}

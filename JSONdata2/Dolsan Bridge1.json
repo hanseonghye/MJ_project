@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 204.0, 
+      "color-blue": 200.0, 
+      "pixel": 0.2750000059604645, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.08303571492433548, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 217.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.06613095104694366, 
+      "color-red": 228.0
+    }, 
+    {
+      "color-green": 216.0, 
+      "color-blue": 204.0, 
+      "pixel": 0.07916666567325592, 
+      "color-red": 222.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.017797619104385376, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.062261905521154404, 
+      "color-red": 148.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 110.0, 
+      "pixel": 0.017797619104385376, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.05863095074892044, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 206.0, 
+      "color-blue": 186.0, 
+      "pixel": 0.007023809477686882, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.02380952425301075, 
+      "color-red": 132.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6668580770492554, 
+      "description": "Suspension bridge"
+    }, 
+    {
+      "score": 0.5978748798370361, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.5407000184059143, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.5249723792076111, 
+      "description": "River"
+    }, 
+    {
+      "score": 0.43380001187324524, 
+      "description": "San Francisco cable car system"
+    }, 
+    {
+      "score": 0.41018015146255493, 
+      "description": "Extradosed bridge"
+    }, 
+    {
+      "score": 0.409304141998291, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.3624732494354248, 
+      "description": "Hill station"
+    }, 
+    {
+      "score": 0.29589998722076416, 
+      "description": "Cloud computing"
+    }, 
+    {
+      "score": 0.2930999994277954, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9330353736877441, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.9119881391525269, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8472782969474792, 
+      "description": "cable car"
+    }, 
+    {
+      "score": 0.8451550602912903, 
+      "description": "suspension bridge"
+    }, 
+    {
+      "score": 0.7566123604774475, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.728905975818634, 
+      "description": "river"
+    }, 
+    {
+      "score": 0.677407443523407, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.6577332019805908, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6183412671089172, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6148788928985596, 
+      "description": "extradosed bridge"
+    }
+  ]
+}

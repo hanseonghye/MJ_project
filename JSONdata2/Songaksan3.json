@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 127.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.10162713378667831, 
+      "color-red": 64.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.024338113144040108, 
+      "color-red": 28.0
+    }, 
+    {
+      "color-green": 252.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.18477661907672882, 
+      "color-red": 241.0
+    }, 
+    {
+      "color-green": 203.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.028750689700245857, 
+      "color-red": 200.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.016064533963799477, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 166.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.0154440151527524, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.01440981775522232, 
+      "color-red": 190.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 186.0, 
+      "pixel": 0.03461114317178726, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 222.0, 
+      "pixel": 0.01516822911798954, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 220.0, 
+      "pixel": 0.015030336566269398, 
+      "color-red": 104.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Jeju City"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6780840158462524, 
+      "description": "Chonnom"
+    }, 
+    {
+      "score": 0.5460000038146973, 
+      "description": "Jeju Olle Trail"
+    }, 
+    {
+      "score": 0.47165802121162415, 
+      "description": "Jejumam"
+    }, 
+    {
+      "score": 0.4569000005722046, 
+      "description": "Jeju Island"
+    }, 
+    {
+      "score": 0.3880470097064972, 
+      "description": "Gajeua"
+    }, 
+    {
+      "score": 0.36820000410079956, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.34061503410339355, 
+      "description": "Jejudaeg"
+    }, 
+    {
+      "score": 0.33395999670028687, 
+      "description": "Jeju-In"
+    }, 
+    {
+      "score": 0.3091000020503998, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.2976999878883362, 
+      "description": "\ub458\ub808\uae38"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9709582328796387, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9180580973625183, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.900238573551178, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8813964128494263, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8703025579452515, 
+      "description": "cliff"
+    }, 
+    {
+      "score": 0.8520760536193848, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8080404996871948, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7737787961959839, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.7729441523551941, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7254822850227356, 
+      "description": "bay"
+    }
+  ]
+}

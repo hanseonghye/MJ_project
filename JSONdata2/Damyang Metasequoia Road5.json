@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 199.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.06797638535499573, 
+      "color-red": 236.0
+    }, 
+    {
+      "color-green": 185.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.10450101643800735, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 12.0, 
+      "pixel": 0.11824386566877365, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 220.0, 
+      "color-blue": 41.0, 
+      "pixel": 0.017616676166653633, 
+      "color-red": 251.0
+    }, 
+    {
+      "color-green": 26.0, 
+      "color-blue": 1.0, 
+      "pixel": 0.011990407481789589, 
+      "color-red": 40.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.08697657287120819, 
+      "color-red": 204.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.04860726743936539, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.05700055509805679, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.002767017111182213, 
+      "color-red": 247.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.034495480358600616, 
+      "color-red": 217.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "ginkgo trees in korea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.655051350593567, 
+      "description": "Maidenhair tree"
+    }, 
+    {
+      "score": 0.7317000031471252, 
+      "description": "Wanapum Recreation Area"
+    }, 
+    {
+      "score": 0.7173371911048889, 
+      "description": "Maple"
+    }, 
+    {
+      "score": 0.7013999819755554, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.6877943277359009, 
+      "description": "Asan"
+    }, 
+    {
+      "score": 0.5612999796867371, 
+      "description": "\uc624\uc11c\uc0b0"
+    }, 
+    {
+      "score": 0.5187000036239624, 
+      "description": "Autumn"
+    }, 
+    {
+      "score": 0.48010000586509705, 
+      "description": "Forest"
+    }, 
+    {
+      "score": 0.4759196639060974, 
+      "description": "Temperate broadleaf and mixed forest"
+    }, 
+    {
+      "score": 0.41127899289131165, 
+      "description": "Oneday Korea Tours & Travel in Seoul"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9639936089515686, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9427645802497864, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.935900092124939, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9329365491867065, 
+      "description": "maidenhair tree"
+    }, 
+    {
+      "score": 0.9295992255210876, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.9079025983810425, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.8816198706626892, 
+      "description": "grove"
+    }, 
+    {
+      "score": 0.8628934621810913, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.7463628053665161, 
+      "description": "temperate broadleaf and mixed forest"
+    }, 
+    {
+      "score": 0.6725468039512634, 
+      "description": "sunlight"
+    }
+  ]
+}

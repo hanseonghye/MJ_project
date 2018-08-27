@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 87.0, 
+      "color-blue": 134.0, 
+      "pixel": 0.2015458196401596, 
+      "color-red": 10.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.002576370956376195, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 173.0, 
+      "color-blue": 212.0, 
+      "pixel": 0.07478836923837662, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 171.0, 
+      "pixel": 0.03621641546487808, 
+      "color-red": 211.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 109.0, 
+      "pixel": 0.03216783329844475, 
+      "color-red": 31.0
+    }, 
+    {
+      "color-green": 102.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.002649981528520584, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 185.0, 
+      "color-blue": 224.0, 
+      "pixel": 0.0681634172797203, 
+      "color-red": 146.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.0017666544299572706, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 169.0, 
+      "color-blue": 216.0, 
+      "pixel": 0.10320205986499786, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 232.0, 
+      "pixel": 0.07022450864315033, 
+      "color-red": 131.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2734041213989258, 
+      "description": "Younggeumjeong Pavilion"
+    }, 
+    {
+      "score": 0.7481430172920227, 
+      "description": "\uc18d\ucd08\ub4f1\ub300\uc804\ub9dd\ub300"
+    }, 
+    {
+      "score": 0.6998640298843384, 
+      "description": "Sokcho Lighthouse Observatory"
+    }, 
+    {
+      "score": 0.6043500304222107, 
+      "description": "Sea of Japan"
+    }, 
+    {
+      "score": 0.5365139842033386, 
+      "description": "Gangneung"
+    }, 
+    {
+      "score": 0.45004668831825256, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.4470517933368683, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.406499981880188, 
+      "description": "Bus"
+    }, 
+    {
+      "score": 0.3797999918460846, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3348434865474701, 
+      "description": "Coast"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9832203984260559, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9362475275993347, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9345182180404663, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.8834752440452576, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8503310084342957, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8456680178642273, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8454828262329102, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.7913050055503845, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.767917811870575, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.7368744015693665, 
+      "description": "beach"
+    }
+  ]
+}

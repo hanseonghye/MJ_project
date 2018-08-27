@@ -1,0 +1,138 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 92.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.05684830620884895, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.046759940683841705, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.02437407895922661, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 17.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.054565537720918655, 
+      "color-red": 9.0
+    }, 
+    {
+      "color-green": 242.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.10765831917524338, 
+      "color-red": 234.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.04992636293172836, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.028939617797732353, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 65.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.026730485260486603, 
+      "color-red": 37.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.018630338832736015, 
+      "color-red": 55.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.02518409490585327, 
+      "color-red": 128.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "leaf"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7752059102058411, 
+      "description": "Garden"
+    }, 
+    {
+      "score": 0.5094000101089478, 
+      "description": "Lawn"
+    }, 
+    {
+      "score": 0.5090189576148987, 
+      "description": "Shrub"
+    }, 
+    {
+      "score": 0.4757881760597229, 
+      "description": "Leaf"
+    }, 
+    {
+      "score": 0.46790000796318054, 
+      "description": "Branching"
+    }, 
+    {
+      "score": 0.450300008058548, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9727708697319031, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9234967231750488, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.899128794670105, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8869016170501709, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.8236036896705627, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6081204414367676, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.5517073273658752, 
+      "description": "garden"
+    }, 
+    {
+      "score": 0.5509962439537048, 
+      "description": "branch"
+    }, 
+    {
+      "score": 0.5449878573417664, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.5377062559127808, 
+      "description": "shrub"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 230.0, 
+      "color-blue": 225.0, 
+      "pixel": 0.26544496417045593, 
+      "color-red": 232.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 44.0, 
+      "pixel": 0.03526308387517929, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.24809107184410095, 
+      "color-red": 200.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.147230327129364, 
+      "color-red": 160.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.10474801808595657, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.051506318151950836, 
+      "color-red": 87.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.029362766072154045, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 178.0, 
+      "pixel": 0.010481744073331356, 
+      "color-red": 204.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.01124531403183937, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 134.0, 
+      "pixel": 0.022074135020375252, 
+      "color-red": 166.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Paju"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.786441445350647, 
+      "description": "Heyri Art Valley"
+    }, 
+    {
+      "score": 0.6916360259056091, 
+      "description": "Paju English Village"
+    }, 
+    {
+      "score": 0.6880060434341431, 
+      "description": "Paju English Village"
+    }, 
+    {
+      "score": 0.5476460456848145, 
+      "description": "\ud30c\uc8fc\uc601\uc5b4\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.5184850096702576, 
+      "description": "\ubbf8\uc0dd\uc758 \ub2e4\ub9ac(\uc790\uc804\uac70 \ub2e4\ub9ac)"
+    }, 
+    {
+      "score": 0.468874990940094, 
+      "description": "English Village Paju Camp"
+    }, 
+    {
+      "score": 0.4478999972343445, 
+      "description": "\uc0c1\ub3d9\ud638\uc218\uacf5\uc6d0"
+    }, 
+    {
+      "score": 0.3476000130176544, 
+      "description": "Museum"
+    }, 
+    {
+      "score": 0.33149999380111694, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.3196600079536438, 
+      "description": "Hosu"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8704462647438049, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.7057390809059143, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6819673180580139, 
+      "description": "street"
+    }, 
+    {
+      "score": 0.6524175405502319, 
+      "description": "vehicle"
+    }, 
+    {
+      "score": 0.6492021679878235, 
+      "description": "downtown"
+    }, 
+    {
+      "score": 0.5721601843833923, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.543027937412262, 
+      "description": "recreation"
+    }
+  ]
+}

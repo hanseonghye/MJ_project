@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 114.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.10738581418991089, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 245.0, 
+      "color-blue": 242.0, 
+      "pixel": 0.3567957878112793, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 149.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.11682632565498352, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.05851728469133377, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.029918089509010315, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 171.0, 
+      "pixel": 0.14660558104515076, 
+      "color-red": 206.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.028321532532572746, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.026724975556135178, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 185.0, 
+      "pixel": 0.027766209095716476, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.0031931139528751373, 
+      "color-red": 78.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Paju"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8745070695877075, 
+      "description": "Heyri Art Valley"
+    }, 
+    {
+      "score": 0.7865550518035889, 
+      "description": "North Gyeonggi Province"
+    }, 
+    {
+      "score": 0.6884900331497192, 
+      "description": "Paju English Village"
+    }, 
+    {
+      "score": 0.684255063533783, 
+      "description": "Paju English Village"
+    }, 
+    {
+      "score": 0.5011215209960938, 
+      "description": "Provence"
+    }, 
+    {
+      "score": 0.4827899932861328, 
+      "description": "\uc601\uc5b4\ub9c8\uc744\uc2a4\ud3ec\uce20\uc13c\ud0c0"
+    }, 
+    {
+      "score": 0.475600004196167, 
+      "description": "English Language"
+    }, 
+    {
+      "score": 0.4556291103363037, 
+      "description": "Town"
+    }, 
+    {
+      "score": 0.3562000095844269, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3014110028743744, 
+      "description": "\uc54c\ud30c\ubb38\uad6c(\ucd9c\ud310\ub2e8\uc9c0)"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9325587749481201, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.9105412364006042, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8873624801635742, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.7627946138381958, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.7261649966239929, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.7016414403915405, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.6831521391868591, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.6610474586486816, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.649919331073761, 
+      "description": "facade"
+    }, 
+    {
+      "score": 0.637691855430603, 
+      "description": "street"
+    }
+  ]
+}

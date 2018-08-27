@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 33.426659, 
+      "description": "Jeju Province", 
+      "Longitude": 126.930541
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 124.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.0999438539147377, 
+      "color-red": 107.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.061041150242090225, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.02013315074145794, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 61.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.036817196756601334, 
+      "color-red": 39.0
+    }, 
+    {
+      "color-green": 232.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.22932541370391846, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 133.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.02318119816482067, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 102.0, 
+      "color-blue": 5.0, 
+      "pixel": 0.024945857003331184, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.007700328715145588, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 43.0, 
+      "pixel": 0.01756637543439865, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.018689339980483055, 
+      "color-red": 70.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "jeju province"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6956895589828491, 
+      "description": "Jeju Province"
+    }, 
+    {
+      "score": 0.40380001068115234, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.38547196984291077, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.29829999804496765, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.21876151859760284, 
+      "description": "Hill station"
+    }, 
+    {
+      "score": 0.18119999766349792, 
+      "description": "Point"
+    }, 
+    {
+      "score": 0.16251824796199799, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.15240000188350677, 
+      "description": "Check-in"
+    }, 
+    {
+      "score": 0.1500999927520752, 
+      "description": "Coordinate system"
+    }, 
+    {
+      "score": 0.14890000224113464, 
+      "description": "Black"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.965729296207428, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.855421245098114, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8520430326461792, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8482921123504639, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8030753135681152, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.7972758412361145, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.787641704082489, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7783917188644409, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.7747867703437805, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.7555855512619019, 
+      "description": "terrain"
+    }
+  ]
+}

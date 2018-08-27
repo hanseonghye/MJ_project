@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 53.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.06213333457708359, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 241.0, 
+      "color-blue": 231.0, 
+      "pixel": 0.42153334617614746, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 172.0, 
+      "pixel": 0.03253333270549774, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 77.0, 
+      "pixel": 0.06006666645407677, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.023399999365210533, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.020800000056624413, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 182.0, 
+      "pixel": 0.017999999225139618, 
+      "color-red": 227.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 107.0, 
+      "pixel": 0.04153333231806755, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.015200000256299973, 
+      "color-red": 30.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.010200000368058681, 
+      "color-red": 126.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "water"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1129183769226074, 
+      "description": "Water transportation"
+    }, 
+    {
+      "score": 0.7244927287101746, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.7003999948501587, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.694254457950592, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.6423272490501404, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.6208450794219971, 
+      "description": "Waterway"
+    }, 
+    {
+      "score": 0.5950170755386353, 
+      "description": "Boating"
+    }, 
+    {
+      "score": 0.5823032259941101, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.5658000111579895, 
+      "description": "Bank"
+    }, 
+    {
+      "score": 0.5511000156402588, 
+      "description": "Bank M"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9348564743995667, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.9197067618370056, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8971067667007446, 
+      "description": "water transportation"
+    }, 
+    {
+      "score": 0.8910291194915771, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.8233442306518555, 
+      "description": "river"
+    }, 
+    {
+      "score": 0.7985193133354187, 
+      "description": "lake"
+    }, 
+    {
+      "score": 0.7965786457061768, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7517876625061035, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7373800277709961, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7352196574211121, 
+      "description": "boating"
+    }
+  ]
+}

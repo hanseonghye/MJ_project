@@ -1,0 +1,148 @@
+{
+  "landmark": [
+    {
+      "Latitude": 33.426659, 
+      "description": "Jeju Province", 
+      "Longitude": 126.930541
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 160.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.029388058930635452, 
+      "color-red": 149.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 245.0, 
+      "pixel": 0.2308884561061859, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 172.0, 
+      "pixel": 0.020770041272044182, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 186.0, 
+      "pixel": 0.004836009815335274, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 77.0, 
+      "pixel": 0.005394010804593563, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.04036208242177963, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.02814805693924427, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 168.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.009486018680036068, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.0078120157122612, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 185.0, 
+      "pixel": 0.006510013248771429, 
+      "color-red": 112.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "jeju province"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8710500001907349, 
+      "description": "Jeju Province"
+    }, 
+    {
+      "score": 0.5085835456848145, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.4677375555038452, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.46197688579559326, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.39871540665626526, 
+      "description": "Village"
+    }, 
+    {
+      "score": 0.3921999931335449, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.3276999890804291, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9761447906494141, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9629844427108765, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9473909139633179, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8949037194252014, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8711873292922974, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8520681858062744, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.7894324660301208, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7796578407287598, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.7552824020385742, 
+      "description": "bay"
+    }, 
+    {
+      "score": 0.7535609602928162, 
+      "description": "ocean"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 245.0, 
+      "color-blue": 248.0, 
+      "pixel": 0.10015649348497391, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.12137019634246826, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.03755868598818779, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 202.0, 
+      "pixel": 0.07955138385295868, 
+      "color-red": 198.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.09494000673294067, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.11015475541353226, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.15597286820411682, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 28.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.13484612107276917, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.027821248397231102, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 215.0, 
+      "pixel": 0.0006085897912271321, 
+      "color-red": 198.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Yangsan"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.012556552886963, 
+      "description": "Waterfall"
+    }, 
+    {
+      "score": 0.9378600716590881, 
+      "description": "\ub0b4\uc6d0\uc0ac\uacc4\uace1"
+    }, 
+    {
+      "score": 0.6045600175857544, 
+      "description": "Cheonseongsan"
+    }, 
+    {
+      "score": 0.5710650086402893, 
+      "description": "Naewonsa"
+    }, 
+    {
+      "score": 0.5443000197410583, 
+      "description": "Stream"
+    }, 
+    {
+      "score": 0.5117999911308289, 
+      "description": ""
+    }, 
+    {
+      "score": 0.49470001459121704, 
+      "description": "Busan"
+    }, 
+    {
+      "score": 0.3898000121116638, 
+      "description": ""
+    }, 
+    {
+      "score": 0.36541998386383057, 
+      "description": "Baenaegol"
+    }, 
+    {
+      "score": 0.34540000557899475, 
+      "description": "Heat wave"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9731972217559814, 
+      "description": "waterfall"
+    }, 
+    {
+      "score": 0.9505876302719116, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9354602694511414, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9275258183479309, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.9273303151130676, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.9238006472587585, 
+      "description": "watercourse"
+    }, 
+    {
+      "score": 0.9006102085113525, 
+      "description": "stream"
+    }, 
+    {
+      "score": 0.8075833916664124, 
+      "description": "creek"
+    }, 
+    {
+      "score": 0.7869442701339722, 
+      "description": "water feature"
+    }, 
+    {
+      "score": 0.7270713448524475, 
+      "description": "river"
+    }
+  ]
+}

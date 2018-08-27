@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 196.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.14399999380111694, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.025568626821041107, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.02015686221420765, 
+      "color-red": 35.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.01670588180422783, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.15568627417087555, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 245.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.3186666667461395, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.07968627661466599, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.03215686231851578, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 137.0, 
+      "pixel": 0.019294118508696556, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.00862745102494955, 
+      "color-red": 124.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "residential area"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7399499416351318, 
+      "description": "Edelweiss Swiss Theme Park"
+    }, 
+    {
+      "score": 1.2418230772018433, 
+      "description": "Petite France, Gapyeong"
+    }, 
+    {
+      "score": 0.5097000002861023, 
+      "description": ""
+    }, 
+    {
+      "score": 0.49917998909950256, 
+      "description": "Hy\u00f6n\u00e4"
+    }, 
+    {
+      "score": 0.46877822279930115, 
+      "description": "Garden of Morning Calm"
+    }, 
+    {
+      "score": 0.4187999963760376, 
+      "description": ""
+    }, 
+    {
+      "score": 0.35991451144218445, 
+      "description": "Switzerland"
+    }, 
+    {
+      "score": 0.3375000059604645, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.19589999318122864, 
+      "description": "Amusement park"
+    }, 
+    {
+      "score": 0.18728233873844147, 
+      "description": "Neighbourhood"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9013147354125977, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8232762217521667, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.7188311815261841, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.7112213969230652, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.6894407272338867, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.650050938129425, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.6100883483886719, 
+      "description": "estate"
+    }, 
+    {
+      "score": 0.6035280823707581, 
+      "description": "facade"
+    }, 
+    {
+      "score": 0.5126215219497681, 
+      "description": "villa"
+    }, 
+    {
+      "score": 0.5038857460021973, 
+      "description": "village"
+    }
+  ]
+}

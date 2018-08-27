@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 120.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.02995322085916996, 
+      "color-red": 133.0
+    }, 
+    {
+      "color-green": 239.0, 
+      "color-blue": 227.0, 
+      "pixel": 0.006413158494979143, 
+      "color-red": 234.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.018635883927345276, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.041723255068063736, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.06058548390865326, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.008827523328363895, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.01365625485777855, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.005885015707463026, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.007922137156128883, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 9.0, 
+      "pixel": 0.008450279012322426, 
+      "color-red": 67.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "chinese architecture"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.158465027809143, 
+      "description": "Gungnamji"
+    }, 
+    {
+      "score": 0.615559995174408, 
+      "description": "\ubd80\uc5ec \uad81\ub0a8\uc9c0"
+    }, 
+    {
+      "score": 0.5759600400924683, 
+      "description": "Park Sunja ahwoonae measly"
+    }, 
+    {
+      "score": 0.5588989853858948, 
+      "description": "\ucc9c\uc548\ud638\ub3c4\uacfc\uc790 \ud280\uae40\uc18c\ubcf4\ub8e8"
+    }, 
+    {
+      "score": 0.5587000250816345, 
+      "description": "\uc544\uc6b0\ub0b4\uc7a5\ud130 \ub9cc\uc138\uc6b4\ub3d9"
+    }, 
+    {
+      "score": 0.4641000032424927, 
+      "description": "Landscape"
+    }, 
+    {
+      "score": 0.41163837909698486, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.3709999918937683, 
+      "description": "Nightscape"
+    }, 
+    {
+      "score": 0.36419999599456787, 
+      "description": "Sundae"
+    }, 
+    {
+      "score": 0.28836843371391296, 
+      "description": "Chinese architecture"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9857425093650818, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9796785712242126, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9622840285301208, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9394985437393188, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9366621375083923, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.9155884981155396, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8850415349006653, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8443120718002319, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.8381881713867188, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.8210883736610413, 
+      "description": "light"
+    }
+  ]
+}

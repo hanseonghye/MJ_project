@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 206.0, 
+      "color-blue": 239.0, 
+      "pixel": 0.21151860058307648, 
+      "color-red": 183.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.0416666679084301, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 140.0, 
+      "pixel": 0.044938016682863235, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 178.0, 
+      "pixel": 0.021005509421229362, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 204.0, 
+      "pixel": 0.02970041334629059, 
+      "color-red": 190.0
+    }, 
+    {
+      "color-green": 219.0, 
+      "color-blue": 245.0, 
+      "pixel": 0.0965048223733902, 
+      "color-red": 202.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.09805440902709961, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.11286157369613647, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.14040978252887726, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.018939394503831863, 
+      "color-red": 79.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Incheon"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0338901281356812, 
+      "description": "Incheon International Airport"
+    }, 
+    {
+      "score": 0.9196605086326599, 
+      "description": "Songdo Central Park"
+    }, 
+    {
+      "score": 0.5959917902946472, 
+      "description": "Water transportation"
+    }, 
+    {
+      "score": 0.4528000056743622, 
+      "description": "Baggage"
+    }, 
+    {
+      "score": 0.42900002002716064, 
+      "description": "Central Park"
+    }, 
+    {
+      "score": 0.4073850214481354, 
+      "description": "Hongik University station"
+    }, 
+    {
+      "score": 0.3666999936103821, 
+      "description": "Ameba Studios"
+    }, 
+    {
+      "score": 0.3621000051498413, 
+      "description": "Transport"
+    }, 
+    {
+      "score": 0.2871558368206024, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.25130000710487366, 
+      "description": "Seoul Station"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9683930277824402, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.9590405821800232, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9343969225883484, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9237565398216248, 
+      "description": "water transportation"
+    }, 
+    {
+      "score": 0.9149789214134216, 
+      "description": "river"
+    }, 
+    {
+      "score": 0.8937909603118896, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8797007203102112, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8763589859008789, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.8658365607261658, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.848132312297821, 
+      "description": "bridge"
+    }
+  ]
+}

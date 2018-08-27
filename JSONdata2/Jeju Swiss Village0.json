@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 244.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.013222222216427326, 
+      "color-red": 249.0
+    }, 
+    {
+      "color-green": 170.0, 
+      "color-blue": 226.0, 
+      "pixel": 0.09422222524881363, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.030055556446313858, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 135.0, 
+      "color-blue": 72.0, 
+      "pixel": 0.0032777776941657066, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 142.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.021833334118127823, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.03794444352388382, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.002277777763083577, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 27.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.008111110888421535, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 244.0, 
+      "color-blue": 109.0, 
+      "pixel": 0.008333333767950535, 
+      "color-red": 250.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.031111111864447594, 
+      "color-red": 129.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "residential area"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9538441300392151, 
+      "description": "Window"
+    }, 
+    {
+      "score": 0.923753559589386, 
+      "description": "House"
+    }, 
+    {
+      "score": 0.7815026640892029, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.771587610244751, 
+      "description": "Property"
+    }, 
+    {
+      "score": 0.6894904971122742, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.6089784502983093, 
+      "description": "Apartment"
+    }, 
+    {
+      "score": 0.5984886884689331, 
+      "description": "Yellow"
+    }, 
+    {
+      "score": 0.5609996914863586, 
+      "description": "Neighbourhood"
+    }, 
+    {
+      "score": 0.5568170547485352, 
+      "description": "Condominium"
+    }, 
+    {
+      "score": 0.4725187122821808, 
+      "description": "Hacienda"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9363341331481934, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9022565484046936, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8760594725608826, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.8472996354103088, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8277863264083862, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.8167717456817627, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7900384664535522, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7777778506278992, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.7196481227874756, 
+      "description": "apartment"
+    }, 
+    {
+      "score": 0.7193702459335327, 
+      "description": "home"
+    }
+  ]
+}

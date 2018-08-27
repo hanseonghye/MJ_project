@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 84.0, 
+      "color-blue": 136.0, 
+      "pixel": 0.18936507403850555, 
+      "color-red": 51.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 165.0, 
+      "pixel": 0.017539681866765022, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.024841269478201866, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 184.0, 
+      "pixel": 0.18539682030677795, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.013809523545205593, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.021190475672483444, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.031587302684783936, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 229.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.0057142856530845165, 
+      "color-red": 244.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.011904762126505375, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.016031745821237564, 
+      "color-red": 113.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc601\ub3c4 \ud770 \uc5ec\uc6b8 \ubb38\ud654 \ub9c8\uc744"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5390621423721313, 
+      "description": "Huinnyeoul Munhwa Maul \u2502 White Ford Cultural Village"
+    }, 
+    {
+      "score": 0.8080499768257141, 
+      "description": "Yeongseondong"
+    }, 
+    {
+      "score": 0.7726455330848694, 
+      "description": "Haeundae District"
+    }, 
+    {
+      "score": 0.7685061693191528, 
+      "description": "\ud770\uc5ec\uc6b8\ub9c8\uc744\ud68c\uad00"
+    }, 
+    {
+      "score": 0.7599000334739685, 
+      "description": "Huinnyeoul Culture Village"
+    }, 
+    {
+      "score": 0.6702250838279724, 
+      "description": "Suyeong District"
+    }, 
+    {
+      "score": 0.5390999913215637, 
+      "description": "Culture"
+    }, 
+    {
+      "score": 0.494950532913208, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.311599999666214, 
+      "description": ""
+    }, 
+    {
+      "score": 0.27277275919914246, 
+      "description": "Sea"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9546564221382141, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9453518986701965, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9402614235877991, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9219326972961426, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8748118877410889, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8318771123886108, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.7906200289726257, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.7731812596321106, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7567150592803955, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.6766111254692078, 
+      "description": "port"
+    }
+  ]
+}

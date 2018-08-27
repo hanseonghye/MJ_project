@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 83.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.0984666645526886, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 44.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.06246666610240936, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 67.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.03553333505988121, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 250.0, 
+      "color-blue": 216.0, 
+      "pixel": 0.04439999908208847, 
+      "color-red": 252.0
+    }, 
+    {
+      "color-green": 223.0, 
+      "color-blue": 134.0, 
+      "pixel": 0.023000000044703484, 
+      "color-red": 251.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.11826666444540024, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.040933333337306976, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.024800000712275505, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 254.0, 
+      "color-blue": 248.0, 
+      "pixel": 0.049800001084804535, 
+      "color-red": 253.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.029466666281223297, 
+      "color-red": 61.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.39058801531791687, 
+      "description": "Morro Bay"
+    }, 
+    {
+      "score": 0.28064998984336853, 
+      "description": "Sea otter"
+    }, 
+    {
+      "score": 0.22004999220371246, 
+      "description": "Otter"
+    }, 
+    {
+      "score": 0.20470426976680756, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.19986101984977722, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.19971531629562378, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.18579505383968353, 
+      "description": "Sunset"
+    }, 
+    {
+      "score": 0.1672908067703247, 
+      "description": "Vacation"
+    }, 
+    {
+      "score": 0.15330000221729279, 
+      "description": "Love"
+    }, 
+    {
+      "score": 0.13590000569820404, 
+      "description": "Bike rental"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9702176451683044, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9638556241989136, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.954025387763977, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.9346932172775269, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9256113171577454, 
+      "description": "sun"
+    }, 
+    {
+      "score": 0.9238472580909729, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.9056553244590759, 
+      "description": "sunset"
+    }, 
+    {
+      "score": 0.8946073651313782, 
+      "description": "sunrise"
+    }, 
+    {
+      "score": 0.8859148621559143, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8624516725540161, 
+      "description": "beach"
+    }
+  ]
+}

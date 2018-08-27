@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 106.0, 
+      "color-blue": 143.0, 
+      "pixel": 0.0140666663646698, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.13279999792575836, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.01353333331644535, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.041866667568683624, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.01746666617691517, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 78.0, 
+      "color-blue": 139.0, 
+      "pixel": 0.01126666646450758, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.015933332964777946, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.05139999836683273, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.014866666868329048, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.036400001496076584, 
+      "color-red": 86.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uad11\uc548 \ub300\uad50"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.8946188688278198, 
+      "description": "Gwangandaegyo"
+    }, 
+    {
+      "score": 1.1270643472671509, 
+      "description": "Gwangalli Beach"
+    }, 
+    {
+      "score": 1.0781559944152832, 
+      "description": "Haeundae District"
+    }, 
+    {
+      "score": 0.7624634504318237, 
+      "description": "Seongsu Bridge"
+    }, 
+    {
+      "score": 0.5184999704360962, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.5076000094413757, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.46369999647140503, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.42640000581741333, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.36039999127388, 
+      "description": ""
+    }, 
+    {
+      "score": 0.33250001072883606, 
+      "description": "Hotel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9825929403305054, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9728288054466248, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9715676307678223, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9647660851478577, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9630292654037476, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.9360719323158264, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9348620176315308, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.927448570728302, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9259191751480103, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.8951748609542847, 
+      "description": "water"
+    }
+  ]
+}

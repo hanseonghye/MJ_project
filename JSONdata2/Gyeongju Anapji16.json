@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 133.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.03471970930695534, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.037793852388858795, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 171.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.00578661821782589, 
+      "color-red": 254.0
+    }, 
+    {
+      "color-green": 31.0, 
+      "color-blue": 1.0, 
+      "pixel": 0.030470162630081177, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.01717902347445488, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 14.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.30922242999076843, 
+      "color-red": 22.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.10325497388839722, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 213.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.0003616636386141181, 
+      "color-red": 255.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 2.0, 
+      "pixel": 0.04855334386229515, 
+      "color-red": 149.0
+    }, 
+    {
+      "color-green": 98.0, 
+      "color-blue": 4.0, 
+      "pixel": 0.009764919057488441, 
+      "color-red": 206.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "South Korea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1331045627593994, 
+      "description": "South Korea"
+    }, 
+    {
+      "score": 0.3965783417224884, 
+      "description": "Chinese architecture"
+    }, 
+    {
+      "score": 0.37663546204566956, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.3107820153236389, 
+      "description": "Pagoda"
+    }, 
+    {
+      "score": 0.28299999237060547, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.273499995470047, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.19129960238933563, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.1898999959230423, 
+      "description": "Architecture"
+    }, 
+    {
+      "score": 0.177470862865448, 
+      "description": "City"
+    }, 
+    {
+      "score": 0.16990000009536743, 
+      "description": "Inhaltsangabe"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.988874077796936, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.978571355342865, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9537655115127563, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9365788102149963, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8683965802192688, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8640172481536865, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8630550503730774, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.850557267665863, 
+      "description": "light"
+    }, 
+    {
+      "score": 0.837446391582489, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.8135128617286682, 
+      "description": "architecture"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 165.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.3510666787624359, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.23280000686645508, 
+      "color-red": 29.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.06986666470766068, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 208.0, 
+      "pixel": 0.033799998462200165, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 154.0, 
+      "pixel": 0.05559999868273735, 
+      "color-red": 107.0
+    }, 
+    {
+      "color-green": 137.0, 
+      "color-blue": 188.0, 
+      "pixel": 0.1146666631102562, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.04859999939799309, 
+      "color-red": 61.0
+    }, 
+    {
+      "color-green": 27.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.04780000075697899, 
+      "color-red": 9.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 172.0, 
+      "pixel": 0.012733333744108677, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.017266666516661644, 
+      "color-red": 186.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "great belt bridge"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4407800436019897, 
+      "description": "Great Belt Fixed Link"
+    }, 
+    {
+      "score": 1.1780999898910522, 
+      "description": "Great Belt"
+    }, 
+    {
+      "score": 1.0788359642028809, 
+      "description": "Zealand"
+    }, 
+    {
+      "score": 0.9570058584213257, 
+      "description": "Cable-stayed bridge"
+    }, 
+    {
+      "score": 0.9151229858398438, 
+      "description": "Little Belt Bridge"
+    }, 
+    {
+      "score": 0.7210995554924011, 
+      "description": "Funen"
+    }, 
+    {
+      "score": 0.7184000015258789, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.6378900408744812, 
+      "description": "Little Belt"
+    }, 
+    {
+      "score": 0.5896512866020203, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.5768399834632874, 
+      "description": "Storeb\u00e6ltsbroen"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9707425236701965, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.902864396572113, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8929580450057983, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8875370621681213, 
+      "description": "cable stayed bridge"
+    }, 
+    {
+      "score": 0.8774917125701904, 
+      "description": "suspension bridge"
+    }, 
+    {
+      "score": 0.8617997765541077, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.8236932754516602, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.821250855922699, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.7890608310699463, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.7581446766853333, 
+      "description": "extradosed bridge"
+    }
+  ]
+}

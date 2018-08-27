@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 206.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.34580355882644653, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 187.0, 
+      "pixel": 0.08455356955528259, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 218.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.12285714596509933, 
+      "color-red": 249.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 43.0, 
+      "pixel": 0.06901785731315613, 
+      "color-red": 221.0
+    }, 
+    {
+      "color-green": 209.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.035178571939468384, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.029553571715950966, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.02187499962747097, 
+      "color-red": 212.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.020714284852147102, 
+      "color-red": 190.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 153.0, 
+      "pixel": 8.928571332944557e-05, 
+      "color-red": 122.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.010803570970892906, 
+      "color-red": 185.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "field"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.028719902038574, 
+      "description": "Canola oil"
+    }, 
+    {
+      "score": 1.446390151977539, 
+      "description": "Daejeo Ecological Park"
+    }, 
+    {
+      "score": 0.9089418649673462, 
+      "description": "Rapeseed"
+    }, 
+    {
+      "score": 0.7746623754501343, 
+      "description": "Field mustard"
+    }, 
+    {
+      "score": 0.6102799773216248, 
+      "description": "\u91dc\u5c71\u6d1b\u4e1c\u6c5f\u6cb9\u83dc\u82b1\u795d\u796d"
+    }, 
+    {
+      "score": 0.44040000438690186, 
+      "description": ""
+    }, 
+    {
+      "score": 0.37834542989730835, 
+      "description": "Crop"
+    }, 
+    {
+      "score": 0.31040000915527344, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.2796262204647064, 
+      "description": "Grassland"
+    }, 
+    {
+      "score": 0.262138694524765, 
+      "description": "Yellow"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9332678318023682, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9144724011421204, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8880426287651062, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.8637323975563049, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.844775378704071, 
+      "description": "mustard plant"
+    }, 
+    {
+      "score": 0.8437656164169312, 
+      "description": "canola"
+    }, 
+    {
+      "score": 0.8270779252052307, 
+      "description": "rapeseed"
+    }, 
+    {
+      "score": 0.7876110076904297, 
+      "description": "prairie"
+    }, 
+    {
+      "score": 0.7540942430496216, 
+      "description": "mustard and cabbage family"
+    }, 
+    {
+      "score": 0.7193679213523865, 
+      "description": "wildflower"
+    }
+  ]
+}

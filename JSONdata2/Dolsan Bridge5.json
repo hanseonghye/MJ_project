@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 118.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.1895061731338501, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 19.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.00918209832161665, 
+      "color-red": 51.0
+    }, 
+    {
+      "color-green": 71.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.005324074067175388, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 168.0, 
+      "color-blue": 223.0, 
+      "pixel": 0.0012345679569989443, 
+      "color-red": 248.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 223.0, 
+      "pixel": 0.0006172839784994721, 
+      "color-red": 223.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.0006172839784994721, 
+      "color-red": 149.0
+    }, 
+    {
+      "color-green": 206.0, 
+      "color-blue": 214.0, 
+      "pixel": 0.0006172839784994721, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 176.0, 
+      "color-blue": 171.0, 
+      "pixel": 0.0005401234375312924, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.06520061939954758, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.08009259402751923, 
+      "color-red": 86.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "cable stayed bridge"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3409550189971924, 
+      "description": "\ub3cc\uc0b0\ub300\uad50"
+    }, 
+    {
+      "score": 1.1583001613616943, 
+      "description": "Dolsan"
+    }, 
+    {
+      "score": 0.8440499305725098, 
+      "description": "Dolsando"
+    }, 
+    {
+      "score": 0.8106788396835327, 
+      "description": "Cable-stayed bridge"
+    }, 
+    {
+      "score": 0.6226500272750854, 
+      "description": "\uc5f0\ub959\uad50"
+    }, 
+    {
+      "score": 0.5741000175476074, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.5218950510025024, 
+      "description": "Port Hamilton"
+    }, 
+    {
+      "score": 0.5012999773025513, 
+      "description": "Namhae"
+    }, 
+    {
+      "score": 0.4867500066757202, 
+      "description": "Yagyeong"
+    }, 
+    {
+      "score": 0.482699990272522, 
+      "description": "\ubc31\ub3c4"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9442241787910461, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.9053286910057068, 
+      "description": "cable stayed bridge"
+    }, 
+    {
+      "score": 0.9038259983062744, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8910744786262512, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8897602558135986, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.8801345229148865, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.8524122834205627, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.8492316007614136, 
+      "description": "river"
+    }, 
+    {
+      "score": 0.8344714641571045, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8206961154937744, 
+      "description": "fixed link"
+    }
+  ]
+}

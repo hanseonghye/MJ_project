@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 176.0, 
+      "color-blue": 5.0, 
+      "pixel": 0.01760299690067768, 
+      "color-red": 252.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.03430711477994919, 
+      "color-red": 39.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 170.0, 
+      "pixel": 0.05865168571472168, 
+      "color-red": 23.0
+    }, 
+    {
+      "color-green": 134.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.011086142621934414, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.005992509424686432, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 44.0, 
+      "color-blue": 5.0, 
+      "pixel": 0.00906367041170597, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 17.0, 
+      "color-blue": 3.0, 
+      "pixel": 0.00928838923573494, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 15.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.29865169525146484, 
+      "color-red": 18.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.0005992509541101754, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.0006741572869941592, 
+      "color-red": 64.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Gyeongju"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1401829719543457, 
+      "description": "Anapji Pond"
+    }, 
+    {
+      "score": 0.9496079683303833, 
+      "description": "Donggung Palace and Wolji Pond in Gyeongju"
+    }, 
+    {
+      "score": 0.44512200355529785, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.41106709837913513, 
+      "description": "Lake"
+    }, 
+    {
+      "score": 0.40700000524520874, 
+      "description": "Pond"
+    }, 
+    {
+      "score": 0.29584500193595886, 
+      "description": "Seoraksan"
+    }, 
+    {
+      "score": 0.288341224193573, 
+      "description": "Pagoda"
+    }, 
+    {
+      "score": 0.28790000081062317, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.2398584634065628, 
+      "description": "Chinese architecture"
+    }, 
+    {
+      "score": 0.19793422520160675, 
+      "description": "Tree"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9791287779808044, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9772725701332092, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.957984209060669, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.938288152217865, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9296776652336121, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8955338001251221, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8274254202842712, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.8118278980255127, 
+      "description": "lake"
+    }, 
+    {
+      "score": 0.8060190677642822, 
+      "description": "pagoda"
+    }, 
+    {
+      "score": 0.7974608540534973, 
+      "description": "morning"
+    }
+  ]
+}

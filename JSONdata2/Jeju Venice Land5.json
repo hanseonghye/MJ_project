@@ -1,0 +1,138 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 83.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.09197080135345459, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 247.0, 
+      "color-blue": 251.0, 
+      "pixel": 0.23665855824947357, 
+      "color-red": 242.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.07031629979610443, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 108.0, 
+      "pixel": 0.04590429738163948, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.09748581051826477, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.033252231776714325, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.07704784721136093, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 181.0, 
+      "pixel": 0.07177615910768509, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 26.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.020519059151411057, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 28.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.01784265972673893, 
+      "color-red": 24.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "water"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0508999824523926, 
+      "description": "\ubca0\ub2c8\uc2a4\ub79c\ub4dc"
+    }, 
+    {
+      "score": 0.6975100636482239, 
+      "description": "\u5a01\u5c3c\u65af\u6c34\u4e61 Venice Land"
+    }, 
+    {
+      "score": 0.4830000102519989, 
+      "description": ""
+    }, 
+    {
+      "score": 0.39089998602867126, 
+      "description": "Ch\u1ed7 \u1edf"
+    }, 
+    {
+      "score": 0.3736000061035156, 
+      "description": "Day of Husband and Wife"
+    }, 
+    {
+      "score": 0.3480701148509979, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.34709998965263367, 
+      "description": "Naver Blog"
+    }, 
+    {
+      "score": 0.33070001006126404, 
+      "description": "Child"
+    }, 
+    {
+      "score": 0.3278999924659729, 
+      "description": "Echtpaar"
+    }, 
+    {
+      "score": 0.26829999685287476, 
+      "description": "May"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9217532873153687, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.9047011733055115, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.6158723831176758, 
+      "description": "recreation"
+    }, 
+    {
+      "score": 0.5744481086730957, 
+      "description": "dock"
+    }, 
+    {
+      "score": 0.5435967445373535, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.5344031453132629, 
+      "description": "mixed use"
+    }
+  ]
+}

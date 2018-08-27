@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 230.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.16459901630878448, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.10995864868164062, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 205.0, 
+      "pixel": 0.16487017273902893, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.09280727058649063, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.11260253190994263, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 112.0, 
+      "pixel": 0.10345061123371124, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.15185411274433136, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 220.0, 
+      "pixel": 0.06630059331655502, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 38.0, 
+      "pixel": 0.010168801993131638, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.0007457121391780674, 
+      "color-red": 119.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5531175136566162, 
+      "description": "\uc544\uc0b0 \uacf5\uc138\ub9ac\uc131\ub2f9"
+    }, 
+    {
+      "score": 1.5135867595672607, 
+      "description": "\uc544\uc0b0\uacf5\uc138\ub9ac\uc131\ub2f9"
+    }, 
+    {
+      "score": 1.2724746465682983, 
+      "description": "Church"
+    }, 
+    {
+      "score": 0.9757499694824219, 
+      "description": "\u8056\u5802"
+    }, 
+    {
+      "score": 0.8292663097381592, 
+      "description": "\u8ca2\u7a0e\u91cc\u8056\u5802"
+    }, 
+    {
+      "score": 0.5772568583488464, 
+      "description": "Chapel"
+    }, 
+    {
+      "score": 0.5426850318908691, 
+      "description": "Pyeongtaek"
+    }, 
+    {
+      "score": 0.3149000108242035, 
+      "description": "Catholicism"
+    }, 
+    {
+      "score": 0.2659919261932373, 
+      "description": "Steeple"
+    }, 
+    {
+      "score": 0.24584421515464783, 
+      "description": "Architecture"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9358891844749451, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9145326018333435, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9135803580284119, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8891986608505249, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8705052733421326, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.8620680570602417, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.8309354186058044, 
+      "description": "winter"
+    }, 
+    {
+      "score": 0.8144322037696838, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.7938739657402039, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7735615968704224, 
+      "description": "spire"
+    }
+  ]
+}

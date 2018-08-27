@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 112.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.011290792375802994, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.01391317043453455, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 221.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.011509324423968792, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 21.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.09455128014087677, 
+      "color-red": 23.0
+    }, 
+    {
+      "color-green": 37.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.012019230984151363, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 131.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.07655885815620422, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.012237762100994587, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.005536130629479885, 
+      "color-red": 242.0
+    }, 
+    {
+      "color-green": 27.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.009688228368759155, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.005608974490314722, 
+      "color-red": 180.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "chinese architecture"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4298900365829468, 
+      "description": "Donggung Palace and Wolji Pond in Gyeongju"
+    }, 
+    {
+      "score": 0.7399500012397766, 
+      "description": "Silla"
+    }, 
+    {
+      "score": 0.4639799892902374, 
+      "description": "\uacbd\uc8fc\ud55c\uc625\ud39c\uc158"
+    }, 
+    {
+      "score": 0.4529999792575836, 
+      "description": "Three Kingdoms of Korea"
+    }, 
+    {
+      "score": 0.43790000677108765, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3868739604949951, 
+      "description": "Pond"
+    }, 
+    {
+      "score": 0.3571729063987732, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.3246000111103058, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.2809000015258789, 
+      "description": "ST.AU.150 MIN.V.UNC.NR AD"
+    }, 
+    {
+      "score": 0.24772587418556213, 
+      "description": "Pagoda"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9897725582122803, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9806787371635437, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9602195620536804, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.941341757774353, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9175588488578796, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8697218894958496, 
+      "description": "pagoda"
+    }, 
+    {
+      "score": 0.8661325573921204, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8249346017837524, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.8228768110275269, 
+      "description": "lake"
+    }, 
+    {
+      "score": 0.8129585981369019, 
+      "description": "tourist attraction"
+    }
+  ]
+}

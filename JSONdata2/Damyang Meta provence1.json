@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 89.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.022097928449511528, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 104.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.051531266421079636, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.011003118008375168, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 99.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.036310289055109024, 
+      "color-red": 160.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.02787456475198269, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.020722538232803345, 
+      "color-red": 122.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.00513478834182024, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.026040712371468544, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.11865028738975525, 
+      "color-red": 122.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.13038694858551025, 
+      "color-red": 153.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ub2f4\uc591\uad70 \ud504\ub85c\ubc29\uc2a4"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9286786913871765, 
+      "description": "\ud504\ub85c\ubc29\uc2a4\ubca0\uc774\ucee4\ub9ac"
+    }, 
+    {
+      "score": 0.6187286972999573, 
+      "description": "\ub2f4\uc591\uba54\ud0c0\ud39c\uc158"
+    }, 
+    {
+      "score": 0.45065000653266907, 
+      "description": "\ub2f4\uc591\ud504\ub85c\ubc29\uc2a4\ud39c\uc158"
+    }, 
+    {
+      "score": 0.43879079818725586, 
+      "description": "Jughyang"
+    }, 
+    {
+      "score": 0.4106800854206085, 
+      "description": "\ud14c\ub9c8\uacf5\uc6d0"
+    }, 
+    {
+      "score": 0.396699994802475, 
+      "description": "Newspaper"
+    }, 
+    {
+      "score": 0.3749000132083893, 
+      "description": ""
+    }, 
+    {
+      "score": 0.36649999022483826, 
+      "description": "Tropical woody bamboos"
+    }, 
+    {
+      "score": 0.29645001888275146, 
+      "description": "\ud504\ub77c\uc784\uacbd\uc81c"
+    }, 
+    {
+      "score": 0.2937000095844269, 
+      "description": "Seoul Shinmun"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9195385575294495, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.9183804392814636, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8803728222846985, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8391017317771912, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.823966920375824, 
+      "description": "suburb"
+    }, 
+    {
+      "score": 0.7948035597801208, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.7400597929954529, 
+      "description": "bird's eye view"
+    }, 
+    {
+      "score": 0.665044903755188, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.6591386795043945, 
+      "description": "roof"
+    }, 
+    {
+      "score": 0.64980548620224, 
+      "description": "village"
+    }
+  ]
+}

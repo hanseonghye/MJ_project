@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 132.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.07301587611436844, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.08253968507051468, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 175.0, 
+      "pixel": 0.02428571507334709, 
+      "color-red": 198.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.04087301716208458, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 43.0, 
+      "pixel": 0.021190475672483444, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.035158731043338776, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.018015872687101364, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 105.0, 
+      "color-blue": 3.0, 
+      "pixel": 0.016507936641573906, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 104.0, 
+      "color-blue": 9.0, 
+      "pixel": 0.008888889104127884, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 65.0, 
+      "color-blue": 3.0, 
+      "pixel": 0.04087301716208458, 
+      "color-red": 43.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "extreme wide shot hd"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7113999724388123, 
+      "description": "Long shot"
+    }, 
+    {
+      "score": 0.7046999931335449, 
+      "description": "Shot"
+    }, 
+    {
+      "score": 0.620199978351593, 
+      "description": "Footage"
+    }, 
+    {
+      "score": 0.5619000196456909, 
+      "description": "Royalty-free"
+    }, 
+    {
+      "score": 0.541700005531311, 
+      "description": "Stock footage"
+    }, 
+    {
+      "score": 0.508899986743927, 
+      "description": "Video"
+    }, 
+    {
+      "score": 0.5049999952316284, 
+      "description": "Image"
+    }, 
+    {
+      "score": 0.5008000135421753, 
+      "description": "Music"
+    }, 
+    {
+      "score": 0.4966000020503998, 
+      "description": "Cinematography"
+    }, 
+    {
+      "score": 0.49140000343322754, 
+      "description": "4K resolution"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9661392569541931, 
+      "description": "woodland"
+    }, 
+    {
+      "score": 0.9635939002037048, 
+      "description": "green"
+    }, 
+    {
+      "score": 0.9610517024993896, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9489620327949524, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9461881518363953, 
+      "description": "ecosystem"
+    }, 
+    {
+      "score": 0.9450023770332336, 
+      "description": "forest"
+    }, 
+    {
+      "score": 0.9288222789764404, 
+      "description": "grove"
+    }, 
+    {
+      "score": 0.9278256893157959, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.915277361869812, 
+      "description": "path"
+    }, 
+    {
+      "score": 0.8849861025810242, 
+      "description": "nature reserve"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 50.941055999999996, 
+      "description": "Hohenzollernbr\u00fccke", 
+      "Longitude": 6.968658
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 117.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.06540682166814804, 
+      "color-red": 133.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.0667191594839096, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.05375327914953232, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.03811023756861687, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.03223096951842308, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 107.0, 
+      "pixel": 0.021994750946760178, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 140.0, 
+      "pixel": 0.014330708421766758, 
+      "color-red": 160.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 74.0, 
+      "pixel": 0.02923884429037571, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 223.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.013490813784301281, 
+      "color-red": 242.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 43.0, 
+      "pixel": 0.1503412127494812, 
+      "color-red": 58.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "koln am rhein"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.4131078720092773, 
+      "description": "Cologne Cathedral"
+    }, 
+    {
+      "score": 1.0600500106811523, 
+      "description": "Rhine"
+    }, 
+    {
+      "score": 0.8703343272209167, 
+      "description": "Great St. Martin Church, Cologne"
+    }, 
+    {
+      "score": 0.7073000073432922, 
+      "description": ""
+    }, 
+    {
+      "score": 0.6415500044822693, 
+      "description": "Notre-Dame de Paris"
+    }, 
+    {
+      "score": 0.6254000067710876, 
+      "description": "Cathedral"
+    }, 
+    {
+      "score": 0.6215999722480774, 
+      "description": "Catholicism"
+    }, 
+    {
+      "score": 0.5042999982833862, 
+      "description": "River"
+    }, 
+    {
+      "score": 0.47380000352859497, 
+      "description": "Catholic Church in Germany"
+    }, 
+    {
+      "score": 0.4374000132083893, 
+      "description": "Religion"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9172536730766296, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.885128915309906, 
+      "description": "spire"
+    }, 
+    {
+      "score": 0.8641098737716675, 
+      "description": "cathedral"
+    }, 
+    {
+      "score": 0.8451671600341797, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.821285605430603, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.8175618052482605, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.8141077160835266, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7939619421958923, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.7849184274673462, 
+      "description": "medieval architecture"
+    }, 
+    {
+      "score": 0.7461996674537659, 
+      "description": "gothic architecture"
+    }
+  ]
+}

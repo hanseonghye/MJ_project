@@ -1,0 +1,180 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.537091, 
+      "description": "HOTEL SEOUL PALACE", 
+      "Longitude": 126.974487
+    }, 
+    {
+      "Latitude": 37.557121, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.980667
+    }, 
+    {
+      "Latitude": 37.534776, 
+      "description": "", 
+      "Longitude": 126.959381
+    }, 
+    {
+      "Latitude": 37.578256, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.977019
+    }, 
+    {
+      "Latitude": 37.570092, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.977
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 19.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.18521395325660706, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.030362943187355995, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 211.0, 
+      "pixel": 0.00748481834307313, 
+      "color-red": 248.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 248.0, 
+      "pixel": 0.1101539358496666, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.0004236689710523933, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.12533541023731232, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.0004236689710523933, 
+      "color-red": 0.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.02167772874236107, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 72.0, 
+      "pixel": 0.04603869467973709, 
+      "color-red": 87.0
+    }, 
+    {
+      "color-green": 72.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.017723485827445984, 
+      "color-red": 111.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "hotel seoul palace"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.4123833179473877, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 1.3190078735351562, 
+      "description": "N Seoul Tower"
+    }, 
+    {
+      "score": 1.1534181833267212, 
+      "description": "Changdeokgung"
+    }, 
+    {
+      "score": 1.1409659385681152, 
+      "description": "Deoksugung"
+    }, 
+    {
+      "score": 1.0976756811141968, 
+      "description": "National Folk Museum of Korea"
+    }, 
+    {
+      "score": 1.0634199380874634, 
+      "description": "Namsan"
+    }, 
+    {
+      "score": 0.8716719746589661, 
+      "description": "Namiseom"
+    }, 
+    {
+      "score": 0.7084000110626221, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.6866999864578247, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.5730999708175659, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9889551401138306, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9195992946624756, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8105849623680115, 
+      "description": "palace"
+    }, 
+    {
+      "score": 0.7855151295661926, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.7541762590408325, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.7129916548728943, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7051794528961182, 
+      "description": "shinto shrine"
+    }, 
+    {
+      "score": 0.704211413860321, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6588669419288635, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.629331648349762, 
+      "description": "temple"
+    }
+  ]
+}

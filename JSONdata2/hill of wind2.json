@@ -1,0 +1,142 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 165.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.19388888776302338, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.03333333507180214, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 28.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.04841269925236702, 
+      "color-red": 35.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 227.0, 
+      "pixel": 0.3142063617706299, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.039523810148239136, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 168.0, 
+      "color-blue": 179.0, 
+      "pixel": 0.07873015850782394, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 221.0, 
+      "color-blue": 251.0, 
+      "pixel": 0.016984127461910248, 
+      "color-red": 200.0
+    }, 
+    {
+      "color-green": 178.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.012222222052514553, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 62.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.06730158627033234, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.0033333334140479565, 
+      "color-red": 101.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7825407385826111, 
+      "description": "Steppe"
+    }, 
+    {
+      "score": 0.6620164513587952, 
+      "description": "Energy"
+    }, 
+    {
+      "score": 0.6607973575592041, 
+      "description": "Grassland"
+    }, 
+    {
+      "score": 0.5803495645523071, 
+      "description": "Rural area"
+    }, 
+    {
+      "score": 0.5367593765258789, 
+      "description": "Ecoregion"
+    }, 
+    {
+      "score": 0.5200086832046509, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.43380001187324524, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9761731624603271, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8925207257270813, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.8884851336479187, 
+      "description": "ecosystem"
+    }, 
+    {
+      "score": 0.8863991498947144, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.8782034516334534, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.8617045283317566, 
+      "description": "plain"
+    }, 
+    {
+      "score": 0.8445311188697815, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8352627158164978, 
+      "description": "hill"
+    }, 
+    {
+      "score": 0.8125910758972168, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.7947710752487183, 
+      "description": "atmosphere"
+    }
+  ]
+}

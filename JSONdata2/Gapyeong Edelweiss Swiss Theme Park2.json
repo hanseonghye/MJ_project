@@ -1,0 +1,146 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 165.0, 
+      "color-blue": 222.0, 
+      "pixel": 0.02777777798473835, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 202.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.07071111351251602, 
+      "color-red": 178.0
+    }, 
+    {
+      "color-green": 232.0, 
+      "color-blue": 202.0, 
+      "pixel": 0.10022222250699997, 
+      "color-red": 241.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.026311110705137253, 
+      "color-red": 36.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.008977777324616909, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 209.0, 
+      "pixel": 0.07231111079454422, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 249.0, 
+      "pixel": 0.06862222403287888, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 98.0, 
+      "color-blue": 213.0, 
+      "pixel": 0.018844444304704666, 
+      "color-red": 76.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 240.0, 
+      "pixel": 0.023955555632710457, 
+      "color-red": 146.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.006800000090152025, 
+      "color-red": 249.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7013000249862671, 
+      "description": "Real Estate"
+    }, 
+    {
+      "score": 0.6971380710601807, 
+      "description": "House"
+    }, 
+    {
+      "score": 0.6399183869361877, 
+      "description": "Villa"
+    }, 
+    {
+      "score": 0.5651642680168152, 
+      "description": "Mansion"
+    }, 
+    {
+      "score": 0.4902493357658386, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.4603999853134155, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.4447999894618988, 
+      "description": "Estate"
+    }, 
+    {
+      "score": 0.38429999351501465, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9725980162620544, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.910449743270874, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8634237051010132, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.8558635115623474, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8124222159385681, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.7961868643760681, 
+      "description": "estate"
+    }, 
+    {
+      "score": 0.7404224872589111, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.7363458871841431, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.7132368087768555, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.6858110427856445, 
+      "description": "daytime"
+    }
+  ]
+}

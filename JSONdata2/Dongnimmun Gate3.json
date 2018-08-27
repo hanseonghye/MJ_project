@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 192.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.09974640607833862, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.009636517614126205, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.07506339997053146, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.10101436823606491, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 231.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.2256973832845688, 
+      "color-red": 227.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.05224006623029709, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.05629754811525345, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 149.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.006593406666070223, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 106.0, 
+      "pixel": 0.011749789118766785, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.011580727063119411, 
+      "color-red": 55.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "historic site"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4007445573806763, 
+      "description": "Independence Gate"
+    }, 
+    {
+      "score": 1.397949457168579, 
+      "description": "Seodaemun Prison"
+    }, 
+    {
+      "score": 1.0951709747314453, 
+      "description": "Joseon"
+    }, 
+    {
+      "score": 0.8381999731063843, 
+      "description": "Korean Empire"
+    }, 
+    {
+      "score": 0.5964000225067139, 
+      "description": "History"
+    }, 
+    {
+      "score": 0.5416499972343445, 
+      "description": "Japan\u2013Korea Treaty of 1905"
+    }, 
+    {
+      "score": 0.4871000051498413, 
+      "description": ""
+    }, 
+    {
+      "score": 0.44769999384880066, 
+      "description": "Chinilpa"
+    }, 
+    {
+      "score": 0.44519999623298645, 
+      "description": "National Liberation Day of Korea"
+    }, 
+    {
+      "score": 0.38109999895095825, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9344004392623901, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.8386863470077515, 
+      "description": "arch"
+    }, 
+    {
+      "score": 0.7535580992698669, 
+      "description": "archaeological site"
+    }, 
+    {
+      "score": 0.6321852207183838, 
+      "description": "medieval architecture"
+    }, 
+    {
+      "score": 0.5851720571517944, 
+      "description": "ancient history"
+    }, 
+    {
+      "score": 0.5805550813674927, 
+      "description": "ruins"
+    }, 
+    {
+      "score": 0.5802789330482483, 
+      "description": "tours"
+    }, 
+    {
+      "score": 0.5760384798049927, 
+      "description": "fortification"
+    }, 
+    {
+      "score": 0.5439241528511047, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.5087372660636902, 
+      "description": "monument"
+    }
+  ]
+}

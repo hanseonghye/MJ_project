@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 33.426659, 
+      "description": "Jeju Province", 
+      "Longitude": 126.930541
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 242.0, 
+      "color-blue": 249.0, 
+      "pixel": 0.525181770324707, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.07370500266551971, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.011221833527088165, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.02720172330737114, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.005386480130255222, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 23.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.009516114369034767, 
+      "color-red": 16.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.018762905150651932, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.003142113331705332, 
+      "color-red": 19.0
+    }, 
+    {
+      "color-green": 19.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.05601939186453819, 
+      "color-red": 21.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.020378848537802696, 
+      "color-red": 52.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "jeju province"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6026450395584106, 
+      "description": "Seopjikoji"
+    }, 
+    {
+      "score": 0.37040001153945923, 
+      "description": ""
+    }, 
+    {
+      "score": 0.29084712266921997, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.27950000762939453, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.2694346606731415, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.26725971698760986, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.265500009059906, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.22200000286102295, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.20909841358661652, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.18695244193077087, 
+      "description": "Headland"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9674406051635742, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.905981719493866, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8989191055297852, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8520634174346924, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8414279222488403, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7847645878791809, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7772849798202515, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.7593789100646973, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.7496843338012695, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.7036858797073364, 
+      "description": "highland"
+    }
+  ]
+}

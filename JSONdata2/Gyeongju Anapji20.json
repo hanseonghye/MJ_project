@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 111.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.01003279909491539, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 145.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.0027976075652986765, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 154.0, 
+      "pixel": 0.20760177075862885, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 75.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.013023345731198788, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 22.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.16911055147647858, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.044568780809640884, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 172.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.0010611615143716335, 
+      "color-red": 243.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 143.0, 
+      "pixel": 0.05874975770711899, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 144.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.0028940767515450716, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.0007717538392171264, 
+      "color-red": 235.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "south korea highlights"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.299022912979126, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.9409505128860474, 
+      "description": "Anapji Pond"
+    }, 
+    {
+      "score": 0.639279305934906, 
+      "description": "Hwaseong Fortress"
+    }, 
+    {
+      "score": 0.5923500061035156, 
+      "description": "China\u2013South Korea relations"
+    }, 
+    {
+      "score": 0.5536999702453613, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5284000039100647, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.4983091652393341, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.4749000072479248, 
+      "description": "Daereungwon"
+    }, 
+    {
+      "score": 0.4733999967575073, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.4498000144958496, 
+      "description": "Japan\u2013South Korea relations"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9812713265419006, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9633117318153381, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9559020400047302, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9469678997993469, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9228643774986267, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9179946184158325, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.899629533290863, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.8973932862281799, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.8804885149002075, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.840042233467102, 
+      "description": "evening"
+    }
+  ]
+}

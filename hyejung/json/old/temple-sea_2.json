@@ -1,0 +1,165 @@
+{
+  "landmark": [
+    {
+      "Latitude": 20.214905, 
+      "description": "Tulum", 
+      "Longitude": -87.429011
+    }, 
+    {
+      "Latitude": 20.185987, 
+      "description": "Tulum", 
+      "Longitude": -87.444305
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 170.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.16056445240974426, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 136.0, 
+      "pixel": 0.04719679802656174, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.04967581853270531, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 175.0, 
+      "color-blue": 169.0, 
+      "pixel": 0.020499618723988533, 
+      "color-red": 87.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.05425247922539711, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.04729214310646057, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.05625476688146591, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 178.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.09572844952344894, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.031464532017707825, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.054347824305295944, 
+      "color-red": 121.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "tulum"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7775640487670898, 
+      "description": "Tulum"
+    }, 
+    {
+      "score": 1.7031145095825195, 
+      "description": "Tulum"
+    }, 
+    {
+      "score": 1.332624077796936, 
+      "description": "Playa del Carmen"
+    }, 
+    {
+      "score": 1.2981443405151367, 
+      "description": "Coba"
+    }, 
+    {
+      "score": 1.2039653062820435, 
+      "description": "Maya civilization"
+    }, 
+    {
+      "score": 0.955125629901886, 
+      "description": "Canc\u00fan"
+    }, 
+    {
+      "score": 0.6265182495117188, 
+      "description": "Ruins"
+    }, 
+    {
+      "score": 0.5354999899864197, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5012000203132629, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.48820000886917114, 
+      "description": "Pyramid"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.891579806804657, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8678759336471558, 
+      "description": "archaeological site"
+    }, 
+    {
+      "score": 0.8612262606620789, 
+      "description": "ruins"
+    }, 
+    {
+      "score": 0.8599323034286499, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8520605564117432, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8363703489303589, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7282360196113586, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7260183691978455, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.6775673627853394, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.6496590971946716, 
+      "description": "cliff"
+    }
+  ]
+}

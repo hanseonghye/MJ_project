@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 90.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.11500000208616257, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 27.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.0028571428265422583, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 220.0, 
+      "pixel": 0.2696031630039215, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.018333332613110542, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 69.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.004682539496570826, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 35.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.0005555555690079927, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.10428571701049805, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 65.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.1287301629781723, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 23.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.0018253967864438891, 
+      "color-red": 160.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.014920635148882866, 
+      "color-red": 57.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ubd80\uc0b0 \ud0dc\uc885\ub300"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4399549961090088, 
+      "description": "Taejongdae"
+    }, 
+    {
+      "score": 0.9422999620437622, 
+      "description": "\ud0dc\uc885\uc0ac"
+    }, 
+    {
+      "score": 0.49048998951911926, 
+      "description": "Gukje Market"
+    }, 
+    {
+      "score": 0.486255019903183, 
+      "description": "Gukje Market"
+    }, 
+    {
+      "score": 0.4659999907016754, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.44839999079704285, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.4331800043582916, 
+      "description": "Taejongsa"
+    }, 
+    {
+      "score": 0.42800000309944153, 
+      "description": ""
+    }, 
+    {
+      "score": 0.40779998898506165, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.37867140769958496, 
+      "description": "Coast"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9199761748313904, 
+      "description": "lighthouse"
+    }, 
+    {
+      "score": 0.9064499139785767, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.875698983669281, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8557445406913757, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.8516559600830078, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.7916238903999329, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.7189964652061462, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.673283040523529, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6631667017936707, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6557631492614746, 
+      "description": "cape"
+    }
+  ]
+}

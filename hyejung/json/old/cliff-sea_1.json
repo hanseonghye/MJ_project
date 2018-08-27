@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 52.972254, 
+      "description": "Cliffs of Moher", 
+      "Longitude": -9.428501
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 151.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.04816354811191559, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 202.0, 
+      "color-blue": 228.0, 
+      "pixel": 0.08792446553707123, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.027979902923107147, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 167.0, 
+      "color-blue": 216.0, 
+      "pixel": 0.04513166844844818, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.06921344250440598, 
+      "color-red": 142.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.05951143428683281, 
+      "color-red": 133.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.023128898814320564, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.006237006280571222, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.037941787391901016, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.005370755214244127, 
+      "color-red": 144.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "cliffs of moher"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6113569736480713, 
+      "description": "Cliffs of Moher"
+    }, 
+    {
+      "score": 1.3061103820800781, 
+      "description": "Doolin"
+    }, 
+    {
+      "score": 1.2116758823394775, 
+      "description": "Galway"
+    }, 
+    {
+      "score": 0.9738927483558655, 
+      "description": "Shannon, County Clare"
+    }, 
+    {
+      "score": 0.9082260131835938, 
+      "description": "Burren and Cliffs of Moher Geopark"
+    }, 
+    {
+      "score": 0.8629500269889832, 
+      "description": "The Burren"
+    }, 
+    {
+      "score": 0.6787999868392944, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.6676999926567078, 
+      "description": "Cliff"
+    }, 
+    {
+      "score": 0.6347000002861023, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.6205000281333923, 
+      "description": "Hotel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9652944207191467, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9643468260765076, 
+      "description": "cliff"
+    }, 
+    {
+      "score": 0.9449836015701294, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.9029505848884583, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8579192161560059, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8520745038986206, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8138489723205566, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.8048906326293945, 
+      "description": "klippe"
+    }, 
+    {
+      "score": 0.7911123633384705, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.768539309501648, 
+      "description": "escarpment"
+    }
+  ]
+}

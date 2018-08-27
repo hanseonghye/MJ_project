@@ -1,0 +1,165 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.188944, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }, 
+    {
+      "Latitude": 35.1889, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 248.0, 
+      "color-blue": 252.0, 
+      "pixel": 0.33706188201904297, 
+      "color-red": 240.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.10894176363945007, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 204.0, 
+      "color-blue": 219.0, 
+      "pixel": 0.031319908797740936, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.05443698912858963, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.1528031975030899, 
+      "color-red": 41.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.023388244211673737, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.07653718441724777, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 140.0, 
+      "pixel": 0.036268725991249084, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.03606535121798515, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 31.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.05931801348924637, 
+      "color-red": 19.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "haedong yonggungsa"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4429250955581665, 
+      "description": "\uc0ac\ucc9c\uc9c4\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 0.9546052813529968, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.8523900508880615, 
+      "description": "Gwangalli Beach"
+    }, 
+    {
+      "score": 0.8429850935935974, 
+      "description": "Sach'\u014fn-haesuyokchang"
+    }, 
+    {
+      "score": 0.7238550186157227, 
+      "description": "\uc0ac\ucc9c\ud574\ubcc0"
+    }, 
+    {
+      "score": 0.6519740223884583, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.6330000162124634, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.5891000032424927, 
+      "description": "Seaside resort"
+    }, 
+    {
+      "score": 0.4733016788959503, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.4034000039100647, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9654260277748108, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9647042155265808, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9341864585876465, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.871701717376709, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8520499467849731, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.829507052898407, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.7823890447616577, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.7691207528114319, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.7497456669807434, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.7458677887916565, 
+      "description": "cliff"
+    }
+  ]
+}

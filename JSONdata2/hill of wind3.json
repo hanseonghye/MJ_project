@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 211.0, 
+      "color-blue": 240.0, 
+      "pixel": 0.10693333297967911, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 251.0, 
+      "color-blue": 249.0, 
+      "pixel": 0.11813333630561829, 
+      "color-red": 244.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.029066666960716248, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.021133333444595337, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 6.0, 
+      "color-blue": 2.0, 
+      "pixel": 0.04533333331346512, 
+      "color-red": 21.0
+    }, 
+    {
+      "color-green": 233.0, 
+      "color-blue": 251.0, 
+      "pixel": 0.03480000048875809, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 246.0, 
+      "color-blue": 249.0, 
+      "pixel": 0.036533333361148834, 
+      "color-red": 211.0
+    }, 
+    {
+      "color-green": 183.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.008733333088457584, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 202.0, 
+      "color-blue": 241.0, 
+      "pixel": 0.02160000056028366, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.0141333332285285, 
+      "color-red": 188.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2429113388061523, 
+      "description": "Geojedo"
+    }, 
+    {
+      "score": 0.9195879101753235, 
+      "description": "Windy Hill"
+    }, 
+    {
+      "score": 0.8940272927284241, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.8588579893112183, 
+      "description": "Oedo"
+    }, 
+    {
+      "score": 0.6649942994117737, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.6647999882698059, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.5763230323791504, 
+      "description": "\uc678\ub3c4"
+    }, 
+    {
+      "score": 0.5336999893188477, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5085515975952148, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.3158999979496002, 
+      "description": "Accommodation"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9718607068061829, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9452746510505676, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9282078146934509, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.9160836338996887, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.8820325136184692, 
+      "description": "windmill"
+    }, 
+    {
+      "score": 0.8739982843399048, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.8633325695991516, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.8624655604362488, 
+      "description": "hill"
+    }, 
+    {
+      "score": 0.8244056701660156, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7857164144515991, 
+      "description": "rural area"
+    }
+  ]
+}

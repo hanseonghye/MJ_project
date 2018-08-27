@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 69.0, 
+      "color-blue": 5.0, 
+      "pixel": 0.03553099185228348, 
+      "color-red": 198.0
+    }, 
+    {
+      "color-green": 227.0, 
+      "color-blue": 249.0, 
+      "pixel": 0.09601262956857681, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.03126727044582367, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.028661666437983513, 
+      "color-red": 36.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.01784445345401764, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.034346625208854675, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 208.0, 
+      "color-blue": 239.0, 
+      "pixel": 0.04216344282031059, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.021318593993782997, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 63.0, 
+      "color-blue": 9.0, 
+      "pixel": 0.017291748896241188, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.024082116782665253, 
+      "color-red": 54.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc058\ub760 \ud504\ub791\uc2a4"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.667876124382019, 
+      "description": "Petite France, Gapyeong"
+    }, 
+    {
+      "score": 0.6644715666770935, 
+      "description": "\uac15\uc528\ubd09\uc790\uc5f0\ud734\uc591\ub9bc"
+    }, 
+    {
+      "score": 0.618255078792572, 
+      "description": "Cheongpyeong station"
+    }, 
+    {
+      "score": 0.5697284936904907, 
+      "description": "Namiseom"
+    }, 
+    {
+      "score": 0.5145000219345093, 
+      "description": "France"
+    }, 
+    {
+      "score": 0.4951764941215515, 
+      "description": "Recreation"
+    }, 
+    {
+      "score": 0.4512999951839447, 
+      "description": ""
+    }, 
+    {
+      "score": 0.43149998784065247, 
+      "description": "Holiday Home"
+    }, 
+    {
+      "score": 0.4087716341018677, 
+      "description": "Villa"
+    }, 
+    {
+      "score": 0.3310000002384186, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.923075258731842, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.9178308248519897, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8959112167358398, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8546443581581116, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.8539571762084961, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.7736497521400452, 
+      "description": "resort"
+    }, 
+    {
+      "score": 0.7730554342269897, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.7481531500816345, 
+      "description": "estate"
+    }, 
+    {
+      "score": 0.7112300395965576, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.6068408489227295, 
+      "description": "facade"
+    }
+  ]
+}

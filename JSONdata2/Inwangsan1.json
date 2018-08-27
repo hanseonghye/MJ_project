@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 81.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.038289085030555725, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.24100294709205627, 
+      "color-red": 55.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 110.0, 
+      "pixel": 0.010383481159806252, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 26.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.6997050046920776, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 147.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.0021828908938914537, 
+      "color-red": 146.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 103.0, 
+      "pixel": 0.000530973426066339, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.001533923321403563, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.00312684359960258, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.0004719764110632241, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 106.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.00011799410276580602, 
+      "color-red": 103.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "cityscape"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.37127792835235596, 
+      "description": "Night"
+    }, 
+    {
+      "score": 0.29149919748306274, 
+      "description": "Light"
+    }, 
+    {
+      "score": 0.25388336181640625, 
+      "description": "Cityscape"
+    }, 
+    {
+      "score": 0.20933964848518372, 
+      "description": "Lighting"
+    }, 
+    {
+      "score": 0.20159994065761566, 
+      "description": "Dusk"
+    }, 
+    {
+      "score": 0.1976148933172226, 
+      "description": "Daytime"
+    }, 
+    {
+      "score": 0.19126830995082855, 
+      "description": "Darkness"
+    }, 
+    {
+      "score": 0.18358822166919708, 
+      "description": "Outer space"
+    }, 
+    {
+      "score": 0.17939311265945435, 
+      "description": "Urban area"
+    }, 
+    {
+      "score": 0.17169839143753052, 
+      "description": "Atmosphere"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9788199067115784, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9776656627655029, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9748708605766296, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.971510112285614, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.9536886215209961, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.953277587890625, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9472535252571106, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9428994655609131, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.8669237494468689, 
+      "description": "atmosphere"
+    }, 
+    {
+      "score": 0.849479079246521, 
+      "description": "skyscraper"
+    }
+  ]
+}

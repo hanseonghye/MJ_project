@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 189.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.06326530873775482, 
+      "color-red": 218.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.10673469305038452, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.0657142847776413, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 183.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.03551020473241806, 
+      "color-red": 213.0
+    }, 
+    {
+      "color-green": 165.0, 
+      "color-blue": 43.0, 
+      "pixel": 0.04068027064204216, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.04802720993757248, 
+      "color-red": 148.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.049863945692777634, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.0292517002671957, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.08829931914806366, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.03612244874238968, 
+      "color-red": 106.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "icheon baeksa sansuyu flower festival"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8648838400840759, 
+      "description": "\ubc31\uc0ac\uc5b4\ub9b0\uc774\uc9d1"
+    }, 
+    {
+      "score": 0.8646177053451538, 
+      "description": "Sansuyu Village"
+    }, 
+    {
+      "score": 0.7019000053405762, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.5131000280380249, 
+      "description": "Flower"
+    }, 
+    {
+      "score": 0.4724000096321106, 
+      "description": "Spring"
+    }, 
+    {
+      "score": 0.40950000286102295, 
+      "description": "Season"
+    }, 
+    {
+      "score": 0.3928999900817871, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.39149999618530273, 
+      "description": ""
+    }, 
+    {
+      "score": 0.39070001244544983, 
+      "description": "Tulip"
+    }, 
+    {
+      "score": 0.38690000772476196, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9535717964172363, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9400351643562317, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9100194573402405, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.9066473841667175, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.896637499332428, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8955397605895996, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8300431370735168, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.8088703751564026, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8076769113540649, 
+      "description": "rural area"
+    }, 
+    {
+      "score": 0.8047382831573486, 
+      "description": "mountain"
+    }
+  ]
+}

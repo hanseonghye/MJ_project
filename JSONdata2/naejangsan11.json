@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 120.0, 
+      "color-blue": 142.0, 
+      "pixel": 0.0558469295501709, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.17608779668807983, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 75.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.03865578770637512, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 44.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.004662004765123129, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.0031080031767487526, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.06526806205511093, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.011557886376976967, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.14228826761245728, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 147.0, 
+      "pixel": 0.027000777423381805, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.03506216034293175, 
+      "color-red": 69.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Naejangsan"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0774500370025635, 
+      "description": "Naejangsan"
+    }, 
+    {
+      "score": 1.0501500368118286, 
+      "description": "Naejangsan National Park"
+    }, 
+    {
+      "score": 0.8308115005493164, 
+      "description": "National park"
+    }, 
+    {
+      "score": 0.5784000158309937, 
+      "description": "Autumn"
+    }, 
+    {
+      "score": 0.5309000015258789, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.48669999837875366, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.472359836101532, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.3968440592288971, 
+      "description": "Deciduous"
+    }, 
+    {
+      "score": 0.3443630039691925, 
+      "description": "Wilderness"
+    }, 
+    {
+      "score": 0.33378279209136963, 
+      "description": "Tree"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9572970271110535, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9443480372428894, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.9415178894996643, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.9313217401504517, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.9121845364570618, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.9022025465965271, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.9010375142097473, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8966917395591736, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8926949501037598, 
+      "description": "wilderness"
+    }, 
+    {
+      "score": 0.8734118938446045, 
+      "description": "woody plant"
+    }
+  ]
+}

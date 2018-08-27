@@ -1,0 +1,126 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 95.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.03502222150564194, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 18.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.15893332660198212, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 22.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.003733333433046937, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 33.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.002133333357051015, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.030311111360788345, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.025644443929195404, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 77.0, 
+      "pixel": 0.01146666705608368, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.05657777935266495, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 17.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.02773333340883255, 
+      "color-red": 39.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 112.0, 
+      "pixel": 0.0554666668176651, 
+      "color-red": 123.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "gondola"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1733797788619995, 
+      "description": "Gondola"
+    }, 
+    {
+      "score": 0.6994960308074951, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.6418173909187317, 
+      "description": "Boating"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.934319257736206, 
+      "description": "gondola"
+    }, 
+    {
+      "score": 0.9277482628822327, 
+      "description": "boat"
+    }, 
+    {
+      "score": 0.9102396965026855, 
+      "description": "water transportation"
+    }, 
+    {
+      "score": 0.8782327771186829, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.8589596152305603, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8340337872505188, 
+      "description": "vehicle"
+    }, 
+    {
+      "score": 0.8338332176208496, 
+      "description": "watercraft"
+    }, 
+    {
+      "score": 0.7224607467651367, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.5457121729850769, 
+      "description": "canal"
+    }, 
+    {
+      "score": 0.5401296615600586, 
+      "description": "boating"
+    }
+  ]
+}

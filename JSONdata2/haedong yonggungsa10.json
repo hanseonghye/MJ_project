@@ -1,0 +1,161 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.188944, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }, 
+    {
+      "Latitude": 35.1889, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 83.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.08595870435237885, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.1094985231757164, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.14365781843662262, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.08206489682197571, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.03581120818853378, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.16678465902805328, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 29.0, 
+      "color-blue": 13.0, 
+      "pixel": 0.028082596138119698, 
+      "color-red": 37.0
+    }, 
+    {
+      "color-green": 21.0, 
+      "color-blue": 12.0, 
+      "pixel": 0.051327433437108994, 
+      "color-red": 27.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.05309734493494034, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.02536873146891594, 
+      "color-red": 89.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "haedong yonggungsa"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.041346788406372, 
+      "description": "Cove"
+    }, 
+    {
+      "score": 0.7150973677635193, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.6889500021934509, 
+      "description": "Haedong Yonggungsa"
+    }, 
+    {
+      "score": 0.6795530915260315, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.6657975316047668, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.6132187843322754, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.608938455581665, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.5806143283843994, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.3928999900817871, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9508880376815796, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9353384971618652, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9340866804122925, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8514917492866516, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8495617508888245, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.846824586391449, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8421645760536194, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.7801699638366699, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.7737269997596741, 
+      "description": "rock"
+    }, 
+    {
+      "score": 0.7078180909156799, 
+      "description": "promontory"
+    }
+  ]
+}

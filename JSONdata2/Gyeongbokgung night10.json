@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 90.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.01574660651385784, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 70.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.013574660755693913, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 140.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.008054298348724842, 
+      "color-red": 212.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.04714932292699814, 
+      "color-red": 76.0
+    }, 
+    {
+      "color-green": 45.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.018371040001511574, 
+      "color-red": 61.0
+    }, 
+    {
+      "color-green": 170.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.001176470541395247, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 172.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.000723981880582869, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 222.0, 
+      "color-blue": 251.0, 
+      "pixel": 0.003167420858517289, 
+      "color-red": 239.0
+    }, 
+    {
+      "color-green": 242.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.0054298643954098225, 
+      "color-red": 250.0
+    }, 
+    {
+      "color-green": 62.0, 
+      "color-blue": 3.0, 
+      "pixel": 0.013755655847489834, 
+      "color-red": 149.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uacbd\ubcf5\uad81 \uc57c\uac04"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.4123833179473877, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 1.388823390007019, 
+      "description": "Gwanghwamun"
+    }, 
+    {
+      "score": 1.3757784366607666, 
+      "description": "Changgyeonggung"
+    }, 
+    {
+      "score": 1.042402744293213, 
+      "description": "Deoksugung"
+    }, 
+    {
+      "score": 0.9977110624313354, 
+      "description": "Changdeokgung"
+    }, 
+    {
+      "score": 0.8995431661605835, 
+      "description": "Gyeongbokgung station"
+    }, 
+    {
+      "score": 0.7032999992370605, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.4921000003814697, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.48980000615119934, 
+      "description": "Stock photography"
+    }, 
+    {
+      "score": 0.43209999799728394, 
+      "description": "Korean palace"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9899182319641113, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9687919616699219, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9589040279388428, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9451909065246582, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.9449421167373657, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9323201179504395, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8995380997657776, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.8818032741546631, 
+      "description": "japanese architecture"
+    }, 
+    {
+      "score": 0.8218842148780823, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.815086305141449, 
+      "description": "pagoda"
+    }
+  ]
+}

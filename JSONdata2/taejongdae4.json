@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 122.0, 
+      "color-blue": 141.0, 
+      "pixel": 0.028731942176818848, 
+      "color-red": 73.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 198.0, 
+      "pixel": 0.0386035330593586, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.06460674107074738, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 152.0, 
+      "pixel": 0.06934189051389694, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.08210273087024689, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.045666132122278214, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 99.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.06532905250787735, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 175.0, 
+      "pixel": 0.006500802468508482, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.040208667516708374, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 235.0, 
+      "color-blue": 239.0, 
+      "pixel": 0.029052969068288803, 
+      "color-red": 220.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ubd81\ud55c \uac15\uc6d0\ub3c4"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.9468872547149658, 
+      "description": "Taejongdae"
+    }, 
+    {
+      "score": 0.7919999957084656, 
+      "description": "KBO League"
+    }, 
+    {
+      "score": 0.5669000148773193, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5410515069961548, 
+      "description": "North Korea"
+    }, 
+    {
+      "score": 0.4596000015735626, 
+      "description": "Sports"
+    }, 
+    {
+      "score": 0.3946625590324402, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.34470000863075256, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.3386000096797943, 
+      "description": "Athlete"
+    }, 
+    {
+      "score": 0.31707969307899475, 
+      "description": "Cliff"
+    }, 
+    {
+      "score": 0.31130000948905945, 
+      "description": "Korea Baseball Organization"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.960280179977417, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8520632386207581, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.7865724563598633, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7724761962890625, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.7681269645690918, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.7575311660766602, 
+      "description": "cliff"
+    }, 
+    {
+      "score": 0.7436417937278748, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.7293188571929932, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.6970973610877991, 
+      "description": "bay"
+    }, 
+    {
+      "score": 0.6753656268119812, 
+      "description": "hill station"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 157.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.05458633229136467, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.08048561215400696, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 229.0, 
+      "color-blue": 227.0, 
+      "pixel": 0.19532373547554016, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.07473021745681763, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.09973021596670151, 
+      "color-red": 194.0
+    }, 
+    {
+      "color-green": 175.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.022122303023934364, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.047032374888658524, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 176.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.017805755138397217, 
+      "color-red": 211.0
+    }, 
+    {
+      "color-green": 183.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.024730216711759567, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 147.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.006654676049947739, 
+      "color-red": 198.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "asan ginkgo tree road"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6154817342758179, 
+      "description": "Maidenhair tree"
+    }, 
+    {
+      "score": 0.5849745869636536, 
+      "description": "Oeam Folk Village"
+    }, 
+    {
+      "score": 0.5647000074386597, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.520799994468689, 
+      "description": "Autumn"
+    }, 
+    {
+      "score": 0.4671810269355774, 
+      "description": "Jeonju"
+    }, 
+    {
+      "score": 0.45169299840927124, 
+      "description": "Oneday Korea Tours & Travel in Seoul"
+    }, 
+    {
+      "score": 0.4138200283050537, 
+      "description": "Daedun"
+    }, 
+    {
+      "score": 0.37467655539512634, 
+      "description": "Hyeonchungsa"
+    }, 
+    {
+      "score": 0.32710000872612, 
+      "description": "Location"
+    }, 
+    {
+      "score": 0.2138950675725937, 
+      "description": "Leaf"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9512178897857666, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.94553142786026, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9255548715591431, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9106426239013672, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8667747974395752, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.8650118708610535, 
+      "description": "maidenhair tree"
+    }, 
+    {
+      "score": 0.8471056222915649, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.7806111574172974, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.6459684371948242, 
+      "description": "landscape"
+    }, 
+    {
+      "score": 0.625120997428894, 
+      "description": "field"
+    }
+  ]
+}

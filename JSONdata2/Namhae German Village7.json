@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 106.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.024671511724591255, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.09533128142356873, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.05150964483618736, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.031800393015146255, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 141.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.012300810776650906, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.016634050756692886, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.07058987766504288, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.007827788591384888, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.08729381859302521, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.05437517538666725, 
+      "color-red": 134.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "mountain village"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8757374882698059, 
+      "description": "Paju"
+    }, 
+    {
+      "score": 0.8423250913619995, 
+      "description": "Petite France, Gapyeong"
+    }, 
+    {
+      "score": 0.8150999546051025, 
+      "description": "Dogil Maeul"
+    }, 
+    {
+      "score": 0.6193143129348755, 
+      "description": "\ub3c5\uc77c\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.5881999731063843, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5404499769210815, 
+      "description": "Namhae"
+    }, 
+    {
+      "score": 0.5374000072479248, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4804910123348236, 
+      "description": "\uc720\ub7fd\ud48d\uacbd"
+    }, 
+    {
+      "score": 0.4354790151119232, 
+      "description": "\uac04\uc808\uacf6\uc22f\ubd88\uc7a5\uc5b4\ucd0c"
+    }, 
+    {
+      "score": 0.40540000796318054, 
+      "description": "Town"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.962762176990509, 
+      "description": "mountain village"
+    }, 
+    {
+      "score": 0.8905950784683228, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8878923654556274, 
+      "description": "village"
+    }, 
+    {
+      "score": 0.8341233134269714, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8231194019317627, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8166232705116272, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.8059859871864319, 
+      "description": "rural area"
+    }, 
+    {
+      "score": 0.7958507537841797, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.7849708795547485, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7646639347076416, 
+      "description": "hill station"
+    }
+  ]
+}

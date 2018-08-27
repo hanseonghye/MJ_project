@@ -1,0 +1,124 @@
+{
+  "landmark": [
+    {
+      "Latitude": 45.434479, 
+      "description": "Gondola", 
+      "Longitude": 12.32872
+    }, 
+    {
+      "Latitude": 45.438611, 
+      "description": "Italy", 
+      "Longitude": 12.32769
+    }, 
+    {
+      "Latitude": 45.435713, 
+      "description": "Grand Canal", 
+      "Longitude": 12.33078
+    }, 
+    {
+      "Latitude": 45.437937999999995, 
+      "description": "Grand Canal", 
+      "Longitude": 12.335651
+    }, 
+    {
+      "Latitude": 45.437912999999995, 
+      "description": "Grand Canal", 
+      "Longitude": 12.3352
+    }, 
+    {
+      "Latitude": 45.4365, 
+      "description": "Palazzo Grimani di Santa Maria Formosa", 
+      "Longitude": 12.332882
+    }
+  ], 
+  "color": [], 
+  "top-label": [
+    {
+      "top label": "venice best"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7042999863624573, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.676268994808197, 
+      "description": "Rome"
+    }, 
+    {
+      "score": 0.6700000166893005, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5795000195503235, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.5443184971809387, 
+      "description": "Giudecca"
+    }, 
+    {
+      "score": 0.4000999927520752, 
+      "description": "Accommodation"
+    }, 
+    {
+      "score": 0.3793349862098694, 
+      "description": "Hotel Principe"
+    }, 
+    {
+      "score": 0.37630000710487366, 
+      "description": "Vacation"
+    }, 
+    {
+      "score": 0.36980000138282776, 
+      "description": "Location"
+    }, 
+    {
+      "score": 0.35120001435279846, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9738579392433167, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.9298522472381592, 
+      "description": "gondola"
+    }, 
+    {
+      "score": 0.9240481853485107, 
+      "description": "water transportation"
+    }, 
+    {
+      "score": 0.8074706196784973, 
+      "description": "canal"
+    }, 
+    {
+      "score": 0.7250024080276489, 
+      "description": "boat"
+    }, 
+    {
+      "score": 0.6519535183906555, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6511747241020203, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6353520750999451, 
+      "description": "channel"
+    }, 
+    {
+      "score": 0.6086422204971313, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.5970047116279602, 
+      "description": "city"
+    }
+  ]
+}

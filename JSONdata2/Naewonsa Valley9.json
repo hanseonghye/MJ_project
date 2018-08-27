@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 126.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.049145299941301346, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 147.0, 
+      "pixel": 0.12341362237930298, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 96.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.051864802837371826, 
+      "color-red": 76.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.018518518656492233, 
+      "color-red": 137.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.037749286741018295, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.0325692817568779, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.03392903506755829, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 184.0, 
+      "pixel": 0.05756280571222305, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.023763272911310196, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.03269878402352333, 
+      "color-red": 121.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Naewonsa"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.052549958229065, 
+      "description": "Naewonsa"
+    }, 
+    {
+      "score": 0.6038344502449036, 
+      "description": "Ravine"
+    }, 
+    {
+      "score": 0.44859999418258667, 
+      "description": "Valley"
+    }, 
+    {
+      "score": 0.4455563724040985, 
+      "description": "Outcrop"
+    }, 
+    {
+      "score": 0.43059998750686646, 
+      "description": "Canyon"
+    }, 
+    {
+      "score": 0.3195624053478241, 
+      "description": "Nature reserve"
+    }, 
+    {
+      "score": 0.2915307283401489, 
+      "description": "Water resources"
+    }, 
+    {
+      "score": 0.25192421674728394, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.24459999799728394, 
+      "description": "Daum"
+    }, 
+    {
+      "score": 0.23890000581741333, 
+      "description": "Cliff"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9282443523406982, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.9051136374473572, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8999583125114441, 
+      "description": "stream"
+    }, 
+    {
+      "score": 0.8970844149589539, 
+      "description": "watercourse"
+    }, 
+    {
+      "score": 0.8791788220405579, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.878727376461029, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8324628472328186, 
+      "description": "rock"
+    }, 
+    {
+      "score": 0.8191748857498169, 
+      "description": "river"
+    }, 
+    {
+      "score": 0.7282401323318481, 
+      "description": "ravine"
+    }, 
+    {
+      "score": 0.6955953240394592, 
+      "description": "creek"
+    }
+  ]
+}

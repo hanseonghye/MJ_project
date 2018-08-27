@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 119.0, 
+      "color-blue": 152.0, 
+      "pixel": 0.017046980559825897, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 181.0, 
+      "color-blue": 185.0, 
+      "pixel": 0.052147649228572845, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.012416107580065727, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.04570469632744789, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.04114094004034996, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.012751678004860878, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 149.0, 
+      "color-blue": 184.0, 
+      "pixel": 0.02778523415327072, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.028993288055062294, 
+      "color-red": 61.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 174.0, 
+      "pixel": 0.03993288427591324, 
+      "color-red": 235.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.024630872532725334, 
+      "color-red": 90.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Buseoksa"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9678900837898254, 
+      "description": "Saleung"
+    }, 
+    {
+      "score": 0.6484995484352112, 
+      "description": "Buseoksa"
+    }, 
+    {
+      "score": 0.441237211227417, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.3963300287723541, 
+      "description": "Sobaeksan"
+    }, 
+    {
+      "score": 0.3461810052394867, 
+      "description": "\ud480\ubb34\ud559\uad50"
+    }, 
+    {
+      "score": 0.3187500238418579, 
+      "description": "Joseon"
+    }, 
+    {
+      "score": 0.29280000925064087, 
+      "description": ""
+    }, 
+    {
+      "score": 0.24403725564479828, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.23083262145519257, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.22050000727176666, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9790116548538208, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9582019448280334, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9566736221313477, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.9536436796188354, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.9298990368843079, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.8541070222854614, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8494141697883606, 
+      "description": "wilderness"
+    }, 
+    {
+      "score": 0.8290504217147827, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.8199840188026428, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.7950819134712219, 
+      "description": "photography"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 155.0, 
+      "color-blue": 183.0, 
+      "pixel": 0.10941475629806519, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.004987277556210756, 
+      "color-red": 242.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.013027990236878395, 
+      "color-red": 218.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.0021374046336859465, 
+      "color-red": 190.0
+    }, 
+    {
+      "color-green": 63.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.034503817558288574, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.10819338262081146, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.09312976896762848, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 139.0, 
+      "pixel": 0.014452925883233547, 
+      "color-red": 178.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.0031552163418382406, 
+      "color-red": 236.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.0020356234163045883, 
+      "color-red": 218.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "coast"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7621110677719116, 
+      "description": "Songjeong station"
+    }, 
+    {
+      "score": 1.025602102279663, 
+      "description": "\u0421\u043e\u043d\u0447\u0436\u043e\u043d"
+    }, 
+    {
+      "score": 0.9022977948188782, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.7967703342437744, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.7646281719207764, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.5418992638587952, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.4910123646259308, 
+      "description": "Sand"
+    }, 
+    {
+      "score": 0.4325258135795593, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.25926995277404785, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.22628484666347504, 
+      "description": "City"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9539793729782104, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9497259259223938, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.9352455139160156, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9151501655578613, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8863101601600647, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8340305089950562, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.7584055066108704, 
+      "description": "bay"
+    }, 
+    {
+      "score": 0.7501781582832336, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.676263153553009, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.5740634202957153, 
+      "description": "city"
+    }
+  ]
+}

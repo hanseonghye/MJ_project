@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 121.0, 
+      "color-blue": 105.0, 
+      "pixel": 0.16809581220149994, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 202.0, 
+      "color-blue": 202.0, 
+      "pixel": 0.1853872835636139, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 145.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.06044929474592209, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.10757564753293991, 
+      "color-red": 149.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 112.0, 
+      "pixel": 0.06633123010396957, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 137.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.01261427253484726, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.05307915806770325, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.04089008644223213, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.09928424656391144, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.053716957569122314, 
+      "color-red": 93.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "downtown"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6040971279144287, 
+      "description": "Heyri Art Valley"
+    }, 
+    {
+      "score": 0.5930100083351135, 
+      "description": "\ud5e4\uc774\ub9ac \uc6d0\uacfc\ud638 \ud39c\uc158"
+    }, 
+    {
+      "score": 0.4309999942779541, 
+      "description": "Museum"
+    }, 
+    {
+      "score": 0.32999998331069946, 
+      "description": "Performance"
+    }, 
+    {
+      "score": 0.2379000037908554, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.2364375740289688, 
+      "description": "Transport"
+    }, 
+    {
+      "score": 0.21894630789756775, 
+      "description": "Road surface"
+    }, 
+    {
+      "score": 0.19274182617664337, 
+      "description": "Suburb"
+    }, 
+    {
+      "score": 0.19072262942790985, 
+      "description": "Mixed-use"
+    }, 
+    {
+      "score": 0.19020000100135803, 
+      "description": "Space"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9540244936943054, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.9007277488708496, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.8688408136367798, 
+      "description": "transport"
+    }, 
+    {
+      "score": 0.8622099757194519, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8152945041656494, 
+      "description": "downtown"
+    }, 
+    {
+      "score": 0.8145914077758789, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8088458180427551, 
+      "description": "street"
+    }, 
+    {
+      "score": 0.79290372133255, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.7726214528083801, 
+      "description": "lane"
+    }, 
+    {
+      "score": 0.7327600717544556, 
+      "description": "walkway"
+    }
+  ]
+}

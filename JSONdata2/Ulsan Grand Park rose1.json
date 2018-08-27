@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 154.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.04273775592446327, 
+      "color-red": 165.0
+    }, 
+    {
+      "color-green": 182.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.057653654366731644, 
+      "color-red": 233.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.046757642179727554, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.04009309038519859, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 145.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.05543213710188866, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.02581191249191761, 
+      "color-red": 204.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.03776578977704048, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.016079550608992577, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.03533269837498665, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.03766000270843506, 
+      "color-red": 94.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc6b8\uc0b0 \ub300\uacf5\uc6d0 \uc7a5\ubbf8\uc6d0"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4648865461349487, 
+      "description": "Ulsan Grand Park"
+    }, 
+    {
+      "score": 1.1094506978988647, 
+      "description": "Garden roses"
+    }, 
+    {
+      "score": 0.5496000051498413, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5483115315437317, 
+      "description": "Taehwagang Grand Park"
+    }, 
+    {
+      "score": 0.5371396541595459, 
+      "description": "Botanical garden"
+    }, 
+    {
+      "score": 0.5233800411224365, 
+      "description": "Portland Roses"
+    }, 
+    {
+      "score": 0.4447999894618988, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.39712202548980713, 
+      "description": "\uc6b8\uc0b0\ub300\uacf5\uc6d0"
+    }, 
+    {
+      "score": 0.3480873107910156, 
+      "description": "Shrub"
+    }, 
+    {
+      "score": 0.2067444622516632, 
+      "description": "Rhododendron"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9813680052757263, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.973680317401886, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9513979554176331, 
+      "description": "flowering plant"
+    }, 
+    {
+      "score": 0.8948696851730347, 
+      "description": "botanical garden"
+    }, 
+    {
+      "score": 0.864716649055481, 
+      "description": "flora"
+    }, 
+    {
+      "score": 0.8299622535705566, 
+      "description": "garden"
+    }, 
+    {
+      "score": 0.7822909355163574, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.7519896030426025, 
+      "description": "shrub"
+    }, 
+    {
+      "score": 0.72308748960495, 
+      "description": "rose family"
+    }, 
+    {
+      "score": 0.658879280090332, 
+      "description": "wildflower"
+    }
+  ]
+}

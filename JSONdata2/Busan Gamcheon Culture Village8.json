@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 154.0, 
+      "color-blue": 245.0, 
+      "pixel": 0.12384584546089172, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.020473705604672432, 
+      "color-red": 179.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.020741336047649384, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.0032784692011773586, 
+      "color-red": 39.0
+    }, 
+    {
+      "color-green": 173.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.0059547703713178635, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 166.0, 
+      "color-blue": 217.0, 
+      "pixel": 0.023484544828534126, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 210.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.0009367054444737732, 
+      "color-red": 5.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 215.0, 
+      "pixel": 0.013448414392769337, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 32.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.0002676301228348166, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 226.0, 
+      "pixel": 0.0001338150614174083, 
+      "color-red": 5.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uac10\ucc9c \ub9c8\uc744"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5517997741699219, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 1.0506000518798828, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 0.5950000286102295, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.5206499695777893, 
+      "description": "Machu Picchu"
+    }, 
+    {
+      "score": 0.4878000020980835, 
+      "description": "Town"
+    }, 
+    {
+      "score": 0.4180999994277954, 
+      "description": ""
+    }, 
+    {
+      "score": 0.38089999556541443, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.3702000081539154, 
+      "description": "Culture"
+    }, 
+    {
+      "score": 0.35114383697509766, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.3140999972820282, 
+      "description": "Travel photography"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9415719509124756, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9347629547119141, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.898324191570282, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.8919692039489746, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8811050653457642, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8629710078239441, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.8277328610420227, 
+      "description": "bird's eye view"
+    }, 
+    {
+      "score": 0.8081642985343933, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.774430513381958, 
+      "description": "suburb"
+    }, 
+    {
+      "score": 0.7311198115348816, 
+      "description": "cityscape"
+    }
+  ]
+}

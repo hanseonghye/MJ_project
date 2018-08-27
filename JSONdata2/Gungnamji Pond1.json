@@ -1,0 +1,146 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 224.0, 
+      "color-blue": 252.0, 
+      "pixel": 0.1223333328962326, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.15816666185855865, 
+      "color-red": 148.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.022555556148290634, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.015111111104488373, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.010499999858438969, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.008999999612569809, 
+      "color-red": 198.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 148.0, 
+      "pixel": 0.0017222221940755844, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 182.0, 
+      "pixel": 0.0011111111380159855, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 19.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.002166666556149721, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 212.0, 
+      "color-blue": 249.0, 
+      "pixel": 0.10261110961437225, 
+      "color-red": 181.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "water transportation"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2407991886138916, 
+      "description": "Water transportation"
+    }, 
+    {
+      "score": 0.7429115176200867, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.6592105627059937, 
+      "description": "Leisure"
+    }, 
+    {
+      "score": 0.6001242995262146, 
+      "description": "Boating"
+    }, 
+    {
+      "score": 0.5918790102005005, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.535099983215332, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5264999866485596, 
+      "description": "Transport"
+    }, 
+    {
+      "score": 0.4147000014781952, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9694512486457825, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.9228599071502686, 
+      "description": "water transportation"
+    }, 
+    {
+      "score": 0.84051114320755, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.7840744853019714, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.7544844150543213, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7048975229263306, 
+      "description": "boat"
+    }, 
+    {
+      "score": 0.6561446189880371, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6448918581008911, 
+      "description": "lake"
+    }, 
+    {
+      "score": 0.6411268711090088, 
+      "description": "canal"
+    }, 
+    {
+      "score": 0.6314996480941772, 
+      "description": "tree"
+    }
+  ]
+}

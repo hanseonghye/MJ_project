@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 197.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.0338689349591732, 
+      "color-red": 223.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.08601134270429611, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 107.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.018273472785949707, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.0034656585194170475, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 22.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.024338373914361, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 214.0, 
+      "pixel": 0.31450849771499634, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.01748582161962986, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.03189980983734131, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 214.0, 
+      "color-blue": 177.0, 
+      "pixel": 0.006931317038834095, 
+      "color-red": 241.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.050488341599702835, 
+      "color-red": 130.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Donggung Palace and Wolji Pond in Gyeongju"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.9315141439437866, 
+      "description": "Donggung Palace and Wolji Pond in Gyeongju"
+    }, 
+    {
+      "score": 0.9601169228553772, 
+      "description": "Anapji Pond"
+    }, 
+    {
+      "score": 0.8177664279937744, 
+      "description": "Yangdong Folk Village"
+    }, 
+    {
+      "score": 0.7003999948501587, 
+      "description": "Cultural heritage"
+    }, 
+    {
+      "score": 0.648960530757904, 
+      "description": "Historic site"
+    }, 
+    {
+      "score": 0.6481999754905701, 
+      "description": ""
+    }, 
+    {
+      "score": 0.6083999872207642, 
+      "description": "History"
+    }, 
+    {
+      "score": 0.6050999760627747, 
+      "description": "Culture"
+    }, 
+    {
+      "score": 0.5843999981880188, 
+      "description": "Baekje"
+    }, 
+    {
+      "score": 0.4943000078201294, 
+      "description": "UNESCO"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9899203181266785, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9314719438552856, 
+      "description": "japanese architecture"
+    }, 
+    {
+      "score": 0.9160907864570618, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.7702155709266663, 
+      "description": "palace"
+    }, 
+    {
+      "score": 0.6916887164115906, 
+      "description": "outdoor structure"
+    }, 
+    {
+      "score": 0.6629018783569336, 
+      "description": "pagoda"
+    }, 
+    {
+      "score": 0.6578751802444458, 
+      "description": "shinto shrine"
+    }, 
+    {
+      "score": 0.6434078812599182, 
+      "description": "pavilion"
+    }, 
+    {
+      "score": 0.6415513753890991, 
+      "description": "roof"
+    }, 
+    {
+      "score": 0.6373893618583679, 
+      "description": "temple"
+    }
+  ]
+}

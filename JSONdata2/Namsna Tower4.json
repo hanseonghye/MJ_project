@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 85.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.08359497785568237, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.0031397175043821335, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 60.0, 
+      "pixel": 7.849293615436181e-05, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.07009419053792953, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.11467818170785904, 
+      "color-red": 55.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.03720565140247345, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.013971742242574692, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.015306122601032257, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 134.0, 
+      "pixel": 0.014599686488509178, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 103.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.002197802299633622, 
+      "color-red": 144.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ub0a8\uc0b0 \ud0c0\uc6cc"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6144425868988037, 
+      "description": "N Seoul Tower"
+    }, 
+    {
+      "score": 1.1723085641860962, 
+      "description": "Namsan"
+    }, 
+    {
+      "score": 1.0303850173950195, 
+      "description": "Tower"
+    }, 
+    {
+      "score": 0.7941450476646423, 
+      "description": "Namsan cable car"
+    }, 
+    {
+      "score": 0.7020999789237976, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5855000019073486, 
+      "description": "Tous Les Jours"
+    }, 
+    {
+      "score": 0.5372999906539917, 
+      "description": "CJ Foodville"
+    }, 
+    {
+      "score": 0.5213000178337097, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5008999705314636, 
+      "description": "Restaurant"
+    }, 
+    {
+      "score": 0.3986000120639801, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9832549691200256, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9619020223617554, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9591692090034485, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9446243047714233, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9397449493408203, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9394239187240601, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.9284330606460571, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.8988724946975708, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8621567487716675, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.8503180146217346, 
+      "description": "sky"
+    }
+  ]
+}

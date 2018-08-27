@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 203.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.4577777683734894, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.02732510305941105, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 22.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.03580246865749359, 
+      "color-red": 18.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.1904526799917221, 
+      "color-red": 58.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.03176954761147499, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.020329218357801437, 
+      "color-red": 199.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.020823044702410698, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.015308641828596592, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 231.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.006584362126886845, 
+      "color-red": 234.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 71.0, 
+      "pixel": 0.006419753190129995, 
+      "color-red": 133.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Email attachment"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7586700320243835, 
+      "description": "Yongdusan Park"
+    }, 
+    {
+      "score": 0.7570199966430664, 
+      "description": "Oryukdo"
+    }, 
+    {
+      "score": 0.7505850195884705, 
+      "description": "\uc1a1\uc815\uacf5\uc6d0"
+    }, 
+    {
+      "score": 0.6169276833534241, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.5304639935493469, 
+      "description": "Songjeong-dong"
+    }, 
+    {
+      "score": 0.5063999891281128, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.4982999861240387, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.4887000024318695, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.4844000041484833, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.445499986410141, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9207750558853149, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9035019278526306, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.895363450050354, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8520196676254272, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.765910267829895, 
+      "description": "islet"
+    }, 
+    {
+      "score": 0.728390097618103, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7218331098556519, 
+      "description": "bay"
+    }, 
+    {
+      "score": 0.709972620010376, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6263417601585388, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6159645318984985, 
+      "description": "island"
+    }
+  ]
+}

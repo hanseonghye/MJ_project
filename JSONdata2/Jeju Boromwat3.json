@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 204.0, 
+      "color-blue": 219.0, 
+      "pixel": 0.611725389957428, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.057125307619571686, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 138.0, 
+      "pixel": 0.04852579906582832, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 166.0, 
+      "color-blue": 105.0, 
+      "pixel": 0.03187278285622597, 
+      "color-red": 154.0
+    }, 
+    {
+      "color-green": 167.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.017813267186284065, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 232.0, 
+      "color-blue": 184.0, 
+      "pixel": 0.03323778137564659, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 47.0, 
+      "pixel": 6.825006857980043e-05, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 119.0, 
+      "pixel": 6.825006857980043e-05, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 233.0, 
+      "color-blue": 170.0, 
+      "pixel": 0.0176085177809, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 202.0, 
+      "color-blue": 217.0, 
+      "pixel": 0.049822550266981125, 
+      "color-red": 95.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.073391079902649, 
+      "description": "\uc624\ub77c\ub3d9 \uba54\ubc00\ubc2d"
+    }, 
+    {
+      "score": 0.7713200449943542, 
+      "description": "\ubcf4\ub86c\uc653(BOROMWAT)"
+    }, 
+    {
+      "score": 0.5945940017700195, 
+      "description": "\uba54\ubc00\uaf43\ucd95\uc81c"
+    }, 
+    {
+      "score": 0.5644650459289551, 
+      "description": "Memilkkoch"
+    }, 
+    {
+      "score": 0.4050999879837036, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.2906000018119812, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.2596000134944916, 
+      "description": "Autumn"
+    }, 
+    {
+      "score": 0.24819999933242798, 
+      "description": "Weather"
+    }, 
+    {
+      "score": 0.22949999570846558, 
+      "description": "Parasitic cone"
+    }, 
+    {
+      "score": 0.21610000729560852, 
+      "description": "Daum"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9712222218513489, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9233531951904297, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9090992212295532, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.8927083015441895, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.819115400314331, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.8069890737533569, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.79762864112854, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.7911187410354614, 
+      "description": "meadow"
+    }, 
+    {
+      "score": 0.7467768788337708, 
+      "description": "prairie"
+    }, 
+    {
+      "score": 0.7033503651618958, 
+      "description": "wildflower"
+    }
+  ]
+}

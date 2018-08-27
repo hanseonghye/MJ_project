@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 49.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.1485714316368103, 
+      "color-red": 46.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.0006349206087179482, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.10753968358039856, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.06317460536956787, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 31.0, 
+      "color-blue": 38.0, 
+      "pixel": 0.3888888955116272, 
+      "color-red": 29.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.017777778208255768, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 147.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.020555555820465088, 
+      "color-red": 148.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 103.0, 
+      "pixel": 0.011904762126505375, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.012539682909846306, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.010396825149655342, 
+      "color-red": 101.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Gyeongbokgung"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.9532561302185059, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 1.1569318771362305, 
+      "description": "Deoksugung"
+    }, 
+    {
+      "score": 1.0117499828338623, 
+      "description": "Joseon"
+    }, 
+    {
+      "score": 0.6499000191688538, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.614549994468689, 
+      "description": "Geunjeongjeon"
+    }, 
+    {
+      "score": 0.5996999740600586, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.5162000060081482, 
+      "description": "Photographer"
+    }, 
+    {
+      "score": 0.5098000168800354, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.4819999933242798, 
+      "description": "Royalty-free"
+    }, 
+    {
+      "score": 0.42179998755455017, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9843566417694092, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9425948262214661, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8583039045333862, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8545823097229004, 
+      "description": "structure"
+    }, 
+    {
+      "score": 0.8223423361778259, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.7775140404701233, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.639400839805603, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6075658202171326, 
+      "description": "facade"
+    }, 
+    {
+      "score": 0.5814036726951599, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.5534617304801941, 
+      "description": "temple"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 23.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.06825757771730423, 
+      "color-red": 18.0
+    }, 
+    {
+      "color-green": 10.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.07916666567325592, 
+      "color-red": 7.0
+    }, 
+    {
+      "color-green": 8.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.11136363446712494, 
+      "color-red": 7.0
+    }, 
+    {
+      "color-green": 67.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.0060606058686971664, 
+      "color-red": 63.0
+    }, 
+    {
+      "color-green": 215.0, 
+      "color-blue": 232.0, 
+      "pixel": 0.0016666667070239782, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 214.0, 
+      "pixel": 0.0050757573917508125, 
+      "color-red": 160.0
+    }, 
+    {
+      "color-green": 72.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.009469697251915932, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.0030303029343485832, 
+      "color-red": 165.0
+    }, 
+    {
+      "color-green": 16.0, 
+      "color-blue": 226.0, 
+      "pixel": 0.0003787878667935729, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 36.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.027272727340459824, 
+      "color-red": 80.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "cityscape"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2859275341033936, 
+      "description": "E \u00b7 WORLD 83Tower"
+    }, 
+    {
+      "score": 0.9687151312828064, 
+      "description": "Yeungnam University"
+    }, 
+    {
+      "score": 0.7111999988555908, 
+      "description": "E-World"
+    }, 
+    {
+      "score": 0.4327000081539154, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3643757402896881, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.3296999931335449, 
+      "description": "Amusement park"
+    }, 
+    {
+      "score": 0.29679998755455017, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.2817668318748474, 
+      "description": "Landmark"
+    }, 
+    {
+      "score": 0.2766000032424927, 
+      "description": "University"
+    }, 
+    {
+      "score": 0.26750001311302185, 
+      "description": "Naver Blog"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9604524970054626, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9439408183097839, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9431948661804199, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9309462904930115, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.9184466600418091, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.8827402591705322, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8821820616722107, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.8778494000434875, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.837203860282898, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.829664409160614, 
+      "description": "light"
+    }
+  ]
+}

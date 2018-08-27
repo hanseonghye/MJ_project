@@ -1,0 +1,146 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 85.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.18029505014419556, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.015279240906238556, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.005057955626398325, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 105.0, 
+      "pixel": 0.06554267555475235, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.19546891748905182, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 77.0, 
+      "pixel": 0.04794520512223244, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 107.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.013698630034923553, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.026975763961672783, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.08229715377092361, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.01875658519566059, 
+      "color-red": 136.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Bridge"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2797565460205078, 
+      "description": "Younggeumjeong Pavilion"
+    }, 
+    {
+      "score": 0.436599999666214, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4302999973297119, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.3028999865055084, 
+      "description": "Spermatozoon"
+    }, 
+    {
+      "score": 0.2894919812679291, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.265500009059906, 
+      "description": "Chuseok"
+    }, 
+    {
+      "score": 0.25598764419555664, 
+      "description": "Sokcho"
+    }, 
+    {
+      "score": 0.23510000109672546, 
+      "description": "Long weekend"
+    }, 
+    {
+      "score": 0.22288447618484497, 
+      "description": "Evening"
+    }, 
+    {
+      "score": 0.21690000593662262, 
+      "description": "October"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9224143028259277, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8205729722976685, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.7745997309684753, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.6811681985855103, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.6562363505363464, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.5960436463356018, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.5459959506988525, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.5281075239181519, 
+      "description": "tourism"
+    }
+  ]
+}

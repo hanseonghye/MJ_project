@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.1889, 
+      "description": "Haedong Yonggungsa", 
+      "Longitude": 129.223262
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 152.0, 
+      "color-blue": 176.0, 
+      "pixel": 0.07287641614675522, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.2249339073896408, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.10473866015672684, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 105.0, 
+      "pixel": 0.0720629096031189, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.10534878820180893, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.15904006361961365, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.07450342178344727, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 209.0, 
+      "pixel": 0.030506405979394913, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.011728018522262573, 
+      "color-red": 40.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.017625924199819565, 
+      "color-red": 123.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "haedong yonggungsa"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.953695297241211, 
+      "description": "Haedong Yonggungsa"
+    }, 
+    {
+      "score": 1.0513499975204468, 
+      "description": "Temple"
+    }, 
+    {
+      "score": 0.6096547842025757, 
+      "description": "Shinto shrine"
+    }, 
+    {
+      "score": 0.5234928727149963, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5114101767539978, 
+      "description": "Haejung"
+    }, 
+    {
+      "score": 0.4619235694408417, 
+      "description": "\ud574\ub3d9\uc815\uacf5"
+    }, 
+    {
+      "score": 0.3156000077724457, 
+      "description": "Pagoda"
+    }, 
+    {
+      "score": 0.24009999632835388, 
+      "description": "Shrine"
+    }, 
+    {
+      "score": 0.20250000059604645, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.1981254667043686, 
+      "description": "Chinese architecture"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9892028570175171, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9352537989616394, 
+      "description": "japanese architecture"
+    }, 
+    {
+      "score": 0.9053722620010376, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8179521560668945, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7997872829437256, 
+      "description": "shinto shrine"
+    }, 
+    {
+      "score": 0.7823410630226135, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.7329909801483154, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6713252663612366, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.6682242751121521, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.6635515689849854, 
+      "description": "shrine"
+    }
+  ]
+}

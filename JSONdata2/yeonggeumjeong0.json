@@ -1,0 +1,134 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 234.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.43138977885246277, 
+      "color-red": 223.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.15185575187206268, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.04291066527366638, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 227.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.08289427310228348, 
+      "color-red": 211.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 200.0, 
+      "pixel": 0.1385083645582199, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.032139092683792114, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.07645475119352341, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 28.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.013640088960528374, 
+      "color-red": 23.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.0019903993234038353, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 24.0, 
+      "color-blue": 38.0, 
+      "pixel": 0.0009951996617019176, 
+      "color-red": 25.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7959794402122498, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.6317965984344482, 
+      "description": "Breakwater"
+    }, 
+    {
+      "score": 0.5792070031166077, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.5214636325836182, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.5109999775886536, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.43320000171661377, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8596565127372742, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.7011613845825195, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.649415910243988, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.5661770701408386, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.5556301474571228, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.5402402281761169, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.5262405872344971, 
+      "description": "breakwater"
+    }, 
+    {
+      "score": 0.5261357426643372, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.5098599195480347, 
+      "description": "tourism"
+    }
+  ]
+}

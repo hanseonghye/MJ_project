@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 159.0, 
+      "color-blue": 188.0, 
+      "pixel": 0.11833333224058151, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 148.0, 
+      "pixel": 0.00566666666418314, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 185.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.011133333668112755, 
+      "color-red": 213.0
+    }, 
+    {
+      "color-green": 179.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.0012000000569969416, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.04726666584610939, 
+      "color-red": 31.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.08906666934490204, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 183.0, 
+      "color-blue": 181.0, 
+      "pixel": 0.11860000342130661, 
+      "color-red": 180.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 154.0, 
+      "pixel": 0.09139999747276306, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 136.0, 
+      "pixel": 0.008933333680033684, 
+      "color-red": 180.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 175.0, 
+      "pixel": 0.06379999965429306, 
+      "color-red": 79.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "coast"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4063347578048706, 
+      "description": "\u0421\u043e\u043d\u0447\u0436\u043e\u043d"
+    }, 
+    {
+      "score": 0.8217462301254272, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.7939869165420532, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.6538033485412598, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.569100022315979, 
+      "description": "Seaside resort"
+    }, 
+    {
+      "score": 0.5153999924659729, 
+      "description": "Length"
+    }, 
+    {
+      "score": 0.4032999873161316, 
+      "description": "Meter"
+    }, 
+    {
+      "score": 0.3540922701358795, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.34307196736335754, 
+      "description": "Sand"
+    }, 
+    {
+      "score": 0.3178609311580658, 
+      "description": "Vacation"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9399982690811157, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9372539520263672, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9353586435317993, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9123087525367737, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.9056499004364014, 
+      "description": "beach"
+    }, 
+    {
+      "score": 0.806966245174408, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8030099868774414, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7836618423461914, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7556421756744385, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7204018235206604, 
+      "description": "bay"
+    }
+  ]
+}

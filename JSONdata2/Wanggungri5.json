@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 230.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.0473497100174427, 
+      "color-red": 251.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.1374434381723404, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.002666451269760728, 
+      "color-red": 223.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.010423400439321995, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.024725275114178658, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.0023432450834661722, 
+      "color-red": 180.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 137.0, 
+      "pixel": 0.02674531377851963, 
+      "color-red": 223.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.0386231429874897, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.03636069968342781, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 233.0, 
+      "color-blue": 137.0, 
+      "pixel": 0.020523594692349434, 
+      "color-red": 254.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "iksan korea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7599000334739685, 
+      "description": "Baekje"
+    }, 
+    {
+      "score": 0.636883556842804, 
+      "description": "Gochang County"
+    }, 
+    {
+      "score": 0.5470902919769287, 
+      "description": "Wanggung-ri"
+    }, 
+    {
+      "score": 0.5343000292778015, 
+      "description": "Gochang, Hwasun and Ganghwa Dolmen Sites"
+    }, 
+    {
+      "score": 0.4299095571041107, 
+      "description": "Iksan"
+    }, 
+    {
+      "score": 0.4074999988079071, 
+      "description": ""
+    }, 
+    {
+      "score": 0.37620002031326294, 
+      "description": "Three Kingdoms of Korea"
+    }, 
+    {
+      "score": 0.3698999881744385, 
+      "description": "History"
+    }, 
+    {
+      "score": 0.3100000023841858, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3012999892234802, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.974800169467926, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9506520628929138, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.8638883233070374, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8086720705032349, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.7964593172073364, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.7951205372810364, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7739888429641724, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.765794038772583, 
+      "description": "atmosphere"
+    }, 
+    {
+      "score": 0.7502871751785278, 
+      "description": "dawn"
+    }, 
+    {
+      "score": 0.723255455493927, 
+      "description": "rural area"
+    }
+  ]
+}

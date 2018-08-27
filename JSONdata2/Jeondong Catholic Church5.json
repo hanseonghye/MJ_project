@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 127.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.012428977526724339, 
+      "color-red": 232.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.01970880664885044, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.028941761702299118, 
+      "color-red": 142.0
+    }, 
+    {
+      "color-green": 173.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.004172585438936949, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 16.0, 
+      "color-blue": 5.0, 
+      "pixel": 0.04252485930919647, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 7.0, 
+      "color-blue": 4.0, 
+      "pixel": 0.6071555614471436, 
+      "color-red": 14.0
+    }, 
+    {
+      "color-green": 78.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.023792613297700882, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.008167613297700882, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 41.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.021573154255747795, 
+      "color-red": 157.0
+    }, 
+    {
+      "color-green": 28.0, 
+      "color-blue": 9.0, 
+      "pixel": 0.02911931835114956, 
+      "color-red": 110.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Church"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.012425184249878, 
+      "description": "Jeondong Cathedral"
+    }, 
+    {
+      "score": 0.8792902827262878, 
+      "description": "Basilica"
+    }, 
+    {
+      "score": 0.70169997215271, 
+      "description": "\u8056\u5802"
+    }, 
+    {
+      "score": 0.6238999962806702, 
+      "description": "Church"
+    }, 
+    {
+      "score": 0.45203638076782227, 
+      "description": "Cathedral"
+    }, 
+    {
+      "score": 0.4412239193916321, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.37301838397979736, 
+      "description": "Steeple"
+    }, 
+    {
+      "score": 0.34452003240585327, 
+      "description": "Jeong-dong"
+    }, 
+    {
+      "score": 0.19609999656677246, 
+      "description": "Catholic Church in Korea"
+    }, 
+    {
+      "score": 0.19130000472068787, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9459257125854492, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9245681762695312, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8415449261665344, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8377216458320618, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.800326943397522, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.7823287844657898, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.771523654460907, 
+      "description": "lighting"
+    }, 
+    {
+      "score": 0.7461003661155701, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7365595698356628, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.7027419805526733, 
+      "description": "steeple"
+    }
+  ]
+}

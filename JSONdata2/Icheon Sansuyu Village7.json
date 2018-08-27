@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 116.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.17087982594966888, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 149.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.1717977672815323, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 70.0, 
+      "pixel": 0.06143200024962425, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.08960598707199097, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.03650614246726036, 
+      "color-red": 149.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.08551052212715149, 
+      "color-red": 216.0
+    }, 
+    {
+      "color-green": 185.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.022807512432336807, 
+      "color-red": 216.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.03064538910984993, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.02181895263493061, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.038271430879831314, 
+      "color-red": 143.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "JPEG"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7716500163078308, 
+      "description": "\uc774\ucc9c \uc0b0\uc218\uc720\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.6858999729156494, 
+      "description": "Cornus officinalis"
+    }, 
+    {
+      "score": 0.6107199788093567, 
+      "description": "\uc0b0\uc218\uc720\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.5843200087547302, 
+      "description": "Sansuyu Village"
+    }, 
+    {
+      "score": 0.5768399834632874, 
+      "description": "\uc0b0\uc218\uc720\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.48660001158714294, 
+      "description": "Jirisan"
+    }, 
+    {
+      "score": 0.3888589143753052, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.36382171511650085, 
+      "description": "Landscape"
+    }, 
+    {
+      "score": 0.35076433420181274, 
+      "description": "Shrubland"
+    }, 
+    {
+      "score": 0.3453652858734131, 
+      "description": "Yellow"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9548218846321106, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9522429704666138, 
+      "description": "ecosystem"
+    }, 
+    {
+      "score": 0.9435941576957703, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9337232112884521, 
+      "description": "branch"
+    }, 
+    {
+      "score": 0.9332643747329712, 
+      "description": "woodland"
+    }, 
+    {
+      "score": 0.9202055335044861, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9191550016403198, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.895065426826477, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8630270957946777, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.822425365447998, 
+      "description": "wildlife"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 148.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.02310459315776825, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.07685390114784241, 
+      "color-red": 149.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.190855011343956, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 44.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.019023243337869644, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 177.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.012382402084767818, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.009615384973585606, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.04378804564476013, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.1393193155527115, 
+      "color-red": 34.0
+    }, 
+    {
+      "color-green": 70.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.04399557411670685, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 146.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.009546209126710892, 
+      "color-red": 187.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1521950960159302, 
+      "description": "\ud560\ubbf8\ud560\uc544\ube44\ubc14\uc704"
+    }, 
+    {
+      "score": 1.0198500156402588, 
+      "description": "\uaf43\uc9c0\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 0.9518850445747375, 
+      "description": "Anmyeondo"
+    }, 
+    {
+      "score": 0.9286200404167175, 
+      "description": "\uaf43\uc9c0\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 0.6377250552177429, 
+      "description": "Kkotji Shoreline Park"
+    }, 
+    {
+      "score": 0.5385345816612244, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.5316991806030273, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.4542568624019623, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.39239996671676636, 
+      "description": "Yellow Sea"
+    }, 
+    {
+      "score": 0.2635999917984009, 
+      "description": "Tourist attraction"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9505411982536316, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9344552755355835, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9217297434806824, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9056152105331421, 
+      "description": "sunset"
+    }, 
+    {
+      "score": 0.900402307510376, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.8871477246284485, 
+      "description": "sunrise"
+    }, 
+    {
+      "score": 0.869957685470581, 
+      "description": "sun"
+    }, 
+    {
+      "score": 0.8111689686775208, 
+      "description": "calm"
+    }, 
+    {
+      "score": 0.8100632429122925, 
+      "description": "afterglow"
+    }, 
+    {
+      "score": 0.7814996242523193, 
+      "description": "ocean"
+    }
+  ]
+}

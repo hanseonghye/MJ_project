@@ -1,0 +1,134 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 194.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.19182221591472626, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.024888888001441956, 
+      "color-red": 61.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.05693333223462105, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 209.0, 
+      "pixel": 0.16342222690582275, 
+      "color-red": 206.0
+    }, 
+    {
+      "color-green": 163.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.10106666386127472, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 170.0, 
+      "color-blue": 218.0, 
+      "pixel": 0.036400001496076584, 
+      "color-red": 137.0
+    }, 
+    {
+      "color-green": 218.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.030088888481259346, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 171.0, 
+      "pixel": 0.0828000009059906, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 220.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.011822221800684929, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.01671111024916172, 
+      "color-red": 113.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3067117929458618, 
+      "description": "Cherry blossom"
+    }, 
+    {
+      "score": 0.6613500118255615, 
+      "description": "Blossom Music Center"
+    }, 
+    {
+      "score": 0.6059563755989075, 
+      "description": "Blossom"
+    }, 
+    {
+      "score": 0.5544999837875366, 
+      "description": "ST.AU.150 MIN.V.UNC.NR AD"
+    }, 
+    {
+      "score": 0.5008999705314636, 
+      "description": "Cherry"
+    }, 
+    {
+      "score": 0.4399999976158142, 
+      "description": "Branching"
+    }, 
+    {
+      "score": 0.4239000082015991, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9392659068107605, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9311433434486389, 
+      "description": "blossom"
+    }, 
+    {
+      "score": 0.9296849370002747, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9296141266822815, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9163170456886292, 
+      "description": "cherry blossom"
+    }, 
+    {
+      "score": 0.8849872350692749, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8843391537666321, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.7940150499343872, 
+      "description": "branch"
+    }
+  ]
+}

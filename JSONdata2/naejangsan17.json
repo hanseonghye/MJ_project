@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 71.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.05001942440867424, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 26.0, 
+      "color-blue": 4.0, 
+      "pixel": 0.06575369089841843, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 16.0, 
+      "color-blue": 4.0, 
+      "pixel": 0.05176767706871033, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 13.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.021270396187901497, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 38.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.08614996075630188, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 169.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.005147630348801613, 
+      "color-red": 235.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.06750193983316422, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 44.0, 
+      "color-blue": 8.0, 
+      "pixel": 0.01447163987904787, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 37.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.011655011214315891, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 8.0, 
+      "pixel": 0.013014762662351131, 
+      "color-red": 153.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "m\u00f9a thu h\u00e0n qu\u1ed1c"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2162678241729736, 
+      "description": "Namiseom"
+    }, 
+    {
+      "score": 1.0032413005828857, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.9000222682952881, 
+      "description": "Everland"
+    }, 
+    {
+      "score": 0.727633535861969, 
+      "description": "Vietnam"
+    }, 
+    {
+      "score": 0.6625000238418579, 
+      "description": "Autumn"
+    }, 
+    {
+      "score": 0.6424499750137329, 
+      "description": "\u00f7 Tour"
+    }, 
+    {
+      "score": 0.5133000016212463, 
+      "description": ""
+    }, 
+    {
+      "score": 0.45190000534057617, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.4458000063896179, 
+      "description": ""
+    }, 
+    {
+      "score": 0.40709999203681946, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9132405519485474, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.7831761837005615, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7732887268066406, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7698832154273987, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.7102044224739075, 
+      "description": "maple tree"
+    }, 
+    {
+      "score": 0.6611010432243347, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.6561059951782227, 
+      "description": "shrine"
+    }, 
+    {
+      "score": 0.6489595174789429, 
+      "description": "pagoda"
+    }, 
+    {
+      "score": 0.637036919593811, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.5657573342323303, 
+      "description": "deciduous"
+    }
+  ]
+}

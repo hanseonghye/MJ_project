@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 132.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.06718120723962784, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 169.0, 
+      "pixel": 0.030939597636461258, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.029664428904652596, 
+      "color-red": 35.0
+    }, 
+    {
+      "color-green": 203.0, 
+      "color-blue": 217.0, 
+      "pixel": 0.0031543623190373182, 
+      "color-red": 131.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.029395973309874535, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 206.0, 
+      "pixel": 0.024093959480524063, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.03530201315879822, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.010335570201277733, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.028657717630267143, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 134.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.007718120701611042, 
+      "color-red": 111.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc81c\uc8fc \ube44\uc591\ub3c4"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6119743585586548, 
+      "description": "Biyangdo"
+    }, 
+    {
+      "score": 0.583899974822998, 
+      "description": "Island"
+    }, 
+    {
+      "score": 0.522537350654602, 
+      "description": "Biyangbong"
+    }, 
+    {
+      "score": 0.421999990940094, 
+      "description": "Volcano"
+    }, 
+    {
+      "score": 0.4087499976158142, 
+      "description": "\u65b0\u5897\u6771\u56fd\u8f3f\u5730\u52dd\u89a7"
+    }, 
+    {
+      "score": 0.3945084512233734, 
+      "description": "\ube44\uacbd\ud68c\uad00"
+    }, 
+    {
+      "score": 0.3817000091075897, 
+      "description": "Parasitic cone"
+    }, 
+    {
+      "score": 0.37494271993637085, 
+      "description": "Seom-Ida"
+    }, 
+    {
+      "score": 0.3513000011444092, 
+      "description": "\ud611\uc7ac\ud574\uc218\uc695\uc7a5"
+    }, 
+    {
+      "score": 0.31150001287460327, 
+      "description": "Travel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9385676383972168, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.8097909688949585, 
+      "description": "marina"
+    }, 
+    {
+      "score": 0.7604629397392273, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.7228044867515564, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7130016088485718, 
+      "description": "harbor"
+    }, 
+    {
+      "score": 0.6716050505638123, 
+      "description": "port"
+    }, 
+    {
+      "score": 0.6708316206932068, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6361615657806396, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.6054398417472839, 
+      "description": "water transportation"
+    }, 
+    {
+      "score": 0.6012852787971497, 
+      "description": "boat"
+    }
+  ]
+}

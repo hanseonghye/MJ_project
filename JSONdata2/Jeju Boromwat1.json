@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 233.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.31173333525657654, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 168.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.04019999876618385, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 203.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.003800000064074993, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.03500000014901161, 
+      "color-red": 16.0
+    }, 
+    {
+      "color-green": 247.0, 
+      "color-blue": 254.0, 
+      "pixel": 0.15433333814144135, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.06840000301599503, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 168.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.014666666276752949, 
+      "color-red": 122.0
+    }, 
+    {
+      "color-green": 98.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.07093333452939987, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 137.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.013266666792333126, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.010266666300594807, 
+      "color-red": 155.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7730793952941895, 
+      "description": "Shrubland"
+    }, 
+    {
+      "score": 0.7374794483184814, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.7345690131187439, 
+      "description": "Grassland"
+    }, 
+    {
+      "score": 0.7062904238700867, 
+      "description": "Biome"
+    }, 
+    {
+      "score": 0.5679550170898438, 
+      "description": "Plantation"
+    }, 
+    {
+      "score": 0.5570985078811646, 
+      "description": "Hill station"
+    }, 
+    {
+      "score": 0.5374394655227661, 
+      "description": "Crop"
+    }, 
+    {
+      "score": 0.5112248659133911, 
+      "description": "Leaf"
+    }, 
+    {
+      "score": 0.3926999866962433, 
+      "description": "Sky plc"
+    }, 
+    {
+      "score": 0.3637999892234802, 
+      "description": "Cloud computing"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.982329785823822, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9467487931251526, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.9455683827400208, 
+      "description": "green"
+    }, 
+    {
+      "score": 0.9438769817352295, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.9231206178665161, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.918036937713623, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.8997540473937988, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.8543546795845032, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.8470384478569031, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.8269616961479187, 
+      "description": "tree"
+    }
+  ]
+}

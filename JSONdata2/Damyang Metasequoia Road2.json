@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 175.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.05818154290318489, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 210.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.007677254267036915, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.060213759541511536, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.03469817712903023, 
+      "color-red": 61.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 232.0, 
+      "pixel": 0.015279240906238556, 
+      "color-red": 224.0
+    }, 
+    {
+      "color-green": 141.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.08189070969820023, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 169.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.021978022530674934, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 207.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.011892217211425304, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.0074514527805149555, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 139.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.02288122847676277, 
+      "color-red": 76.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Kaediseu"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8858615756034851, 
+      "description": "Valdivian temperate rain forest"
+    }, 
+    {
+      "score": 0.7351409792900085, 
+      "description": "Temperate broadleaf and mixed forest"
+    }, 
+    {
+      "score": 0.699999988079071, 
+      "description": "Forest"
+    }, 
+    {
+      "score": 0.6334721446037292, 
+      "description": "Rainforest"
+    }, 
+    {
+      "score": 0.6080618500709534, 
+      "description": "Woodland"
+    }, 
+    {
+      "score": 0.5985000133514404, 
+      "description": "Tropical and subtropical moist broadleaf forests"
+    }, 
+    {
+      "score": 0.5925999879837036, 
+      "description": "Temperate coniferous forest"
+    }, 
+    {
+      "score": 0.5489078164100647, 
+      "description": "Tropical and subtropical coniferous forests"
+    }, 
+    {
+      "score": 0.48989999294281006, 
+      "description": "Kaediseu"
+    }, 
+    {
+      "score": 0.4841720163822174, 
+      "description": "Vegetation"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9593393206596375, 
+      "description": "green"
+    }, 
+    {
+      "score": 0.9576392769813538, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.955376148223877, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.9430907964706421, 
+      "description": "woodland"
+    }, 
+    {
+      "score": 0.9417728781700134, 
+      "description": "ecosystem"
+    }, 
+    {
+      "score": 0.9218260049819946, 
+      "description": "forest"
+    }, 
+    {
+      "score": 0.9216132164001465, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.912838876247406, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.9055367708206177, 
+      "description": "grove"
+    }, 
+    {
+      "score": 0.9000725150108337, 
+      "description": "path"
+    }
+  ]
+}

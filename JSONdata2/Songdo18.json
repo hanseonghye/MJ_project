@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 162.0, 
+      "color-blue": 218.0, 
+      "pixel": 0.11038234084844589, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.12781955301761627, 
+      "color-red": 15.0
+    }, 
+    {
+      "color-green": 207.0, 
+      "color-blue": 237.0, 
+      "pixel": 0.07950727641582489, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.016077427193522453, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 240.0, 
+      "pixel": 0.046472564339637756, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 233.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.035434331744909286, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 137.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.045512717217206955, 
+      "color-red": 23.0
+    }, 
+    {
+      "color-green": 98.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.013197888620197773, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.016237402334809303, 
+      "color-red": 87.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 250.0, 
+      "pixel": 0.023596225306391716, 
+      "color-red": 196.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "suny korea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1718300580978394, 
+      "description": "Stony Brook University"
+    }, 
+    {
+      "score": 1.0269198417663574, 
+      "description": "SUNY Korea"
+    }, 
+    {
+      "score": 0.7146000266075134, 
+      "description": "SUNY Korea"
+    }, 
+    {
+      "score": 0.7044000029563904, 
+      "description": "State University of New York System"
+    }, 
+    {
+      "score": 0.7010999917984009, 
+      "description": "University"
+    }, 
+    {
+      "score": 0.6656976342201233, 
+      "description": "Campus"
+    }, 
+    {
+      "score": 0.569599986076355, 
+      "description": "Student"
+    }, 
+    {
+      "score": 0.5512999892234802, 
+      "description": "Midnight breakfast"
+    }, 
+    {
+      "score": 0.4819999933242798, 
+      "description": "Academic degree"
+    }, 
+    {
+      "score": 0.25950509309768677, 
+      "description": "Songdo International Business District"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9471879005432129, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.8947888016700745, 
+      "description": "commercial building"
+    }, 
+    {
+      "score": 0.8677603006362915, 
+      "description": "corporate headquarters"
+    }, 
+    {
+      "score": 0.8648440837860107, 
+      "description": "mixed use"
+    }, 
+    {
+      "score": 0.8527679443359375, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.852754533290863, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8441033959388733, 
+      "description": "architecture"
+    }, 
+    {
+      "score": 0.796654999256134, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.7721099853515625, 
+      "description": "headquarters"
+    }, 
+    {
+      "score": 0.7720666527748108, 
+      "description": "metropolis"
+    }
+  ]
+}

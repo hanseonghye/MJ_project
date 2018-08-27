@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 156.0, 
+      "color-blue": 181.0, 
+      "pixel": 0.03394777327775955, 
+      "color-red": 141.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.01105990819633007, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 235.0, 
+      "color-blue": 239.0, 
+      "pixel": 0.0370967723429203, 
+      "color-red": 225.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.01897081360220909, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.01036866381764412, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.03663594648241997, 
+      "color-red": 107.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 219.0, 
+      "pixel": 0.022580645978450775, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 135.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.004147465340793133, 
+      "color-red": 185.0
+    }, 
+    {
+      "color-green": 134.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.0024577572476118803, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.06958525627851486, 
+      "color-red": 116.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "courtyard"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6442700028419495, 
+      "description": "\ud504\ub85c\ubc29\uc2a4\ubca0\uc774\ucee4\ub9ac"
+    }, 
+    {
+      "score": 0.5907825231552124, 
+      "description": "Provence"
+    }, 
+    {
+      "score": 0.5133000016212463, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5038999915122986, 
+      "description": ""
+    }, 
+    {
+      "score": 0.49582505226135254, 
+      "description": "\ub2f4\uc591 \uba85\uc625\ud5cc \uc6d0\ub9bc"
+    }, 
+    {
+      "score": 0.4555099904537201, 
+      "description": "\ub2f4\uc591\uc5ec\ud589"
+    }, 
+    {
+      "score": 0.41827505826950073, 
+      "description": "Song-Gangjeong"
+    }, 
+    {
+      "score": 0.39148998260498047, 
+      "description": "\ub2f4\uc591\uba54\ud0c0\ud39c\uc158"
+    }, 
+    {
+      "score": 0.38830000162124634, 
+      "description": "Daughter"
+    }, 
+    {
+      "score": 0.33629998564720154, 
+      "description": "Family"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8949282169342041, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8881927132606506, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.7926028966903687, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.7679590582847595, 
+      "description": "courtyard"
+    }, 
+    {
+      "score": 0.7472884654998779, 
+      "description": "alley"
+    }, 
+    {
+      "score": 0.7218398451805115, 
+      "description": "floristry"
+    }, 
+    {
+      "score": 0.7061622738838196, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.6910216212272644, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.6820077300071716, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.6210903525352478, 
+      "description": "street"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 19.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.25653332471847534, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 120.0, 
+      "pixel": 0.08860000222921371, 
+      "color-red": 122.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.00286666676402092, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 149.0, 
+      "color-blue": 136.0, 
+      "pixel": 0.14020000398159027, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.0026000000070780516, 
+      "color-red": 146.0
+    }, 
+    {
+      "color-green": 235.0, 
+      "color-blue": 210.0, 
+      "pixel": 0.004800000227987766, 
+      "color-red": 252.0
+    }, 
+    {
+      "color-green": 26.0, 
+      "color-blue": 9.0, 
+      "pixel": 0.04373333230614662, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 20.0, 
+      "color-blue": 4.0, 
+      "pixel": 0.033533334732055664, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 45.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.03139999881386757, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 39.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.0285333339124918, 
+      "color-red": 70.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Buyeo County"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3612500429153442, 
+      "description": "Gungnamji"
+    }, 
+    {
+      "score": 0.6766499876976013, 
+      "description": "Baekje"
+    }, 
+    {
+      "score": 0.6224900484085083, 
+      "description": "\ubd80\uc5ec \uad81\ub0a8\uc9c0"
+    }, 
+    {
+      "score": 0.3375873863697052, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.3312000036239624, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.27830347418785095, 
+      "description": "Lake"
+    }, 
+    {
+      "score": 0.22435808181762695, 
+      "description": "Reservoir"
+    }, 
+    {
+      "score": 0.19629999995231628, 
+      "description": "Pond"
+    }, 
+    {
+      "score": 0.19084644317626953, 
+      "description": "Desktop Wallpaper"
+    }, 
+    {
+      "score": 0.18790000677108765, 
+      "description": "Cultural heritage"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9794160723686218, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.954706072807312, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9469873309135437, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9397556185722351, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9344435334205627, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.8413532972335815, 
+      "description": "dusk"
+    }, 
+    {
+      "score": 0.8410234451293945, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.8251819014549255, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.8074425458908081, 
+      "description": "lake"
+    }, 
+    {
+      "score": 0.7943755984306335, 
+      "description": "tourist attraction"
+    }
+  ]
+}

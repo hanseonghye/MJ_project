@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 198.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.00296296295709908, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.0046913581900298595, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.03166666626930237, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.010740741156041622, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.039444442838430405, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.0024074073880910873, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.08864197880029678, 
+      "color-red": 119.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.0017901234095916152, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.0035802468191832304, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.046172838658094406, 
+      "color-red": 128.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc548\ub3d9 \ud558\ud68c \ub9c8\uc744"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.502638578414917, 
+      "description": "Hahoe Folk Village"
+    }, 
+    {
+      "score": 0.7591500282287598, 
+      "description": "Jeonju Hanok Village"
+    }, 
+    {
+      "score": 0.6957499980926514, 
+      "description": "\uc548\ub3d9\ud558\ud68c\ub9c8\uc744\ubcf4\uc874\ud68c"
+    }, 
+    {
+      "score": 0.6561225056648254, 
+      "description": "Byeongsan Seowon"
+    }, 
+    {
+      "score": 0.5679000020027161, 
+      "description": "Hanok"
+    }, 
+    {
+      "score": 0.5647500157356262, 
+      "description": "Seowon"
+    }, 
+    {
+      "score": 0.5396000146865845, 
+      "description": "\ud558\ud68c\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.4571000039577484, 
+      "description": "\uc548\ub3d9 \uac04\uace0\ub4f1\uc5b4"
+    }, 
+    {
+      "score": 0.4144250154495239, 
+      "description": "\uacbd\ubd81\uc77c\ubcf4"
+    }, 
+    {
+      "score": 0.4042610228061676, 
+      "description": "\uacbd\ubd81\uc77c\ubcf4 \uc548\ub3d9\uc9c0\uad6d"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9485123157501221, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.942363977432251, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9268404841423035, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8979789614677429, 
+      "description": "suburb"
+    }, 
+    {
+      "score": 0.8977261781692505, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8920003175735474, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8799088597297668, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8788812756538391, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7906922698020935, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.7743403911590576, 
+      "description": "bird's eye view"
+    }
+  ]
+}

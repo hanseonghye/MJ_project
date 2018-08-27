@@ -1,0 +1,156 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.533484, 
+      "description": "Seoul Central Mosque", 
+      "Longitude": 126.997725
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 188.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.1412470042705536, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 143.0, 
+      "pixel": 0.07833732664585114, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 244.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.034052759408950806, 
+      "color-red": 233.0
+    }, 
+    {
+      "color-green": 177.0, 
+      "color-blue": 242.0, 
+      "pixel": 0.06434851884841919, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 171.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.18489208817481995, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 243.0, 
+      "pixel": 0.10503596812486649, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 183.0, 
+      "pixel": 0.05043964833021164, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 219.0, 
+      "pixel": 0.041167065501213074, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.032374098896980286, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 223.0, 
+      "pixel": 0.1004796177148819, 
+      "color-red": 138.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "seoul central mosque"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7256612181663513, 
+      "description": "Teulendeu"
+    }, 
+    {
+      "score": 0.6472653746604919, 
+      "description": "Myeong-dong"
+    }, 
+    {
+      "score": 0.5804491639137268, 
+      "description": "\uc778\ud130\ub137\uc815\ubcf4\uc13c\ud130"
+    }, 
+    {
+      "score": 0.5149972438812256, 
+      "description": "Seoul Central Mosque"
+    }, 
+    {
+      "score": 0.4786759912967682, 
+      "description": "M7 Hotel"
+    }, 
+    {
+      "score": 0.4347400963306427, 
+      "description": "Mosque"
+    }, 
+    {
+      "score": 0.3529888987541199, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.27959999442100525, 
+      "description": "Highway M04"
+    }, 
+    {
+      "score": 0.2583000063896179, 
+      "description": "Highway M01"
+    }, 
+    {
+      "score": 0.2574000060558319, 
+      "description": "Highway M05"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9257599115371704, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.87068110704422, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8640871644020081, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.8258373737335205, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.6852219104766846, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6844300627708435, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.6730133891105652, 
+      "description": "mosque"
+    }, 
+    {
+      "score": 0.6536519527435303, 
+      "description": "column"
+    }, 
+    {
+      "score": 0.6331288814544678, 
+      "description": "place of worship"
+    }
+  ]
+}

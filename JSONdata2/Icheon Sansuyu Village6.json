@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 156.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.09392856806516647, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.04690476134419441, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.04458333179354668, 
+      "color-red": 172.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.07095237821340561, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.05565476045012474, 
+      "color-red": 204.0
+    }, 
+    {
+      "color-green": 123.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.02976190485060215, 
+      "color-red": 137.0
+    }, 
+    {
+      "color-green": 163.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.03095238097012043, 
+      "color-red": 170.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.027023809030652046, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.04154761880636215, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.07047618925571442, 
+      "color-red": 165.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "spring"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0183111429214478, 
+      "description": "Twig"
+    }, 
+    {
+      "score": 0.6385648250579834, 
+      "description": "Cornelian cherry"
+    }, 
+    {
+      "score": 0.6271499991416931, 
+      "description": "Blossom Music Center"
+    }, 
+    {
+      "score": 0.5993853807449341, 
+      "description": "Mustard plant"
+    }, 
+    {
+      "score": 0.5804675221443176, 
+      "description": "Deciduous"
+    }, 
+    {
+      "score": 0.574695885181427, 
+      "description": "Shrub"
+    }, 
+    {
+      "score": 0.4699999988079071, 
+      "description": "Mustard"
+    }, 
+    {
+      "score": 0.45910000801086426, 
+      "description": "Carnelian"
+    }, 
+    {
+      "score": 0.3882000148296356, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9510769248008728, 
+      "description": "branch"
+    }, 
+    {
+      "score": 0.9375929832458496, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9272295236587524, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8528854846954346, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.8518446087837219, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8426453471183777, 
+      "description": "blossom"
+    }, 
+    {
+      "score": 0.7772530913352966, 
+      "description": "flora"
+    }, 
+    {
+      "score": 0.7738170623779297, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6866153478622437, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.6859160661697388, 
+      "description": "twig"
+    }
+  ]
+}

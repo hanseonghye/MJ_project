@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 128.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.017187872901558876, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.0378371924161911, 
+      "color-red": 179.0
+    }, 
+    {
+      "color-green": 40.0, 
+      "color-blue": 71.0, 
+      "pixel": 0.013248985633254051, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 144.0, 
+      "pixel": 0.008713296614587307, 
+      "color-red": 132.0
+    }, 
+    {
+      "color-green": 142.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.02578181028366089, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 182.0, 
+      "pixel": 0.00501312967389822, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.01575555093586445, 
+      "color-red": 219.0
+    }, 
+    {
+      "color-green": 239.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.014920028857886791, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.006206731777638197, 
+      "color-red": 232.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.012890905141830444, 
+      "color-red": 119.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Busan"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.553566336631775, 
+      "description": "Fireworks"
+    }, 
+    {
+      "score": 1.2568567991256714, 
+      "description": "Gwangalli Beach"
+    }, 
+    {
+      "score": 1.2225968837738037, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 1.0520401000976562, 
+      "description": "2017 Busan International Fireworks Festival"
+    }, 
+    {
+      "score": 0.4645000100135803, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.44179999828338623, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.4081999957561493, 
+      "description": "Seoul International Fireworks Festival"
+    }, 
+    {
+      "score": 0.3788999915122986, 
+      "description": ""
+    }, 
+    {
+      "score": 0.32120001316070557, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.3127775192260742, 
+      "description": "Tourist attraction"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9916738867759705, 
+      "description": "fireworks"
+    }, 
+    {
+      "score": 0.8656683564186096, 
+      "description": "event"
+    }, 
+    {
+      "score": 0.7695424556732178, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.7618352174758911, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7486612796783447, 
+      "description": "entertainment"
+    }, 
+    {
+      "score": 0.7454609870910645, 
+      "description": "new year's eve"
+    }, 
+    {
+      "score": 0.745254635810852, 
+      "description": "f\u00eate"
+    }, 
+    {
+      "score": 0.7313975691795349, 
+      "description": "festival"
+    }, 
+    {
+      "score": 0.7228013873100281, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7210735082626343, 
+      "description": "night"
+    }
+  ]
+}

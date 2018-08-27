@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 155.0, 
+      "color-blue": 217.0, 
+      "pixel": 0.07783804833889008, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.17645905911922455, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.013659237883985043, 
+      "color-red": 200.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.022874321788549423, 
+      "color-red": 99.0
+    }, 
+    {
+      "color-green": 166.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.0875106230378151, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 181.0, 
+      "color-blue": 208.0, 
+      "pixel": 0.022612901404500008, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 139.0, 
+      "color-blue": 215.0, 
+      "pixel": 0.008496176451444626, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 145.0, 
+      "color-blue": 213.0, 
+      "pixel": 0.004313443787395954, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 170.0, 
+      "pixel": 0.1399254947900772, 
+      "color-red": 64.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.027318475767970085, 
+      "color-red": 163.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "cable stayed bridge"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.066178321838379, 
+      "description": "Cable-stayed bridge"
+    }, 
+    {
+      "score": 0.7169613838195801, 
+      "description": "Girder bridge"
+    }, 
+    {
+      "score": 0.7042999863624573, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.6517143249511719, 
+      "description": "Beam bridge"
+    }, 
+    {
+      "score": 0.6484116315841675, 
+      "description": "Extradosed bridge"
+    }, 
+    {
+      "score": 0.6120123863220215, 
+      "description": "Suspension bridge"
+    }, 
+    {
+      "score": 0.5786939859390259, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.554099977016449, 
+      "description": "Girder"
+    }, 
+    {
+      "score": 0.5297999978065491, 
+      "description": "Concrete"
+    }, 
+    {
+      "score": 0.528521716594696, 
+      "description": "River"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.986047089099884, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.9670693874359131, 
+      "description": "cable stayed bridge"
+    }, 
+    {
+      "score": 0.9279372096061707, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8752482533454895, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.8740420341491699, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8732911348342896, 
+      "description": "extradosed bridge"
+    }, 
+    {
+      "score": 0.8370085954666138, 
+      "description": "suspension bridge"
+    }, 
+    {
+      "score": 0.7672907710075378, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.6274778246879578, 
+      "description": "girder bridge"
+    }, 
+    {
+      "score": 0.5911639332771301, 
+      "description": "beam bridge"
+    }
+  ]
+}

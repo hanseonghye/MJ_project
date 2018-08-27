@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 125.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.016395246610045433, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 188.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.026078345254063606, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 68.0, 
+      "color-blue": 134.0, 
+      "pixel": 0.0188160203397274, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 141.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.02365756966173649, 
+      "color-red": 200.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.055347710847854614, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 141.0, 
+      "pixel": 0.02244718372821808, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.020686618983745575, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 77.0, 
+      "pixel": 0.03367077559232712, 
+      "color-red": 40.0
+    }, 
+    {
+      "color-green": 41.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.00836267601698637, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.016065141186118126, 
+      "color-red": 75.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\u5149 \u5316 \u9580"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5443328619003296, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.5241000056266785, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5163999795913696, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5015000104904175, 
+      "description": "Shutterstock"
+    }, 
+    {
+      "score": 0.4959999918937683, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.426800012588501, 
+      "description": "Location"
+    }, 
+    {
+      "score": 0.4255000054836273, 
+      "description": "stock.xchng"
+    }, 
+    {
+      "score": 0.39980000257492065, 
+      "description": "Royalty-free"
+    }, 
+    {
+      "score": 0.391400009393692, 
+      "description": "Business"
+    }, 
+    {
+      "score": 0.3831000030040741, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.982234001159668, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9648565053939819, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8874130249023438, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.8553500771522522, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8523380160331726, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.7739439010620117, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.748293936252594, 
+      "description": "pagoda"
+    }, 
+    {
+      "score": 0.7435427904129028, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6689537167549133, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.6401061415672302, 
+      "description": "night"
+    }
+  ]
+}

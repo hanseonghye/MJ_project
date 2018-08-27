@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 158.0, 
+      "color-blue": 214.0, 
+      "pixel": 0.19715555012226105, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 203.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.0840444415807724, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.12595555186271667, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 223.0, 
+      "color-blue": 245.0, 
+      "pixel": 0.04808888956904411, 
+      "color-red": 205.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 234.0, 
+      "pixel": 0.07631111145019531, 
+      "color-red": 146.0
+    }, 
+    {
+      "color-green": 134.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.12080000340938568, 
+      "color-red": 96.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.02866666577756405, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 100.0, 
+      "pixel": 4.444444493856281e-05, 
+      "color-red": 11.0
+    }, 
+    {
+      "color-green": 235.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.025288889184594154, 
+      "color-red": 224.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.014711110852658749, 
+      "color-red": 108.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1991705894470215, 
+      "description": "Seoraksan"
+    }, 
+    {
+      "score": 1.0080510377883911, 
+      "description": "Sokcho"
+    }, 
+    {
+      "score": 0.7915215492248535, 
+      "description": "Donghae City"
+    }, 
+    {
+      "score": 0.7027305364608765, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.6173999905586243, 
+      "description": "Sea of Japan"
+    }, 
+    {
+      "score": 0.5472999811172485, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.4577257037162781, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.3982999920845032, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.3731311559677124, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.3425920605659485, 
+      "description": "Vacation"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9565029144287109, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9184010028839111, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8277504444122314, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.8250560164451599, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.7692916989326477, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.7418684959411621, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.6870081424713135, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6774566173553467, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.6564701199531555, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.6269777417182922, 
+      "description": "tourist attraction"
+    }
+  ]
+}

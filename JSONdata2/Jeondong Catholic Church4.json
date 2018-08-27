@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 35.813947, 
+      "description": "", 
+      "Longitude": 127.149271
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 83.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.12051741778850555, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 232.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.2379610687494278, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 105.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.010117827914655209, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.006019467022269964, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.10732582211494446, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.05840164050459862, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 134.0, 
+      "pixel": 0.009349385276436806, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 71.0, 
+      "pixel": 0.02241290919482708, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.011014344170689583, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.02036372944712639, 
+      "color-red": 112.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "medieval architecture"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1612701416015625, 
+      "description": "Jeondong Cathedral"
+    }, 
+    {
+      "score": 0.9375300407409668, 
+      "description": "Roman Catholic Diocese of Jeonju"
+    }, 
+    {
+      "score": 0.5981250405311584, 
+      "description": "\u81f4\u547d\u8005\u5c71\u5723\u5730"
+    }, 
+    {
+      "score": 0.5685999989509583, 
+      "description": "Catholic Church in Korea"
+    }, 
+    {
+      "score": 0.5212000012397766, 
+      "description": "\uc2e0\ud574\ubc15\ud574"
+    }, 
+    {
+      "score": 0.4827900230884552, 
+      "description": "\uc804\uc8fc \uc232\uc815\uc774"
+    }, 
+    {
+      "score": 0.4731200635433197, 
+      "description": "Parish"
+    }, 
+    {
+      "score": 0.453900009393692, 
+      "description": "Diocese"
+    }, 
+    {
+      "score": 0.4534200429916382, 
+      "description": "Pungnam Gate \uc804\uc8fc \ud48d\ub0a8\ubb38"
+    }, 
+    {
+      "score": 0.32406002283096313, 
+      "description": "\uc804\uc8fc\ucc9c\uad50"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9367707967758179, 
+      "description": "medieval architecture"
+    }, 
+    {
+      "score": 0.9322519898414612, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.909618079662323, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.893184244632721, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8866282105445862, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.8507989645004272, 
+      "description": "byzantine architecture"
+    }, 
+    {
+      "score": 0.8398228883743286, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.8370556235313416, 
+      "description": "parish"
+    }, 
+    {
+      "score": 0.8154724836349487, 
+      "description": "basilica"
+    }, 
+    {
+      "score": 0.7490226626396179, 
+      "description": "chapel"
+    }
+  ]
+}

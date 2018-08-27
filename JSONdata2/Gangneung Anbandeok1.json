@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 48.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.21208888292312622, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.12088888883590698, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.009555555880069733, 
+      "color-red": 253.0
+    }, 
+    {
+      "color-green": 42.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.002755555557087064, 
+      "color-red": 231.0
+    }, 
+    {
+      "color-green": 13.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.0026222222950309515, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 8.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.003022222314029932, 
+      "color-red": 93.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.0816444456577301, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.0563555546104908, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 32.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.026355555281043053, 
+      "color-red": 19.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.037022221833467484, 
+      "color-red": 74.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Photograph"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.553600013256073, 
+      "description": "Photograph"
+    }, 
+    {
+      "score": 0.5201576948165894, 
+      "description": "Star"
+    }, 
+    {
+      "score": 0.4577000141143799, 
+      "description": "Meteor shower"
+    }, 
+    {
+      "score": 0.41462457180023193, 
+      "description": "Sky"
+    }, 
+    {
+      "score": 0.4034000039100647, 
+      "description": "meteor"
+    }, 
+    {
+      "score": 0.33375418186187744, 
+      "description": "Red sky at morning"
+    }, 
+    {
+      "score": 0.31246620416641235, 
+      "description": "Afterglow"
+    }, 
+    {
+      "score": 0.30889999866485596, 
+      "description": "Perseids"
+    }, 
+    {
+      "score": 0.2854999899864197, 
+      "description": ""
+    }, 
+    {
+      "score": 0.28029999136924744, 
+      "description": "Camera"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9834091067314148, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9425783157348633, 
+      "description": "atmosphere"
+    }, 
+    {
+      "score": 0.8395932912826538, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.8238372206687927, 
+      "description": "afterglow"
+    }, 
+    {
+      "score": 0.8177095055580139, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.7819977402687073, 
+      "description": "dawn"
+    }, 
+    {
+      "score": 0.7599045038223267, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.7348233461380005, 
+      "description": "geological phenomenon"
+    }, 
+    {
+      "score": 0.7318761348724365, 
+      "description": "meteorological phenomenon"
+    }, 
+    {
+      "score": 0.6988645195960999, 
+      "description": "astronomical object"
+    }
+  ]
+}

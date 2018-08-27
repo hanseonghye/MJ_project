@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 169.0, 
+      "color-blue": 191.0, 
+      "pixel": 0.06580991297960281, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 74.0, 
+      "pixel": 0.11043637990951538, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 208.0, 
+      "pixel": 0.06312667578458786, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 208.0, 
+      "pixel": 0.07131761312484741, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 231.0, 
+      "color-blue": 237.0, 
+      "pixel": 0.05578308179974556, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.09942098706960678, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.02718542516231537, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 166.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.06164383515715599, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 107.0, 
+      "pixel": 0.06588052213191986, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 21.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.2227792739868164, 
+      "color-red": 24.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5423563718795776, 
+      "description": "Jeondong Cathedral"
+    }, 
+    {
+      "score": 0.9161939024925232, 
+      "description": "Roman Catholic Diocese of Jeonju"
+    }, 
+    {
+      "score": 0.5782500505447388, 
+      "description": "\u8056\u5802"
+    }, 
+    {
+      "score": 0.49739351868629456, 
+      "description": "Basilica"
+    }, 
+    {
+      "score": 0.47050854563713074, 
+      "description": "\uc804\uc8fc\ud55c\uc625\ub9c8\uc744\uad00\uad11\uc548\ub0b4\uc18c"
+    }, 
+    {
+      "score": 0.3986999988555908, 
+      "description": "Diocese"
+    }, 
+    {
+      "score": 0.3891134262084961, 
+      "description": "Cathedral"
+    }, 
+    {
+      "score": 0.31610000133514404, 
+      "description": ""
+    }, 
+    {
+      "score": 0.31360000371932983, 
+      "description": "Mass"
+    }, 
+    {
+      "score": 0.23989999294281006, 
+      "description": "Lord's Day"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8602083921432495, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.796765148639679, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.7906711101531982, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.7767859101295471, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.7488210797309875, 
+      "description": "monument"
+    }, 
+    {
+      "score": 0.7364467978477478, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6118358373641968, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.6068435311317444, 
+      "description": "plaza"
+    }, 
+    {
+      "score": 0.5989041924476624, 
+      "description": "steeple"
+    }, 
+    {
+      "score": 0.5823396444320679, 
+      "description": "basilica"
+    }
+  ]
+}

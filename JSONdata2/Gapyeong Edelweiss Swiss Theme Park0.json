@@ -1,0 +1,142 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 157.0, 
+      "color-blue": 213.0, 
+      "pixel": 0.15809524059295654, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 73.0, 
+      "pixel": 0.03738095238804817, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 200.0, 
+      "color-blue": 230.0, 
+      "pixel": 0.08136904984712601, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.10821428894996643, 
+      "color-red": 37.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.07529761642217636, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.04500000178813934, 
+      "color-red": 209.0
+    }, 
+    {
+      "color-green": 97.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.029940476641058922, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 234.0, 
+      "color-blue": 245.0, 
+      "pixel": 0.05672619119286537, 
+      "color-red": 221.0
+    }, 
+    {
+      "color-green": 167.0, 
+      "color-blue": 200.0, 
+      "pixel": 0.02428571507334709, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.009940476156771183, 
+      "color-red": 62.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5873634815216064, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.868566632270813, 
+      "description": "Alps"
+    }, 
+    {
+      "score": 0.6491000056266785, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.5534024834632874, 
+      "description": "Tree"
+    }, 
+    {
+      "score": 0.4966000020503998, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.44279998540878296, 
+      "description": "Village"
+    }, 
+    {
+      "score": 0.41830000281333923, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9820946455001831, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9521412253379822, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.9433932304382324, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9416754245758057, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.9321333169937134, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.9218568205833435, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.9105017781257629, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.9103495478630066, 
+      "description": "mountain range"
+    }, 
+    {
+      "score": 0.9009224772453308, 
+      "description": "mountain village"
+    }, 
+    {
+      "score": 0.8556047677993774, 
+      "description": "tree"
+    }
+  ]
+}

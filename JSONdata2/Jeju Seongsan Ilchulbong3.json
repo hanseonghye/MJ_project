@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 77.0, 
+      "color-blue": 165.0, 
+      "pixel": 0.023868313059210777, 
+      "color-red": 28.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.02065843529999256, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 193.0, 
+      "pixel": 0.05390946567058563, 
+      "color-red": 8.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.010534979403018951, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 12.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.016954733058810234, 
+      "color-red": 2.0
+    }, 
+    {
+      "color-green": 212.0, 
+      "color-blue": 242.0, 
+      "pixel": 0.13374485075473785, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 14.0, 
+      "color-blue": 142.0, 
+      "pixel": 0.01061728410422802, 
+      "color-red": 8.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.015226337127387524, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.021481482312083244, 
+      "color-red": 55.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.021893003955483437, 
+      "color-red": 89.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "jeju island tourist spot"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6157077550888062, 
+      "description": "Jeju City"
+    }, 
+    {
+      "score": 0.7502847909927368, 
+      "description": "Seongsan Ilchulbong"
+    }, 
+    {
+      "score": 0.7085000276565552, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.6892499923706055, 
+      "description": "Jeju Island"
+    }, 
+    {
+      "score": 0.6769000291824341, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.6434000134468079, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5475000143051147, 
+      "description": "Tour guide"
+    }, 
+    {
+      "score": 0.5163000226020813, 
+      "description": "TripAdvisor"
+    }, 
+    {
+      "score": 0.490200012922287, 
+      "description": "Resort"
+    }, 
+    {
+      "score": 0.4810999929904938, 
+      "description": "Park"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9527581930160522, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9268345236778259, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.9114130735397339, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8935337066650391, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.863987922668457, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.8519424796104431, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8414098024368286, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.7773901224136353, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.7520039081573486, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7419177889823914, 
+      "description": "bay"
+    }
+  ]
+}

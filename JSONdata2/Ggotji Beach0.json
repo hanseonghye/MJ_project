@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 199.0, 
+      "color-blue": 193.0, 
+      "pixel": 0.38066667318344116, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 26.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.040388889610767365, 
+      "color-red": 23.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.20749999582767487, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 129.0, 
+      "pixel": 0.21711111068725586, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 217.0, 
+      "color-blue": 210.0, 
+      "pixel": 0.03077777847647667, 
+      "color-red": 228.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.05744444578886032, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.05488888919353485, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 141.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.003444444388151169, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 135.0, 
+      "color-blue": 149.0, 
+      "pixel": 0.0069444444961845875, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 217.0, 
+      "color-blue": 203.0, 
+      "pixel": 5.555555617320351e-05, 
+      "color-red": 236.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7718043327331543, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.7682904005050659, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.5721991658210754, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.5646735429763794, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.5572904944419861, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.42776262760162354, 
+      "description": "Headland"
+    }, 
+    {
+      "score": 0.412136971950531, 
+      "description": "Islet"
+    }, 
+    {
+      "score": 0.3790411055088043, 
+      "description": "Vacation"
+    }, 
+    {
+      "score": 0.34369999170303345, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9746301174163818, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9537245631217957, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9377149939537048, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.934418261051178, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9103283882141113, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.8962405920028687, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.8933043479919434, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8617739081382751, 
+      "description": "calm"
+    }, 
+    {
+      "score": 0.8345085382461548, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8131564855575562, 
+      "description": "beach"
+    }
+  ]
+}

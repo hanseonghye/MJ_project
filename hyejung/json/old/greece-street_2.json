@@ -1,0 +1,113 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 194.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.06395280361175537, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.05008849501609802, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.01392330415546894, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 191.0, 
+      "pixel": 0.03840707987546921, 
+      "color-red": 240.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.08253687620162964, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.10855457186698914, 
+      "color-red": 133.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.029498524963855743, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.030678465962409973, 
+      "color-red": 107.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.0005899704992771149, 
+      "color-red": 202.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.09958702325820923, 
+      "color-red": 99.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "streets of greece"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7037000060081482, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4532853960990906, 
+      "description": "Theotokopoulou"
+    }, 
+    {
+      "score": 0.427663654088974, 
+      "description": "Nea Chora Beach."
+    }, 
+    {
+      "score": 0.3999934494495392, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.39867445826530457, 
+      "description": "Nea Chora Beach"
+    }, 
+    {
+      "score": 0.3609006702899933, 
+      "description": "Arkadiou"
+    }, 
+    {
+      "score": 0.24988673627376556, 
+      "description": "Rethymno"
+    }, 
+    {
+      "score": 0.24789999425411224, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.23589999973773956, 
+      "description": "Image"
+    }, 
+    {
+      "score": 0.013541814871132374, 
+      "description": "Chania"
+    }
+  ], 
+  "label": []
+}

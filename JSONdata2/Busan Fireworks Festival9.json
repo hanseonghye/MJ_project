@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 108.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.09161736071109772, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 17.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.5657790899276733, 
+      "color-red": 22.0
+    }, 
+    {
+      "color-green": 141.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.06311637163162231, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 75.0, 
+      "color-blue": 54.0, 
+      "pixel": 0.07583826780319214, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 42.0, 
+      "color-blue": 25.0, 
+      "pixel": 0.04497041553258896, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 139.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.012426035478711128, 
+      "color-red": 202.0
+    }, 
+    {
+      "color-green": 104.0, 
+      "color-blue": 72.0, 
+      "pixel": 0.009960552677512169, 
+      "color-red": 165.0
+    }, 
+    {
+      "color-green": 70.0, 
+      "color-blue": 41.0, 
+      "pixel": 0.00897435937076807, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 176.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.013806706294417381, 
+      "color-red": 226.0
+    }, 
+    {
+      "color-green": 44.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.0033530571963638067, 
+      "color-red": 97.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "fireworks"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6595460176467896, 
+      "description": "Fireworks"
+    }, 
+    {
+      "score": 1.203163504600525, 
+      "description": "Shanghai"
+    }, 
+    {
+      "score": 0.9655800461769104, 
+      "description": "Osaka Prefectural Nakanoshima Library"
+    }, 
+    {
+      "score": 0.8590500354766846, 
+      "description": "Busan International Fireworks Festival"
+    }, 
+    {
+      "score": 0.8368500471115112, 
+      "description": "Expo 2010"
+    }, 
+    {
+      "score": 0.6186000108718872, 
+      "description": "Busan"
+    }, 
+    {
+      "score": 0.5733481049537659, 
+      "description": "New Year's Eve"
+    }, 
+    {
+      "score": 0.5146562457084656, 
+      "description": "F\u00eate"
+    }, 
+    {
+      "score": 0.49050000309944153, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4632999897003174, 
+      "description": "Library"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9925639629364014, 
+      "description": "fireworks"
+    }, 
+    {
+      "score": 0.8808777928352356, 
+      "description": "event"
+    }, 
+    {
+      "score": 0.8270803689956665, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.7474265694618225, 
+      "description": "f\u00eate"
+    }, 
+    {
+      "score": 0.7454063296318054, 
+      "description": "new year's eve"
+    }, 
+    {
+      "score": 0.6582850217819214, 
+      "description": "festival"
+    }, 
+    {
+      "score": 0.6570886373519897, 
+      "description": "public event"
+    }, 
+    {
+      "score": 0.6163255572319031, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.5702640414237976, 
+      "description": "recreation"
+    }, 
+    {
+      "score": 0.5403200387954712, 
+      "description": "new year"
+    }
+  ]
+}

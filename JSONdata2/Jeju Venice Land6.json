@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 123.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.06409638375043869, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.0677911639213562, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 106.0, 
+      "pixel": 0.004819277208298445, 
+      "color-red": 33.0
+    }, 
+    {
+      "color-green": 35.0, 
+      "color-blue": 38.0, 
+      "pixel": 0.00024096385459415615, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.00016064256487879902, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.08056224882602692, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.053574297577142715, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.03277108445763588, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.03510040044784546, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.07325301319360733, 
+      "color-red": 200.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "water"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0579500198364258, 
+      "description": "\ubca0\ub2c8\uc2a4\ub79c\ub4dc"
+    }, 
+    {
+      "score": 0.7937999963760376, 
+      "description": "Gondola in Venice"
+    }, 
+    {
+      "score": 0.7781400680541992, 
+      "description": "\u5a01\u5c3c\u65af\u6c34\u4e61 Venice Land"
+    }, 
+    {
+      "score": 0.7194000482559204, 
+      "description": "Venice"
+    }, 
+    {
+      "score": 0.5709999799728394, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5102570056915283, 
+      "description": "\uc81c\uc8fc\ub3d9\ud654"
+    }, 
+    {
+      "score": 0.5039650201797485, 
+      "description": "\uc81c\uc8fc\uc5ec\ud589\uc13c\ud130"
+    }, 
+    {
+      "score": 0.3562604784965515, 
+      "description": "Boat"
+    }, 
+    {
+      "score": 0.2937000095844269, 
+      "description": "Gondola"
+    }, 
+    {
+      "score": 0.2883000075817108, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.96403968334198, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.9432358145713806, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9162600040435791, 
+      "description": "water transportation"
+    }, 
+    {
+      "score": 0.8612101674079895, 
+      "description": "boat"
+    }, 
+    {
+      "score": 0.8175584673881531, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.742320716381073, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.7372905611991882, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.7306225299835205, 
+      "description": "boating"
+    }, 
+    {
+      "score": 0.7292519211769104, 
+      "description": "recreation"
+    }, 
+    {
+      "score": 0.6810189485549927, 
+      "description": "vehicle"
+    }
+  ]
+}

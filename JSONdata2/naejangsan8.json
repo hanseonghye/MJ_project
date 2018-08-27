@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 109.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.03043355420231819, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.08642847090959549, 
+      "color-red": 18.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 232.0, 
+      "pixel": 0.015252082608640194, 
+      "color-red": 234.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.019559383392333984, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 142.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.030927835032343864, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.04243750870227814, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.0367179773747921, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.052181895822286606, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 182.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.012145177461206913, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 180.0, 
+      "color-blue": 136.0, 
+      "pixel": 0.0058607542887330055, 
+      "color-red": 234.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "National park"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7726557850837708, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.757272481918335, 
+      "description": "Naejangsan"
+    }, 
+    {
+      "score": 0.7105000019073486, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.7052000164985657, 
+      "description": "National park"
+    }, 
+    {
+      "score": 0.5640000104904175, 
+      "description": "Garden"
+    }, 
+    {
+      "score": 0.4579501748085022, 
+      "description": "Maple leaf"
+    }, 
+    {
+      "score": 0.3878999948501587, 
+      "description": "Scenery"
+    }, 
+    {
+      "score": 0.25369998812675476, 
+      "description": "Country"
+    }, 
+    {
+      "score": 0.21490000188350677, 
+      "description": "Location"
+    }, 
+    {
+      "score": 0.19269999861717224, 
+      "description": "Nature"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9798452258110046, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9689450860023499, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.9653657674789429, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9620002508163452, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9430108666419983, 
+      "description": "autumn"
+    }, 
+    {
+      "score": 0.9366387724876404, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.9137457013130188, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8838121891021729, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.880500078201294, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.8490079045295715, 
+      "description": "sky"
+    }
+  ]
+}

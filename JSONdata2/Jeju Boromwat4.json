@@ -1,0 +1,134 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 195.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.07316872477531433, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 246.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.38320988416671753, 
+      "color-red": 230.0
+    }, 
+    {
+      "color-green": 233.0, 
+      "color-blue": 251.0, 
+      "pixel": 0.03695473074913025, 
+      "color-red": 187.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.004362139850854874, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 166.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.10008230805397034, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 74.0, 
+      "pixel": 0.036131687462329865, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 232.0, 
+      "color-blue": 251.0, 
+      "pixel": 0.09251029044389725, 
+      "color-red": 200.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.08452674746513367, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 43.0, 
+      "pixel": 0.027572017163038254, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.008888889104127884, 
+      "color-red": 180.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "field"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7025766372680664, 
+      "description": "Farm"
+    }, 
+    {
+      "score": 0.6658507585525513, 
+      "description": "Grassland"
+    }, 
+    {
+      "score": 0.6145187020301819, 
+      "description": "Crop"
+    }, 
+    {
+      "score": 0.5529690384864807, 
+      "description": "Flower"
+    }, 
+    {
+      "score": 0.45239999890327454, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9210388660430908, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8701198697090149, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.8658716678619385, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8387213945388794, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.7842349410057068, 
+      "description": "farm"
+    }, 
+    {
+      "score": 0.7483578324317932, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.7379416227340698, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.671043872833252, 
+      "description": "plantation"
+    }, 
+    {
+      "score": 0.6296840906143188, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.5997347831726074, 
+      "description": "meadow"
+    }
+  ]
+}

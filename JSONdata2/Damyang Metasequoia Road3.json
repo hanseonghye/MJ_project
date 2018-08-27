@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 89.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.15306666493415833, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 17.0, 
+      "pixel": 0.049133334308862686, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 243.0, 
+      "color-blue": 240.0, 
+      "pixel": 0.06173333153128624, 
+      "color-red": 242.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.12139999866485596, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.05959999933838844, 
+      "color-red": 87.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.023800000548362732, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 63.0, 
+      "color-blue": 5.0, 
+      "pixel": 0.020866665989160538, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.047866664826869965, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 14.0, 
+      "pixel": 0.029133332893252373, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.03866666555404663, 
+      "color-red": 89.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "vegetation"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7211485505104065, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.6672958135604858, 
+      "description": "Biome"
+    }, 
+    {
+      "score": 0.6443570256233215, 
+      "description": "Grasses"
+    }, 
+    {
+      "score": 0.5219575762748718, 
+      "description": "Plantation"
+    }, 
+    {
+      "score": 0.45890000462532043, 
+      "description": "PATH"
+    }, 
+    {
+      "score": 0.4514748156070709, 
+      "description": "Shrub"
+    }, 
+    {
+      "score": 0.4465019106864929, 
+      "description": "Leaf"
+    }, 
+    {
+      "score": 0.4268999993801117, 
+      "description": "Branching"
+    }, 
+    {
+      "score": 0.41510000824928284, 
+      "description": "Sky plc"
+    }, 
+    {
+      "score": 0.36079999804496765, 
+      "description": "Family"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9519588947296143, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8914709687232971, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8875699043273926, 
+      "description": "path"
+    }, 
+    {
+      "score": 0.8305842876434326, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.804969072341919, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.7510911226272583, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.7209861278533936, 
+      "description": "woodland"
+    }, 
+    {
+      "score": 0.6988301873207092, 
+      "description": "grove"
+    }, 
+    {
+      "score": 0.6861231923103333, 
+      "description": "biome"
+    }, 
+    {
+      "score": 0.6229538321495056, 
+      "description": "sky"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 181.0, 
+      "color-blue": 187.0, 
+      "pixel": 0.13920000195503235, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 218.0, 
+      "pixel": 0.3171111047267914, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.01591111160814762, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.01075555570423603, 
+      "color-red": 113.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.01746666617691517, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 202.0, 
+      "pixel": 0.020177777856588364, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 181.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.0142666669562459, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.03480000048875809, 
+      "color-red": 100.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.0063555557280778885, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.009911111555993557, 
+      "color-red": 59.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "coast"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6774823069572449, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.5472375750541687, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.5255822539329529, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.516717791557312, 
+      "description": "Headland"
+    }, 
+    {
+      "score": 0.5040863156318665, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.45739802718162537, 
+      "description": "Cove"
+    }, 
+    {
+      "score": 0.4072999954223633, 
+      "description": "Microsoft Azure"
+    }, 
+    {
+      "score": 0.3806000053882599, 
+      "description": "Cloud computing"
+    }, 
+    {
+      "score": 0.32749998569488525, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9727507829666138, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9642579555511475, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9250568151473999, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9038246870040894, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8962892889976501, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8910216093063354, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8770362138748169, 
+      "description": "cliff"
+    }, 
+    {
+      "score": 0.852003276348114, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8159645199775696, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.7927790284156799, 
+      "description": "horizon"
+    }
+  ]
+}

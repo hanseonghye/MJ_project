@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 144.0, 
+      "color-blue": 148.0, 
+      "pixel": 0.025333333760499954, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 42.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.06773333251476288, 
+      "color-red": 73.0
+    }, 
+    {
+      "color-green": 65.0, 
+      "color-blue": 70.0, 
+      "pixel": 0.0015555555000901222, 
+      "color-red": 133.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.029688889160752296, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 73.0, 
+      "color-blue": 79.0, 
+      "pixel": 0.03217777609825134, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.1995111107826233, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 28.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.35386666655540466, 
+      "color-red": 32.0
+    }, 
+    {
+      "color-green": 178.0, 
+      "color-blue": 182.0, 
+      "pixel": 0.00791111122816801, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 99.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.0018222222570329905, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 78.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.05017777904868126, 
+      "color-red": 88.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "fireworks"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3310999870300293, 
+      "description": "Busan International Fireworks Festival"
+    }, 
+    {
+      "score": 1.0558615922927856, 
+      "description": "Fireworks"
+    }, 
+    {
+      "score": 0.6949800252914429, 
+      "description": "Gwangalli Beach"
+    }, 
+    {
+      "score": 0.3937999904155731, 
+      "description": "Seoul International Fireworks Festival"
+    }, 
+    {
+      "score": 0.3928999900817871, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.3427462577819824, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.2866366505622864, 
+      "description": "Metropolitan area"
+    }, 
+    {
+      "score": 0.24853602051734924, 
+      "description": "Skyscraper"
+    }, 
+    {
+      "score": 0.23010079562664032, 
+      "description": "River"
+    }, 
+    {
+      "score": 0.22738716006278992, 
+      "description": "Metropolis"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.984076738357544, 
+      "description": "fireworks"
+    }, 
+    {
+      "score": 0.9794977307319641, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.977512001991272, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9674017429351807, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9545040726661682, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9348034858703613, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9242197275161743, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.9038460850715637, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.900322675704956, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8917827606201172, 
+      "description": "metropolis"
+    }
+  ]
+}

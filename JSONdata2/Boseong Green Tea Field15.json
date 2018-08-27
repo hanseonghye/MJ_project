@@ -1,0 +1,165 @@
+{
+  "landmark": [
+    {
+      "Latitude": 34.721015, 
+      "description": "", 
+      "Longitude": 127.079894
+    }, 
+    {
+      "Latitude": 34.716333299999995, 
+      "description": "Boseong County", 
+      "Longitude": 127.0783333
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 211.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.15935315191745758, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 170.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.08461538702249527, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 167.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.028758741915225983, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.04431818053126335, 
+      "color-red": 28.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.028583915904164314, 
+      "color-red": 51.0
+    }, 
+    {
+      "color-green": 17.0, 
+      "color-blue": 6.0, 
+      "pixel": 0.06092657521367073, 
+      "color-red": 7.0
+    }, 
+    {
+      "color-green": 241.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.03444055840373039, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 177.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.09632866829633713, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 206.0, 
+      "color-blue": 84.0, 
+      "pixel": 0.029807692393660545, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 133.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.08531468361616135, 
+      "color-red": 90.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "tea garden"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0585500001907349, 
+      "description": "Tea"
+    }, 
+    {
+      "score": 0.9793499708175659, 
+      "description": "Assam tea"
+    }, 
+    {
+      "score": 0.9674999713897705, 
+      "description": "Turkish tea"
+    }, 
+    {
+      "score": 0.9163500070571899, 
+      "description": "Darjeeling"
+    }, 
+    {
+      "score": 0.884850025177002, 
+      "description": "Darjeeling white tea"
+    }, 
+    {
+      "score": 0.8432000279426575, 
+      "description": "Tea garden"
+    }, 
+    {
+      "score": 0.7494000196456909, 
+      "description": "Green tea"
+    }, 
+    {
+      "score": 0.748199999332428, 
+      "description": "Oolong"
+    }, 
+    {
+      "score": 0.7036499977111816, 
+      "description": "White tea"
+    }, 
+    {
+      "score": 0.6256999969482422, 
+      "description": "Garden"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9444936513900757, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.9093928933143616, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.905576765537262, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.8941538333892822, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8668011426925659, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.8202370405197144, 
+      "description": "plantation"
+    }, 
+    {
+      "score": 0.8059057593345642, 
+      "description": "tea plant"
+    }, 
+    {
+      "score": 0.7885235548019409, 
+      "description": "terrace"
+    }, 
+    {
+      "score": 0.784262478351593, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.7546752095222473, 
+      "description": "grass"
+    }
+  ]
+}

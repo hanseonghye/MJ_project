@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 168.0, 
+      "color-blue": 183.0, 
+      "pixel": 0.10896755009889603, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.045073747634887695, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 102.0, 
+      "pixel": 0.0412389375269413, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.03321534022688866, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 211.0, 
+      "pixel": 0.2202949821949005, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.025250736624002457, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.025604719296097755, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 71.0, 
+      "pixel": 0.04005899652838707, 
+      "color-red": 35.0
+    }, 
+    {
+      "color-green": 204.0, 
+      "color-blue": 209.0, 
+      "pixel": 0.0921533927321434, 
+      "color-red": 183.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 140.0, 
+      "pixel": 0.017581120133399963, 
+      "color-red": 88.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7987198233604431, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.7713696360588074, 
+      "description": "Islet"
+    }, 
+    {
+      "score": 0.7425000071525574, 
+      "description": "Cape May"
+    }, 
+    {
+      "score": 0.7133683562278748, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.6435572504997253, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.624919056892395, 
+      "description": "Headland"
+    }, 
+    {
+      "score": 0.6196500062942505, 
+      "description": "Lagoon Amusement Park"
+    }, 
+    {
+      "score": 0.6036496162414551, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.5915366411209106, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.521841287612915, 
+      "description": "Ocean"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9808200597763062, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9506070017814636, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.921994686126709, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.9078307747840881, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9020913243293762, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8940972685813904, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8817290663719177, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.84746915102005, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.7845877408981323, 
+      "description": "islet"
+    }, 
+    {
+      "score": 0.7752565145492554, 
+      "description": "cloud"
+    }
+  ]
+}

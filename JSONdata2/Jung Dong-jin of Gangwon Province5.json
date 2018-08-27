@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 176.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.02293333411216736, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 239.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.0052888887003064156, 
+      "color-red": 253.0
+    }, 
+    {
+      "color-green": 148.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.04942222312092781, 
+      "color-red": 183.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.041244443506002426, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 72.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.03991110995411873, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 98.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.029822222888469696, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.06533333659172058, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.002400000113993883, 
+      "color-red": 249.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.014355555176734924, 
+      "color-red": 247.0
+    }, 
+    {
+      "color-green": 219.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.00559999980032444, 
+      "color-red": 253.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "horizon"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9004050493240356, 
+      "description": "Tsunerakuzan Mantoku Temple"
+    }, 
+    {
+      "score": 0.52920001745224, 
+      "description": "Livingstone"
+    }, 
+    {
+      "score": 0.44279998540878296, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.3714999854564667, 
+      "description": "Cafe Kumsal"
+    }, 
+    {
+      "score": 0.28360000252723694, 
+      "description": ""
+    }, 
+    {
+      "score": 0.2809399962425232, 
+      "description": "Cafe Nino"
+    }, 
+    {
+      "score": 0.27469998598098755, 
+      "description": "Marina Cafe"
+    }, 
+    {
+      "score": 0.27239999175071716, 
+      "description": "Template"
+    }, 
+    {
+      "score": 0.2712000012397766, 
+      "description": ""
+    }, 
+    {
+      "score": 0.26919999718666077, 
+      "description": "Information"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9650043249130249, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.9556312561035156, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9179425239562988, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8871182203292847, 
+      "description": "sunrise"
+    }, 
+    {
+      "score": 0.8855040669441223, 
+      "description": "sun"
+    }, 
+    {
+      "score": 0.8782635927200317, 
+      "description": "calm"
+    }, 
+    {
+      "score": 0.8758077025413513, 
+      "description": "sunset"
+    }, 
+    {
+      "score": 0.8388823866844177, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.7459304332733154, 
+      "description": "sunlight"
+    }, 
+    {
+      "score": 0.7434290051460266, 
+      "description": "morning"
+    }
+  ]
+}

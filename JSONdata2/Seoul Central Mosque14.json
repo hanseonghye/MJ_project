@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.533484, 
+      "description": "Seoul Central Mosque", 
+      "Longitude": 126.997725
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 158.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.21396659314632416, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 180.0, 
+      "pixel": 0.12869074940681458, 
+      "color-red": 189.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.1262626200914383, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.06138306111097336, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 140.0, 
+      "pixel": 0.008158507756888866, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.018939394503831863, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.019910644739866257, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 168.0, 
+      "pixel": 0.004176379181444645, 
+      "color-red": 198.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.007964258082211018, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.0014568764017894864, 
+      "color-red": 129.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "seoul central mosque"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.149306297302246, 
+      "description": "Seoul Central Mosque"
+    }, 
+    {
+      "score": 1.2340558767318726, 
+      "description": "Mosque"
+    }, 
+    {
+      "score": 0.9692050218582153, 
+      "description": "Itaewon station"
+    }, 
+    {
+      "score": 0.7263630628585815, 
+      "description": "Gwangmyeong Cave"
+    }, 
+    {
+      "score": 0.5837766528129578, 
+      "description": "Nami Island Seoul Center"
+    }, 
+    {
+      "score": 0.5569999814033508, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5070000290870667, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.4869999885559082, 
+      "description": "Travel Agent"
+    }, 
+    {
+      "score": 0.4429999887943268, 
+      "description": "Islam"
+    }, 
+    {
+      "score": 0.4327999949455261, 
+      "description": "Tourist attraction"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9165958166122437, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.7734227180480957, 
+      "description": "mosque"
+    }, 
+    {
+      "score": 0.7717285752296448, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.7333829402923584, 
+      "description": "classical architecture"
+    }, 
+    {
+      "score": 0.7165875434875488, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.6781128644943237, 
+      "description": "khanqah"
+    }, 
+    {
+      "score": 0.6324843764305115, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.5863319635391235, 
+      "description": "facade"
+    }, 
+    {
+      "score": 0.524422824382782, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.5037025809288025, 
+      "description": "arch"
+    }
+  ]
+}

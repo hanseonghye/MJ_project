@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 146.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.025733333081007004, 
+      "color-red": 188.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 170.0, 
+      "pixel": 0.018622221425175667, 
+      "color-red": 219.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.01702222228050232, 
+      "color-red": 165.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.0827111080288887, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 91.0, 
+      "pixel": 0.03368888795375824, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.04333333298563957, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 219.0, 
+      "color-blue": 193.0, 
+      "pixel": 0.011911110952496529, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 184.0, 
+      "pixel": 0.012355555780231953, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.009200000204145908, 
+      "color-red": 184.0
+    }, 
+    {
+      "color-green": 179.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.006800000090152025, 
+      "color-red": 219.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7145909667015076, 
+      "description": "Cloud"
+    }, 
+    {
+      "score": 0.562406599521637, 
+      "description": "Sunrise"
+    }, 
+    {
+      "score": 0.4742220342159271, 
+      "description": "Evening"
+    }, 
+    {
+      "score": 0.4598252773284912, 
+      "description": "Sunlight"
+    }, 
+    {
+      "score": 0.4587056040763855, 
+      "description": "Morning"
+    }, 
+    {
+      "score": 0.45420926809310913, 
+      "description": "Dusk"
+    }, 
+    {
+      "score": 0.45391198992729187, 
+      "description": "Atmosphere"
+    }, 
+    {
+      "score": 0.45118966698646545, 
+      "description": "Desktop Wallpaper"
+    }, 
+    {
+      "score": 0.44464290142059326, 
+      "description": "Wind"
+    }, 
+    {
+      "score": 0.4101785123348236, 
+      "description": "Stock photography"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9595779180526733, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8518498539924622, 
+      "description": "atmosphere"
+    }, 
+    {
+      "score": 0.7673788070678711, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.7473291158676147, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.7053400278091431, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.6886219382286072, 
+      "description": "dawn"
+    }, 
+    {
+      "score": 0.6815908551216125, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.6739071607589722, 
+      "description": "sunlight"
+    }, 
+    {
+      "score": 0.6639882326126099, 
+      "description": "wind"
+    }, 
+    {
+      "score": 0.6038790941238403, 
+      "description": "landscape"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 51.0, 
+      "color-blue": 45.0, 
+      "pixel": 0.10686666518449783, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 28.0, 
+      "pixel": 0.015466666780412197, 
+      "color-red": 76.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.0018666667165234685, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 74.0, 
+      "pixel": 0.03880000114440918, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.06159999966621399, 
+      "color-red": 57.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.5226666927337646, 
+      "color-red": 29.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.016066666692495346, 
+      "color-red": 90.0
+    }, 
+    {
+      "color-green": 115.0, 
+      "color-blue": 109.0, 
+      "pixel": 0.011599999852478504, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 31.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.049266666173934937, 
+      "color-red": 36.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.0034000000450760126, 
+      "color-red": 98.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "g\u00fcney kore sambuyeon \u015felalesi"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3095921277999878, 
+      "description": "Waterfall"
+    }, 
+    {
+      "score": 0.5931419730186462, 
+      "description": "\uc0bc\ubd80\uc5f0\ud3ed\ud3ec"
+    }, 
+    {
+      "score": 0.4115000069141388, 
+      "description": "Knowledge"
+    }, 
+    {
+      "score": 0.3920400142669678, 
+      "description": "South Falls National Park"
+    }, 
+    {
+      "score": 0.3555999994277954, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.26190000772476196, 
+      "description": "Gamasot"
+    }, 
+    {
+      "score": 0.2590000033378601, 
+      "description": "Country"
+    }, 
+    {
+      "score": 0.24778854846954346, 
+      "description": "Rainforest"
+    }, 
+    {
+      "score": 0.24070000648498535, 
+      "description": "Metal Kore"
+    }, 
+    {
+      "score": 0.23409999907016754, 
+      "description": "Thought"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9730444550514221, 
+      "description": "waterfall"
+    }, 
+    {
+      "score": 0.9695073366165161, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9651845097541809, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9466539025306702, 
+      "description": "green"
+    }, 
+    {
+      "score": 0.9354517459869385, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9038386940956116, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.8864036798477173, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.8838000297546387, 
+      "description": "watercourse"
+    }, 
+    {
+      "score": 0.8359572887420654, 
+      "description": "leaf"
+    }, 
+    {
+      "score": 0.8331543207168579, 
+      "description": "stream"
+    }
+  ]
+}

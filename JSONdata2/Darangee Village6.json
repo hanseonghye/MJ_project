@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 163.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.04771929979324341, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 176.0, 
+      "pixel": 0.04859649017453194, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.051403507590293884, 
+      "color-red": 107.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 70.0, 
+      "pixel": 0.03783625736832619, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.014327485114336014, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.04742690175771713, 
+      "color-red": 76.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 154.0, 
+      "pixel": 0.008596491068601608, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.028070176020264626, 
+      "color-red": 139.0
+    }, 
+    {
+      "color-green": 92.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.02812865562736988, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.014970759861171246, 
+      "color-red": 160.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "vegetation"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.8688476085662842, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.49079999327659607, 
+      "description": "Plateau M"
+    }, 
+    {
+      "score": 0.46790000796318054, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.4088526666164398, 
+      "description": "Bird's-eye view"
+    }, 
+    {
+      "score": 0.369231641292572, 
+      "description": "Aerial photography"
+    }, 
+    {
+      "score": 0.27010175585746765, 
+      "description": "Mountain range"
+    }, 
+    {
+      "score": 0.24220000207424164, 
+      "description": "Photography"
+    }, 
+    {
+      "score": 0.2414080798625946, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.22138719260692596, 
+      "description": "Water resources"
+    }, 
+    {
+      "score": 0.2103065550327301, 
+      "description": "Tree"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9356467127799988, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.9256094694137573, 
+      "description": "hill station"
+    }, 
+    {
+      "score": 0.8973281383514404, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.8940137624740601, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.8807920217514038, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.8763900399208069, 
+      "description": "mountain village"
+    }, 
+    {
+      "score": 0.8282129168510437, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.8277145624160767, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8223752379417419, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8129180073738098, 
+      "description": "hill"
+    }
+  ]
+}

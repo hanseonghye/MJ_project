@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.529155599999996, 
+      "description": "", 
+      "Longitude": 127.81842800000001
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 196.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.17573332786560059, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 250.0, 
+      "pixel": 0.032733332365751266, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.012199999764561653, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.09806666523218155, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 103.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.005466666538268328, 
+      "color-red": 142.0
+    }, 
+    {
+      "color-green": 243.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.06239999830722809, 
+      "color-red": 236.0
+    }, 
+    {
+      "color-green": 210.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.03500000014901161, 
+      "color-red": 183.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.008866666816174984, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.06753333657979965, 
+      "color-red": 121.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.02866666577756405, 
+      "color-red": 89.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uac15\uc6d0\ub3c4 \ud6a1\uc131"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5429315567016602, 
+      "description": "\ud48d\uc218\uc6d0\uc131\ub2f9"
+    }, 
+    {
+      "score": 0.8132850527763367, 
+      "description": "Wonju"
+    }, 
+    {
+      "score": 0.7412999868392944, 
+      "description": "Hanwoo"
+    }, 
+    {
+      "score": 0.6854999661445618, 
+      "description": "\u8056\u5802"
+    }, 
+    {
+      "score": 0.6354315280914307, 
+      "description": "\ud6a1\uc131\ud48d\uc218\uc6d0\ucc9c\uc8fc\uad50\ud68c"
+    }, 
+    {
+      "score": 0.5659170150756836, 
+      "description": "\uc6b0\ub9ac\ubcc4\ucc9c\ubb38\ub300"
+    }, 
+    {
+      "score": 0.5426850318908691, 
+      "description": "Yangpyeong"
+    }, 
+    {
+      "score": 0.5398499965667725, 
+      "description": "Catholic Persecution of 1801"
+    }, 
+    {
+      "score": 0.5005500316619873, 
+      "description": "Chungcheongbuk-do"
+    }, 
+    {
+      "score": 0.35271501541137695, 
+      "description": "\ud6a1\uc131\ucc9c\uc8fc\uad50\ud68c"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9159454107284546, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8837758302688599, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.8833139538764954, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.870656430721283, 
+      "description": "woody plant"
+    }, 
+    {
+      "score": 0.8427178263664246, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.8376522064208984, 
+      "description": "steeple"
+    }, 
+    {
+      "score": 0.8373126983642578, 
+      "description": "spire"
+    }, 
+    {
+      "score": 0.8123365044593811, 
+      "description": "place of worship"
+    }, 
+    {
+      "score": 0.718700110912323, 
+      "description": "parish"
+    }, 
+    {
+      "score": 0.7072552442550659, 
+      "description": "chapel"
+    }
+  ]
+}

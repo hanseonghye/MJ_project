@@ -1,0 +1,160 @@
+{
+  "landmark": [
+    {
+      "Latitude": 33.462, 
+      "description": "Seongsan Ilchubong", 
+      "Longitude": 126.937694
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 198.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.19946902990341187, 
+      "color-red": 82.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.05067846551537514, 
+      "color-red": 180.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.025604719296097755, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 176.0, 
+      "color-blue": 254.0, 
+      "pixel": 0.2040707916021347, 
+      "color-red": 67.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.03699114918708801, 
+      "color-red": 55.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.016106193885207176, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 184.0, 
+      "color-blue": 61.0, 
+      "pixel": 0.007669616490602493, 
+      "color-red": 210.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.023303834721446037, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.033156342804431915, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.05038348212838173, 
+      "color-red": 86.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "seongsan ilchubong"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9824100136756897, 
+      "description": "Seongsan Ilchulbong"
+    }, 
+    {
+      "score": 0.7926710247993469, 
+      "description": "\u6cf0\u8fea\u718a"
+    }, 
+    {
+      "score": 0.7060499787330627, 
+      "description": "Jeju Island"
+    }, 
+    {
+      "score": 0.45985937118530273, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.40220001339912415, 
+      "description": ""
+    }, 
+    {
+      "score": 0.39750000834465027, 
+      "description": "\ucd08\ub85d\uc815\uc6d0"
+    }, 
+    {
+      "score": 0.3303300142288208, 
+      "description": "Cafe Daheeyeon in the Cave"
+    }, 
+    {
+      "score": 0.3034000098705292, 
+      "description": ""
+    }, 
+    {
+      "score": 0.29760000109672546, 
+      "description": "Korean Peninsula"
+    }, 
+    {
+      "score": 0.21439999341964722, 
+      "description": "Blog"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9565161466598511, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9476547241210938, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9383026957511902, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.9329659342765808, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.869181215763092, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.8546572923660278, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.8337516784667969, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8317894339561462, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.8273169994354248, 
+      "description": "hill"
+    }, 
+    {
+      "score": 0.8095434904098511, 
+      "description": "mount scenery"
+    }
+  ]
+}

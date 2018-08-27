@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 194.0, 
+      "color-blue": 171.0, 
+      "pixel": 0.0366646945476532, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.08372053503990173, 
+      "color-red": 131.0
+    }, 
+    {
+      "color-green": 77.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.0003379234694875777, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 201.0, 
+      "pixel": 0.051702290773391724, 
+      "color-red": 242.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.05736250802874565, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 133.0, 
+      "pixel": 0.060488298535346985, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 80.0, 
+      "pixel": 0.107459656894207, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 109.0, 
+      "pixel": 0.06724676489830017, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 235.0, 
+      "color-blue": 235.0, 
+      "pixel": 0.13238151371479034, 
+      "color-red": 234.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.04629551246762276, 
+      "color-red": 159.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "car"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1817950010299683, 
+      "description": "English Village Paju Camp"
+    }, 
+    {
+      "score": 0.5628315210342407, 
+      "description": "North Gyeonggi Province"
+    }, 
+    {
+      "score": 0.5378999710083008, 
+      "description": "English village"
+    }, 
+    {
+      "score": 0.48954182863235474, 
+      "description": "Paju English Village"
+    }, 
+    {
+      "score": 0.482753723859787, 
+      "description": "Paju English Village"
+    }, 
+    {
+      "score": 0.3867000341415405, 
+      "description": "\uc2b9\ubd80\uc0ac. 1"
+    }, 
+    {
+      "score": 0.3790999948978424, 
+      "description": "Korea Aerospace Industries"
+    }, 
+    {
+      "score": 0.3515999913215637, 
+      "description": "Division of Korea"
+    }, 
+    {
+      "score": 0.24899999797344208, 
+      "description": "Village"
+    }, 
+    {
+      "score": 0.24279999732971191, 
+      "description": "Art"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9448081851005554, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.9307145476341248, 
+      "description": "transport"
+    }, 
+    {
+      "score": 0.9119617938995361, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.8264479637145996, 
+      "description": "car"
+    }, 
+    {
+      "score": 0.8088303208351135, 
+      "description": "street"
+    }, 
+    {
+      "score": 0.7958372831344604, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7758359909057617, 
+      "description": "downtown"
+    }, 
+    {
+      "score": 0.7533766627311707, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.7517236471176147, 
+      "description": "vehicle"
+    }, 
+    {
+      "score": 0.6819098591804504, 
+      "description": "road"
+    }
+  ]
+}

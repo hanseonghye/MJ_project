@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 243.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.18004444241523743, 
+      "color-red": 224.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.03826666623353958, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.026799999177455902, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 238.0, 
+      "color-blue": 253.0, 
+      "pixel": 0.34862223267555237, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.011911110952496529, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.02244444377720356, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 199.0, 
+      "pixel": 0.007822222076356411, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 169.0, 
+      "pixel": 0.009422222152352333, 
+      "color-red": 74.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 159.0, 
+      "pixel": 0.019066667184233665, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.03377777710556984, 
+      "color-red": 49.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6148361563682556, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.595004141330719, 
+      "description": "Bay"
+    }, 
+    {
+      "score": 0.5654627084732056, 
+      "description": "Boat"
+    }, 
+    {
+      "score": 0.47865477204322815, 
+      "description": "Marina"
+    }, 
+    {
+      "score": 0.4711419641971588, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.46467071771621704, 
+      "description": "Inlet"
+    }, 
+    {
+      "score": 0.4342353343963623, 
+      "description": "City"
+    }, 
+    {
+      "score": 0.39425259828567505, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.3928000032901764, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.3409999907016754, 
+      "description": "Sky plc"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9351897239685059, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.930815577507019, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.9269377589225769, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8042801022529602, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.7910118103027344, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.736843466758728, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.7252867221832275, 
+      "description": "marina"
+    }, 
+    {
+      "score": 0.7045004367828369, 
+      "description": "port"
+    }, 
+    {
+      "score": 0.7025561928749084, 
+      "description": "bay"
+    }, 
+    {
+      "score": 0.6794817447662354, 
+      "description": "cloud"
+    }
+  ]
+}

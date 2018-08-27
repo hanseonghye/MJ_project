@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 78.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.02467629313468933, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.13653311133384705, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 235.0, 
+      "color-blue": 236.0, 
+      "pixel": 0.28865841031074524, 
+      "color-red": 235.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 97.0, 
+      "pixel": 0.0109145138412714, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.01484645064920187, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.14378686249256134, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 87.0, 
+      "color-blue": 82.0, 
+      "pixel": 0.07124941051006317, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 101.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.0029828485567122698, 
+      "color-red": 135.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.2135448455810547, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 68.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.0010846721706911922, 
+      "color-red": 136.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "The Hankyoreh"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2285264730453491, 
+      "description": "Seoul station"
+    }, 
+    {
+      "score": 1.156980037689209, 
+      "description": "Gangneung Station"
+    }, 
+    {
+      "score": 1.0111500024795532, 
+      "description": "Gyeonggang Line"
+    }, 
+    {
+      "score": 0.7243665456771851, 
+      "description": "\ud48d\uc218\uc6d0\uc131\ub2f9"
+    }, 
+    {
+      "score": 0.7038999795913696, 
+      "description": "The Hankyoreh"
+    }, 
+    {
+      "score": 0.6933300495147705, 
+      "description": "Pyeongchang County"
+    }, 
+    {
+      "score": 0.6107000112533569, 
+      "description": "Korea Train Express"
+    }, 
+    {
+      "score": 0.48730000853538513, 
+      "description": "Newspaper"
+    }, 
+    {
+      "score": 0.44110000133514404, 
+      "description": "News"
+    }, 
+    {
+      "score": 0.3869999945163727, 
+      "description": "Culture"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9674515724182129, 
+      "description": "snow"
+    }, 
+    {
+      "score": 0.9646632075309753, 
+      "description": "winter"
+    }, 
+    {
+      "score": 0.8972362875938416, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.8924689888954163, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8822851181030273, 
+      "description": "church"
+    }, 
+    {
+      "score": 0.8562557697296143, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8074972629547119, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.7873878479003906, 
+      "description": "freezing"
+    }, 
+    {
+      "score": 0.7798367738723755, 
+      "description": "steeple"
+    }, 
+    {
+      "score": 0.7389609813690186, 
+      "description": "neighbourhood"
+    }
+  ]
+}

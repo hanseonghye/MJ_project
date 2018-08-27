@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 162.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.039329804480075836, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 231.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.04532627761363983, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 234.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.04294532537460327, 
+      "color-red": 245.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.01825396902859211, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.10008818656206131, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.09805996716022491, 
+      "color-red": 220.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.017019400373101234, 
+      "color-red": 158.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.052733685821294785, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 202.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.02627865970134735, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.014814814552664757, 
+      "color-red": 127.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc21c\ucc9c \ub9cc \uc790\uc5f0 \uc0dd\ud0dc \uacf5\uc6d0"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1559901237487793, 
+      "description": "Suncheon Bay National Garden"
+    }, 
+    {
+      "score": 1.0815000534057617, 
+      "description": "Suncheon Bay"
+    }, 
+    {
+      "score": 0.9555150866508484, 
+      "description": "Suncheon Bay reeds"
+    }, 
+    {
+      "score": 0.7735499739646912, 
+      "description": "\u0424\u0435\u0441\u0442\u0438\u0432\u0430\u043b\u044c \u0442\u0440\u043e\u0441\u0442\u043d\u0438\u043a\u0430 \u0432 \u0437\u0430\u043b\u0438\u0432\u0435 \u0421\u0443\u043d\u0447\u0445\u043e\u043d\u043c\u0430\u043d"
+    }, 
+    {
+      "score": 0.7042499780654907, 
+      "description": "Train"
+    }, 
+    {
+      "score": 0.6140999794006348, 
+      "description": "Wetland"
+    }, 
+    {
+      "score": 0.5814999938011169, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.5511999726295471, 
+      "description": "Ecosystem"
+    }, 
+    {
+      "score": 0.5218999981880188, 
+      "description": ""
+    }, 
+    {
+      "score": 0.47300001978874207, 
+      "description": "\uc7a5\uc0ac\ub3c4"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9183158278465271, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.9133450388908386, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.8370450735092163, 
+      "description": "crop"
+    }, 
+    {
+      "score": 0.833877444267273, 
+      "description": "agriculture"
+    }, 
+    {
+      "score": 0.833079993724823, 
+      "description": "prairie"
+    }, 
+    {
+      "score": 0.8225549459457397, 
+      "description": "grass family"
+    }, 
+    {
+      "score": 0.764208197593689, 
+      "description": "rural area"
+    }, 
+    {
+      "score": 0.7151280641555786, 
+      "description": "plain"
+    }, 
+    {
+      "score": 0.7108727097511292, 
+      "description": "farm"
+    }, 
+    {
+      "score": 0.6972407698631287, 
+      "description": "ecoregion"
+    }
+  ]
+}

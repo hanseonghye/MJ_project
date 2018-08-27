@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 122.0, 
+      "color-blue": 136.0, 
+      "pixel": 0.09222222119569778, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 242.0, 
+      "color-blue": 239.0, 
+      "pixel": 0.34531745314598083, 
+      "color-red": 240.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.04634920507669449, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 104.0, 
+      "pixel": 0.11595238000154495, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 152.0, 
+      "color-blue": 160.0, 
+      "pixel": 0.027539681643247604, 
+      "color-red": 137.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 172.0, 
+      "pixel": 0.05999999865889549, 
+      "color-red": 128.0
+    }, 
+    {
+      "color-green": 88.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.024841269478201866, 
+      "color-red": 77.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 70.0, 
+      "pixel": 0.04992063343524933, 
+      "color-red": 43.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.020317459478974342, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 167.0, 
+      "pixel": 0.010079365223646164, 
+      "color-red": 119.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.6213095188140869, 
+      "description": "Skyline"
+    }, 
+    {
+      "score": 0.3916219174861908, 
+      "description": "Tower"
+    }, 
+    {
+      "score": 0.38633254170417786, 
+      "description": "High-rise building"
+    }, 
+    {
+      "score": 0.36289718747138977, 
+      "description": "Cityscape"
+    }, 
+    {
+      "score": 0.30823835730552673, 
+      "description": "Urban area"
+    }, 
+    {
+      "score": 0.23510299623012543, 
+      "description": "Samsung Galaxy S4"
+    }, 
+    {
+      "score": 0.2324928492307663, 
+      "description": "Metropolitan area"
+    }, 
+    {
+      "score": 0.22201837599277496, 
+      "description": "Aerial photography"
+    }, 
+    {
+      "score": 0.21809561550617218, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.2117999941110611, 
+      "description": "Photography"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9567590951919556, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9321441054344177, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8801330327987671, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.8705346584320068, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8448675870895386, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8103768825531006, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8085067868232727, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8010464310646057, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.7895817160606384, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.7711391448974609, 
+      "description": "coastal and oceanic landforms"
+    }
+  ]
+}

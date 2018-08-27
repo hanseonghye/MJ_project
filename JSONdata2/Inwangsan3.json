@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 97.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.00835555512458086, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 139.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.008044444024562836, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 126.0, 
+      "color-blue": 146.0, 
+      "pixel": 0.07555555552244186, 
+      "color-red": 102.0
+    }, 
+    {
+      "color-green": 149.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.036577776074409485, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 73.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.024133333936333656, 
+      "color-red": 123.0
+    }, 
+    {
+      "color-green": 18.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.3253333270549774, 
+      "color-red": 21.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 77.0, 
+      "pixel": 0.003955555614084005, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.15764445066452026, 
+      "color-red": 64.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.009822222404181957, 
+      "color-red": 155.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 99.0, 
+      "pixel": 0.031066667288541794, 
+      "color-red": 146.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.46715065836906433, 
+      "description": "Sunset"
+    }, 
+    {
+      "score": 0.41545799374580383, 
+      "description": "Sunrise"
+    }, 
+    {
+      "score": 0.39044198393821716, 
+      "description": "Night"
+    }, 
+    {
+      "score": 0.3381875157356262, 
+      "description": "Dusk"
+    }, 
+    {
+      "score": 0.3319937586784363, 
+      "description": "Afterglow"
+    }, 
+    {
+      "score": 0.30215686559677124, 
+      "description": "Evening"
+    }, 
+    {
+      "score": 0.29941949248313904, 
+      "description": "Daytime"
+    }, 
+    {
+      "score": 0.2519596219062805, 
+      "description": "Atmosphere"
+    }, 
+    {
+      "score": 0.238577738404274, 
+      "description": "Sunlight"
+    }, 
+    {
+      "score": 0.2174791693687439, 
+      "description": "Morning"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9810356497764587, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9416081309318542, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.9154304265975952, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.898048996925354, 
+      "description": "dawn"
+    }, 
+    {
+      "score": 0.896471381187439, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.892053484916687, 
+      "description": "atmosphere"
+    }, 
+    {
+      "score": 0.8618193864822388, 
+      "description": "dusk"
+    }, 
+    {
+      "score": 0.8546346426010132, 
+      "description": "sunset"
+    }, 
+    {
+      "score": 0.8405281901359558, 
+      "description": "afterglow"
+    }, 
+    {
+      "score": 0.832577109336853, 
+      "description": "city"
+    }
+  ]
+}

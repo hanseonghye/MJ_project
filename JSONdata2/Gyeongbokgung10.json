@@ -1,0 +1,185 @@
+{
+  "landmark": [
+    {
+      "Latitude": 37.537091, 
+      "description": "HOTEL SEOUL PALACE", 
+      "Longitude": 126.974487
+    }, 
+    {
+      "Latitude": 37.557121, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.980667
+    }, 
+    {
+      "Latitude": 37.534776, 
+      "description": "", 
+      "Longitude": 126.959381
+    }, 
+    {
+      "Latitude": 37.578256, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.977019
+    }, 
+    {
+      "Latitude": 37.570092, 
+      "description": "Gyeongbokgung", 
+      "Longitude": 126.977
+    }, 
+    {
+      "Latitude": 37.270364, 
+      "description": "Suwon", 
+      "Longitude": 127.01671600341797
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 21.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.11954852938652039, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 154.0, 
+      "pixel": 0.0935964360833168, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.05681818351149559, 
+      "color-red": 51.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.04061732068657875, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.05244164541363716, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 22.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.007140663452446461, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 189.0, 
+      "color-blue": 186.0, 
+      "pixel": 0.23019041121006012, 
+      "color-red": 194.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 139.0, 
+      "pixel": 0.024723587557673454, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 149.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.03370700404047966, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 106.0, 
+      "pixel": 0.006910319440066814, 
+      "color-red": 86.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "hotel seoul palace"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7166428565979004, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 0.9944169521331787, 
+      "description": "Palace"
+    }, 
+    {
+      "score": 0.9307683706283569, 
+      "description": "seoul tour"
+    }, 
+    {
+      "score": 0.8946316838264465, 
+      "description": "Insa-dong"
+    }, 
+    {
+      "score": 0.8287472128868103, 
+      "description": "Bukchon Hanok Village"
+    }, 
+    {
+      "score": 0.6880000233650208, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.5587999820709229, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.47130000591278076, 
+      "description": "Tic Tac Toe Glow"
+    }, 
+    {
+      "score": 0.39031046628952026, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.36640000343322754, 
+      "description": "Tominoko Hotel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9895851016044617, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.9568831324577332, 
+      "description": "historic site"
+    }, 
+    {
+      "score": 0.8929262757301331, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8678897023200989, 
+      "description": "japanese architecture"
+    }, 
+    {
+      "score": 0.7760506868362427, 
+      "description": "palace"
+    }, 
+    {
+      "score": 0.7717864513397217, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7255848050117493, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.6970880627632141, 
+      "description": "temple"
+    }, 
+    {
+      "score": 0.664091944694519, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.6357394456863403, 
+      "description": "unesco world heritage site"
+    }
+  ]
+}

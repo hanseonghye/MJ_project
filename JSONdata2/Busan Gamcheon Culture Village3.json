@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 47.0, 
+      "color-blue": 107.0, 
+      "pixel": 0.08371943235397339, 
+      "color-red": 33.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.05276705324649811, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.0210424717515707, 
+      "color-red": 38.0
+    }, 
+    {
+      "color-green": 145.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.002895752899348736, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 179.0, 
+      "color-blue": 94.0, 
+      "pixel": 0.001866151811555028, 
+      "color-red": 246.0
+    }, 
+    {
+      "color-green": 192.0, 
+      "color-blue": 59.0, 
+      "pixel": 0.0027027027681469917, 
+      "color-red": 235.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 208.0, 
+      "pixel": 0.002960102865472436, 
+      "color-red": 46.0
+    }, 
+    {
+      "color-green": 239.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.0010296010877937078, 
+      "color-red": 240.0
+    }, 
+    {
+      "color-green": 78.0, 
+      "color-blue": 140.0, 
+      "pixel": 0.05682110786437988, 
+      "color-red": 73.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.06615186482667923, 
+      "color-red": 16.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ubd80\uc0b0 \uac10\ucc9c \ubb38\ud654 \ub9c8\uc744"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.7038391828536987, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 0.9693807363510132, 
+      "description": "Dongdaemun District"
+    }, 
+    {
+      "score": 0.944849967956543, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 0.7682532072067261, 
+      "description": "Ihwa Mural Village"
+    }, 
+    {
+      "score": 0.6846278309822083, 
+      "description": "Gamcheon Culture Village"
+    }, 
+    {
+      "score": 0.6811500191688538, 
+      "description": "\u91dc\u5c71100\u9078: \u50cf\u5728\u5730\u4eba\u4e00\u822c\u65c5\u884c\u5427\uff01"
+    }, 
+    {
+      "score": 0.5332000255584717, 
+      "description": "Culture"
+    }, 
+    {
+      "score": 0.42179998755455017, 
+      "description": "Mural"
+    }, 
+    {
+      "score": 0.3847000002861023, 
+      "description": "Village"
+    }, 
+    {
+      "score": 0.052479203790426254, 
+      "description": "Gamcheon-dong"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9682086110115051, 
+      "description": "blue"
+    }, 
+    {
+      "score": 0.9623998999595642, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9374924302101135, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9167757630348206, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.9165318012237549, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.8852469325065613, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8060272932052612, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.8057749271392822, 
+      "description": "bird's eye view"
+    }, 
+    {
+      "score": 0.7769632339477539, 
+      "description": "evening"
+    }, 
+    {
+      "score": 0.7192229628562927, 
+      "description": "tourism"
+    }
+  ]
+}

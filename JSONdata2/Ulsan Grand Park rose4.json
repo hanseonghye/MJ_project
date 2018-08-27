@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 40.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.039170507341623306, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.04316436126828194, 
+      "color-red": 216.0
+    }, 
+    {
+      "color-green": 104.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.00837173592299223, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 204.0, 
+      "color-blue": 226.0, 
+      "pixel": 0.18471582233905792, 
+      "color-red": 178.0
+    }, 
+    {
+      "color-green": 53.0, 
+      "color-blue": 24.0, 
+      "pixel": 0.08271889388561249, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 139.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.003456221194937825, 
+      "color-red": 198.0
+    }, 
+    {
+      "color-green": 57.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.02864823304116726, 
+      "color-red": 143.0
+    }, 
+    {
+      "color-green": 73.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.01551459264010191, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 58.0, 
+      "pixel": 0.005145929288119078, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.011290322989225388, 
+      "color-red": 143.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "flower"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.953695297241211, 
+      "description": "Ulsan Grand Park"
+    }, 
+    {
+      "score": 0.5129963159561157, 
+      "description": "Botanical garden"
+    }, 
+    {
+      "score": 0.35740000009536743, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3203069865703583, 
+      "description": "Shrub"
+    }, 
+    {
+      "score": 0.3174000084400177, 
+      "description": "SK Energy"
+    }, 
+    {
+      "score": 0.26571959257125854, 
+      "description": "Flower"
+    }, 
+    {
+      "score": 0.25985294580459595, 
+      "description": "Flowering plant"
+    }, 
+    {
+      "score": 0.25699999928474426, 
+      "description": "Botany"
+    }, 
+    {
+      "score": 0.2517000138759613, 
+      "description": "Rose"
+    }, 
+    {
+      "score": 0.21140755712985992, 
+      "description": "Leisure"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9824641942977905, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9731435179710388, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9477636814117432, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9250438213348389, 
+      "description": "flowering plant"
+    }, 
+    {
+      "score": 0.9055598974227905, 
+      "description": "botanical garden"
+    }, 
+    {
+      "score": 0.8820929527282715, 
+      "description": "flora"
+    }, 
+    {
+      "score": 0.8765327334403992, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8742948770523071, 
+      "description": "garden"
+    }, 
+    {
+      "score": 0.8157609701156616, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.765544593334198, 
+      "description": "sky"
+    }
+  ]
+}

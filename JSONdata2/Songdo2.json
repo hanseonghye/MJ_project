@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 116.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.04341767355799675, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 56.0, 
+      "pixel": 0.04415108263492584, 
+      "color-red": 92.0
+    }, 
+    {
+      "color-green": 230.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.17337733507156372, 
+      "color-red": 216.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.0511917844414711, 
+      "color-red": 127.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 122.0, 
+      "pixel": 0.0462779626250267, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 40.0, 
+      "pixel": 0.03777044266462326, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 150.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.019141914322972298, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 223.0, 
+      "color-blue": 239.0, 
+      "pixel": 0.09072240442037582, 
+      "color-red": 202.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.01664833165705204, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.00938760582357645, 
+      "color-red": 115.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "new songdo"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.776485800743103, 
+      "description": "Songdo International Business District"
+    }, 
+    {
+      "score": 1.3697389364242554, 
+      "description": "Seoul"
+    }, 
+    {
+      "score": 0.7766385078430176, 
+      "description": "Central Park"
+    }, 
+    {
+      "score": 0.685699999332428, 
+      "description": "Smart city"
+    }, 
+    {
+      "score": 0.5200999975204468, 
+      "description": "Sustainability"
+    }, 
+    {
+      "score": 0.5042999982833862, 
+      "description": "City"
+    }, 
+    {
+      "score": 0.4691999852657318, 
+      "description": "Construction"
+    }, 
+    {
+      "score": 0.4447999894618988, 
+      "description": "Planning"
+    }, 
+    {
+      "score": 0.32749396562576294, 
+      "description": "Landmark"
+    }, 
+    {
+      "score": 0.2867000102996826, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9102895259857178, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8264642357826233, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.8087837100028992, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.7548681497573853, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.7535510063171387, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.717588484287262, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.7081663608551025, 
+      "description": "tower"
+    }, 
+    {
+      "score": 0.6986998319625854, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6714534759521484, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.6472094058990479, 
+      "description": "reflection"
+    }
+  ]
+}

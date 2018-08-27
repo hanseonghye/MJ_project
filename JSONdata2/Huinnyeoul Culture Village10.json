@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 184.0, 
+      "color-blue": 209.0, 
+      "pixel": 0.0711483359336853, 
+      "color-red": 180.0
+    }, 
+    {
+      "color-green": 181.0, 
+      "color-blue": 195.0, 
+      "pixel": 0.07567527145147324, 
+      "color-red": 214.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.15685831010341644, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 167.0, 
+      "color-blue": 196.0, 
+      "pixel": 0.068205825984478, 
+      "color-red": 145.0
+    }, 
+    {
+      "color-green": 183.0, 
+      "color-blue": 198.0, 
+      "pixel": 0.043232232332229614, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 178.0, 
+      "color-blue": 205.0, 
+      "pixel": 0.006941300816833973, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.08850158751010895, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 31.0, 
+      "color-blue": 30.0, 
+      "pixel": 0.11830390989780426, 
+      "color-red": 23.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.0055077713914215565, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.10102610290050507, 
+      "color-red": 116.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Yeongdo District"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.698230504989624, 
+      "description": "Sangju"
+    }, 
+    {
+      "score": 0.6930000185966492, 
+      "description": "Dongtan, Hwaseong"
+    }, 
+    {
+      "score": 0.691349983215332, 
+      "description": "Yeonggwang"
+    }, 
+    {
+      "score": 0.6047999858856201, 
+      "description": "Yeongdo District"
+    }, 
+    {
+      "score": 0.5519250631332397, 
+      "description": "Tohamsan"
+    }, 
+    {
+      "score": 0.47663000226020813, 
+      "description": "\uc5ec\uc6b0\uc0dd\ud0dc\uad00\ucc30\uc6d0"
+    }, 
+    {
+      "score": 0.44940000772476196, 
+      "description": "\u9655\u5ddd\u5f71\u8996\u4e3b\u984c\u516c\u5712"
+    }, 
+    {
+      "score": 0.38179999589920044, 
+      "description": "City"
+    }, 
+    {
+      "score": 0.3750999867916107, 
+      "description": "Planned community"
+    }, 
+    {
+      "score": 0.36410000920295715, 
+      "description": "\ub3d9\ud0c41\ub3d9\uc8fc\ubbfc\uc13c\ud130"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9199766516685486, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9013388752937317, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8995401263237, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8984209895133972, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8834804892539978, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8269357681274414, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.778773307800293, 
+      "description": "village"
+    }, 
+    {
+      "score": 0.7625526189804077, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.7472057342529297, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.7467114329338074, 
+      "description": "horizon"
+    }
+  ]
+}

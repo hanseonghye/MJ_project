@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 82.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.12420634925365448, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 243.0, 
+      "color-blue": 239.0, 
+      "pixel": 0.31555554270744324, 
+      "color-red": 235.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.004206349141895771, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.049047619104385376, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 56.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.10833333432674408, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.06857142597436905, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.05365079268813133, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 157.0, 
+      "pixel": 0.03095238097012043, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 185.0, 
+      "pixel": 0.023333333432674408, 
+      "color-red": 190.0
+    }, 
+    {
+      "color-green": 116.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.007222222164273262, 
+      "color-red": 100.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "metropolitan area"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.4489549994468689, 
+      "description": "Skyline"
+    }, 
+    {
+      "score": 0.39512360095977783, 
+      "description": "High-rise building"
+    }, 
+    {
+      "score": 0.38894298672676086, 
+      "description": "Tower"
+    }, 
+    {
+      "score": 0.3649338483810425, 
+      "description": "Cityscape"
+    }, 
+    {
+      "score": 0.355887770652771, 
+      "description": "Bird's-eye view"
+    }, 
+    {
+      "score": 0.33682188391685486, 
+      "description": "Metropolitan area"
+    }, 
+    {
+      "score": 0.3207859396934509, 
+      "description": "Aerial photography"
+    }, 
+    {
+      "score": 0.31432247161865234, 
+      "description": "Urban area"
+    }, 
+    {
+      "score": 0.30491456389427185, 
+      "description": "Industry"
+    }, 
+    {
+      "score": 0.26460000872612, 
+      "description": "Photography"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9603524208068848, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9491226077079773, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9472048878669739, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9262731671333313, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.9074380397796631, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9002260565757751, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.8991156220436096, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8750724792480469, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7452510595321655, 
+      "description": "tower block"
+    }, 
+    {
+      "score": 0.7450731992721558, 
+      "description": "daytime"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 125.0, 
+      "color-blue": 140.0, 
+      "pixel": 0.022545455023646355, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 228.0, 
+      "color-blue": 229.0, 
+      "pixel": 0.297696977853775, 
+      "color-red": 223.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.08169697225093842, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 127.0, 
+      "pixel": 0.03612121194601059, 
+      "color-red": 108.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.021212121471762657, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 147.0, 
+      "color-blue": 165.0, 
+      "pixel": 0.030181817710399628, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 149.0, 
+      "color-blue": 155.0, 
+      "pixel": 0.037090908735990524, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 142.0, 
+      "pixel": 0.011272727511823177, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 207.0, 
+      "color-blue": 214.0, 
+      "pixel": 0.1847272664308548, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 60.0, 
+      "color-blue": 50.0, 
+      "pixel": 0.027636364102363586, 
+      "color-red": 39.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "metropolitan area"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.9698997735977173, 
+      "description": "Dalmaji Park"
+    }, 
+    {
+      "score": 0.6547189354896545, 
+      "description": "Dalmaj-I"
+    }, 
+    {
+      "score": 0.5019999742507935, 
+      "description": "Apartment"
+    }, 
+    {
+      "score": 0.4880000054836273, 
+      "description": "Building"
+    }, 
+    {
+      "score": 0.4749999940395355, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4392000138759613, 
+      "description": "Haeundae Hillside We've"
+    }, 
+    {
+      "score": 0.3259265720844269, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.31617122888565063, 
+      "description": "High-rise building"
+    }, 
+    {
+      "score": 0.29028385877609253, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.2636982202529907, 
+      "description": "Metropolitan area"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9717419743537903, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9662902355194092, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9394210577011108, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9375761151313782, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9312648177146912, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9152525663375854, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9125675559043884, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.8908153772354126, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.8790430426597595, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.8033871054649353, 
+      "description": "tower block"
+    }
+  ]
+}

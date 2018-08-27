@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 96.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.03466666489839554, 
+      "color-red": 174.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 204.0, 
+      "pixel": 0.03006666712462902, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 223.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.00033333332976326346, 
+      "color-red": 254.0
+    }, 
+    {
+      "color-green": 21.0, 
+      "color-blue": 44.0, 
+      "pixel": 0.01993333362042904, 
+      "color-red": 15.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 5.0, 
+      "pixel": 0.00026666666963137686, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 99.0, 
+      "color-blue": 68.0, 
+      "pixel": 0.014399999752640724, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 67.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.029733333736658096, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 98.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.012133332900702953, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.020999999716877937, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 93.0, 
+      "pixel": 0.004600000102072954, 
+      "color-red": 211.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Festival"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3686739206314087, 
+      "description": "Cherry blossom"
+    }, 
+    {
+      "score": 0.803849995136261, 
+      "description": "National Cherry Blossom Festival"
+    }, 
+    {
+      "score": 0.6262999773025513, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.625463604927063, 
+      "description": "E \u00b7 WORLD 83Tower"
+    }, 
+    {
+      "score": 0.5458999872207642, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5455999970436096, 
+      "description": "E-World"
+    }, 
+    {
+      "score": 0.478071004152298, 
+      "description": "Incheon"
+    }, 
+    {
+      "score": 0.4317631125450134, 
+      "description": "DB\uc190\ud574\ubcf4\ud5d8"
+    }, 
+    {
+      "score": 0.38417986035346985, 
+      "description": "Deokkeullim"
+    }, 
+    {
+      "score": 0.3619999885559082, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8821401000022888, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8417568206787109, 
+      "description": "purple"
+    }, 
+    {
+      "score": 0.8178811073303223, 
+      "description": "cherry blossom"
+    }, 
+    {
+      "score": 0.795208215713501, 
+      "description": "spring"
+    }, 
+    {
+      "score": 0.7870101928710938, 
+      "description": "blossom"
+    }, 
+    {
+      "score": 0.7709701657295227, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.7660274505615234, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7224811315536499, 
+      "description": "branch"
+    }, 
+    {
+      "score": 0.6567356586456299, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.6433853507041931, 
+      "description": "sky"
+    }
+  ]
+}

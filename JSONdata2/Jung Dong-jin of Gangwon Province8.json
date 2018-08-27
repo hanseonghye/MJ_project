@@ -1,0 +1,138 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 123.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.14071111381053925, 
+      "color-red": 137.0
+    }, 
+    {
+      "color-green": 203.0, 
+      "color-blue": 198.0, 
+      "pixel": 0.1725333333015442, 
+      "color-red": 206.0
+    }, 
+    {
+      "color-green": 26.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.06075555458664894, 
+      "color-red": 28.0
+    }, 
+    {
+      "color-green": 216.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.12182222306728363, 
+      "color-red": 228.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.0795111134648323, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 66.0, 
+      "pixel": 0.03875555470585823, 
+      "color-red": 97.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 44.0, 
+      "pixel": 0.04924444481730461, 
+      "color-red": 51.0
+    }, 
+    {
+      "color-green": 51.0, 
+      "color-blue": 36.0, 
+      "pixel": 0.028044443577528, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 107.0, 
+      "pixel": 0.02231111191213131, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.023466667160391808, 
+      "color-red": 82.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.7516209483146667, 
+      "description": "Shore"
+    }, 
+    {
+      "score": 0.5906273126602173, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.5180562734603882, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.47323915362358093, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.44735944271087646, 
+      "description": "Sunset"
+    }, 
+    {
+      "score": 0.38920000195503235, 
+      "description": "Progress M-06M"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9764577150344849, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9619954824447632, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.9227343201637268, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9116262793540955, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.9089785814285278, 
+      "description": "sunset"
+    }, 
+    {
+      "score": 0.8974478244781494, 
+      "description": "sun"
+    }, 
+    {
+      "score": 0.8905687928199768, 
+      "description": "sunrise"
+    }, 
+    {
+      "score": 0.8702292442321777, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8372524380683899, 
+      "description": "calm"
+    }, 
+    {
+      "score": 0.8226081132888794, 
+      "description": "wave"
+    }
+  ]
+}

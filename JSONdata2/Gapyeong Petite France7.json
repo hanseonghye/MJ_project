@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 189.0, 
+      "color-blue": 228.0, 
+      "pixel": 0.2335333377122879, 
+      "color-red": 163.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.07626666873693466, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 138.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.03440000116825104, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 94.0, 
+      "color-blue": 39.0, 
+      "pixel": 0.00139999995008111, 
+      "color-red": 85.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 233.0, 
+      "pixel": 0.06453333050012589, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 114.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.04346666485071182, 
+      "color-red": 156.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.015266667120158672, 
+      "color-red": 51.0
+    }, 
+    {
+      "color-green": 28.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.049133334308862686, 
+      "color-red": 26.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 191.0, 
+      "pixel": 0.11986666917800903, 
+      "color-red": 203.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 75.0, 
+      "pixel": 0.02879999950528145, 
+      "color-red": 80.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Raccoon dog"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.466520071029663, 
+      "description": "Petite France, Gapyeong"
+    }, 
+    {
+      "score": 0.6172500252723694, 
+      "description": "France"
+    }, 
+    {
+      "score": 0.6161999702453613, 
+      "description": ""
+    }, 
+    {
+      "score": 0.31029999256134033, 
+      "description": "Raccoon dog"
+    }, 
+    {
+      "score": 0.29175615310668945, 
+      "description": "Villa"
+    }, 
+    {
+      "score": 0.29159998893737793, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.2893500030040741, 
+      "description": "Raccoon"
+    }, 
+    {
+      "score": 0.2556999921798706, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.2418999969959259, 
+      "description": "Restaurant"
+    }, 
+    {
+      "score": 0.24058595299720764, 
+      "description": "Suburb"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8995372653007507, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.894524872303009, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.8657200932502747, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8561729788780212, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.8021202683448792, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7739840149879456, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.7592796683311462, 
+      "description": "roof"
+    }, 
+    {
+      "score": 0.7368820905685425, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.731326699256897, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.6742125749588013, 
+      "description": "suburb"
+    }
+  ]
+}

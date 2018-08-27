@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 78.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.19214285910129547, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.039920635521411896, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.03857142850756645, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.055317461490631104, 
+      "color-red": 125.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 85.0, 
+      "pixel": 0.12246032059192657, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 151.0, 
+      "color-blue": 132.0, 
+      "pixel": 0.0317460335791111, 
+      "color-red": 168.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 89.0, 
+      "pixel": 0.05269841104745865, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 119.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.04690476134419441, 
+      "color-red": 138.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 137.0, 
+      "pixel": 0.015555555932223797, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 135.0, 
+      "pixel": 0.004841269925236702, 
+      "color-red": 87.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "busan haeundae"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.552458643913269, 
+      "description": "Haeundae Beach"
+    }, 
+    {
+      "score": 0.6383999586105347, 
+      "description": "Marine City, Busan"
+    }, 
+    {
+      "score": 0.526199996471405, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.5169588327407837, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.37229999899864197, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3598000109195709, 
+      "description": "Shutterstock"
+    }, 
+    {
+      "score": 0.3573000133037567, 
+      "description": "Depositphotos"
+    }, 
+    {
+      "score": 0.32269999384880066, 
+      "description": "Stock footage"
+    }, 
+    {
+      "score": 0.32109999656677246, 
+      "description": "Royalty-free"
+    }, 
+    {
+      "score": 0.31505969166755676, 
+      "description": "Haeundae District"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9672191739082336, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9640680551528931, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9455059766769409, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9353485107421875, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9289835691452026, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.878865659236908, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.8774031400680542, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.8703780770301819, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8662495017051697, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.8501044511795044, 
+      "description": "urban area"
+    }
+  ]
+}

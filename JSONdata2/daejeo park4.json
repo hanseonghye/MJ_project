@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 156.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.09602784365415573, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 8.0, 
+      "pixel": 0.10435435175895691, 
+      "color-red": 136.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 41.0, 
+      "pixel": 0.055760305374860764, 
+      "color-red": 204.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 217.0, 
+      "pixel": 0.1001228466629982, 
+      "color-red": 177.0
+    }, 
+    {
+      "color-green": 163.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.054054055362939835, 
+      "color-red": 173.0
+    }, 
+    {
+      "color-green": 14.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.0015697515336796641, 
+      "color-red": 15.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 16.0, 
+      "pixel": 0.04333879426121712, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.03016653098165989, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 22.0, 
+      "pixel": 0.029142778366804123, 
+      "color-red": 219.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 1.0, 
+      "pixel": 0.042588043957948685, 
+      "color-red": 106.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uc720\ucc44 \uaf43 \ucd95\uc81c"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.2458159923553467, 
+      "description": "Daejeo Ecological Park"
+    }, 
+    {
+      "score": 0.9363964796066284, 
+      "description": "Rapeseed"
+    }, 
+    {
+      "score": 0.9237691760063171, 
+      "description": "Field mustard"
+    }, 
+    {
+      "score": 0.8612779974937439, 
+      "description": "\u91dc\u5c71\u6d1b\u4e1c\u6c5f\u6cb9\u83dc\u82b1\u795d\u796d"
+    }, 
+    {
+      "score": 0.48170098662376404, 
+      "description": "Daejeo station"
+    }, 
+    {
+      "score": 0.3050999939441681, 
+      "description": ""
+    }, 
+    {
+      "score": 0.26030001044273376, 
+      "description": "Crop yield"
+    }, 
+    {
+      "score": 0.24369999766349792, 
+      "description": "Mustard plant"
+    }, 
+    {
+      "score": 0.2378418743610382, 
+      "description": "Yellow"
+    }, 
+    {
+      "score": 0.23309999704360962, 
+      "description": "Stock footage"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9614651799201965, 
+      "description": "rapeseed"
+    }, 
+    {
+      "score": 0.9498494863510132, 
+      "description": "yellow"
+    }, 
+    {
+      "score": 0.9468944668769836, 
+      "description": "canola"
+    }, 
+    {
+      "score": 0.9267717599868774, 
+      "description": "mustard plant"
+    }, 
+    {
+      "score": 0.9061492085456848, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8883303999900818, 
+      "description": "mustard and cabbage family"
+    }, 
+    {
+      "score": 0.8280439376831055, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8249703645706177, 
+      "description": "brassica rapa"
+    }, 
+    {
+      "score": 0.7879465222358704, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.779809832572937, 
+      "description": "mustard"
+    }
+  ]
+}

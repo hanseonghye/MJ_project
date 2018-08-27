@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 21.0, 
+      "color-blue": 21.0, 
+      "pixel": 0.700952410697937, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 240.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.010396825149655342, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.01666666753590107, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 34.0, 
+      "color-blue": 7.0, 
+      "pixel": 0.0016666667070239782, 
+      "color-red": 2.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 47.0, 
+      "pixel": 0.11595238000154495, 
+      "color-red": 54.0
+    }, 
+    {
+      "color-green": 25.0, 
+      "color-blue": 164.0, 
+      "pixel": 0.004285714123398066, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 78.0, 
+      "pixel": 0.04817460477352142, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 33.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.004365079570561647, 
+      "color-red": 46.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 115.0, 
+      "pixel": 0.024920634925365448, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 196.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.012301587499678135, 
+      "color-red": 189.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Gwangandaegyo"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6149870157241821, 
+      "description": "Gwangandaegyo"
+    }, 
+    {
+      "score": 1.1214885711669922, 
+      "description": "Gwangalli Beach"
+    }, 
+    {
+      "score": 0.6462419629096985, 
+      "description": "Night"
+    }, 
+    {
+      "score": 0.5702913999557495, 
+      "description": "Landmark"
+    }, 
+    {
+      "score": 0.5160999894142151, 
+      "description": "Nightscape"
+    }, 
+    {
+      "score": 0.5148550271987915, 
+      "description": "\uc5ec\uc720\ub85c\uc6c0"
+    }, 
+    {
+      "score": 0.48690393567085266, 
+      "description": "Suspension bridge"
+    }, 
+    {
+      "score": 0.46869999170303345, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.45059922337532043, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.2809704840183258, 
+      "description": "Bridge\u2013tunnel"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9814621210098267, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.956872284412384, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.9482616186141968, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9378708004951477, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9183142781257629, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9173098802566528, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.8435758948326111, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.8320835828781128, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.8230298757553101, 
+      "description": "light"
+    }, 
+    {
+      "score": 0.8060984015464783, 
+      "description": "fixed link"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 231.0, 
+      "color-blue": 237.0, 
+      "pixel": 0.18853269517421722, 
+      "color-red": 227.0
+    }, 
+    {
+      "color-green": 26.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.1035870611667633, 
+      "color-red": 25.0
+    }, 
+    {
+      "color-green": 201.0, 
+      "color-blue": 181.0, 
+      "pixel": 0.04257873073220253, 
+      "color-red": 217.0
+    }, 
+    {
+      "color-green": 194.0, 
+      "color-blue": 217.0, 
+      "pixel": 0.1578873097896576, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.013063126243650913, 
+      "color-red": 112.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.01574636436998844, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.1017511636018753, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 29.0, 
+      "pixel": 0.03615308552980423, 
+      "color-red": 44.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 81.0, 
+      "pixel": 0.10217483341693878, 
+      "color-red": 83.0
+    }, 
+    {
+      "color-green": 197.0, 
+      "color-blue": 202.0, 
+      "pixel": 0.07957915216684341, 
+      "color-red": 193.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "1971"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5530955791473389, 
+      "description": "Gungnamji"
+    }, 
+    {
+      "score": 1.084281086921692, 
+      "description": "Polyongjeong"
+    }, 
+    {
+      "score": 0.8034000396728516, 
+      "description": "Baekje"
+    }, 
+    {
+      "score": 0.5881999731063843, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4327999949455261, 
+      "description": "OhmyNews"
+    }, 
+    {
+      "score": 0.3238033354282379, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.32359999418258667, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.2966516613960266, 
+      "description": "Pagoda"
+    }, 
+    {
+      "score": 0.25, 
+      "description": "OhmyNews"
+    }, 
+    {
+      "score": 0.24537381529808044, 
+      "description": "Leisure"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.986090362071991, 
+      "description": "chinese architecture"
+    }, 
+    {
+      "score": 0.8270784020423889, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7829291224479675, 
+      "description": "tourist attraction"
+    }, 
+    {
+      "score": 0.7784779667854309, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.7391108274459839, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.7155035138130188, 
+      "description": "reservoir"
+    }, 
+    {
+      "score": 0.7111625075340271, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.6949723958969116, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.6887223124504089, 
+      "description": "pagoda"
+    }, 
+    {
+      "score": 0.6719067096710205, 
+      "description": "lake"
+    }
+  ]
+}

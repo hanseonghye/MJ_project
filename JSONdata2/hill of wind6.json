@@ -1,0 +1,148 @@
+{
+  "landmark": [
+    {
+      "Latitude": 54.091114, 
+      "description": "Post mill", 
+      "Longitude": 13.442845
+    }
+  ], 
+  "color": [
+    {
+      "color-green": 161.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.019223300740122795, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 83.0, 
+      "pixel": 0.02006472460925579, 
+      "color-red": 84.0
+    }, 
+    {
+      "color-green": 27.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.016375403851270676, 
+      "color-red": 24.0
+    }, 
+    {
+      "color-green": 125.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.01818770170211792, 
+      "color-red": 111.0
+    }, 
+    {
+      "color-green": 219.0, 
+      "color-blue": 188.0, 
+      "pixel": 0.028478965163230896, 
+      "color-red": 239.0
+    }, 
+    {
+      "color-green": 50.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.015275080688297749, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 198.0, 
+      "color-blue": 229.0, 
+      "pixel": 0.35669901967048645, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 120.0, 
+      "color-blue": 119.0, 
+      "pixel": 0.01184466015547514, 
+      "color-red": 122.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.003300970885902643, 
+      "color-red": 32.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.005501618143171072, 
+      "color-red": 93.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "post mill"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.156980037689209, 
+      "description": "Windy Hill"
+    }, 
+    {
+      "score": 1.1145977973937988, 
+      "description": "Windmill"
+    }, 
+    {
+      "score": 0.5260973572731018, 
+      "description": "Wind"
+    }, 
+    {
+      "score": 0.46437445282936096, 
+      "description": "Wind turbine"
+    }, 
+    {
+      "score": 0.45210000872612, 
+      "description": ""
+    }, 
+    {
+      "score": 0.40463748574256897, 
+      "description": "Energy"
+    }, 
+    {
+      "score": 0.3698999881744385, 
+      "description": "Wind power"
+    }, 
+    {
+      "score": 0.33550000190734863, 
+      "description": "Post mill"
+    }, 
+    {
+      "score": 0.3349500298500061, 
+      "description": "Dongpilang"
+    }, 
+    {
+      "score": 0.31812000274658203, 
+      "description": "\uc232\uc774\uc788\ub294\uc5b4\ub9b0\uc774\uc9d1"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9749231934547424, 
+      "description": "windmill"
+    }, 
+    {
+      "score": 0.898286759853363, 
+      "description": "mill"
+    }, 
+    {
+      "score": 0.7496705055236816, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6758952140808105, 
+      "description": "wind"
+    }, 
+    {
+      "score": 0.658607006072998, 
+      "description": "energy"
+    }, 
+    {
+      "score": 0.6472955346107483, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.6036767363548279, 
+      "description": "wind turbine"
+    }
+  ]
+}

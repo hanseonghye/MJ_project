@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 166.0, 
+      "color-blue": 46.0, 
+      "pixel": 0.002933333395048976, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 231.0, 
+      "color-blue": 247.0, 
+      "pixel": 0.13253332674503326, 
+      "color-red": 207.0
+    }, 
+    {
+      "color-green": 55.0, 
+      "color-blue": 23.0, 
+      "pixel": 0.10502222180366516, 
+      "color-red": 27.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 179.0, 
+      "pixel": 0.001466666697524488, 
+      "color-red": 32.0
+    }, 
+    {
+      "color-green": 164.0, 
+      "color-blue": 206.0, 
+      "pixel": 0.0005333333392627537, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 39.0, 
+      "color-blue": 11.0, 
+      "pixel": 0.00017777777975425124, 
+      "color-red": 178.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.00022222222469281405, 
+      "color-red": 182.0
+    }, 
+    {
+      "color-green": 136.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.005244444590061903, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 235.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.33320000767707825, 
+      "color-red": 219.0
+    }, 
+    {
+      "color-green": 130.0, 
+      "color-blue": 55.0, 
+      "pixel": 0.004533333238214254, 
+      "color-red": 83.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sky"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.38152003288269043, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.26030227541923523, 
+      "description": "Biome"
+    }, 
+    {
+      "score": 0.2499413788318634, 
+      "description": "Vegetation"
+    }, 
+    {
+      "score": 0.2255711704492569, 
+      "description": "Grassland"
+    }, 
+    {
+      "score": 0.17560000717639923, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.17124545574188232, 
+      "description": "Hill station"
+    }, 
+    {
+      "score": 0.16727450489997864, 
+      "description": "Ecoregion"
+    }, 
+    {
+      "score": 0.16169963777065277, 
+      "description": "Plateau"
+    }, 
+    {
+      "score": 0.14339999854564667, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.1351727545261383, 
+      "description": "Mountain range"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9570720791816711, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9539786577224731, 
+      "description": "green"
+    }, 
+    {
+      "score": 0.9506365060806274, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9459729194641113, 
+      "description": "grassland"
+    }, 
+    {
+      "score": 0.9451370239257812, 
+      "description": "vegetation"
+    }, 
+    {
+      "score": 0.9247706532478333, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.9141566157341003, 
+      "description": "highland"
+    }, 
+    {
+      "score": 0.9057919383049011, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.8935844898223877, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8908994197845459, 
+      "description": "hill"
+    }
+  ]
+}

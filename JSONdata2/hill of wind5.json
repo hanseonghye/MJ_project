@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 116.0, 
+      "color-blue": 197.0, 
+      "pixel": 0.06213429942727089, 
+      "color-red": 12.0
+    }, 
+    {
+      "color-green": 168.0, 
+      "color-blue": 227.0, 
+      "pixel": 0.06687099486589432, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 89.0, 
+      "color-blue": 15.0, 
+      "pixel": 0.025842852890491486, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 20.0, 
+      "pixel": 0.01671774871647358, 
+      "color-red": 110.0
+    }, 
+    {
+      "color-green": 48.0, 
+      "color-blue": 18.0, 
+      "pixel": 0.014488715678453445, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.007244357839226723, 
+      "color-red": 213.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 238.0, 
+      "pixel": 0.10838674008846283, 
+      "color-red": 68.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 254.0, 
+      "pixel": 0.024449707940220833, 
+      "color-red": 4.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 248.0, 
+      "pixel": 0.06499024480581284, 
+      "color-red": 131.0
+    }, 
+    {
+      "color-green": 132.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.07105043530464172, 
+      "color-red": 55.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "windy hill korea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4147199392318726, 
+      "description": "Windy Hill"
+    }, 
+    {
+      "score": 1.2308324575424194, 
+      "description": "Geojedo"
+    }, 
+    {
+      "score": 1.2132731676101685, 
+      "description": "Sinseondae"
+    }, 
+    {
+      "score": 0.7800870537757874, 
+      "description": "Oedo"
+    }, 
+    {
+      "score": 0.758747398853302, 
+      "description": "Mount Scenery"
+    }, 
+    {
+      "score": 0.6915876269340515, 
+      "description": "Oedo Botania, Geoje"
+    }, 
+    {
+      "score": 0.6604422330856323, 
+      "description": "Mongdol Beach Hotel"
+    }, 
+    {
+      "score": 0.5156000256538391, 
+      "description": "Hill"
+    }, 
+    {
+      "score": 0.51432865858078, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.3949567675590515, 
+      "description": "Cape"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9609306454658508, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9507914185523987, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.8993223905563354, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.8774334192276001, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.866093635559082, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.8549293875694275, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8515977263450623, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8042159080505371, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.7759066820144653, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.7520222067832947, 
+      "description": "tourism"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 41.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.04467388987541199, 
+      "color-red": 30.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 178.0, 
+      "pixel": 0.23471683263778687, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 49.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.03455325961112976, 
+      "color-red": 36.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 234.0, 
+      "pixel": 0.0009200572385452688, 
+      "color-red": 193.0
+    }, 
+    {
+      "color-green": 45.0, 
+      "color-blue": 110.0, 
+      "pixel": 0.05264772102236748, 
+      "color-red": 42.0
+    }, 
+    {
+      "color-green": 67.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.02709057368338108, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 71.0, 
+      "color-blue": 136.0, 
+      "pixel": 0.04416274651885033, 
+      "color-red": 65.0
+    }, 
+    {
+      "color-green": 64.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.1374974399805069, 
+      "color-red": 50.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.004498057533055544, 
+      "color-red": 196.0
+    }, 
+    {
+      "color-green": 100.0, 
+      "color-blue": 186.0, 
+      "pixel": 0.06348395347595215, 
+      "color-red": 102.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "seoul korean"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.174486517906189, 
+      "description": "North Korea"
+    }, 
+    {
+      "score": 0.9817669987678528, 
+      "description": "Sungshin Women's University"
+    }, 
+    {
+      "score": 0.4503999948501587, 
+      "description": "North Korea\u2013South Korea relations"
+    }, 
+    {
+      "score": 0.4284000098705292, 
+      "description": "PyeongChang 2018 Olympic Winter Games"
+    }, 
+    {
+      "score": 0.3889999985694885, 
+      "description": "Location"
+    }, 
+    {
+      "score": 0.33149999380111694, 
+      "description": "EPIK"
+    }, 
+    {
+      "score": 0.32249999046325684, 
+      "description": "Musculoskeltal Ultrasound Society"
+    }, 
+    {
+      "score": 0.3206000030040741, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.3183000087738037, 
+      "description": "Image"
+    }, 
+    {
+      "score": 0.31220000982284546, 
+      "description": ""
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9890490174293518, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9733512997627258, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9665443301200867, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9598171710968018, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9533796906471252, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9455727338790894, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.9385485053062439, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9332073330879211, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.9295493960380554, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9135649800300598, 
+      "description": "tower"
+    }
+  ]
+}

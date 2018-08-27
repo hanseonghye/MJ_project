@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 120.0, 
+      "color-blue": 151.0, 
+      "pixel": 0.03332538157701492, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.038813330233097076, 
+      "color-red": 106.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.08987513184547424, 
+      "color-red": 150.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 165.0, 
+      "pixel": 0.0102600809186697, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 123.0, 
+      "pixel": 0.1262228637933731, 
+      "color-red": 117.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 184.0, 
+      "pixel": 0.03666587173938751, 
+      "color-red": 140.0
+    }, 
+    {
+      "color-green": 157.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.013600572943687439, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 93.0, 
+      "color-blue": 125.0, 
+      "pixel": 0.011214506812393665, 
+      "color-red": 71.0
+    }, 
+    {
+      "color-green": 127.0, 
+      "color-blue": 116.0, 
+      "pixel": 0.027996500954031944, 
+      "color-red": 101.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.009941939264535904, 
+      "color-red": 128.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Google Images"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3688400983810425, 
+      "description": "Naewonsa"
+    }, 
+    {
+      "score": 1.0528651475906372, 
+      "description": "\ub0b4\uc6d0\uc0ac\uacc4\uace1"
+    }, 
+    {
+      "score": 0.6416000127792358, 
+      "description": "Stream"
+    }, 
+    {
+      "score": 0.4983047842979431, 
+      "description": "Ravine"
+    }, 
+    {
+      "score": 0.49417805671691895, 
+      "description": "Valley"
+    }, 
+    {
+      "score": 0.42340001463890076, 
+      "description": "Buddhist temple"
+    }, 
+    {
+      "score": 0.4145926237106323, 
+      "description": "Watercourse"
+    }, 
+    {
+      "score": 0.3958899974822998, 
+      "description": "Nojeon-Am"
+    }, 
+    {
+      "score": 0.38552770018577576, 
+      "description": "Stream bed"
+    }, 
+    {
+      "score": 0.3663846254348755, 
+      "description": "Riparian zone"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9411565661430359, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9389474391937256, 
+      "description": "stream"
+    }, 
+    {
+      "score": 0.9363347887992859, 
+      "description": "water resources"
+    }, 
+    {
+      "score": 0.9348971843719482, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9289234280586243, 
+      "description": "nature reserve"
+    }, 
+    {
+      "score": 0.9251260161399841, 
+      "description": "river"
+    }, 
+    {
+      "score": 0.9202858209609985, 
+      "description": "watercourse"
+    }, 
+    {
+      "score": 0.9024574160575867, 
+      "description": "mountainous landforms"
+    }, 
+    {
+      "score": 0.9010245203971863, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8562369346618652, 
+      "description": "wilderness"
+    }
+  ]
+}

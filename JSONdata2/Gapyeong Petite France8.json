@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 187.0, 
+      "color-blue": 165.0, 
+      "pixel": 0.04521727189421654, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 144.0, 
+      "color-blue": 100.0, 
+      "pixel": 0.04670869931578636, 
+      "color-red": 200.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 19.0, 
+      "pixel": 0.04250559210777283, 
+      "color-red": 76.0
+    }, 
+    {
+      "color-green": 172.0, 
+      "color-blue": 205.0, 
+      "pixel": 0.056877501308918, 
+      "color-red": 129.0
+    }, 
+    {
+      "color-green": 203.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.00020337603928055614, 
+      "color-red": 172.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.05436919629573822, 
+      "color-red": 178.0
+    }, 
+    {
+      "color-green": 107.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.04067520797252655, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 98.0, 
+      "pixel": 0.018303843215107918, 
+      "color-red": 181.0
+    }, 
+    {
+      "color-green": 229.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.028608230873942375, 
+      "color-red": 249.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 62.0, 
+      "pixel": 0.022778116166591644, 
+      "color-red": 139.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\u5c0f \u6cd5\u570b \u6751 \u5357 \u6021 \u5cf6"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5671727657318115, 
+      "description": "Namiseom"
+    }, 
+    {
+      "score": 1.165065050125122, 
+      "description": "Petite France, Gapyeong"
+    }, 
+    {
+      "score": 1.0653324127197266, 
+      "description": "Gangchon station"
+    }, 
+    {
+      "score": 0.9056850671768188, 
+      "description": "\u6cd5\u56fd\u6751"
+    }, 
+    {
+      "score": 0.8855999708175659, 
+      "description": "Gyeongchun Line"
+    }, 
+    {
+      "score": 0.6838500499725342, 
+      "description": "Rail transport"
+    }, 
+    {
+      "score": 0.6776999831199646, 
+      "description": "France"
+    }, 
+    {
+      "score": 0.6502000093460083, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5059000253677368, 
+      "description": "Hotel"
+    }, 
+    {
+      "score": 0.4657000005245209, 
+      "description": "Draisine"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.8944947719573975, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8606879115104675, 
+      "description": "resort"
+    }, 
+    {
+      "score": 0.7675766944885254, 
+      "description": "estate"
+    }, 
+    {
+      "score": 0.7268076539039612, 
+      "description": "leisure"
+    }, 
+    {
+      "score": 0.7101305723190308, 
+      "description": "real estate"
+    }, 
+    {
+      "score": 0.6791394948959351, 
+      "description": "residential area"
+    }, 
+    {
+      "score": 0.6408209204673767, 
+      "description": "home"
+    }, 
+    {
+      "score": 0.5836033821105957, 
+      "description": "villa"
+    }, 
+    {
+      "score": 0.5352759957313538, 
+      "description": "hacienda"
+    }, 
+    {
+      "score": 0.5327330231666565, 
+      "description": "house"
+    }
+  ]
+}

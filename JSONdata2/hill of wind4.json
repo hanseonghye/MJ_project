@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 117.0, 
+      "color-blue": 158.0, 
+      "pixel": 0.07891456037759781, 
+      "color-red": 60.0
+    }, 
+    {
+      "color-green": 105.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.017528420314192772, 
+      "color-red": 146.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 222.0, 
+      "pixel": 0.21532820165157318, 
+      "color-red": 161.0
+    }, 
+    {
+      "color-green": 129.0, 
+      "color-blue": 35.0, 
+      "pixel": 0.030803080648183823, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 100.0, 
+      "color-blue": 143.0, 
+      "pixel": 0.028089474886655807, 
+      "color-red": 46.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 63.0, 
+      "pixel": 0.010194352827966213, 
+      "color-red": 120.0
+    }, 
+    {
+      "color-green": 128.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.0424642451107502, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 95.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.06776677817106247, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 190.0, 
+      "color-blue": 224.0, 
+      "pixel": 0.03747707977890968, 
+      "color-red": 131.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 192.0, 
+      "pixel": 0.06490649282932281, 
+      "color-red": 123.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uac70\uc81c\ub3c4 \ubc14\ub78c \uc758 \uc5b8\ub355"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.401742696762085, 
+      "description": "Windy Hill"
+    }, 
+    {
+      "score": 0.8505064845085144, 
+      "description": "Windmill"
+    }, 
+    {
+      "score": 0.6457499861717224, 
+      "description": "\ub3d9\ud53c\ub791\ub9c8\uc744"
+    }, 
+    {
+      "score": 0.5651999711990356, 
+      "description": "Wind"
+    }, 
+    {
+      "score": 0.538873553276062, 
+      "description": "Dongpilang Village"
+    }, 
+    {
+      "score": 0.5095999836921692, 
+      "description": ""
+    }, 
+    {
+      "score": 0.4698430001735687, 
+      "description": "Mongdol Beach Hotel"
+    }, 
+    {
+      "score": 0.430400013923645, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3710828423500061, 
+      "description": "\uad6d\uac00\ub300\ud45c"
+    }, 
+    {
+      "score": 0.35945090651512146, 
+      "description": "Sea"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9732130765914917, 
+      "description": "windmill"
+    }, 
+    {
+      "score": 0.8849126696586609, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8389315605163574, 
+      "description": "mill"
+    }, 
+    {
+      "score": 0.6939245462417603, 
+      "description": "building"
+    }, 
+    {
+      "score": 0.6887689828872681, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.647098958492279, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.5872004628181458, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.5491377115249634, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.5425121784210205, 
+      "description": "mount scenery"
+    }, 
+    {
+      "score": 0.5411810874938965, 
+      "description": "hill"
+    }
+  ]
+}

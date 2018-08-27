@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 87.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.14722222089767456, 
+      "color-red": 78.0
+    }, 
+    {
+      "color-green": 224.0, 
+      "color-blue": 224.0, 
+      "pixel": 0.2726190388202667, 
+      "color-red": 229.0
+    }, 
+    {
+      "color-green": 113.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.08428571373224258, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 199.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.09634920954704285, 
+      "color-red": 197.0
+    }, 
+    {
+      "color-green": 84.0, 
+      "color-blue": 101.0, 
+      "pixel": 0.03888889029622078, 
+      "color-red": 75.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 67.0, 
+      "pixel": 0.17865079641342163, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 154.0, 
+      "color-blue": 162.0, 
+      "pixel": 0.06634920835494995, 
+      "color-red": 147.0
+    }, 
+    {
+      "color-green": 111.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.004682539496570826, 
+      "color-red": 104.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 76.0, 
+      "pixel": 0.047857142984867096, 
+      "color-red": 52.0
+    }, 
+    {
+      "color-green": 28.0, 
+      "color-blue": 44.0, 
+      "pixel": 0.009999999776482582, 
+      "color-red": 25.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Busan"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.6149870157241821, 
+      "description": "Gwangandaegyo"
+    }, 
+    {
+      "score": 1.1603659391403198, 
+      "description": "Haeundae District"
+    }, 
+    {
+      "score": 0.7006999850273132, 
+      "description": "Bridge"
+    }, 
+    {
+      "score": 0.6043831706047058, 
+      "description": "Bridge\u2013tunnel"
+    }, 
+    {
+      "score": 0.5892999768257141, 
+      "description": "Stock footage"
+    }, 
+    {
+      "score": 0.5888364315032959, 
+      "description": "Cable-stayed bridge"
+    }, 
+    {
+      "score": 0.5826184749603271, 
+      "description": "Cantilever bridge"
+    }, 
+    {
+      "score": 0.576844334602356, 
+      "description": "Suspension bridge"
+    }, 
+    {
+      "score": 0.5040192604064941, 
+      "description": "Beam bridge"
+    }, 
+    {
+      "score": 0.4514000117778778, 
+      "description": "Video"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9747721552848816, 
+      "description": "bridge"
+    }, 
+    {
+      "score": 0.8686301112174988, 
+      "description": "fixed link"
+    }, 
+    {
+      "score": 0.8357958793640137, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.7912875413894653, 
+      "description": "cable stayed bridge"
+    }, 
+    {
+      "score": 0.7755166292190552, 
+      "description": "extradosed bridge"
+    }, 
+    {
+      "score": 0.7641371488571167, 
+      "description": "river"
+    }, 
+    {
+      "score": 0.7530496120452881, 
+      "description": "daytime"
+    }, 
+    {
+      "score": 0.7367991209030151, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.7193118929862976, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.7116843461990356, 
+      "description": "city"
+    }
+  ]
+}

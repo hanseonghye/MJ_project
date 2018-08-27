@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 159.0, 
+      "color-blue": 183.0, 
+      "pixel": 0.23386666178703308, 
+      "color-red": 160.0
+    }, 
+    {
+      "color-green": 173.0, 
+      "color-blue": 191.0, 
+      "pixel": 0.05053333193063736, 
+      "color-red": 192.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.07593332976102829, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 153.0, 
+      "color-blue": 130.0, 
+      "pixel": 0.027799999341368675, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 117.0, 
+      "color-blue": 145.0, 
+      "pixel": 0.01733333244919777, 
+      "color-red": 103.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.02133333310484886, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 85.0, 
+      "color-blue": 117.0, 
+      "pixel": 0.018266666680574417, 
+      "color-red": 70.0
+    }, 
+    {
+      "color-green": 118.0, 
+      "color-blue": 118.0, 
+      "pixel": 0.05246666818857193, 
+      "color-red": 122.0
+    }, 
+    {
+      "color-green": 86.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.004333333112299442, 
+      "color-red": 56.0
+    }, 
+    {
+      "color-green": 187.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.015133333392441273, 
+      "color-red": 203.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Seoul"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.5535567998886108, 
+      "description": "Gwanghwamun"
+    }, 
+    {
+      "score": 1.0339475870132446, 
+      "description": "Gyeongbokgung"
+    }, 
+    {
+      "score": 0.8137734532356262, 
+      "description": "Seodaemun District"
+    }, 
+    {
+      "score": 0.7811760306358337, 
+      "description": "Inwangsan"
+    }, 
+    {
+      "score": 0.6809999942779541, 
+      "description": ""
+    }, 
+    {
+      "score": 0.6743999719619751, 
+      "description": "Royalty-free"
+    }, 
+    {
+      "score": 0.5920000076293945, 
+      "description": "Stock photography"
+    }, 
+    {
+      "score": 0.5878999829292297, 
+      "description": "stock.xchng"
+    }, 
+    {
+      "score": 0.576200008392334, 
+      "description": "Nightscape"
+    }, 
+    {
+      "score": 0.5271000266075134, 
+      "description": "Shutterstock"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9907500743865967, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.9865191578865051, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9835598468780518, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.9802683591842651, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.9764912128448486, 
+      "description": "skyline"
+    }, 
+    {
+      "score": 0.9544193148612976, 
+      "description": "metropolis"
+    }, 
+    {
+      "score": 0.9445931911468506, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9361976385116577, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.9158532619476318, 
+      "description": "skyscraper"
+    }, 
+    {
+      "score": 0.9118638038635254, 
+      "description": "tower block"
+    }
+  ]
+}

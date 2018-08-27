@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 77.0, 
+      "color-blue": 136.0, 
+      "pixel": 0.022402597591280937, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 113.0, 
+      "pixel": 0.02857142873108387, 
+      "color-red": 116.0
+    }, 
+    {
+      "color-green": 237.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.007061688229441643, 
+      "color-red": 253.0
+    }, 
+    {
+      "color-green": 144.0, 
+      "color-blue": 124.0, 
+      "pixel": 0.006818181835114956, 
+      "color-red": 186.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 221.0, 
+      "pixel": 0.008522727526724339, 
+      "color-red": 190.0
+    }, 
+    {
+      "color-green": 75.0, 
+      "color-blue": 114.0, 
+      "pixel": 0.05649350583553314, 
+      "color-red": 94.0
+    }, 
+    {
+      "color-green": 35.0, 
+      "color-blue": 88.0, 
+      "pixel": 0.024350648745894432, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 108.0, 
+      "color-blue": 147.0, 
+      "pixel": 0.03206168860197067, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 58.0, 
+      "color-blue": 128.0, 
+      "pixel": 0.01461038924753666, 
+      "color-red": 109.0
+    }, 
+    {
+      "color-green": 82.0, 
+      "color-blue": 112.0, 
+      "pixel": 0.04772727191448212, 
+      "color-red": 73.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "ulsan rose festival"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.684447169303894, 
+      "description": "Ulsan Grand Park"
+    }, 
+    {
+      "score": 0.8766000270843506, 
+      "description": "Portland Rose Festival"
+    }, 
+    {
+      "score": 0.7075999975204468, 
+      "description": "Festival"
+    }, 
+    {
+      "score": 0.4683789610862732, 
+      "description": "\uc6b8\uc0b0\uc2dc\uc124\uacf5\ub2e8"
+    }, 
+    {
+      "score": 0.4138999879360199, 
+      "description": ""
+    }, 
+    {
+      "score": 0.3792000114917755, 
+      "description": ""
+    }, 
+    {
+      "score": 0.37369999289512634, 
+      "description": ""
+    }, 
+    {
+      "score": 0.32899999618530273, 
+      "description": "Winter festival"
+    }, 
+    {
+      "score": 0.32280001044273376, 
+      "description": "Entertainment"
+    }, 
+    {
+      "score": 0.3125, 
+      "description": "Parade"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9490395784378052, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.9486519694328308, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9148374199867249, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.8837037086486816, 
+      "description": "botanical garden"
+    }, 
+    {
+      "score": 0.8665549159049988, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8374804854393005, 
+      "description": "water feature"
+    }, 
+    {
+      "score": 0.8195659518241882, 
+      "description": "light"
+    }, 
+    {
+      "score": 0.7756617665290833, 
+      "description": "flora"
+    }, 
+    {
+      "score": 0.7387942671775818, 
+      "description": "garden"
+    }, 
+    {
+      "score": 0.7129259705543518, 
+      "description": "city"
+    }
+  ]
+}

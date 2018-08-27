@@ -1,0 +1,134 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 247.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.21488730609416962, 
+      "color-red": 238.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 150.0, 
+      "pixel": 0.07547926157712936, 
+      "color-red": 160.0
+    }, 
+    {
+      "color-green": 133.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.0033688938710838556, 
+      "color-red": 49.0
+    }, 
+    {
+      "color-green": 20.0, 
+      "color-blue": 10.0, 
+      "pixel": 0.00537418806925416, 
+      "color-red": 48.0
+    }, 
+    {
+      "color-green": 206.0, 
+      "color-blue": 143.0, 
+      "pixel": 0.00016042351489886642, 
+      "color-red": 159.0
+    }, 
+    {
+      "color-green": 160.0, 
+      "color-blue": 141.0, 
+      "pixel": 0.07387503236532211, 
+      "color-red": 164.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 185.0, 
+      "pixel": 0.04299350455403328, 
+      "color-red": 195.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 207.0, 
+      "pixel": 0.10523782670497894, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 173.0, 
+      "pixel": 0.06705702841281891, 
+      "color-red": 201.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 112.0, 
+      "pixel": 0.06152242049574852, 
+      "color-red": 119.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "alley"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.0217024087905884, 
+      "description": "Window"
+    }, 
+    {
+      "score": 0.934726893901825, 
+      "description": "Facade"
+    }, 
+    {
+      "score": 0.6808745265007019, 
+      "description": "Property"
+    }, 
+    {
+      "score": 0.628257691860199, 
+      "description": "House"
+    }, 
+    {
+      "score": 0.5005999803543091, 
+      "description": "Tourism"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9584152102470398, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.918436586856842, 
+      "description": "neighbourhood"
+    }, 
+    {
+      "score": 0.882980227470398, 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8765762448310852, 
+      "description": "street"
+    }, 
+    {
+      "score": 0.824674665927887, 
+      "description": "alley"
+    }, 
+    {
+      "score": 0.6972013115882874, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.6321182250976562, 
+      "description": "facade"
+    }, 
+    {
+      "score": 0.625670313835144, 
+      "description": "house"
+    }, 
+    {
+      "score": 0.5956206321716309, 
+      "description": "window"
+    }, 
+    {
+      "score": 0.5847899913787842, 
+      "description": "road"
+    }
+  ]
+}

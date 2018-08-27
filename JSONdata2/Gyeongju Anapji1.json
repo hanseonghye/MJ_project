@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 225.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.12358222901821136, 
+      "color-red": 202.0
+    }, 
+    {
+      "color-green": 155.0, 
+      "color-blue": 121.0, 
+      "pixel": 0.028827976435422897, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.03166351467370987, 
+      "color-red": 134.0
+    }, 
+    {
+      "color-green": 232.0, 
+      "color-blue": 239.0, 
+      "pixel": 0.10696282237768173, 
+      "color-red": 222.0
+    }, 
+    {
+      "color-green": 162.0, 
+      "color-blue": 165.0, 
+      "pixel": 0.061121612787246704, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 210.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.15563957393169403, 
+      "color-red": 183.0
+    }, 
+    {
+      "color-green": 185.0, 
+      "color-blue": 190.0, 
+      "pixel": 0.03835853934288025, 
+      "color-red": 175.0
+    }, 
+    {
+      "color-green": 121.0, 
+      "color-blue": 92.0, 
+      "pixel": 0.022841839119791985, 
+      "color-red": 130.0
+    }, 
+    {
+      "color-green": 83.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.019533710554242134, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 185.0, 
+      "color-blue": 156.0, 
+      "pixel": 0.011814745143055916, 
+      "color-red": 209.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "Donggung Palace and Wolji Pond in Gyeongju"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.1741400957107544, 
+      "description": "Donggung Palace and Wolji Pond in Gyeongju"
+    }, 
+    {
+      "score": 1.1452651023864746, 
+      "description": "Yangdong Folk Village"
+    }, 
+    {
+      "score": 1.085205078125, 
+      "description": "Bulguksa"
+    }, 
+    {
+      "score": 1.075653314590454, 
+      "description": "Pond"
+    }, 
+    {
+      "score": 0.9888451099395752, 
+      "description": "Seokguram"
+    }, 
+    {
+      "score": 0.7987500429153442, 
+      "description": "Temple"
+    }, 
+    {
+      "score": 0.7072499990463257, 
+      "description": "Busan"
+    }, 
+    {
+      "score": 0.6776999831199646, 
+      "description": ""
+    }, 
+    {
+      "score": 0.6011000275611877, 
+      "description": "World Heritage site"
+    }, 
+    {
+      "score": 0.5986999869346619, 
+      "description": "UNESCO"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9744280576705933, 
+      "description": "reflection"
+    }, 
+    {
+      "score": 0.9429613947868347, 
+      "description": "nature"
+    }, 
+    {
+      "score": 0.9339752197265625, 
+      "description": "body of water"
+    }, 
+    {
+      "score": 0.9281432628631592, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.9232256412506104, 
+      "description": "waterway"
+    }, 
+    {
+      "score": 0.8932355642318726, 
+      "description": "reservoir"
+    }, 
+    {
+      "score": 0.8875494599342346, 
+      "description": "lake"
+    }, 
+    {
+      "score": 0.852270781993866, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8030532002449036, 
+      "description": "river"
+    }, 
+    {
+      "score": 0.7885106801986694, 
+      "description": "pond"
+    }
+  ]
+}

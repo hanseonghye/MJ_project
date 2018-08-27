@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 209.0, 
+      "color-blue": 246.0, 
+      "pixel": 0.161688894033432, 
+      "color-red": 176.0
+    }, 
+    {
+      "color-green": 90.0, 
+      "color-blue": 51.0, 
+      "pixel": 0.018488889560103416, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 195.0, 
+      "color-blue": 244.0, 
+      "pixel": 0.12368889153003693, 
+      "color-red": 151.0
+    }, 
+    {
+      "color-green": 159.0, 
+      "color-blue": 210.0, 
+      "pixel": 0.040933333337306976, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 161.0, 
+      "color-blue": 210.0, 
+      "pixel": 0.02675555646419525, 
+      "color-red": 80.0
+    }, 
+    {
+      "color-green": 220.0, 
+      "color-blue": 250.0, 
+      "pixel": 0.06191110983490944, 
+      "color-red": 194.0
+    }, 
+    {
+      "color-green": 135.0, 
+      "color-blue": 185.0, 
+      "pixel": 0.005511111114174128, 
+      "color-red": 73.0
+    }, 
+    {
+      "color-green": 124.0, 
+      "color-blue": 86.0, 
+      "pixel": 0.011822221800684929, 
+      "color-red": 105.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 189.0, 
+      "pixel": 0.029288887977600098, 
+      "color-red": 124.0
+    }, 
+    {
+      "color-green": 122.0, 
+      "color-blue": 153.0, 
+      "pixel": 0.010355555452406406, 
+      "color-red": 100.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "coast"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.855929434299469, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.8302500247955322, 
+      "description": "Cape May"
+    }, 
+    {
+      "score": 0.6622416973114014, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.6551102995872498, 
+      "description": "Beach"
+    }, 
+    {
+      "score": 0.5959011316299438, 
+      "description": "Land lot"
+    }, 
+    {
+      "score": 0.5213815569877625, 
+      "description": "Vacation"
+    }, 
+    {
+      "score": 0.5087000131607056, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.49588078260421753, 
+      "description": "Inlet"
+    }, 
+    {
+      "score": 0.43849998712539673, 
+      "description": "Microsoft Azure"
+    }, 
+    {
+      "score": 0.4016999900341034, 
+      "description": "Real property"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9123414158821106, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8859833478927612, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.8404055833816528, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8399246335029602, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.8092108964920044, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.7261636853218079, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7210731506347656, 
+      "description": "bay"
+    }, 
+    {
+      "score": 0.6767919063568115, 
+      "description": "inlet"
+    }, 
+    {
+      "score": 0.6731120347976685, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.5972239971160889, 
+      "description": "beach"
+    }
+  ]
+}

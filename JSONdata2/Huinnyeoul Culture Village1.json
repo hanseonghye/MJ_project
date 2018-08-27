@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 48.0, 
+      "color-blue": 48.0, 
+      "pixel": 0.16562800109386444, 
+      "color-red": 47.0
+    }, 
+    {
+      "color-green": 74.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.031319908797740936, 
+      "color-red": 115.0
+    }, 
+    {
+      "color-green": 143.0, 
+      "color-blue": 96.0, 
+      "pixel": 0.014461489394307137, 
+      "color-red": 202.0
+    }, 
+    {
+      "color-green": 225.0, 
+      "color-blue": 166.0, 
+      "pixel": 0.0023969318717718124, 
+      "color-red": 252.0
+    }, 
+    {
+      "color-green": 109.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.028203899040818214, 
+      "color-red": 153.0
+    }, 
+    {
+      "color-green": 45.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.012783637270331383, 
+      "color-red": 81.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 34.0, 
+      "pixel": 0.009348034858703613, 
+      "color-red": 126.0
+    }, 
+    {
+      "color-green": 107.0, 
+      "color-blue": 64.0, 
+      "pixel": 0.011744966730475426, 
+      "color-red": 162.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 31.0, 
+      "pixel": 0.013742409646511078, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 80.0, 
+      "color-blue": 57.0, 
+      "pixel": 0.01558005716651678, 
+      "color-red": 96.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ubd80\uc0b0 \ud770 \uc5ec\uc6b8 \ubb38\ud654 \ub9c8\uc744"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.4610750675201416, 
+      "description": "Huinnyeoul Munhwa Maul \u2502 White Ford Cultural Village"
+    }, 
+    {
+      "score": 1.0316461324691772, 
+      "description": "Taejongdae"
+    }, 
+    {
+      "score": 0.8534881472587585, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.7457230091094971, 
+      "description": "\ud770\uc5ec\uc6b8\ub9c8\uc744\ud68c\uad00"
+    }, 
+    {
+      "score": 0.6714000105857849, 
+      "description": "Yeongseondong"
+    }, 
+    {
+      "score": 0.6470999717712402, 
+      "description": "Train"
+    }, 
+    {
+      "score": 0.6159999966621399, 
+      "description": "Tourism"
+    }, 
+    {
+      "score": 0.5945000052452087, 
+      "description": ""
+    }, 
+    {
+      "score": 0.5428000092506409, 
+      "description": "\u91dc\u5c71\u30b7\u30c6\u30a3\u30c4\u30a2\u30fc\u30d0\u30b9"
+    }, 
+    {
+      "score": 0.503030002117157, 
+      "description": "Huin-Yeoul"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9560329914093018, 
+      "description": "city"
+    }, 
+    {
+      "score": 0.9200952649116516, 
+      "description": "cityscape"
+    }, 
+    {
+      "score": 0.8874648809432983, 
+      "description": "landmark"
+    }, 
+    {
+      "score": 0.8643216490745544, 
+      "description": "urban area"
+    }, 
+    {
+      "score": 0.8437657952308655, 
+      "description": "town"
+    }, 
+    {
+      "score": 0.8358983397483826, 
+      "description": "water"
+    }, 
+    {
+      "score": 0.8209254145622253, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8169095516204834, 
+      "description": "metropolitan area"
+    }, 
+    {
+      "score": 0.7990320920944214, 
+      "description": "night"
+    }, 
+    {
+      "score": 0.7908813953399658, 
+      "description": "reflection"
+    }
+  ]
+}

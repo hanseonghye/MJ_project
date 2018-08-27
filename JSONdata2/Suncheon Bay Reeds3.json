@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 118.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.10286817699670792, 
+      "color-red": 144.0
+    }, 
+    {
+      "color-green": 229.0, 
+      "color-blue": 229.0, 
+      "pixel": 0.14320187270641327, 
+      "color-red": 227.0
+    }, 
+    {
+      "color-green": 27.0, 
+      "color-blue": 33.0, 
+      "pixel": 0.053295642137527466, 
+      "color-red": 20.0
+    }, 
+    {
+      "color-green": 91.0, 
+      "color-blue": 95.0, 
+      "pixel": 0.07915057986974716, 
+      "color-red": 91.0
+    }, 
+    {
+      "color-green": 231.0, 
+      "color-blue": 249.0, 
+      "pixel": 0.16285163164138794, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 205.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.06543022394180298, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 112.0, 
+      "color-blue": 111.0, 
+      "pixel": 0.015237175859510899, 
+      "color-red": 118.0
+    }, 
+    {
+      "color-green": 137.0, 
+      "color-blue": 105.0, 
+      "pixel": 0.002757859881967306, 
+      "color-red": 167.0
+    }, 
+    {
+      "color-green": 47.0, 
+      "color-blue": 49.0, 
+      "pixel": 0.05839768424630165, 
+      "color-red": 45.0
+    }, 
+    {
+      "color-green": 110.0, 
+      "color-blue": 87.0, 
+      "pixel": 0.00785990059375763, 
+      "color-red": 142.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\uac08 \ub300\ubc2d"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 1.3861650228500366, 
+      "description": "Suncheon Bay reeds"
+    }, 
+    {
+      "score": 1.0613999366760254, 
+      "description": "Suncheon Bay"
+    }, 
+    {
+      "score": 0.6508700251579285, 
+      "description": "Common reed"
+    }, 
+    {
+      "score": 0.5214000344276428, 
+      "description": "\uc21c\ucc9c\ub9cc\uac08\ub300\uc232"
+    }, 
+    {
+      "score": 0.4722999930381775, 
+      "description": "Syrinx"
+    }, 
+    {
+      "score": 0.4415000081062317, 
+      "description": ""
+    }, 
+    {
+      "score": 0.415800005197525, 
+      "description": "\ub0b4\uc77c\ub85c"
+    }, 
+    {
+      "score": 0.39303815364837646, 
+      "description": "Cloud"
+    }, 
+    {
+      "score": 0.367900013923645, 
+      "description": "Mountain"
+    }, 
+    {
+      "score": 0.33340001106262207, 
+      "description": "Sea"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9334396123886108, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8247308731079102, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.7969799041748047, 
+      "description": "grass family"
+    }, 
+    {
+      "score": 0.7752636671066284, 
+      "description": "cloud"
+    }, 
+    {
+      "score": 0.7418556213378906, 
+      "description": "path"
+    }, 
+    {
+      "score": 0.730863630771637, 
+      "description": "morning"
+    }, 
+    {
+      "score": 0.7017743587493896, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.6895939111709595, 
+      "description": "grass"
+    }, 
+    {
+      "score": 0.6471540331840515, 
+      "description": "tree"
+    }, 
+    {
+      "score": 0.6143835186958313, 
+      "description": "crop"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 200.0, 
+      "color-blue": 254.0, 
+      "pixel": 0.21986666321754456, 
+      "color-red": 98.0
+    }, 
+    {
+      "color-green": 171.0, 
+      "color-blue": 254.0, 
+      "pixel": 0.15177777409553528, 
+      "color-red": 53.0
+    }, 
+    {
+      "color-green": 13.0, 
+      "color-blue": 32.0, 
+      "pixel": 0.10866666585206985, 
+      "color-red": 7.0
+    }, 
+    {
+      "color-green": 52.0, 
+      "color-blue": 131.0, 
+      "pixel": 0.042266666889190674, 
+      "color-red": 17.0
+    }, 
+    {
+      "color-green": 220.0, 
+      "color-blue": 254.0, 
+      "pixel": 0.06017777696251869, 
+      "color-red": 152.0
+    }, 
+    {
+      "color-green": 226.0, 
+      "color-blue": 254.0, 
+      "pixel": 0.052844446152448654, 
+      "color-red": 172.0
+    }, 
+    {
+      "color-green": 182.0, 
+      "color-blue": 254.0, 
+      "pixel": 0.02235555462539196, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 75.0, 
+      "color-blue": 194.0, 
+      "pixel": 0.003511111019179225, 
+      "color-red": 13.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 141.0, 
+      "pixel": 0.00022222222469281405, 
+      "color-red": 133.0
+    }, 
+    {
+      "color-green": 186.0, 
+      "color-blue": 254.0, 
+      "pixel": 0.009555555880069733, 
+      "color-red": 65.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "sea"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 0.5336455702781677, 
+      "description": "Wind wave"
+    }, 
+    {
+      "score": 0.4560810327529907, 
+      "description": "Sea"
+    }, 
+    {
+      "score": 0.39798703789711, 
+      "description": "Coast"
+    }, 
+    {
+      "score": 0.3099021017551422, 
+      "description": "Cove"
+    }, 
+    {
+      "score": 0.24299494922161102, 
+      "description": "Ocean"
+    }, 
+    {
+      "score": 0.23427067697048187, 
+      "description": "Inlet"
+    }, 
+    {
+      "score": 0.23166096210479736, 
+      "description": "Water"
+    }, 
+    {
+      "score": 0.1933158040046692, 
+      "description": "Promontory"
+    }, 
+    {
+      "score": 0.1916709691286087, 
+      "description": "Headland"
+    }, 
+    {
+      "score": 0.1898999959230423, 
+      "description": "Wind"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9789034128189087, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9566506147384644, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.9455438256263733, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.9416692852973938, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.9239193797111511, 
+      "description": "ocean"
+    }, 
+    {
+      "score": 0.9140769243240356, 
+      "description": "horizon"
+    }, 
+    {
+      "score": 0.9018751382827759, 
+      "description": "headland"
+    }, 
+    {
+      "score": 0.8733320236206055, 
+      "description": "shore"
+    }, 
+    {
+      "score": 0.8520258665084839, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8337600231170654, 
+      "description": "water"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 85.0, 
+      "color-blue": 27.0, 
+      "pixel": 0.008217677474021912, 
+      "color-red": 69.0
+    }, 
+    {
+      "color-green": 78.0, 
+      "color-blue": 53.0, 
+      "pixel": 0.0342707559466362, 
+      "color-red": 79.0
+    }, 
+    {
+      "color-green": 54.0, 
+      "color-blue": 52.0, 
+      "pixel": 0.07048940658569336, 
+      "color-red": 62.0
+    }, 
+    {
+      "color-green": 59.0, 
+      "color-blue": 37.0, 
+      "pixel": 0.026905283331871033, 
+      "color-red": 59.0
+    }, 
+    {
+      "color-green": 79.0, 
+      "color-blue": 77.0, 
+      "pixel": 0.14572681486606598, 
+      "color-red": 88.0
+    }, 
+    {
+      "color-green": 63.0, 
+      "color-blue": 26.0, 
+      "pixel": 0.02842707559466362, 
+      "color-red": 51.0
+    }, 
+    {
+      "color-green": 81.0, 
+      "color-blue": 42.0, 
+      "pixel": 0.013878743164241314, 
+      "color-red": 72.0
+    }, 
+    {
+      "color-green": 76.0, 
+      "color-blue": 90.0, 
+      "pixel": 0.08509860932826996, 
+      "color-red": 95.0
+    }, 
+    {
+      "color-green": 46.0, 
+      "color-blue": 60.0, 
+      "pixel": 0.023618211969733238, 
+      "color-red": 66.0
+    }, 
+    {
+      "color-green": 68.0, 
+      "color-blue": 13.0, 
+      "pixel": 0.0029827123507857323, 
+      "color-red": 53.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "english lavender"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.539097547531128, 
+      "description": "English lavender"
+    }, 
+    {
+      "score": 0.8212875127792358, 
+      "description": "Jeju City"
+    }, 
+    {
+      "score": 0.6783732175827026, 
+      "description": "French lavender"
+    }, 
+    {
+      "score": 0.4983000159263611, 
+      "description": "\ubcf4\ub86c\uc653(BOROMWAT)"
+    }, 
+    {
+      "score": 0.4205000102519989, 
+      "description": "Daum"
+    }, 
+    {
+      "score": 0.39820000529289246, 
+      "description": "Hydrangea"
+    }, 
+    {
+      "score": 0.34869998693466187, 
+      "description": "\uacbd\ub0a8\ub3c4\ubbfc\uc77c\ubcf4"
+    }, 
+    {
+      "score": 0.27900001406669617, 
+      "description": "Violet"
+    }, 
+    {
+      "score": 0.2564789354801178, 
+      "description": "Prairie"
+    }, 
+    {
+      "score": 0.23706428706645966, 
+      "description": "Shrubland"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9538487792015076, 
+      "description": "lavender"
+    }, 
+    {
+      "score": 0.9467202425003052, 
+      "description": "flower"
+    }, 
+    {
+      "score": 0.9183199405670166, 
+      "description": "english lavender"
+    }, 
+    {
+      "score": 0.8942879438400269, 
+      "description": "lavender"
+    }, 
+    {
+      "score": 0.8781224489212036, 
+      "description": "plant"
+    }, 
+    {
+      "score": 0.8695074915885925, 
+      "description": "field"
+    }, 
+    {
+      "score": 0.8561439514160156, 
+      "description": "purple"
+    }, 
+    {
+      "score": 0.7482601404190063, 
+      "description": "wildflower"
+    }, 
+    {
+      "score": 0.7076035141944885, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.6189779043197632, 
+      "description": "flowering plant"
+    }
+  ]
+}

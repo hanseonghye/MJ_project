@@ -1,0 +1,154 @@
+{
+  "landmark": [], 
+  "color": [
+    {
+      "color-green": 162.0, 
+      "color-blue": 203.0, 
+      "pixel": 0.05087301507592201, 
+      "color-red": 89.0
+    }, 
+    {
+      "color-green": 191.0, 
+      "color-blue": 161.0, 
+      "pixel": 0.041507937014102936, 
+      "color-red": 208.0
+    }, 
+    {
+      "color-green": 238.0, 
+      "color-blue": 241.0, 
+      "pixel": 0.023571427911520004, 
+      "color-red": 237.0
+    }, 
+    {
+      "color-green": 193.0, 
+      "color-blue": 225.0, 
+      "pixel": 0.06277777999639511, 
+      "color-red": 166.0
+    }, 
+    {
+      "color-green": 44.0, 
+      "color-blue": 65.0, 
+      "pixel": 0.0008730158442631364, 
+      "color-red": 169.0
+    }, 
+    {
+      "color-green": 170.0, 
+      "color-blue": 218.0, 
+      "pixel": 0.0696825385093689, 
+      "color-red": 114.0
+    }, 
+    {
+      "color-green": 33.0, 
+      "color-blue": 69.0, 
+      "pixel": 0.00015873015217948705, 
+      "color-red": 215.0
+    }, 
+    {
+      "color-green": 158.0, 
+      "color-blue": 188.0, 
+      "pixel": 0.02579365111887455, 
+      "color-red": 86.0
+    }, 
+    {
+      "color-green": 156.0, 
+      "color-blue": 126.0, 
+      "pixel": 0.05206349119544029, 
+      "color-red": 171.0
+    }, 
+    {
+      "color-green": 137.0, 
+      "color-blue": 163.0, 
+      "pixel": 0.1029365062713623, 
+      "color-red": 65.0
+    }
+  ], 
+  "top-label": [
+    {
+      "top label": "\ud0dc\uc885\ub300"
+    }
+  ], 
+  "result-web": [
+    {
+      "score": 2.0178887844085693, 
+      "description": "Taejongdae"
+    }, 
+    {
+      "score": 0.8769228458404541, 
+      "description": "Korea National Maritime Museum"
+    }, 
+    {
+      "score": 0.6960331797599792, 
+      "description": "Taejongsa"
+    }, 
+    {
+      "score": 0.6011000275611877, 
+      "description": "Tourist attraction"
+    }, 
+    {
+      "score": 0.5440999865531921, 
+      "description": "Park"
+    }, 
+    {
+      "score": 0.512499988079071, 
+      "description": "Travel"
+    }, 
+    {
+      "score": 0.4546999931335449, 
+      "description": "Museum"
+    }, 
+    {
+      "score": 0.4169999957084656, 
+      "description": "Airline ticket"
+    }, 
+    {
+      "score": 0.3986000120639801, 
+      "description": "\u500b\u4eba\u65c5\u884c"
+    }, 
+    {
+      "score": 0.3935999870300293, 
+      "description": "Nature"
+    }
+  ], 
+  "label": [
+    {
+      "score": 0.9534006118774414, 
+      "description": "sea"
+    }, 
+    {
+      "score": 0.9516057372093201, 
+      "description": "coast"
+    }, 
+    {
+      "score": 0.8858653903007507, 
+      "description": "sky"
+    }, 
+    {
+      "score": 0.8519973158836365, 
+      "description": "promontory"
+    }, 
+    {
+      "score": 0.8281530141830444, 
+      "description": "tourism"
+    }, 
+    {
+      "score": 0.7539267539978027, 
+      "description": "cape"
+    }, 
+    {
+      "score": 0.7273966073989868, 
+      "description": "terrain"
+    }, 
+    {
+      "score": 0.6968650817871094, 
+      "description": "coastal and oceanic landforms"
+    }, 
+    {
+      "score": 0.6829314827919006, 
+      "description": "mountain"
+    }, 
+    {
+      "score": 0.6826425790786743, 
+      "description": "bay"
+    }
+  ]
+}
